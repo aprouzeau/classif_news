@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clusters Bandeaux TV</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: #f0f2f5;
+      color: #333;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    header {
+      padding: 14px 24px;
+      background: #fff;
+      border-bottom: 1px solid #e2e5ea;
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      flex-shrink: 0;
+    }
+    header h1 { font-size: 1.1rem; font-weight: 700; color: #111; }
+    header p  { font-size: 0.8rem; color: #999; }
+
+    #main { display: flex; flex: 1; overflow: hidden; }
+
+    #chart-wrap { flex: 1; position: relative; }
+
+    svg { display: block; overflow: visible; }
+
+    /* Cluster bubbles (main view) */
+    .cluster-bubble { cursor: pointer; }
+    .cluster-bubble circle {
+      stroke: rgba(255,255,255,0.55);
+      stroke-width: 2;
+      transition: stroke-width 0.15s, filter 0.15s;
+    }
+    .cluster-bubble:hover circle { stroke-width: 3.5; stroke: white; }
+    .cluster-bubble text {
+      pointer-events: none;
+      text-anchor: middle;
+      fill: white;
+      font-family: inherit;
+    }
+
+    /* Child bubbles (detail view) */
+    .child-bubble { cursor: pointer; }
+    .child-bubble circle {
+      stroke: rgba(255,255,255,0.45);
+      stroke-width: 1.5;
+      transition: stroke-width 0.12s;
+    }
+    .child-bubble:hover circle { stroke: white; stroke-width: 2.5; }
+
+    /* Child label text */
+    .child-label {
+      pointer-events: none;
+      font-family: inherit;
+      fill: #111;
+      font-size: 9.5px;
+      font-weight: 500;
+    }
+
+    /* Connector lines */
+    .connector { stroke: rgba(255,255,255,0.2); stroke-width: 1; fill: none; }
+
+    /* Legend */
+    #legend {
+      width: 165px;
+      background: #fff;
+      border-left: 1px solid #e2e5ea;
+      padding: 18px 14px;
+      overflow-y: auto;
+      flex-shrink: 0;
+    }
+    #legend h3 {
+      font-size: 0.69rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: #bbb;
+      margin-bottom: 12px;
+    }
+    .leg-item { display: flex; align-items: center; gap: 8px; margin-bottom: 9px; font-size: 0.79rem; color: #444; }
+    .leg-dot  { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+
+    /* Back button */
+    #back-btn {
+      display: none;
+      position: absolute;
+      top: 14px; left: 16px;
+      background: rgba(255,255,255,0.93);
+      border: 1px solid #ddd;
+      border-radius: 20px;
+      padding: 6px 16px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: #333;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      z-index: 10;
+      user-select: none;
+    }
+    #back-btn:hover { background: white; box-shadow: 0 3px 12px rgba(0,0,0,0.15); }
+
+    /* Loading / error */
+    #loading {
+      position: absolute;
+      top: 50%; left: 50%;
+      transform: translate(-50%,-50%);
+      text-align: center;
+      color: #888;
+      font-size: 0.9rem;
+      line-height: 1.8;
+    }
+    #loading code {
+      background: #f0f2f5;
+      border-radius: 4px;
+      padding: 2px 6px;
+      font-size: 0.85rem;
+      color: #333;
+    }
+
+    /* Tooltip */
+    #tooltip {
+      position: fixed;
+      background: #fff;
+      border: 1px solid #e2e5ea;
+      border-radius: 9px;
+      padding: 12px 14px;
+      max-width: 290px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.14s;
+      z-index: 999;
+      font-size: 0.79rem;
+    }
+    #tooltip.show { opacity: 1; }
+    #tooltip h4 { font-size: 0.86rem; font-weight: 700; color: #111; margin-bottom: 7px; line-height: 1.4; }
+    .tt-tags { display: flex; flex-wrap: wrap; gap: 3px; margin-bottom: 7px; }
+    .tt-tag  { font-size: 0.69rem; padding: 2px 7px; border-radius: 20px; background: #f0f2f5; color: #555; font-weight: 500; }
+    .tt-tag.hi { font-weight: 700; color: #fff; }
+    .tt-short { color: #888; font-style: italic; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Clusters — Bandeaux TV (déc. 2025)</h1>
+  <p id="subtitle">Chargement…</p>
+</header>
+
+<div id="main">
+  <div id="chart-wrap">
+    <div id="back-btn">← Retour</div>
+    <div id="loading">Chargement du CSV…</div>
+  </div>
+  <div id="legend"><h3>Thème (L1)</h3></div>
+</div>
+<div id="tooltip"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+// ── Palette ───────────────────────────────────────────────────────────────────
+const PALETTE = {
+  "politique":    "#4878CF",
+  "économie":     "#F5963C",
+  "société":      "#59A14F",
+  "médias":       "#D35050",
+  "sécurité":     "#9B72B0",
+  "géopolitique": "#B5963A",
+  "culture":      "#4AAFCE",
+  "sport":        "#E0B030",
+  "autre":        "#AAAAAA",
+};
+const bubbleColor = (topic_l1, id) => (id === -1) ? "#BBBBBB" : (PALETTE[topic_l1] ?? "#AAAAAA");
+
+// ── Human-readable cluster labels ────────────────────────────────────────────
+const CLUSTER_LABELS = {
+  12: "Labellisation\nmédias / RSF",
+  11: "France :\nMenaces & Société",
+   2: "Policiers &\nNarcotrafic",
+   6: "Budget 2026",
+   1: "Logement\nSquatté & École",
+   8: "Gleizes /\nAlgérie",
+  13: "Divers",
+   4: "UE vs X\n(Musk)",
+   5: "Nuit du\nBien Commun",
+   3: "Macron &\nUkraine",
+  14: "CNews",
+   7: "Eurovision /\nIsraël",
+   9: "Trump &\nEurope",
+  15: "Audiences TV",
+  10: "Enseignement\nprivé",
+   0: "Histoire &\nCulture",
+  "-1": "Non classés",
+};
+
+// ── SVG dimensions ────────────────────────────────────────────────────────────
+const wrap = document.getElementById("chart-wrap");
+const W = wrap.clientWidth  || (window.innerWidth - 170);
+const H = wrap.clientHeight || (window.innerHeight - 50);
+
+const svg = d3.select("#chart-wrap")
+  .append("svg")
+  .attr("width", W)
+  .attr("height", H);
+
+const defs = svg.append("defs");
+const flt  = defs.append("filter").attr("id","shadow")
+  .attr("x","-20%").attr("y","-20%").attr("width","140%").attr("height","140%");
+flt.append("feDropShadow")
+  .attr("dx",0).attr("dy",3).attr("stdDeviation",5)
+  .attr("flood-color","rgba(0,0,0,0.17)");
+
+const mainLayer   = svg.append("g").attr("id","main-layer");
+const detailLayer = svg.append("g").attr("id","detail-layer").attr("opacity",0);
+
+// ── Load CSV ──────────────────────────────────────────────────────────────────
+d3.csv("out_llm_tags/bandeaux_v4.csv").then(raw => {
+  document.getElementById("loading").remove();
+
+  // ── Aggregate by cluster ──────────────────────────────────────────────────
+  const cmap = new Map();
+  raw.forEach(row => {
+    const id  = +row.cluster_id;
+    const n   = +row.Nombre || 1;
+    if (!cmap.has(id)) cmap.set(id, { id, bandeaux: [], sum_n: 0, l1_counts: {} });
+    const c = cmap.get(id);
+    c.bandeaux.push({ text: row.bandeau_clean, n, topic_l1: row.topic_l1, short: row.short || "" });
+    c.sum_n += n;
+    c.l1_counts[row.topic_l1] = (c.l1_counts[row.topic_l1] || 0) + 1;
+  });
+
+  const CLUSTERS = Array.from(cmap.values()).map(c => {
+    const topic_l1 = Object.entries(c.l1_counts).sort((a,b) => b[1]-a[1])[0][0];
+    c.bandeaux.sort((a,b) => b.n - a.n);
+    return {
+      id:      c.id,
+      label:   CLUSTER_LABELS[c.id] ?? `Cluster ${c.id}`,
+      n:       c.bandeaux.length,
+      sum_n:   c.sum_n,
+      topic_l1,
+      bandeaux: c.bandeaux,
+    };
+  });
+
+  buildViz(CLUSTERS);
+
+}).catch(() => {
+  document.getElementById("loading").innerHTML =
+    `<b>Impossible de charger le CSV.</b><br>Lance un serveur HTTP dans le dossier du projet :<br>
+     <code>python3 -m http.server 8000</code><br>
+     puis ouvre <code>http://localhost:8000/clusters_viz.html</code>`;
+});
+
+// ── Build visualisation ───────────────────────────────────────────────────────
+function truncate(s, max) { return s.length > max ? s.slice(0, max - 1) + "…" : s; }
+
+function buildViz(CLUSTERS) {
+  // Size clusters by sum of all diffusions
+  const rScale = d3.scaleSqrt()
+    .domain([0, d3.max(CLUSTERS, d => d.sum_n)])
+    .range([0, Math.min(W, H) * 0.185]);
+
+  CLUSTERS.forEach(d => { d.r = Math.max(18, rScale(d.sum_n)); });
+
+  // Force layout
+  const sim = d3.forceSimulation(CLUSTERS)
+    .force("cx",  d3.forceX(W / 2).strength(0.045))
+    .force("cy",  d3.forceY(H / 2).strength(0.045))
+    .force("col", d3.forceCollide(d => d.r + 5).strength(0.95))
+    .stop();
+  for (let i = 0; i < 450; i++) sim.tick();
+  CLUSTERS.forEach(d => {
+    d.x = Math.max(d.r + 6, Math.min(W - d.r - 6, d.x));
+    d.y = Math.max(d.r + 6, Math.min(H - d.r - 6, d.y));
+  });
+
+  // ── Draw cluster bubbles ─────────────────────────────────────────────────
+  const clusterNode = mainLayer.selectAll("g.cluster-bubble")
+    .data(CLUSTERS)
+    .join("g")
+    .attr("class", "cluster-bubble")
+    .attr("transform", d => `translate(${d.x},${d.y})`)
+    .on("click", (_, d) => showDetail(d));
+
+  clusterNode.append("circle")
+    .attr("r", d => d.r)
+    .attr("fill", d => bubbleColor(d.topic_l1, d.id))
+    .attr("filter", "url(#shadow)");
+
+  clusterNode.each(function(d) {
+    const g     = d3.select(this);
+    const lines = d.label.split("\n");
+    const fs    = Math.max(9, Math.min(14, d.r * 0.26));
+    const lh    = fs * 1.28;
+    if (d.r < 20) return;
+    const totalH = lines.length * lh;
+    const t = g.append("text").attr("font-size", fs + "px").attr("font-weight", "700");
+    lines.forEach((line, i) => {
+      t.append("tspan").attr("x", 0)
+        .attr("dy", i === 0 ? -totalH / 2 + lh * 0.6 : lh)
+        .text(line);
+    });
+    if (d.r > 30) {
+      g.append("text")
+        .attr("y", totalH / 2 + fs * 0.95)
+        .attr("text-anchor", "middle")
+        .attr("font-size", (fs * 0.78) + "px")
+        .attr("fill", "rgba(255,255,255,0.78)")
+        .text(`${d.sum_n.toLocaleString("fr")} diff.`);
+    }
+  });
+
+  document.getElementById("subtitle").textContent =
+    `157 bandeaux · 16 clusters · taille = total diffusions · cliquer pour explorer`;
+
+  // ── Legend ────────────────────────────────────────────────────────────────
+  const legEl = document.getElementById("legend");
+  Object.entries(PALETTE).forEach(([label, c]) => {
+    const el = document.createElement("div");
+    el.className = "leg-item";
+    el.innerHTML = `<div class="leg-dot" style="background:${c}"></div><span>${label}</span>`;
+    legEl.appendChild(el);
+  });
+  const oel = document.createElement("div");
+  oel.className = "leg-item";
+  oel.innerHTML = `<div class="leg-dot" style="background:#CCC;border:1px dashed #aaa"></div><span>non classés</span>`;
+  legEl.appendChild(oel);
+
+  // ── Detail view ───────────────────────────────────────────────────────────
+  let currentSim = null;
+
+  function showDetail(d) {
+    mainLayer.style("pointer-events", "none");
+    mainLayer.transition().duration(320).attr("opacity", 0);
+
+    const children = d.bandeaux.map(c => ({
+      ...c,
+      x: W / 2 + (Math.random() - 0.5) * 10,
+      y: H / 2 + (Math.random() - 0.5) * 10,
+    }));
+
+    // Child radius: scaled by n within this cluster
+    const maxN   = d3.max(children, c => c.n) || 1;
+    const childR = c => Math.max(10, Math.min(44, 44 * Math.sqrt(c.n / maxN)));
+    children.forEach(c => { c.r = childR(c); });
+
+    // Force layout for children (invisible center node repels them)
+    const CENTER_R = 68;
+    const phantom  = { x: W/2, y: H/2, r: CENTER_R + 10, fx: W/2, fy: H/2 };
+    const allNodes = [phantom, ...children];
+
+    if (currentSim) currentSim.stop();
+    currentSim = d3.forceSimulation(allNodes)
+      .force("col", d3.forceCollide(n => n.r + 6).strength(0.9))
+      .force("cx",  d3.forceX(W / 2).strength(0.025))
+      .force("cy",  d3.forceY(H / 2).strength(0.025))
+      .stop();
+    for (let i = 0; i < 500; i++) currentSim.tick();
+
+    // Final clamped positions
+    children.forEach(c => {
+      c.tx = Math.max(c.r + 8, Math.min(W - c.r - 8, c.x));
+      c.ty = Math.max(c.r + 8, Math.min(H - c.r - 8, c.y));
+    });
+
+    // ── Build detail layer ──────────────────────────────────────────────────
+    detailLayer.selectAll("*").remove();
+
+    // Transparent background → back on click
+    detailLayer.append("rect")
+      .attr("width", W).attr("height", H)
+      .attr("fill", "transparent")
+      .on("click", backToMain);
+
+    // Connectors (start collapsed at center)
+    const connectorGroup = detailLayer.append("g");
+    connectorGroup.selectAll("line")
+      .data(children)
+      .join("line")
+      .attr("class", "connector")
+      .attr("x1", W/2).attr("y1", H/2)
+      .attr("x2", W/2).attr("y2", H/2);
+
+    // Center circle
+    detailLayer.append("circle")
+      .attr("cx", W/2).attr("cy", H/2)
+      .attr("r", CENTER_R)
+      .attr("fill", bubbleColor(d.topic_l1, d.id))
+      .attr("filter", "url(#shadow)");
+
+    // Center label
+    const cLines = d.label.split("\n");
+    const cfs    = Math.max(11, Math.min(16, CENTER_R * 0.27));
+    const clh    = cfs * 1.28;
+    const ctH    = cLines.length * clh;
+    const ct     = detailLayer.append("text")
+      .attr("text-anchor", "middle")
+      .attr("font-weight", "700")
+      .attr("font-size", cfs + "px")
+      .attr("fill", "white")
+      .attr("font-family", "inherit");
+    cLines.forEach((line, i) => {
+      ct.append("tspan").attr("x", W/2)
+        .attr("dy", i === 0 ? (H/2 - ctH/2 + clh*0.6) : clh)
+        .text(line);
+    });
+    detailLayer.append("text")
+      .attr("x", W/2).attr("y", H/2 + ctH/2 + cfs)
+      .attr("text-anchor", "middle")
+      .attr("fill", "rgba(255,255,255,0.75)")
+      .attr("font-size", (cfs * 0.78) + "px")
+      .attr("font-family", "inherit")
+      .text(`${d.sum_n.toLocaleString("fr")} diff.`);
+
+    // ── Child nodes ─────────────────────────────────────────────────────────
+    const childGroup = detailLayer.append("g");
+    const childNode  = childGroup.selectAll("g.child-bubble")
+      .data(children)
+      .join("g")
+      .attr("class", "child-bubble")
+      .attr("transform", `translate(${W/2},${H/2})`); // start at center
+
+    // Colored circle (no text inside)
+    childNode.append("circle")
+      .attr("r", c => c.r)
+      .attr("fill", c => bubbleColor(c.topic_l1, null))
+      .attr("opacity", 0.88);
+
+    // Text label OUTSIDE the bubble, radially positioned, in black
+    const textDelay = Math.min(children.length * 20, 320) + 180;
+    childNode.each(function(c) {
+      const g     = d3.select(this);
+      const angle = Math.atan2(c.ty - H/2, c.tx - W/2);
+      const dist  = c.r + 7;
+      const lx    = dist * Math.cos(angle);
+      const ly    = dist * Math.sin(angle);
+      const anchor = Math.cos(angle) > 0.12 ? "start" : Math.cos(angle) < -0.12 ? "end" : "middle";
+
+      g.append("text")
+        .attr("class", "child-label")
+        .attr("x", lx)
+        .attr("y", ly)
+        .attr("text-anchor", anchor)
+        .attr("dominant-baseline", "middle")
+        .attr("opacity", 0)
+        .text(truncate(c.text, 40))
+        .transition()
+          .delay(textDelay)
+          .duration(220)
+          .attr("opacity", 1);
+    });
+
+    // ── Animate: fade in layer, then explode children outward ───────────────
+    detailLayer.attr("opacity", 0)
+      .transition().duration(280).attr("opacity", 1)
+      .on("end", () => {
+        // Animate children to final positions
+        childNode.transition()
+          .duration(520)
+          .delay((_, i) => i * 20)
+          .ease(d3.easeBackOut.overshoot(0.85))
+          .attr("transform", c => `translate(${c.tx},${c.ty})`);
+
+        // Animate connectors
+        connectorGroup.selectAll("line")
+          .transition()
+          .duration(520)
+          .delay((_, i) => i * 20)
+          .attr("x2", c => c.tx)
+          .attr("y2", c => c.ty);
+      });
+
+    // ── Tooltip on children ────────────────────────────────────────────────
+    const tip = document.getElementById("tooltip");
+    childNode
+      .on("mousemove", (event, c) => {
+        const bc = bubbleColor(c.topic_l1, null);
+        tip.innerHTML = `
+          <h4>${c.text}</h4>
+          <div class="tt-tags">
+            <span class="tt-tag hi" style="background:${bc}">${c.n} diffusions</span>
+            <span class="tt-tag">${c.topic_l1}</span>
+          </div>
+          <div class="tt-short">${c.short}</div>`;
+        const tw = 295, th = tip.scrollHeight || 110;
+        let lx = event.clientX + 15, ly = event.clientY - 10;
+        if (lx + tw > window.innerWidth)  lx = event.clientX - tw - 10;
+        if (ly + th > window.innerHeight) ly = window.innerHeight - th - 8;
+        tip.style.left = lx + "px"; tip.style.top = ly + "px";
+        tip.classList.add("show");
+      })
+      .on("mouseleave", () => tip.classList.remove("show"));
+
+    document.getElementById("subtitle").textContent =
+      `${d.label.replace("\n"," ")} · ${d.n} bandeaux · ${d.sum_n.toLocaleString("fr")} diffusions · clic arrière-plan pour revenir`;
+    document.getElementById("back-btn").style.display = "block";
+  }
+
+  // ── Back to main view ──────────────────────────────────────────────────────
+  function backToMain() {
+    document.getElementById("tooltip").classList.remove("show");
+
+    detailLayer.selectAll("g.child-bubble")
+      .transition().duration(350).ease(d3.easeBackIn.overshoot(0.6))
+      .attr("transform", `translate(${W/2},${H/2})`);
+    detailLayer.selectAll("line.connector")
+      .transition().duration(350)
+      .attr("x2", W/2).attr("y2", H/2);
+
+    detailLayer.transition().delay(260).duration(280).attr("opacity", 0)
+      .on("end", () => detailLayer.selectAll("*").remove());
+    mainLayer.transition().delay(320).duration(280).attr("opacity", 1)
+      .on("end", () => mainLayer.style("pointer-events", "all"));
+
+    document.getElementById("back-btn").style.display = "none";
+    document.getElementById("subtitle").textContent =
+      "157 bandeaux · 16 clusters · taille = total diffusions · cliquer pour explorer";
+  }
+
+  document.getElementById("back-btn").addEventListener("click", backToMain);
+}
+</script>
+</body>
+</html>
