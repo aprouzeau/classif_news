@@ -1,0 +1,14 @@
+# Modèles LLM (trop lourds pour Git)
+models/
+*.gguf
+
+# Caches LLM
+out_llm_tags/*_llm_cache.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store

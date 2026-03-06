@@ -1,0 +1,37 @@
+name: Daily RSS Archive
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # 23h00 heure de Paris (CET, UTC+1)
+                           # NB: en été (CEST, UTC+2) ce sera 00h00 — GitHub ne gère pas les timezones
+  workflow_dispatch:       # Permet aussi de lancer manuellement depuis l'onglet Actions
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Nécessaire pour que le bot puisse committer
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch RSS du jour
+        run: python fetch_rss_daily.py
+
+      - name: Commit et push l'archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rss_archive/
+          git diff --staged --quiet || git commit -m "rss: archive $(date -u +%Y-%m-%d)"
+          git push
