@@ -62,9 +62,12 @@ def fetch_for_date(target: datetime.date) -> list[dict]:
                     continue
                 d = datetime.date(pub.tm_year, pub.tm_mon, pub.tm_mday)
                 if d == target:
+                    # feedparser expose la description sous "summary" ou "description"
+                    desc = (e.get("summary") or e.get("description") or "").strip()
                     articles.append({
                         "source": source,
                         "title": (e.get("title") or "").strip(),
+                        "description": desc,
                         "link":  e.get("link") or "",
                         "published": datetime.datetime(*pub[:6]).isoformat(),
                     })
