@@ -27,7 +27,7 @@ RSS_SOURCES = [
     "https://www.francetvinfo.fr/titres.rss",
     "https://www.lemonde.fr/rss/une.xml",
     "https://www.lefigaro.fr/rss/figaro_actualites.xml",
-    "https://www.bfmtv.com/rss/news-24-7/",
+    "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml",
     "https://www.lexpress.fr/arc/outboundfeeds/rss/alaune.xml",
 ]
 
