@@ -1,0 +1,895 @@
+{
+  "date": "2026-07-31",
+  "count": 127,
+  "articles": [
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Italie dit avoir \"temporairement\" fermé l'espace Schengen à l'Espagne après l'afflux de migrants à Ceuta",
+      "description": "S'il n'est pas possible d'exclure un pays de Schengen, il est en revanche possible pour un Etat membre de rétablir des contrôles exceptionnels et temporaires à ses frontières.",
+      "link": "https://www.franceinfo.fr/monde/italie/l-italie-dit-avoir-temporairement-ferme-l-espace-schengen-a-l-espagne-apres-l-afflux-de-migrants-a-ceuta_8130554.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T19:18:45"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Importante reprise de feu dans le Var, le préfet ordonne l'évacuation de 2 500 personnes",
+      "description": "Le feu, qui a démarré vers 13h30 vendredi, a parcouru 1 000 hectares en six heures.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/importante-reprise-de-feu-dans-le-var-le-prefet-ordonne-l-evacuation-de-2-500-personnes_8130677.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T21:30:37"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Après la découverte de cinq nouveau-nés morts à Orange, la mère de famille mise en examen et placée en détention provisoire",
+      "description": "Son compagnon a été remis en liberté vendredi matin, a annoncé le parquet d'Avignon.",
+      "link": "https://www.franceinfo.fr/faits-divers/apres-la-decouverte-de-cinq-nouveau-nes-morts-a-orange-la-mere-de-famille-mise-en-examen-et-placee-en-detention-provisoire_8130455.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T16:07:47"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La circulation sur les routes sera \"extrêmement difficile\" dans le sens des départs en vacances samedi",
+      "description": "Le trafic routier dans le sens des retours sera quant à lui \"difficile\", selon Bison Futé.",
+      "link": "https://www.franceinfo.fr/decouverte/vacances/la-circulation-sur-les-routes-sera-extremement-difficile-dans-le-sens-des-departs-en-vacances-samedi_8130221.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T14:26:41"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le Gard s'ajoutera samedi à la liste des 21 départements déjà placés en vigilance orange canicule, 10 départements en vigilance orange orage vendredi",
+      "description": "Au total, 22 départements seront concernés par la vigilance orange \"canicule\" samedi. Dix départements sont en vigilance orange aux orages vendredi après-midi.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-gard-s-ajoutera-samedi-a-la-liste-des-21-departements-deja-places-en-vigilance-orange-canicule_8130290.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T14:58:07"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Donald Trump déclare vouloir faire \"très attention\" avant d'autoriser l'Ukraine à produire des missiles Patriot",
+      "description": "\"Vous donnez cette technologie, et un jour, ils peuvent se retourner contre vous\", a-t-il mis en garde.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-declare-vouloir-faire-tres-attention-avant-d-autoriser-l-ukraine-a-produire-des-missiles-patriot_8130692.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T21:47:20"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Devises : les arnaques au taux de change dans les aéroports",
+      "description": "Changer de l’argent en arrivant à l’aéroport, c’est souvent un réflexe quand on voyage en dehors de la zone euro. Un réflexe qui n’est pas synonyme de bonne affaire. Comment éviter les pièges ?",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/devises-les-arnaques-au-taux-de-change-dans-les-aeroports_8130623.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T19:39:33"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La Grèce frappée par de nouveaux incendies, une banlieue d'Athènes évacuée",
+      "description": "Environ 8 000 personnes avaient déjà dû être évacuées mercredi soir en Crète.",
+      "link": "https://www.franceinfo.fr/monde/grece/la-grece-frappee-par-de-nouveaux-incendies-une-banlieue-d-athenes-evacuee_8130416.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T15:38:58"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Cela va permettre de réaliser des projets sur Oléron\" : le Conseil constitutionnel valide les sanctions prévues par la loi dans l'affaire Airbnb",
+      "description": "Après cinq ans de procédure, selon la communauté de communes de l'île d'Oléron, c'est une bataille qu'elle remporte contre Airbnb. Le Conseil constitutionnel a validé la constitutionnalité des lois sanctionnant la plateforme. Un bon signe pour que l'amende de 8,6 millions d'euros soit finalement payée, selon les élus.",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/cela-va-nous-permettre-de-realiser-des-projets-sur-oleron-le-conseil-constitutionnel-valide-l-amende-de-8-6-millions-d-euros-infligee-a-airbnb-3395236.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T16:11:29"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Iran affirme avoir frappé deux pétroliers sous \"escorte aérienne\" américaine dans le détroit d'Ormuz",
+      "description": "Les hostilités au Moyen-Orient ont repris entre les Etats-Unis et l'Iran depuis mercredi.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-affirme-avoir-frappe-deux-petroliers-sous-escorte-aerienne-americaine-dans-le-detroit-d-ormuz_8130260.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T14:09:34"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Potentiel vol de données personnelles d'un \"nombre important\" d'agents de l'Education nationale",
+      "description": "Le système d'information visé par \"une intrusion frauduleuse\" \"ne contient ni données bancaires, ni mots de passe, ni données relatives aux élèves\", a précisé le ministère.",
+      "link": "https://www.franceinfo.fr/societe/education/potentiel-vol-de-donnees-personnelles-d-un-nombre-important-d-agents-de-l-education-nationale_8130599.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T19:14:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Derrière l'afflux de migrants à Ceuta, l'Espagne soupçonne une tentative de pression politique de la part du Maroc",
+      "description": "En 24 heures, environ 60 000 migrants sont entrés illégalement dans cette enclave espagnole frontalière du Maroc, un territoire de 20 km2 peuplé de 85 000 habitants. Dans cet article, le média public espagnol RTVE s'interroge : est-ce une volonté de Rabat de faire payer à Madrid un rapprochement avec l'Algérie ?",
+      "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/derriere-l-afflux-de-migrants-a-ceuta-l-espagne-soupconne-un-acte-de-coercition-politique-du-maroc_8130227.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T14:47:29"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Montfort-sur-Argens a été entouré par des flammes qui faisaient plus de 25 mètres de haut\", selon le Sdis du Var",
+      "description": "Alors qu'il avait été fixé mardi, l'incendie a repris vendredi.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/montfort-sur-argens-a-ete-entoure-par-des-flammes-qui-faisaient-plus-de-25-metres-de-haut-selon-le-sdis-du-var_8130626.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T19:35:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "OpenAI annonce avoir dépassé le milliard d'utilisateurs actifs, moins de quatre ans après le lancement de ChatGPT",
+      "description": "L'entreprise a également précisé compter désormais deux millions de clients 'entreprise\".",
+      "link": "https://www.franceinfo.fr/internet/openai-annonce-avoir-depasse-le-milliard-d-utilisateurs-actifs-moins-de-quatre-ans-apres-le-lancement-de-chatgpt_8130446.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T16:50:51"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Italie enregistre un séisme de magnitude 4,7 près de Naples",
+      "description": "La région, qui abrite le plus grand cratère volcanique d'Europe, subit une activité sismique régulière.",
+      "link": "https://www.franceinfo.fr/monde/italie/l-italie-enregistre-un-seisme-de-magnitude-4-7-pres-de-naples_8130629.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T19:47:07"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Xenia Fedorova dénonce \"une pression politique\" après l'arrêté d'expulsion et le gel de ses avoirs par le gouvernement",
+      "description": "La chroniqueuse russe a publié vendredi sur X un long message dans lequel elle dénonce la \"censure\" de la France.",
+      "link": "https://www.franceinfo.fr/economie/medias/xenia-fedorova-denonce-une-pression-politique-apres-l-arrete-d-expulsion-et-le-gel-de-ses-avoirs-par-le-gouvernement_8130182.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T13:37:40"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Google Earth retire son nouvel outil d'intelligence artificielle face aux risques de désinformation",
+      "description": "Google a décidé de retirer cette fonctionnalité, \"le temps de mettre en place des garde-fous plus robustes\".",
+      "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/google-earth-retire-son-nouvel-outil-d-intelligence-artificielle-face-aux-risques-de-desinformation_8130659.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T20:36:56"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Menace de boycott, recours juridiques… Qu'est-ce qui pourrait empêcher la Fifa de mener à bien son projet de vente de parts de la Coupe du monde ?",
+      "description": "La Fifa et son président Gianni Infantino sont vivement critiqués après avoir dévoilé leur projet de création d’une filiale commerciale qui vendrait des parts de la Coupe du monde à des investisseurs privés.",
+      "link": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/menace-de-boycott-recours-juridiques-qu-est-ce-qui-pourrait-empecher-la-fifa-de-mener-a-bien-son-projet-de-vente-de-parts-de-la-coupe-du-monde_8130197.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T15:14:55"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Une Belge mise en examen dans l'affaire de l'attentat déjoué visant Bank of America",
+      "description": "Au total, cinq personnes sont désormais mises en examen et placées en détention provisoire dans cette procédure, dont deux mineurs, a précisé le parquet national antiterroriste.",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-dejoue-contre-la-bank-of-america-a-paris/une-belge-mise-en-examen-dans-l-affaire-de-l-attentat-dejoue-visant-bank-of-america_8130650.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T20:10:28"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Il nous aura fait courir, votre chat\" : une association vient au secours des animaux domestiques et sauvages menacés par l'incendie en Gironde",
+      "description": "Les missions de sauvetages pour les animaux de compagnies peuvent se faire sur les lieux sinistrés en Gironde. Des chats principalement n’ont pas pu être récupérés par des personnes évacuées. Une association parvient à les récupérer et tente également de sauver la faune sauvage.",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/il-nous-aura-fait-courir-votre-chat-cette-association-sauve-les-animaux-domestiques-et-sauvages-victimes-oubliees-de-l-incendie-en-gironde-3395125.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T15:05:09"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Je suis raciste et je l’ai fait exprès\" : une haltérophile manque le sacre mondial après qu'un assistant avoue avoir délibérément pénalisé sa performance",
+      "description": "L'haltérophile belge, Sonita Muluh, était proche d'un titre mondial en powerlifting en Lituanie, en juin dernier. Mais la jeune femme vient d'apprendre que sa performance a été pénalisée par un assistant, se revendiquant raciste.",
+      "link": "https://www.franceinfo.fr/sports/halterophilie/je-suis-raciste-et-je-l-ai-fait-expres-une-halterophile-manque-le-sacre-mondial-apres-qu-un-assistant-avoue-avoir-deliberement-penalise-sa-performance_8120840.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T16:31:41"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Frontière terrestre avec l'Afrique, ville autonome, voie migratoire… Trois questions autour de Ceuta, l'enclave espagnole au cœur d'une crise migratoire",
+      "description": "Depuis deux jours, cette petite enclave espagnole à la frontière du Maroc est redevenue un sujet politique brûlant au sein de l'Union européenne et au Maroc devant l'afflux de plusieurs dizaines de milliers de Marocains et le décès d'au moins 34 d'entre eux.",
+      "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/frontiere-terrestre-avec-l-afrique-ville-autonome-voie-migratoire-trois-questions-autour-de-ceuta-l-enclave-espagnole-au-c-ur-d-une-crise-migratoire_8130101.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T13:49:00"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Par où sont passés les dizaines de milliers de migrants qui sont entrés dans l'enclave espagnole de Ceuta ?",
+      "description": "La digue de Tarajal a été prise d'assaut par un afflux massif de candidats à l'exil, qui l'ont contournée par la voie maritime.",
+      "link": "https://www.franceinfo.fr/monde/europe/migrants/carte-par-ou-sont-passes-les-dizaines-de-milliers-de-migrants-qui-sont-entres-dans-l-enclave-espagnole-de-ceuta_8129903.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T12:24:23"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "De retour de vacances, une mère de famille découvre un cadavre sur le siège arrière de sa voiture stationnée sur un parking près de la gare",
+      "description": "Le corps d'un homme de 26 ans a été retrouvé dans une voiture par la propriétaire, qui avait stationné son véhicule près de la gare Sud de France à Montpellier, avant de partir en vacances.",
+      "link": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/de-retour-de-vacances-une-mere-de-famille-decouvre-un-cadavre-sur-le-siege-arriere-de-sa-voiture-stationnee-sur-un-parking-pres-de-la-gare-3395287.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T15:52:23"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "On vous explique la crise ouverte par l'afflux de dizaines de milliers de migrants à la frontière entre le Maroc et l'enclave espagnole de Ceuta",
+      "description": "Environ 60 000 personnes sont entrées illégalement dans le territoire, après avoir forcé la ligne de démarcation, 34 migrants sont morts. L'armée a été déployée pour débloquer les routes.",
+      "link": "https://www.franceinfo.fr/monde/europe/migrants/on-vous-explique-la-crise-ouverte-par-l-afflux-de-milliers-de-migrants-marocains-a-la-frontiere-avec-l-enclave-de-ceuta_8129597.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T12:32:10"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La France multiplie par cinq samedi le renfort de policiers et gendarmes à la frontière franco-espagnole",
+      "description": "Cette décision porte à 334 le nombre de policiers et gendarmes déployés en renfort à la frontière franco-espagnole.",
+      "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/la-france-multiplie-par-cinq-samedi-le-renfort-de-policiers-et-gendarmes-a-la-frontiere-franco-espagnole_8130686.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T21:54:27"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Espagne assure que l'intégrité de l'espace Schengen reste \"absolument garantie\" après l'entrée illégale de migrants à Ceuta",
+      "description": "\"Il n'est pas possible de se déplacer depuis Ceuta et Melilla jusque dans la péninsule [espagnole] sans s'identifier à un poste de contrôle de la police\", a martelé le ministre des Affaires étrangères espagnol.",
+      "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-assure-que-l-integrite-de-l-espace-schengen-reste-absolument-garantie-apres-l-entree-illegale-de-migrants-a-ceuta_8130668.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T20:56:07"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "En Gironde, le feu n'est pas fixé \"mais on progresse\", selon la préfète, 198 000 personnes évacuées ont pu rentrer chez eux",
+      "description": "\"Ça s'améliore vraiment de jour en jour\", a déclaré dans son point, vendredi soir, la préfète Sophie Brocas.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-le-feu-n-est-pas-fixe-mais-on-progresse-selon-la-prefete-198-000-personnes-evacuees-ont-pu-rentrer-chez-eux_8130536.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T19:35:00"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Montfort-sur-Argens a été entouré par des flammes qui faisaient plus de 25 mètres de haut\", selon le Sdis du Var",
+      "description": "Alors qu'il avait été fixé mardi, l'incendie a repris vendredi.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/montfort-sur-argens-a-ete-entoure-par-des-flammes-qui-faisaient-plus-de-25-metres-de-haut-selon-le-sdis-du-var_8130626.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T19:35:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le compagnon de la mère \"ne savait rien du tout\" des nourrissons morts retrouvés à Orange, assure son avocate",
+      "description": "Entendu en audition libre dans un premier temps, il avait été placé en garde à vue mercredi avant d'être libérée le lendemain, sans poursuite.",
+      "link": "https://www.franceinfo.fr/faits-divers/le-compagnon-de-la-mere-ne-savait-rien-du-tout-des-nourrissons-morts-retrouves-a-orange-assure-son-avocate_8130365.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-07-31T15:14:09"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, Ceuta : plus de 48 000 personnes sont déjà retournées au Maroc, annonce le gouvernement espagnol ; l’intégrité de l’espace Schengen est « absolument garantie », affirme le ministre des affaires étrangères",
+      "description": "De son côté, l’Italie a temporairement fermé l’espace Schengen à l’Espagne. Le ministère de l’intérieur espagnol avait annoncé plus tôt dans la journée que 50 000 personnes avaient afflué dans l’enclave depuis jeudi.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-plus-de-48-000-personnes-sont-deja-rentrees-au-maroc-annonce-le-gouvernement-espagnol-l-integrite-de-l-espace-schengen-est-absolument-garantie-affirme-le-ministre-des-affaires-etrangeres_6737133_3210.html",
+      "published": "2026-07-31T20:15:18"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, incendies : dans le Var, 2 500 personnes évacuées et 1 000 hectares parcourus par un feu « qui dépasse l’entendement », estime le préfet",
+      "description": "Les flammes, attisées par un fort mistral, ont repris vers 13 h 30 au sud de l’incendie du massif du Gros Bessillon, qui avait été fixé mardi. En Gironde, « la crise n’est pas finie, le feu n’est pas fixé, mais on progresse », a déclaré la préfète Sophie Brocas. Près de 200 000 personnes ont pu rentrer chez elles dans une vingtaine de communes du département, sur un total de 220 000 déplacés.",
+      "link": "https://www.lemonde.fr/planete/live/2026/07/31/en-direct-incendies-2-000-personnes-evacuees-dans-le-var-apres-une-reprise-de-feu-en-gironde-la-crise-n-est-pas-finie-le-feu-n-est-pas-fixe-mais-on-progresse-declare-la-prefete_6737097_3244.html",
+      "published": "2026-07-31T18:19:09"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Gianni Infantino désavoué par ses proches à la FIFA : son plan d’ouverture aux investisseurs privés « est le projet d’une seule personne »",
+      "description": "Après l’annonce du boycott par l’UEFA des compétitions de la FIFA si l’instance poursuivait son plan, annoncé mardi, deux proches collaborateurs du patron du football mondial ont critiqué un projet conçu dans le plus grand des secrets, y compris de la Fédération internationale.",
+      "link": "https://www.lemonde.fr/sport/article/2026/07/31/gianni-infantino-desavoue-par-ses-proches-a-la-fifa-son-plan-d-ouverture-aux-investisseurs-prives-est-le-projet-d-une-seule-personne_6737167_3242.html",
+      "published": "2026-07-31T18:17:13"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre en Ukraine : des milliers de personnes défilent à Kiev pour réclamer le retour de Mykhaïlo Fedorov au ministère de la défense",
+      "description": "Très populaire, M. Fedorov avait été écarté, mi-juillet, par Volodymyr Zelensky en raison de ses divergences avec le commandant en chef des armées, Oleksandr Syrsky, lui aussi limogé depuis. Par ailleurs, Donald Trump a dit vouloir faire « très attention » avant d’autoriser l’Ukraine à produire des missiles Patriot",
+      "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-en-ukraine-des-milliers-de-personnes-defilent-a-kiev-pour-reclamer-le-retour-de-mykhailo-fedorov-au-ministere-de-la-defense_6732775_3210.html",
+      "published": "2026-07-31T21:29:15"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Remis en liberté, le rappeur et cinéaste marocain Mehdi Black Wind espère retrouver son autre port d’attache, Marseille",
+      "description": "Artiste touche-à-tout et engagé contre les inégalités dans son pays, le Maroc, Mehdi Black Wind, de son vrai nom El Mahdi Lyoubi, avait été arrêté le 10 juillet sur sa terre natale. Son interpellation avait suscité un vaste élan de mobilisation.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/07/31/remis-en-liberte-le-rappeur-et-cineaste-marocain-mehdi-black-wind-espere-retrouver-son-autre-port-d-attache-marseille_6737173_3212.html",
+      "published": "2026-07-31T19:38:59"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Serbie, la série « Opération Sabre » ravive les fantômes du passé",
+      "description": "« Tour du monde en séries » (5/6). En retraçant l’assassinat du premier ministre Zoran Djindjic et l’enquête qui a suivi, la série serbe a attiré 1 million de spectateurs chaque semaine et ranimé les débats sur la corruption, le nationalisme et l’héritage des années Milosevic.",
+      "link": "https://www.lemonde.fr/culture/article/2026/07/31/en-serbie-la-serie-operation-sabre-ravive-les-fantomes-du-passe_6737162_3246.html",
+      "published": "2026-07-31T17:00:02"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Au Pakistan, sur les pentes du Broad Peak, les difficiles recherches pour retrouver les dix alpinistes ensevelis, dont Nirmal Purja",
+      "description": "Dix personnes ont été prises dans une avalanche, jeudi, dans la chaîne du Karakoram. Parmi elles, l’alpiniste népalais connu pour avoir gravi les quatorze plus hauts sommets du monde en un temps record. Quatre corps ont été repérés. Les recherches reprendront samedi.",
+      "link": "https://www.lemonde.fr/sport/article/2026/07/31/au-pakistan-sur-les-pentes-du-broad-peak-les-difficiles-recherches-pour-retrouver-les-dix-alpinistes-ensevelis-dont-nirmal-purja_6737151_3242.html",
+      "published": "2026-07-31T15:38:23"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "El Niño, qui se renforce, « attise une planète déjà en feu », s’alarme le chef de l’ONU",
+      "description": "Ce phénomène naturel revient tous les deux à sept ans. Les eaux de surface dans le centre et l’est de l’océan Pacifique équatorial se réchauffent, ce qui entraîne pendant plusieurs mois des modifications majeures des régimes de vent, de pression et de précipitations à l’échelle mondiale.",
+      "link": "https://www.lemonde.fr/planete/article/2026/07/31/el-nino-qui-se-renforce-attise-une-planete-deja-en-feu-s-alarme-le-chef-de-l-onu_6737163_3244.html",
+      "published": "2026-07-31T17:28:31"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Un responsable de la FNSEA présente ses excuses à Marine Tondelier, après l’avoir insultée",
+      "description": "Ce responsable agricole de l’Oise l’avait traitée de « grosse salope » sur sa page privée après l’adoption de la loi d’urgence agricole. La candidate écologiste avait exigé des excuses, menaçant le responsable syndical de « poursuites judiciaires ».",
+      "link": "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html",
+      "published": "2026-07-31T15:42:00"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre au Moyen-Orient : l’armée américaine dément les affirmations iraniennes faisant état du blocage du trafic maritime dans le détroit d’Ormuz",
+      "description": "L’armée américaine assure que la voie de navigation « reste ouverte aux navires commerciaux ». « L’Iran n’en a pas le contrôle. Des milliers de navires ont emprunté cette voie navigable internationale au cours des quatre derniers mois », précise le commandement militaire américain pour le Moyen-Orient, sur X.",
+      "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-guerre-au-moyen-orient-l-armee-americaine-dement-les-affirmations-iraniennes-faisant-etat-du-blocage-du-trafic-maritime-dans-le-detroit-d-ormuz_6737099_3210.html",
+      "published": "2026-07-31T21:58:57"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Décontaminer l’eau potable des résidus de pesticides et des PFAS pourrait coûter jusqu’à 5,7 milliards d’euros par an, selon un rapport",
+      "description": "Le rapport d’une mission d’inspection interministérielle publié jeudi identifie quatre scénarios de dépollution de l’eau potable, représentant des surcoûts allant de 1,3 milliard à 5,7 milliards d’euros par an.",
+      "link": "https://www.lemonde.fr/planete/article/2026/07/31/decontaminer-l-eau-potable-des-residus-de-pesticides-et-des-pfas-pourrait-couter-jusqu-a-5-7-milliards-d-euros-par-an-selon-un-rapport_6737169_3244.html",
+      "published": "2026-07-31T18:23:55"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Surpopulation carcérale : au 1ᵉʳ juillet, le nombre de détenus dans les prisons françaises atteint 89 446, un chiffre inédit",
+      "description": "Le taux de suroccupation dans les prisons et les maisons d’arrêt, où sont détenues les personnes condamnées à de courtes peines ou en attente de jugement, était de 141,3 % au 1ᵉʳ juillet.",
+      "link": "https://www.lemonde.fr/societe/article/2026/07/31/surpopulation-carcerale-au-1-juillet-le-nombre-de-detenus-dans-les-prisons-francaises-atteint-89-446-un-nouveau-record_6737164_3224.html",
+      "published": "2026-07-31T17:48:36"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "« Ce que vivent les Palestiniens en Cisjordanie occupée dépasse la violence ordinaire et correspond exactement à la définition du terrorisme »",
+      "description": "Arie Perliger, professeur à l’université du Massachusetts à Lowell, spécialiste du terrorisme d’extrême droite en Israël et aux Etats-Unis, revient dans un entretien au « Monde » sur les ressorts idéologiques de la violence des colons en Cisjordanie occupée et sur les responsabilités du gouvernement israélien dans sa persistance.",
+      "link": "https://www.lemonde.fr/international/article/2026/07/31/ce-que-vivent-les-palestiniens-en-cisjordanie-occupee-depasse-la-violence-ordinaire-et-correspond-exactement-a-la-definition-du-terrorisme_6737138_3210.html",
+      "published": "2026-07-31T13:30:09"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Maisons du monde finalise son plan de sauvetage et échappe au redressement judiciaire",
+      "description": "Le refinancement prévoit une prise de contrôle de 95 % du capital de Maisons du monde par le fonds Alteri Investors, spécialisé dans le commerce de détail en Europe, et le gestionnaire de fonds Eicos Investment Group.",
+      "link": "https://www.lemonde.fr/economie/article/2026/07/31/maisons-du-monde-finalise-son-plan-de-sauvetage-et-echappe-au-redressement-judiciaire_6737168_3234.html",
+      "published": "2026-07-31T18:20:38"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Les journalistes de « Marianne » affirment que Jean Quatremer pourrait « tordre » l’ADN du magazine et « brusquer » ses lecteurs",
+      "description": "La directrice de la rédaction, Eve Szeftel, a cependant assuré que Jean Quatremer, qui vient de quitter le journal « Libération », « ne va exercer aucun rôle dans la direction de la rédaction, ni l’orientation du journal », mais « va exprimer une opinion ».",
+      "link": "https://www.lemonde.fr/actualite-medias/article/2026/07/31/les-journalistes-de-marianne-affirment-que-jean-quatremer-pourrait-tordre-l-adn-du-magazine-et-brusquer-ses-lecteurs_6737160_3236.html",
+      "published": "2026-07-31T16:52:34"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Dans « Face A Face B », Blutch se met à nu en explorant le couple et ses secrets",
+      "description": "« Une planche de BD de la rentrée » (3/5). Le nouvel album du bédéaste, en librairie le 11 septembre, déroule le point de vue de deux amoureux sur leur histoire.",
+      "link": "https://www.lemonde.fr/livres/article/2026/07/31/dans-face-a-face-b-blutch-se-met-a-nu-en-explorant-le-couple-et-ses-secrets_6737161_3260.html",
+      "published": "2026-07-31T17:00:03"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "La Chine renforce ses capacités militaires en pillant les IA de la Silicon Valley, selon un rapport explosif",
+      "description": "DÉCRYPTAGE - Une étude ayant analysé plus de 80 brevets et publications académiques chinoises en est arrivée à la conclusion que Pékin se servait abondamment dans les connaissances des IA américaines pour renforcer ses systèmes de défense.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/la-chine-renforce-ses-capacites-militaires-en-pillant-les-ia-de-la-silicon-valley-selon-un-rapport-explosif-20260731",
+      "published": "2026-07-31T21:24:17"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "35 milliards de dollars envolés en quelques jours : la chute vertigineuse du «Nostradamus de l’IA», emporté par son pari fou à Wall Street",
+      "description": "RÉCIT - Âgé de 25 ans, il dirigeait il y a quelques semaines l’un des fonds les plus performants de la planète. Son pari ultra-agressif sur les infrastructures IA s’est brutalement retourné contre lui.",
+      "link": "https://www.lefigaro.fr/conjoncture/35-milliards-de-dollars-envoles-en-quelques-jours-la-chute-vertigineuse-du-nostradamus-de-l-ia-emporte-par-son-pari-fou-a-wall-street-20260731",
+      "published": "2026-07-31T19:34:38"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "EN DIRECT - Vague migratoire à Ceuta : l’Italie suspend l’ouverture de l’espace Schengen à l’Espagne",
+      "description": "Rome a fermé la porte aux visas Schengen délivrés par l’Espagne. Plus tôt, Pedro Sánchez, le premier ministre espagnol, avait demandé aux dirigeants européens de «ne pas se diviser» dans le contexte de la crise migratoire à Ceuta.",
+      "link": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
+      "published": "2026-07-31T19:43:03"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "L’accord de Schengen peut-il vraiment être suspendu avec l’Espagne, comme le demande l’Italie ?",
+      "description": "DÉCRYPTAGE - Face à l’afflux d’environ 60.000 migrants en provenance du Maroc dans l’enclave espagnole de Ceuta en 48 heures, la première ministre italienne a annoncé vouloir «suspendre» l’accord de libre circulation avec l’Espagne.",
+      "link": "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
+      "published": "2026-07-31T15:22:03"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« L’Italie ne restera pas les bras croisés » : derrière l’afflux migratoire à Ceuta, une crise diplomatique ouverte entre Madrid et Rome",
+      "description": "DÉCRYPTAGE - Alors que Giorgia Meloni réclame à la Commission européenne une suspension de l’Espagne de l’espace Schengen avec la vague migratoire massive sur l’enclave, les tensions font rejaillir d’autres litiges entre les deux nations européennes.",
+      "link": "https://www.lefigaro.fr/international/l-italie-ne-restera-pas-les-bras-croises-derriere-l-afflux-migratoire-a-ceuta-une-crise-diplomatique-ouverte-entre-madrid-et-rome-20260731",
+      "published": "2026-07-31T14:30:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« Un chaos absolu » : à Ceuta, le symbole d’une Espagne débordée face à l’afflux de migrants illégaux",
+      "description": "RÉCIT - Près de 60 000 illégaux sont entrés depuis le Maroc dans l’enclave espagnole en trois jours d’une crise sans précédent même si plus de moitié d’entre eux était déjà repartie vendredi. Un nouvel épisode qui fait rejaillir les tensions entre Rabat et Madrid.",
+      "link": "https://www.lefigaro.fr/international/un-chaos-absolu-a-ceuta-le-symbole-d-une-espagne-debordee-face-a-l-afflux-de-migrants-illegaux-20260731",
+      "published": "2026-07-31T16:42:19"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "L’éditorial de Patrick Saint-Paul : «L’Europe face à une nouvelle tempête migratoire»",
+      "description": "La vague de migrants entrés illégalement en Espagne depuis le Maroc crispe ses voisins européens et constitue un premier test depuis l’entrée en vigueur, en juin, du nouveau pacte asile et migration.",
+      "link": "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-l-europe-face-a-une-nouvelle-tempete-migratoire-20260731",
+      "published": "2026-07-31T17:10:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«C’est une invasion», «toutes les limites ont été franchies» : la classe politique européenne inquiète et en colère devant la vague migratoire massive de Ceuta",
+      "description": "60.000 personnes sont entrées dans l’enclave espagnole de Ceuta après des rumeurs faisant état d’une ouverture de la frontière. Les forces de l’ordre ont été débordées.",
+      "link": "https://www.lefigaro.fr/international/c-est-une-invasion-toutes-les-limites-ont-ete-franchies-la-classe-politique-europeenne-inquiete-et-en-colere-devant-la-vague-migratoire-massive-de-ceuta-20260731",
+      "published": "2026-07-31T17:00:14"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "EN DIRECT - Incendies en France : le feu dans le Var «défie l’entendement» et a parcouru 1000 hectares, 2500 personnes évacuées",
+      "description": "Des évacuations de population ont été ordonnées vendredi après-midi dans des quartiers des communes de Correns et Montfort-sur-Argens en raison d’une reprise localisée de l’important incendie du Gros Bessillon, a indiqué la préfecture.",
+      "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
+      "published": "2026-07-31T21:43:09"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Gironde, Var... Visualisez en carte les feux de forêt qui ravagent la France",
+      "description": "CARTE – Environ 117.000 hectares ont été parcourus par les incendies dans l’Hexagone en 2026. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
+      "link": "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260731",
+      "published": "2026-07-31T18:51:02"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Incendie en Gironde : la carte des feux de forêt en cours près du bassin d’Arcachon",
+      "description": "CARTE – Le feu qui sévit dans la région bordelaise depuis le 22 juillet a détruit 42.000 hectares. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
+      "link": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731",
+      "published": "2026-07-31T14:44:22"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Incendies en Gironde : le trafic ferroviaire va reprendre à partir de samedi au sud de Bordeaux, annonce la SNCF",
+      "description": "«L’infrastructure a été épargnée par le feu», a indiqué SNCF Réseau dans un communiqué publié à l’issue d’un travail d’inspection et de réparation sur deux tronçons de voie ferrée.",
+      "link": "https://www.lefigaro.fr/societes/incendies-en-gironde-le-trafic-ferroviaire-va-reprendre-a-partir-de-samedi-au-sud-de-bordeaux-20260731",
+      "published": "2026-07-31T12:47:08"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Contrariée par un tweet, l’administration Trump veut bloquer la nomination du futur ambassadeur français à Washington",
+      "description": "L’administration Trump a été irritée par un tweet de la mission française à l’ONU qui accusait les États-Unis ne plus être «un phare des droits de l’homme» dans le monde et veut bloquer la nomination d’Aurélien Lechevallier.",
+      "link": "https://www.lefigaro.fr/international/contrariee-par-un-tweet-l-administration-trump-veut-bloquer-la-nomination-du-futur-ambassadeur-francais-a-washington-20260731",
+      "published": "2026-07-31T19:06:35"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Ça devient n'importe quoi» : ces mariages qui se révèlent des gouffres financiers pour les invités",
+      "description": "TÉMOIGNAGES - Billets d'avion, tenue, logement… Certains convives voient leur budget exploser pour assister à l'union de leurs proches. Au point, parfois, de débourser plusieurs milliers d'euros.",
+      "link": "https://madame.lefigaro.fr/mariage/ca-devient-un-peu-n-importe-quoi-ces-mariages-qui-se-revelent-des-gouffres-financiers-pour-les-invites-20230327",
+      "published": "2026-07-31T07:46:12"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Google retire un nouvel outil d’images satellitaires générées par IA de Google Earth après des critiques sur les risques de désinformation",
+      "description": "Le géant américain a retiré, moins de 24 heures après son lancement, un outil de Google Earth capable de créer des images satellitaires générées par IA. Des chercheurs avaient alerté sur les risques de diffusion de faux contenus très réalistes.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/google-retire-un-nouvel-outil-d-images-satellitaires-generees-par-ia-de-google-earth-apres-des-critiques-sur-les-risques-de-desinformation-20260731",
+      "published": "2026-07-31T20:31:35"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Attentat déjoué à Paris devant la Bank of America : une femme belge mise en examen et incarcérée",
+      "description": "Âgée de 24 ans, la suspecte a été remise jeudi à la France «par les autorités belges en application d’un mandat d’arrêt européen», a précisé le parquet national antiterroriste.",
+      "link": "https://www.lefigaro.fr/actualite-france/attentat-dejoue-a-paris-devant-la-bank-of-america-une-femme-belge-mise-en-examen-et-incarceree-20260731",
+      "published": "2026-07-31T20:10:45"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Un étage de fusée SpaceX va s’écraser sur la Lune à 8 700 km/h",
+      "description": "Mercredi prochain, les scientifiques suivront de près la chute de cet étage de fusée, long d’environ 12 mètres et pesant 4,5 tonnes, qui avait servi en 2025 à propulser deux engins vers la Lune.",
+      "link": "https://www.lefigaro.fr/sciences/un-etage-de-fusee-spacex-va-s-ecraser-sur-la-lune-a-8-700-km-h-20260731",
+      "published": "2026-07-31T19:54:17"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "En frôlant un astéroïde à 400 mètres, une sonde japonaise montre qu’un rocher spatial menaçant la Terre pourrait être dévié",
+      "description": "le 5 juillet, le vaisseau Hayabusa2, de la taille d’un réfrigérateur, a frôlé l’astéroïde Torifune à 400 mètres, un record mondial.",
+      "link": "https://www.lefigaro.fr/sciences/en-frolant-un-asteroide-a-400-metres-une-sonde-japonaise-montre-qu-un-rocher-spatial-menacant-la-terre-pourrait-etre-devie-20260731",
+      "published": "2026-07-31T19:07:44"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Interruption du concert de Barbara Butch : la ministre veut renforcer les sanctions contre le délit d’entrave culturel",
+      "description": "La ministre de la Culture a annoncé ce vendredi 31 juillet l’envoi prochain de deux circulaires aux préfets et magistrats qui «réaffirment l’état de droit comme rempart contre toutes les censures».",
+      "link": "https://www.liberation.fr/culture/musique/interruption-du-concert-de-barbara-butch-la-ministre-veut-renforcer-les-sanctions-contre-le-delit-dentrave-culturel-20260731_65VFCA3P6VB7TAJM6C77XMAFJY/",
+      "published": "2026-07-31T19:52:20"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Coordonnées, adresse… Les données d’un «nombre important» d’agents de l’Education nationale pourraient (encore) avoir fuité",
+      "description": "Le ministère annonce dans un communiqué ce vendredi qu’une «intrusion frauduleuse» a eu lieu le 25 juillet. Une plainte a été déposée.",
+      "link": "https://www.liberation.fr/societe/education/coordonnees-adresse-les-donnees-dun-nombre-important-dagents-de-leducation-nationale-pourraient-encore-avoir-fuite-20260731_XUGCTPCZMVBSTEX2H6TRNL5B4U/",
+      "published": "2026-07-31T19:36:18"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Incendies : le feu dans le Var a parcouru 1 000 hectares et entraîné l’évacuation de 2 500 personnes, la situation s’améliore en Gironde",
+      "description": "Des habitants de Correns et de son camping ont dû fuir ce vendredi après-midi en raison d’une reprise de l’important incendie dans le Var. En Gironde, la majorité des évacués sont autorisés à rentrer.",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
+      "published": "2026-07-31T19:29:40"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ceuta : plus de 48 000 migrants déjà rentrés au Maroc, brouille entre l’Italie et l’Espagne à propos de l’espace Schengen",
+      "description": "Des dizaines de milliers de ressortissants marocains traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, dans le nord du Maroc. Presque 50 000 d’entre eux ont fait le chemin en sens inverse vendredi. Au moins 57 personnes sont mortes dans des mouvements de foule.",
+      "link": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
+      "published": "2026-07-31T19:25:34"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "89 446 détenus en France au 1er juillet, un nouveau record",
+      "description": "Ce record intervient alors que le ministère de la Justice compte ouvrir 3 000 places supplémentaires. Le nombre de places opérationnelles était au 1er juillet de 63 289.",
+      "link": "https://www.liberation.fr/societe/police-justice/89-446-detenus-en-france-au-1er-juillet-un-nouveau-record-20260731_RR273X5JYBCS7CYBPOG7PHHYAE/",
+      "published": "2026-07-31T19:18:47"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Les pompiers, un rempart au point de rupture ?",
+      "description": "Le dévouement sans fin et sans faille des femmes et hommes sur le front des incendies ne saurait pallier éternellement le manque de moyens auquel ils sont confrontés.",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/les-pompiers-un-rempart-au-point-de-rupture-20260731_LHW6AGLKS5CD5OS743EFYKY5IE/",
+      "published": "2026-07-31T19:00:19"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Wim Wenders retire une scène d’un film où l’actrice Nastassja Kinski, alors adolescente, apparaissait en culotte",
+      "description": "Dans une déclaration commune rendue publique jeudi 30 juillet, le cinéaste de 80 ans dit accéder au souhait de la comédienne de couper les images contestées du film «Faux mouvement» et s’excuse auprès de la comédienne.",
+      "link": "https://www.liberation.fr/culture/cinema/wim-wenders-retire-une-scene-dun-film-ou-lactrice-nastassja-kinski-alors-adolescente-apparaissait-en-culotte-20260731_DYPBRIFI5NHYRE3VMVZZGSMIXQ/",
+      "published": "2026-07-31T18:56:36"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«J’ai plus aucune confiance en l’Etat» : en Gironde, les colères et les leçons d’un «feu du siècle»",
+      "description": "«Libé» est allé à la rencontre des élus et des habitants sinistrés du bassin d’Arcachon, qui déplorent la gestion de la crise par les autorités et songent à des solutions pour s’adapter à la récurrence inéluctable d’incendies hors norme.",
+      "link": "https://www.liberation.fr/environnement/jai-plus-aucune-confiance-en-letat-en-gironde-les-coleres-et-les-lecons-du-feu-du-siecle-20260731_FFDVGYX6FVFMBNA4WQ2K77CGNU/",
+      "published": "2026-07-31T18:54:50"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Chute des Girondins de Bordeaux : le club vendu à un fonds d’investissement britannique, la liquidation s’éloigne",
+      "description": "Alors qu’il était condamné à évoluer en Régional 1, faute d’avoir obtenu les financements nécessaires en juillet, le club six fois vainqueur de la Ligue 1 voit son problème en partie résolu avec son rachat ce vendredi 31 juillet par Sparta Capital.",
+      "link": "https://www.liberation.fr/sports/football/chute-des-girondins-de-bordeaux-le-club-vendu-a-un-fonds-dinvestissement-britannique-la-liquidation-seloigne-20260731_OKEFBPX3JBFODDAIF3BJU7UDEE/",
+      "published": "2026-07-31T18:50:04"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "A Ceuta, une crise migratoire et un emballement sans précédent",
+      "description": "Si la quasi-totalité des 50 000 arrivants clandestins est repartie vendredi, les dernières quarante-huit heures resteront comme un moment inédit dans l’enclave espagnole. Et un symbole de la panique des droites internationales.",
+      "link": "https://www.liberation.fr/international/europe/a-ceuta-une-crise-migratoire-et-un-emballement-sans-precedent-20260731_CXIFJIFUANFZRGL4QQDWOLJBRE/",
+      "published": "2026-07-31T18:45:44"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Crise migratoire à Ceuta : le camp Maga en mission récupération",
+      "description": "La crise à la frontière de l’enclave espagnole fournit aux trumpistes une arme idéale pour attaquer de front immigration, Pedro Sánchez et la gauche européenne.",
+      "link": "https://www.liberation.fr/international/amerique/crise-migratoire-a-ceuta-le-camp-maga-en-mission-recuperation-20260731_D5KRZTP7TNG3DIQLCLAXUOMCFU/",
+      "published": "2026-07-31T18:35:22"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Cet été, 30 chiffres aussi dingues qu’inutiles",
+      "description": "Cléopâtre plus proche de l’iPhone que de la pyramide de Kheops, 45 millions de bananes pour mourir de radioactivité… Chaque jour de l’été, une statistique aussi rigoureuse que parfaitement inutile (ou pas).",
+      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
+      "published": "2026-07-31T18:28:45"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Top départ des Championnats d’Europe de natation à Saint-Denis : «Il y a un petit goût de Paris deux ans après»",
+      "description": "L’Euro se déroule du 31 juillet au 16 août au Centre aquatique olympique (CAO) de Saint-Denis. L’occasion de retrouver les héros des Jeux de Paris, Léon Marchand et ses coéquipiers, Maxime Grousset ou Yohann Ndoye-Brouard.",
+      "link": "https://www.liberation.fr/sports/top-depart-des-championnats-deurope-de-natation-a-saint-denis-il-y-a-un-petit-gout-de-paris-deux-ans-apres-20260731_V2AFN5IIOZAZTJZAYK2SVQSSKA/",
+      "published": "2026-07-31T18:22:25"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Incendies en Gironde : la commune du Porge a-t-elle été «sacrifiée» pour sauver les villas cossues du Cap Ferret ?",
+      "description": "A partir de témoignages d’habitants, de pompiers, d’images satellites et de déclarations des autorités, «CheckNews» a retracé, jour par jour, à partir du 22 juillet, le drame qui a touché la ville.",
+      "link": "https://www.liberation.fr/checknews/incendies-en-gironde-la-commune-du-porge-a-t-elle-ete-sacrifiee-pour-sauver-les-villas-cossues-du-cap-ferret-20260731_BRHGYJZT35HHXG5HXCGYTLPVBI/",
+      "published": "2026-07-31T17:59:26"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Il s’agit du projet d’une seule personne» : rififi à la Fifa en réaction au plan de Gianni Infantino",
+      "description": "La proposition ultralibérale du président de l’instance de créer la «Fifa Forward Enterprise» est désormais critiquée jusque dans son propre camp. Au risque de se retourner contre lui, alors qu’il avait course gagnée pour un troisième mandat en 2027.",
+      "link": "https://www.liberation.fr/sports/football/il-sagit-du-projet-dune-seule-personne-rififi-a-la-fifa-en-reaction-au-plan-de-gianni-infantino-20260731_6J2FUTEPWVABPEOQFFI6DUXTCM/",
+      "published": "2026-07-31T17:59:15"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Crise de Ceuta : pourquoi l’Espagne ne peut pas être exclue de l’espace Schengen",
+      "description": "Après l’arrivée de milliers de migrants à Ceuta, l’Italie, soutenue par plusieurs pays européens, a réclamé une fermeture de l’espace Schengen à l’Espagne. Une sanction qui ne repose sur aucun mécanisme prévu par le droit de l’UE.",
+      "link": "https://www.liberation.fr/international/europe/crise-de-ceuta-pourquoi-lespagne-ne-peut-pas-etre-exclue-de-lespace-schengen-20260731_5NI7TGS7XFHE7KX7GTDCWOVMZ4/",
+      "published": "2026-07-31T17:49:49"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Au Maroc, le rappeur El Mahdi Lyoubi remis en liberté mais toujours poursuivi : «On ne sait même pas quelle chanson est problématique»",
+      "description": "L’artiste marocain connu sous le nom de scène «Mehdi Black Wind» est sorti de détention ce vendredi 31 juillet après dix-huit jours de prison. Il est poursuivi pour ses propos critiques du gouvernement et son soutien au mouvement Gen Z du pays.",
+      "link": "https://www.liberation.fr/societe/police-justice/au-maroc-le-rappeur-el-mahdi-lyoubi-remis-en-liberte-mais-toujours-poursuivi-on-ne-sait-meme-pas-quelle-chanson-est-problematique-20260731_IDMODDNDAJCJTD3WBAYEE6P3SM/",
+      "published": "2026-07-31T17:15:42"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Les migrants repartent de Ceuta, reprise de feu dans le Var, fronde contre Infantino… L’actu de ce vendredi 31 juillet",
+      "description": "La rédaction de «Libération» récapitule les principales actualités de la journée du 31 juillet.",
+      "link": "https://www.liberation.fr/international/europe/les-migrants-repartent-de-ceuta-reprise-de-feu-dans-le-var-fronde-contre-infantino-lactu-de-ce-vendredi-31-juillet-20260731_3E5KN44CKFEC3M2FSNFZG4REYU/",
+      "published": "2026-07-31T16:58:34"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Au Mali, des crimes de guerre documentés des deux côtés",
+      "description": "Bombardements de civils, exécutions sommaires… Human Rights Watch et Amnesty International publient deux rapports documentant de nouvelles exactions commises par les belligérants.",
+      "link": "https://www.liberation.fr/international/afrique/ces-preuves-sont-irrefutables-au-mali-des-crimes-de-guerre-documentes-des-deux-cotes-20260731_FU65YDAE7NH3DGF22IHXKCUYLU/",
+      "published": "2026-07-31T16:36:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le puissant El Niño s’apprête «à dominer les régimes climatiques mondiaux d’août à octobre», prévient l’OMM",
+      "description": "Selon l’Organisation météorologique mondiale, le phénomène naturel s’intensifie dans le Pacifique, avec pour conséquence une hausse du thermomètre mondial, un bouleversement du régime des précipitations et une mise sous tension des systèmes agricoles.",
+      "link": "https://www.liberation.fr/environnement/le-puissant-el-nino-sapprete-a-dominer-les-regimes-climatiques-mondiaux-daout-a-octobre-previent-lomm-20260731_XOFIG7HCQFGL5IANOXSDQ24TLQ/",
+      "published": "2026-07-31T16:15:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Gaza : Trump annonce un accord sur le désarmement du Hamas, Nétanyahou muré dans le silence",
+      "description": "Selon Washington, le mouvement islamiste a accepté de se désarmer ce vendredi 31 juillet. Mais il exige le retrait de l’armée israélienne de la bande de Gaza, ce qu’elle a toujours refusé de faire malgré le cessez-le-feu signé en octobre.",
+      "link": "https://www.liberation.fr/international/moyen-orient/gaza-trump-annonce-un-accord-sur-le-desarmement-du-hamas-netanyahou-mure-dans-le-silence-20260731_MH3TWE7EC5GKVCPL56HDRCJ7KU/",
+      "published": "2026-07-31T16:01:16"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Labeyrie, la succession qui agite le bocal de foie gras",
+      "description": "Mort en 2020 à presque 97 ans, l’industriel landais qui a fondé un empire du luxe gastronomique laisse une fortune de plus de 15 millions d’euros. Mais ses enfants accusent sa seconde femme d’avoir voulu profiter de sa faiblesse.",
+      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/labeyrie-la-succession-qui-agite-le-bocal-de-foie-gras-20260731_X2RBZ462IREY5G3BK6P4EDFCJA/",
+      "published": "2026-07-31T16:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ceuta, une enclave espagnole au cœur des tensions avec le Maroc",
+      "description": "Le territoire ibérique coincé entre le royaume chérifien et la mer Méditerranée est confronté depuis jeudi 30 juillet à sa plus grosse vague migratoire depuis six ans, avec 60 000 personnes sur le territoire.",
+      "link": "https://www.liberation.fr/international/ceuta-une-enclave-espagnole-au-coeur-des-tensions-avec-le-maroc-20260731_B2F5QTIZOZDD3BKHH5QPBKZM7Y/",
+      "published": "2026-07-31T15:49:37"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Insultée par un syndicaliste agricole, Marine Tondelier réclame des excuses publiques... qu’elle obtient",
+      "description": "Le président de la FDSEA de l’Oise s’en est pris sur Facebook à la secrétaire nationale des écolos, qui déplorait le vote récent de la loi d’urgence agricole.",
+      "link": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/",
+      "published": "2026-07-31T15:44:58"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Taux du livret A, tarifs de l’électricité, démarchage téléphonique et produits IA… ce qui change au 1er août",
+      "description": "De la hausse de l’électricité au consentement obligatoire pour la prospection de clients, «Libé» fait le tour des changements qui prennent effet prochainement.",
+      "link": "https://www.liberation.fr/economie/conso/taux-du-livret-a-tarifs-de-lelectricite-demarchage-telephonique-et-produits-ia-ce-qui-change-au-1er-aout-20260731_SYLCTZ7PL5F6BPCPXZXK6AQMNI/",
+      "published": "2026-07-31T15:43:11"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Dans la série de Larry David «Life, Larry and the Pursuit of Unhappiness», il était un moi l’Amérique",
+      "description": "Produite par Barack Obama, le sketch show de l’humoriste réécrit l’histoire des Etats-Unis. Du fan service faussement engagé mais formidablement mégalo.",
+      "link": "https://www.liberation.fr/culture/series/dans-la-serie-de-larry-david-life-larry-and-the-pursuit-of-unhappiness-il-etait-un-moi-lamerique-20260731_44F4YABGQRHBTMQN4WB5RXW4QM/",
+      "published": "2026-07-31T15:38:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Ça suffit» : à Vierzon, une résistance citoyenne s’organise face à la mairie d’extrême droite",
+      "description": "Quatre mois après le basculement de la commune du Cher, les vexations infligées à une figure de la vie locale indignent et stimulent un collectif de gauche, qui refuse de se résigner au nouveau climat ambiant.",
+      "link": "https://www.liberation.fr/politique/elections/ca-suffit-a-vierzon-une-resistance-citoyenne-sorganise-face-a-la-mairie-dextreme-droite-20260731_WPIV275WIVGXHMZZYJRYZ2YU3I/",
+      "published": "2026-07-31T15:27:40"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Guerre en Ukraine : la Russie envoie des enfants ukrainiens dans un «camp d’amitié» en Corée du Nord",
+      "description": "Depuis le début de l’invasion en 2022, Moscou mène une politique d’assimilation de la population. Un quotidien japonais cité par «Courrier International» révèle l’existence de ces séjours où sont dispensés entraînements militaires et éducation patriotique.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/guerre-en-ukraine-la-russie-envoie-des-enfants-ukrainiens-dans-un-camp-damitie-en-coree-du-nord-20260731_4N4KFXSAE5HEFKTQN2UKV77VZQ/",
+      "published": "2026-07-31T15:26:26"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Parcours, diffusion, horaires, favorites : tout savoir sur le Tour de France femmes 2026",
+      "description": "«Libération» fait le point sur les principales informations à connaître pour regarder dans les meilleures conditions la Grande Boucle, qui débute ce samedi 1er août à Lausanne en Suisse et s’achève le dimanche 9 août à Nice.",
+      "link": "https://www.liberation.fr/sports/cyclisme/parcours-diffusion-horaires-favorites-tout-savoir-sur-le-tour-de-france-femmes-2026-20260731_EKCRA2VXTNFELBN3L424RUN6N4/",
+      "published": "2026-07-31T15:26:16"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "EN IMAGES - A Ceuta, la traversée de dizaines de milliers de migrants",
+      "description": "Quelque 60 000 personnes principalement venues du Maroc traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, en Afrique du Nord. Il s’agit de l’arrivée de migrants la plus importante depuis 2021.",
+      "link": "https://www.liberation.fr/international/en-images-a-ceuta-la-traversee-de-dizaines-de-milliers-de-migrants-marocains-20260731_IPOBZ2UVD5BN5MIZ4RXZXSELFA/",
+      "published": "2026-07-31T15:08:28"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Occitanie, les vendanges commencent beaucoup plus tôt que d’habitude",
+      "description": "Plusieurs viticulteurs de l’Aude et des Pyrénées-Orientales ont commencé à vendanger, avec au moins une semaine d’avance. Une précocité liée aux fortes chaleurs qui rappelle l’impact du changement climatique sur les cultures.",
+      "link": "https://www.liberation.fr/environnement/agriculture/en-occitanie-les-vendanges-commencent-beaucoup-plus-tot-que-dhabitude-20260731_O4IBMYUB6VGGBET4KQAWHLTST4/",
+      "published": "2026-07-31T15:04:40"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Taxe de séjour : nouvelle victoire de l’île d’Oléron dans son bras de fer avec Airbnb",
+      "description": "Le Conseil constitutionnel a déclaré, vendredi 31 juillet, conforme à la Constitution le code des collectivités, qui a valu une amende de 8,6 millions d’euros à la plateforme dans le cadre de son litige sur la taxe de séjour avec l’île d’Oléron, dont l’entreprise américaine contestait la «proportionnalité».",
+      "link": "https://www.liberation.fr/economie/conso/taxe-de-sejour-lile-doleron-remporte-son-bras-de-fer-avec-airbnb-20260731_CMDKX5TKQ5F4DPHPWYM2JAQZXU/",
+      "published": "2026-07-31T14:31:03"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Une enquête ouverte contre l’ancien coureur cycliste Erwann Menthéour pour «viol incestueux» sur sa fille mineure et «viol par conjoint»",
+      "description": "Agé de 53 ans, l’ancien coureur est soupçonné de viol et d’agression sexuelle sur sa fille alors qu’elle était mineure. Une information judiciaire a été également ouverte ce vendredi 31 juillet pour «viol par conjoint». Le parquet de Paris a fait appel «de l’absence de mise en examen» d’Erwann Menthéour.",
+      "link": "https://www.liberation.fr/societe/police-justice/une-enquete-ouverte-contre-lancien-coureur-cycliste-erwann-mentheour-pour-viol-incestueux-sur-sa-fille-mineure-et-viol-par-conjoint-20260731_5KR3XN2RNVGA5IEMUMAC7AX6BY/",
+      "published": "2026-07-31T14:08:27"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Josh da Costa, Alex Cameron, Sooj… Qu’est-ce qu’on écoute cette semaine ?",
+      "description": "Pop, rock, musiques électroniques… Chaque semaine, «Libé» vous aide à vous y retrouver dans l’actu des sorties.",
+      "link": "https://www.liberation.fr/culture/musique/josh-da-costa-alex-cameron-sooj-quest-ce-quon-ecoute-cette-semaine-20260731_CE3JYXNYHRBVPEMDJNG72BCO5A/",
+      "published": "2026-07-31T13:49:26"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Maureen Jenkins, nageuse synchronisée : sirène du bal",
+      "description": "L’ancienne championne de France de natation synchronisée a renoncé à la compétition pour se produire chaque soir au Moulin rouge.",
+      "link": "https://www.liberation.fr/portraits/maureen-jenkins-nageuse-synchronisee-sirene-du-bal-20260731_AYHVDUCL35AWTHH7QWXPP6CYEY/",
+      "published": "2026-07-31T13:41:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ressortie de «Lawrence d’Arabie» : les mille et unes survies du chef-d’œuvre de David Lean",
+      "description": "Dans le monde arabe, la superproduction de David Lean, qui ressort en salles en 4 K, essuie les polémiques depuis sa sortie en 1963, accusée d’être occidentalo-centrée et caricaturale.",
+      "link": "https://www.liberation.fr/culture/cinema/ressortie-de-lawrence-darabie-les-mille-et-unes-survies-du-chef-doeuvre-david-lean-20260731_NSNBBI5U2RDCVAHHZCOISMLN44/",
+      "published": "2026-07-31T13:32:31"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Nirmal Purja, star de l’alpinisme, porté disparu après une avalanche au Pakistan",
+      "description": "Une équipe de dix alpinistes a été surprise jeudi sur le Broad Peak (8 047 m) dans la chaîne du Karakoram, dans le nord du pays. L’expédition était menée par le Népalo-Britannique de 43 ans, injoignable depuis les faits. Quatre corps ont été retrouvés ce vendredi.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/nirmal-purja-star-de-lalpinisme-porte-disparu-apres-une-avalanche-au-pakistan-20260731_6QFIBUQBEVEMPLZ7KM3M3JPGIY/",
+      "published": "2026-07-31T13:01:08"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Drame de la route en Algérie : un autocar chute dans un ravin, 25 morts",
+      "description": "L’accident s’est produit à Boumerdès, dans le nord du pays, à 50 kilomètres d’Oran. Selon les secours, le bilan pourrait être revu à la hausse.",
+      "link": "https://www.liberation.fr/international/afrique/drame-de-la-route-en-algerie-un-autocar-chute-dans-un-ravin-25-morts-20260731_GIEQ5APV4BABHFMCEX7GM2GTDA/",
+      "published": "2026-07-31T12:33:47"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Investisseurs privés à la Fifa : «Gianni Infantino surfe sur la désoccidentalisation du football»",
+      "description": "Le projet d’ouvrir le Mondial aux partenaires privés, certes surprenant par son timing et son absence de concertation, s’inscrit dans une logique libérale et déconnectée de l’Occident, cohérente à l’ère d’Infantino, décrypte le chercheur Lukas Aubin.",
+      "link": "https://www.liberation.fr/sports/football/investisseurs-prives-a-la-fifa-gianni-infantino-surfe-sur-la-desoccidentalisation-du-football-20260731_QMV7DLMV6RAZLGZGDPSCNWBLLA/",
+      "published": "2026-07-31T12:28:08"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Nos forêts sont devenues des poudrières, notre système de Sécurité civile aussi» : la crise couve chez des pompiers en manque drastique de moyens",
+      "description": "Les soldats du feu alertent sur les failles d’une organisation au bord de la rupture, révélées par les incendies extrêmes de l’été. Pour les syndicats, tout ne peut pas reposer sur celles et ceux qui «vont au-delà de leurs limites».",
+      "link": "https://www.liberation.fr/environnement/nos-forets-devenues-des-poudrieres-notre-systeme-de-securite-civile-aussi-lincendie-couve-chez-des-pompiers-en-manque-drastique-de-moyens-20260731_JEIWJOLO4BC6TCXSTTTLLN3XQE/",
+      "published": "2026-07-31T11:49:14"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Requiem pour Vaneigem, par Jacques Donguy",
+      "description": "Contrairement à Guy Debord, récupéré en partie par des écrivains de la nouvelle droite, le philosophe belge mort mardi 27 juillet a continué à défendre jusqu’au bout une certaine radicalité de gauche, inspirante, explique l’écrivain Jacques Donguy, qui a publié le situationniste belge dans sa revue «Celebrity Cafe».",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/requiem-pour-vaneigem-par-jacques-donguy-20260731_ME3HZJMI2FAZBNCXGAKLKNPGAU/",
+      "published": "2026-07-31T10:44:10"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Cela va hypothéquer le futur du football» : un conseiller d’Infantino claque la porte face au projet de privatisation de la Coupe du monde",
+      "description": "Dans une interview au média britannique Sky News, l’ex-patron de la fédération américaine de football Carlo Cordeiro, porteur de la candidature des Etats-Unis pour le Mondial 2026, a annoncé sa démission de ses fonctions de conseiller du patron de la Fifa.",
+      "link": "https://www.liberation.fr/sports/football/cela-va-hypothequer-le-futur-du-football-un-conseiller-dinfantino-claque-la-porte-face-au-projet-de-privatisation-de-la-coupe-du-monde-20260731_AKMSQTJSJFBZFAHQHCYWSCR4IU/",
+      "published": "2026-07-31T10:37:28"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "21 départements de l’est de la France en vigilance orange canicule, 10 pour les orages",
+      "description": "Dix départements du Centre et du Nord-Est, dont neuf sont déjà en vigilance orange pour canicule, seront en vigilance orange pour des orages pour la journée de ce vendredi 31 juillet, a annoncé Météo France.",
+      "link": "https://www.liberation.fr/environnement/climat/21-departements-de-lest-de-la-france-en-vigilance-orange-canicule-10-pour-les-orages-20260731_2K4PUCFMHBBPREHBWWNSFUHFTQ/",
+      "published": "2026-07-31T10:30:06"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Après une polémique sur sa chanson pro-Israël, Boy George se retire d’une comédie musicale à Londres",
+      "description": "Le chanteur britannique a publié le 26 juillet le titre «We Will Dance Again», dans lequel il légitime les frappes israéliennes sur l’enclave palestinienne. Son manager a pris cette décision «dans le meilleur intérêt de [son] artiste».",
+      "link": "https://www.liberation.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-dune-comedie-musicale-a-londres-20260731_ZTZ75SCKFVDUJC3IBIUWG3HYCQ/",
+      "published": "2026-07-31T10:24:09"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mort de Stéphane Ricordel, codirecteur du théâtre du Rond-Point : l’acrobate qui faisait bouger les lignes",
+      "description": "Ex-circacien émérite au parcours détonnant, Stéphane Ricordel a fait bouger toutes les lignes du spectacle vivant. Atteint d’une maladie neurodégénérative, il a choisi à 62 ans de bénéficier à l’étranger du droit à mourir.",
+      "link": "https://www.liberation.fr/culture/scenes/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-lacrobate-qui-faisait-bouger-les-lignes-20260731_GCLZICHUNRHC3PZQU6ZKCXXF3E/",
+      "published": "2026-07-31T10:23:35"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Accusé de violences sexistes et sexuelles, Gérard Darmon ne montera pas sur scène à la rentrée",
+      "description": "La pièce «Un Château de cartes», prévue à partir de septembre au Théâtre des Nouveautés, à Paris, n’est plus proposée à la réservation, ce qui confirme une information du «Parisien». Contactée, la direction de la salle n’a pas souhaité commenter cette décision.",
+      "link": "https://www.liberation.fr/culture/accuse-de-violences-sexistes-et-sexuelles-gerard-darmon-ne-montera-pas-sur-scene-a-la-rentree-20260731_JKXD4IDCXVH6BBFMFNY3WN2JVA/",
+      "published": "2026-07-31T10:04:52"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Ukraine, le mystère de la chambre noire avec Vic Bakin",
+      "description": "Au festival les Mesnographies qui se tient aux Mesnuls (Yvelines) jusqu’au 1er septembre, la série «Epitome» du photographe ukrainien Vic Bakin explore, par des tirages argentiques instables, une métaphore de la guerre.",
+      "link": "https://www.liberation.fr/culture/photographie/en-ukraine-le-mystere-de-la-chambre-noire-avec-vic-bakin-20260724_F2UXK6TWFBE57BIUFM4M7MS4DI/",
+      "published": "2026-07-31T10:00:46"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mon amour d’été : «Indépendamment de nos sentiments, on ne s’est jamais embrassés»",
+      "description": "Entre deux cocktails sous le soleil, l’été voit souvent arriver son lot d’histoires d’amour. Dans le cinquième épisode de notre série, Sol se souvient d’une relation entre cinéphiles qui a bouleversé sa vision du monde.",
+      "link": "https://www.liberation.fr/lifestyle/intimites/mon-amour-dete-independamment-de-nos-sentiments-on-ne-sest-jamais-embrasses-20260731_T752D3PWWVFGDJ7DA2VBUX23WA/",
+      "published": "2026-07-31T09:13:05"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Vivement critiquée, la Fifa affirme continuer son plan d’ouverture aux investisseurs privés",
+      "description": "Malgré les menaces de boycott des pays européens, l’instance mondiale du foot présidée par Gianni Infantino se défend ce vendredi 31 juillet en affirmant que «le processus de consultation a été perturbé par des informations inexactes diffusées dans les médias».",
+      "link": "https://www.liberation.fr/sports/football/vivement-critiquee-la-fifa-affirme-continuer-son-plan-douverture-aux-investisseurs-prives-20260731_4FKNQ5K3WJC5TDZH6CDUKXMUAU/",
+      "published": "2026-07-31T08:58:06"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "La petite astuce des macronistes pour s’éviter des législatives partielles risquées",
+      "description": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "link": "https://www.liberation.fr/politique/la-petite-astuce-des-macronistes-pour-seviter-des-legislatives-partielles-risquees-20260731_GHRXTJQILRFHPN4OWAIDCYSO44/",
+      "published": "2026-07-31T08:57:39"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Crise des migrants à Ceuta : \"Le Maroc envoie un signal à l'Espagne\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/crise-des-migrants-a-ceuta-le-maroc-envoie-un-signal-a-lespagne-XXY2N5D4MRDR3G6QJUOI4KJVBI/",
+      "published": "2026-07-31T16:44:32"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "L'Iran derrière une cyberattaque dans le Minnesota ? Les soupçons du renseignement américain",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/amerique/liran-derriere-une-cyberattaque-dans-le-minnesota-les-soupcons-du-renseignement-americain-AV5ZSX222ZATVAVVETBVTNXDPA/",
+      "published": "2026-07-31T15:10:02"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Attaques en mer Rouge : l'Arabie saoudite forme une coalition internationale de défense maritime",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/proche-moyen-orient/attaques-en-mer-rouge-larabie-saoudite-forme-une-coalition-internationale-de-defense-maritime-UA2KRM6FNVHKXKWVTA4YL2MOQU/",
+      "published": "2026-07-31T14:40:43"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "L'ascension de Donald Trump expliquée par le Monopoly",
+      "description": "",
+      "link": "https://www.lexpress.fr/idees-et-debats/lascension-de-donald-trump-expliquee-par-le-monopoly-35GETPLXRBEEBN5YHXSAYGBDFI/",
+      "published": "2026-07-31T14:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Afflux de migrants à Ceuta : l'Italie réclame l'exclusion de l'Espagne de Schengen",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/afflux-de-migrants-a-ceuta-litalie-reclame-lexclusion-de-lespagne-de-schengen-2A5LBNZG7FG7VMBANGWCY6DGPQ/",
+      "published": "2026-07-31T13:30:44"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Missiles Patriot pour l'Ukraine : Donald Trump entretient le flou",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/missiles-patriot-pour-lukraine-donald-trump-entretient-le-flou-K3WBNOHJR5AWHBFQ76YX5V2IJQ/",
+      "published": "2026-07-31T12:18:20"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Quand le siège de la DGSE était un camp d’internement du régime de Vichy",
+      "description": "",
+      "link": "https://www.lexpress.fr/secret-defense/quand-le-siege-de-la-dgse-etait-un-camp-dinternement-du-regime-de-vichy-K2BXW3X2PFFPXPOBB6PKAFXZTA/",
+      "published": "2026-07-31T11:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Désarmement du Hamas : ce que l'on sait de l'accord annoncé par Donald Trump",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/proche-moyen-orient/desarmement-du-hamas-ce-que-lon-sait-de-laccord-annonce-par-donald-trump-5XQSWBDQPVC7RK3N6UKTIH33D4/",
+      "published": "2026-07-31T10:16:08"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Les Houthis peuvent reproduire à Bab el-Mandeb ce que l'Iran fait à Ormuz\" : l'alerte de Maged Al-Madhaji",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/proche-moyen-orient/les-houthis-peuvent-reproduire-a-bab-el-mandeb-ce-que-liran-fait-a-ormuz-lalerte-de-maged-al-madhaji-7YIDEGFKIRCYJIEOYNERTQ6IBY/",
+      "published": "2026-07-31T09:45:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "ETF : diversifier sans avoir à choisir chaque action",
+      "description": "",
+      "link": "https://www.lexpress.fr/partenaires/partenaire-xtb/etf-diversifier-sans-avoir-a-choisir-chaque-action-4WPJON5SOJGVBF6WNQ74M6L6JI/",
+      "published": "2026-07-31T09:00:30"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Doppio Mike\", le sulfureux espion italien proche de la CIA et des politiques",
+      "description": "",
+      "link": "https://www.lexpress.fr/secret-defense/doppio-mike-le-sulfureux-espion-italien-proche-de-la-cia-et-des-politiques-KNLYEA2N2NGEPPPS3ULGUGAPGM/",
+      "published": "2026-07-31T06:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Ces renforts sont impératifs\" : dans les coulisses de la mobilisation européenne contre les incendies",
+      "description": "",
+      "link": "https://www.lexpress.fr/societe/ces-renforts-sont-imperatifs-dans-les-coulisses-de-la-mobilisation-europeenne-contre-les-incendies-N4CTSIB3OVER5ECHFWHTL2KM3E/",
+      "published": "2026-07-31T06:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Canicules, orages de cendres, maladies : le réchauffement climatique va-t-il réduire notre espérance de vie ?",
+      "description": "",
+      "link": "https://www.lexpress.fr/sciences-sante/canicules-orages-de-cendres-maladies-le-rechauffement-climatique-va-t-il-reduire-notre-esperance-de-HVHIDRMJCVFVNMPZOYIB3BSQSI/",
+      "published": "2026-07-31T05:45:00"
+    }
+  ]
+}
