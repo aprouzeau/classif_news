@@ -1,5 +1,825 @@
 {
   "date": "2026-08-07",
-  "count": 0,
-  "articles": []
+  "count": 117,
+  "articles": [
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Incendie dans le Var : le feu du Gros Bessillon est fixé après 18 jours d'une mobilisation inédite des pompiers",
+      "description": "La vigilance est toujours de mise, a précisé la préfecture, soulignant que 450 pompiers resteront mobilisés sur le terrain tout le week-end.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendie-dans-le-var-le-feu-du-gros-bessillon-est-fixe-apres-18-jours-d-une-mobilisation-inedite-des-pompiers_8139155.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T21:54:32"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Espagne impose des contrôles aux frontières aux voyageurs venant d'Italie, en réponse aux mesures prises par Rome après la crise de Ceuta",
+      "description": "Cette mesure miroir est prévue jusqu'au 7 septembre, a annoncé le ministère de l'Intérieur espagnol, ce qui accentue encore la crise diplomatique entre les deux Etats membres de l'UE.",
+      "link": "https://www.franceinfo.fr/monde/espagne/l-espagne-impose-des-controles-aux-frontieres-aux-voyageurs-venant-d-italie-en-reponse-aux-mesures-prises-par-rome-apres-la-crise-de-ceuta_8139068.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T19:56:02"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"On peut prendre moins de marchandises\" : l'assèchement des cours d'eau français met à mal la navigation, sur les canaux comme sur les fleuves",
+      "description": "La sécheresse exceptionnelle qui touche le pays s'observe sur le niveau des fleuves et des rivières. Un quart des petits et moyens cours d'eau sont à sec, ce qui n'était pas arrivé depuis près de 15 ans. De quoi bouleverser la navigation.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/on-peut-prendre-moins-de-marchandises-les-cours-d-eau-francais-asseches-mettent-a-mal-la-navigation-sur-les-canaux-comme-sur-les-fleuves_8139065.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T21:34:50"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Perséides, Voie lactée, éclipse solaire… Ce qu'il faut savoir sur l'édition 2026 des Nuits des étoiles, qui débute vendredi",
+      "description": "Les Nuits des étoiles reviennent du vendredi 7 au dimanche 9 août partout en France. Plus de 600 rendez-vous gratuits sont organisés à travers le pays pour permettre au public d'observer le ciel d'été.",
+      "link": "https://www.franceinfo.fr/sciences/espace/nuit-des-etoiles/perseides-voie-lactee-eclipse-solaire-ce-qu-il-faut-savoir-sur-l-edition-2026-des-nuits-des-etoiles-qui-debute-vendredi_8138264.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T16:20:40"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La déforestation dans l'Amazonie brésilienne est au plus bas sur un an, selon les dernières données satellite",
+      "description": "Entre août 2025 et juillet 2026, près de 2 900km² ont été déboisés, soit une baisse de 37% par rapport aux douze mois précédents. La situation s'est améliorée sous le mandat actuel du président Lula.",
+      "link": "https://www.franceinfo.fr/monde/bresil/la-deforestation-dans-l-amazonie-bresilienne-est-au-plus-bas-sur-un-an-selon-les-dernieres-donnees-satellite_8139152.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T21:40:56"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Près d'un million de cigarettes contrefaites retrouvées dans une usine clandestine en Belgique, un réseau international démantelé",
+      "description": "Un vaste réseau de trafiquants a été mis au jour, à partir d'un bâtiment de Monceau-sur-Sambre. Les produits de contrebande étaient fabriqués sur place, dans le plus grand secret.",
+      "link": "https://www.franceinfo.fr/faits-divers/contrebande-pres-d-un-million-de-cigarettes-contrefaites-retrouvees-dans-une-usine-clandestine-en-belgique-un-reseau-international-demantele_8139077.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T20:42:27"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Europe se prépare à une baisse temporaire de la production d'électricité lors de l'éclipse solaire",
+      "description": "L'association européenne des gestionnaires de réseau – ENTSO-E – dit avoir pris des mesures pour répondre à la baisse de production solaire durant l'événement, et garantir la stabilité du système électrique.",
+      "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/l-europe-se-prepare-a-une-baisse-temporaire-de-la-production-d-electricite-lors-de-l-eclipse-solaire_8139095.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T20:26:10"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La justice américaine bloque en appel le chantier de la salle de bal voulue par Donald Trump à la Maison Blanche",
+      "description": "Il est reproché au président de ne pas avoir obtenu le feu vert du Congrès avant de lancer ces travaux monumentaux. L'intéressé a dénoncé un \"jugement politique\" et entend se tourner vers la Cour suprême.",
+      "link": "https://www.franceinfo.fr/monde/usa/la-justice-americaine-bloque-en-appel-le-chantier-de-la-salle-de-bal-voulue-par-donald-trump-a-la-maison-blanche_8138942.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T17:04:00"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Isère, le Rhône, la Savoie et la Haute-Savoie rejoindront samedi à midi les huit départements déjà en vigilance orange canicule",
+      "description": "La vigilance orange canicule est maintenue demain dans les Alpes-Maritimes, l'Ardèche, la Corse-du-Sud, la Haute-Corse, la Drôme, le Gard, le Var et le Vaucluse",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/huit-departements-du-sud-est-maintenus-en-vigilance-orange-canicule_8137973.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T14:36:50"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Trenitalia France commande 19 trains au constructeur Hitachi et \"confirme\" l'ouverture d'une liaison Paris-Londres \"en 2029\"",
+      "description": "La filiale du groupe ferroviaire italien va tenter de concurrencer Eurostar sous la Manche.",
+      "link": "https://www.franceinfo.fr/economie/transports/trenitalia-france-commande-19-trains-au-constructeur-hitachi-et-confirme-l-ouverture-d-une-liaison-paris-londres-en-2029_8139125.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T21:22:46"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Où et quand l'éclipse du 12 août sera-t-elle la plus impressionnante dans l'Hexagone ?",
+      "description": "Mercredi 12 août, une éclipse solaire se produira peu avant le coucher du soleil. En France, la lune occultera presque totalement l'astre durant quelques minutes.",
+      "link": "https://www.franceinfo.fr/sciences/astronomie/eclipse-solaire/carte-ou-et-quand-l-eclipse-du-12-aout-sera-t-elle-la-plus-impressionnante-dans-l-hexagone_8135849.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T13:06:29"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Hausse du taux de chômage : pour le ministre du Travail, ces chiffres ne sont \"pas une surprise\"",
+      "description": "Selon l'Insee, le taux de chômage en France augmente de 0,2 point au deuxième trimestre et s'établit à 8,3%, son plus haut niveau depuis l'automne 2020.",
+      "link": "https://www.franceinfo.fr/economie/emploi/chomage/hausse-du-taux-de-chomage-pour-le-ministre-du-travail-ces-chiffres-ne-sont-pas-une-surprise_8138996.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T18:00:58"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'OMS appelle à organiser un essai clinique avec l'ancien vaccin Ervebo pour lutter contre l'épidémie d'Ebola en République démocratique du Congo",
+      "description": "Certaines données préliminaires sont encourageantes, et aucun problème de sécurité majeur n'a été relevé. A terme, l'objectif reste de trouver un vaccin spécifique.",
+      "link": "https://www.franceinfo.fr/sante/maladie/ebola/l-oms-appelle-a-organiser-un-essai-clinique-avec-l-ancien-vaccin-ervebo-pour-lutter-contre-le-nouveau-variant-d-ebola-qui-sevit-en-republique-democratique-du-congo_8138966.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T17:33:58"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Un militaire a été mis en examen à Metz pour avoir détourné l'IA de l'armée à des fins pédopornographiques",
+      "description": "Il avait réalisé plus de 10 000 requêtes pour forcer la création d'images à caractère pédopornographique\", a déclaré le procureur de la République.",
+      "link": "https://www.franceinfo.fr/faits-divers/un-militaire-a-ete-mis-en-examen-a-metz-pour-avoir-detourne-l-ia-de-l-armee-a-des-fins-pedopornographiques_8139062.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T19:24:08"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Kasia Niewiadoma Phinney, le jour de gloire d’une championne pleine de panache trop souvent sous-estimée",
+      "description": "Vainqueure du Tour de France 2024 avec quatre secondes d’avance, la Polonaise a remporté sa première étape sur le Tour, vendredi.",
+      "link": "https://www.franceinfo.fr/tour-de-france/femmes/kasia-niewiadoma-phinney-le-jour-de-gloire-d-une-championne-pleine-de-panache-trop-souvent-sous-estimee-sur-le-tour-de-france-femmes_8138948.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T17:10:24"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "William Orbit, le producteur de l'iconique \"Ray of Light\" de Madonna, s'est éteint à l’âge de 69 ans",
+      "description": "Sa collaboration avec la reine de la pop avait été couronnée de deux Grammy Awards en 1999.",
+      "link": "https://www.franceinfo.fr/culture/musique/william-orbit-le-producteur-de-l-iconique-ray-of-light-de-madonna-s-est-eteint-a-l-age-de-69-ans_8138666.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T16:57:04"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La centrale nucléaire de Golfech a été reconnectée au réseau, après une interruption causée par la canicule",
+      "description": "Le réacteur avait été mis à l'arrêt le 29 juillet, en raison de la réglementation sur la température de la Garonne. Cette pause avait ensuite été prolongée à cause de l'indisponibilité d'un système.",
+      "link": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-centrale-nucleaire-de-golfech-a-ete-reconnectee-au-reseau-apres-une-periode-de-pause-initialement-causee-par-la-canicule_8138906.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T16:34:19"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Une plainte contre X déposée pour des soupçons de détournement de fonds publics à la RATP, après une enquête du \"Canard enchaîné\" sur Bally Bagayoko",
+      "description": "Le média affirme qu'\"avant de conquérir la mairie de Saint-Denis, l'édile a longtemps cumulé mandat local et poste de cadre à la RATP\", alors qu'exercer deux emplois publics à temps plein est prohibé, sauf autorisation expresse et motivée.",
+      "link": "https://www.franceinfo.fr/societe/justice/une-plainte-contre-x-deposee-pour-des-soupcons-de-detournement-de-fonds-publics-a-la-ratp-apres-une-enquete-du-canard-enchaine-sur-bally-bagayoko_8138669.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T15:17:20"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Une femme retrouvée morte à Bollène dans le Vaucluse, un colistier du candidat RN aux élections municipales interpellé",
+      "description": "La victime est une mère de deux enfants.",
+      "link": "https://www.franceinfo.fr/faits-divers/une-femme-retrouvee-morte-a-bollene-dans-le-vaucluse-un-colistier-du-candidat-rn-aux-elections-municipales-interpelle_8138909.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T16:31:59"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Notre-Dame de Paris, Champs-Elysées, Lourdes ou encore Metz parmi les étapes du pape Léon XIV lors de sa visite en France, en septembre",
+      "description": "Il s'agit de la première visite d'Etat officielle d'un souverain pontife dans l'Hexagone depuis dix-huit ans.",
+      "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/notre-dame-de-paris-champs-elysees-stade-de-france-lourdes-metz-les-principales-etapes-du-pape-leon-xiv-lors-de-sa-visite-en-france-en-septembre_8138573.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T12:46:11"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La liaison ferroviaire directe entre Paris et Berlin est suspendue à cause d'un problème technique",
+      "description": "La compagnie allemande Deutsche Bahn évoque des problèmes liés à un système fourni par le groupe français Alstom, qui affecte la circulation des trains ICE. En attendant, les voyageurs doivent faire une correspondance en Allemagne.",
+      "link": "https://www.franceinfo.fr/economie/transports/la-liaison-ferroviaire-directe-entre-paris-et-berlin-est-suspendue-a-cause-d-un-probleme-technique_8138879.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T16:24:16"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Leonardo DiCaprio et Jeff Bezos créent un fonds de 200 millions de dollars pour sauver des animaux menacés d'extinction",
+      "description": "La démarche de DiCaprio s'inscrit en droite ligne de son engagement en faveur du climat. Celle de Bezos paraît plus surprenante, car le fondateur d'Amazon s'est déjà fait épingler pour écoblanchiment, notamment par l'ONG Les Amis de la Terre.",
+      "link": "https://www.franceinfo.fr/culture/cinema/leonardo-dicaprio-et-jeff-bezos-creent-un-fonds-de-200-millions-de-dollars-pour-sauver-des-animaux-menaces-d-extinction_8138309.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T19:50:31"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Résistance au lavage, composition spécifique... Les modalités du remboursement des culottes menstruelles précisées",
+      "description": "Selon l'arrêté, la culotte menstruelle doit être composée a minima de trois couches, dont une drainante en contact avec la peau, constituée de \"coton biologique ou de lyocell\", une \"couche absorbante\" et une \"couche imperméable antifuites\".",
+      "link": "https://www.franceinfo.fr/societe/resistance-au-lavage-composition-specifique-capacite-d-absorption-minimum-les-regles-du-remboursement-des-culottes-menstruelles-precisees_8138828.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T15:52:13"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La justice ordonne une série de mesures \"urgentes\" pour améliorer les conditions de détention au centre pénitentiaire de Bordeaux-Gradignan",
+      "description": "Pointant \"un état de salubrité insuffisant\", le tribunal administratif de Bordeaux demande notamment à l'administration d'enrayer la prolifération des cafards et des punaises de lit ou de moisissures dans les douches et de remplacer plus régulièrement les matelas des détenus qui dorment au sol.",
+      "link": "https://www.franceinfo.fr/societe/prisons/la-justice-ordonne-une-serie-de-mesures-urgentes-pour-ameliorer-les-conditions-de-detention-au-centre-penitentiaire-de-bordeaux-gradignan_8138606.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T14:50:11"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le feu du Gros Bessillon désormais fixé : \"Tant qu'il ne pleuvra pas, on aura cette crainte de reprise\", tempère la maire de Correns",
+      "description": "L'incendie a parcouru 6 300 hectares et en a brûlé 5 700 sur sept communes du Var.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/le-feu-du-gros-bessillon-desormais-fixe-tant-qu-il-ne-pleuvra-pas-on-aura-cette-crainte-de-reprise-tempere-la-maire-de-correns_8139080.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-08-07T19:59:41"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Renforcement attendu de la vague de chaleur ces prochains jours : vers l’une des plus longues jamais observées en France",
+      "description": "Les prévisionnistes anticipent une extension de la chaleur vers le nord et l’est du pays. Les épisodes caniculaires se succèdent à un rythme inédit sur la France et une partie de l’Europe.",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/07/canicule-le-renforcement-attendu-de-la-vague-de-chaleur-en-france-pourrait-en-faire-l-une-des-plus-longues_6740507_3244.html",
+      "published": "2026-08-07T14:16:52"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "L’Arabie saoudite, le Pakistan et la Turquie scellent un pacte de défense",
+      "description": "L’annonce de ces trois alliés des Etats-Unis envoie un message à l’Iran mais aussi aux Etats-Unis, perçus comme des partenaires de moins en moins fiables.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/07/l-arabie-saoudite-le-pakistan-et-la-turquie-scellent-un-pacte-de-defense_6740524_3210.html",
+      "published": "2026-08-07T16:13:46"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "L’enquête sur le drone explosif de l’aéroport de Leipzig, en Allemagne, passe au niveau fédéral",
+      "description": "La nature du dispositif découvert dans la nuit du 4 au 5 août, sa proximité avec un avion-cargo ukrainien et l’importance stratégique du site aéroportuaire orientent les autorités allemandes vers l’hypothèse d’une atteinte aux intérêts de sécurité nationale.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/07/l-enquete-sur-le-drone-explosif-de-l-aeroport-de-leipzig-en-allemagne-passe-au-niveau-federal_6740515_3210.html",
+      "published": "2026-08-07T14:45:09"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "L’Espagne impose des contrôles aux frontières aux voyageurs venant d’Italie, en réponse aux mesures similaires introduites par Rome après la crise de Ceuta",
+      "description": "Ces contrôles, mis en place « face à la persistance de la pression migratoire irrégulière » à laquelle l’Italie est confrontée, débuteront samedi à 00 h 00, et dureront jusqu’au 7 septembre, selon le gouvernement espagnol.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/07/l-espagne-impose-des-controles-aux-frontieres-aux-voyageurs-venant-d-italie-en-reponse-aux-mesures-similaires-introduites-par-rome-apres-la-crise-de-ceuta_6740539_3210.html",
+      "published": "2026-08-07T19:43:54"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Salle de bal de Donald Trump : une cour d’appel fédérale bloque la construction ; le président américain annonce vouloir solliciter la Cour suprême",
+      "description": "Ce blocage n’a « rien à voir » avec la pertinence du projet lui-même, mais s’explique par le fait que le président américain a lancé les travaux sans obtenir l’autorisation du Congrès.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/07/salle-de-bal-de-donald-trump-une-cour-d-appel-federale-bloque-la-construction_6740525_3210.html",
+      "published": "2026-08-07T16:16:06"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Les obsessions en plâtre et ciment de Lucien Favreau, ouvrier anarcho-mystique parti sans livrer tous ses secrets",
+      "description": "La France de l’art brut (5/6). Lucien Favreau, décédé en 1990, et sa maison baptisée « Ma Bohême », à Yviers, en Charente, dont les œuvres dressent le portrait d’un humaniste révolté par les tourments du monde.",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/07/les-obsessions-en-platre-et-ciment-de-lucien-favreau-ouvrier-anarcho-mystique-parti-sans-livrer-tous-ses-secrets_6740528_3451060.html",
+      "published": "2026-08-07T17:00:06"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Crise de Ceuta : l’Union européenne demande à Meta et TikTok de renforcer la surveillance et la vérification des faits",
+      "description": "« Les plateformes doivent agir de manière décisive pour préserver l’intégrité de l’espace numérique, en particulier en situation de crise », a déclaré Henna Virkkunen, après des discussions menées entre la Commission européenne et les deux plateformes.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/07/crise-de-ceuta-l-union-europeenne-demande-a-meta-et-tiktok-de-renforcer-la-surveillance-et-la-verification-des-faits_6740540_3210.html",
+      "published": "2026-08-07T21:06:52"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Tour de France Femmes 2026 : Katarzyna Niewiadoma se pare de jaune sur le mont Ventoux",
+      "description": "Auteure d’une attaque pleine de maîtrise sur les pentes du « Géant de Provence », la coureuse polonaise de la formation Canyon-SRAM a levé les bras pour la première fois sur la Grande Boucle, et pris la tête du classement général avec 15 secondes d’avance sur Demi Vollering.",
+      "link": "https://www.lemonde.fr/sport/article/2026/08/07/tour-de-france-femmes-2026-katarzyna-niewiadoma-se-pare-de-jaune-sur-le-mont-ventoux_6740537_3242.html",
+      "published": "2026-08-07T18:58:14"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le maire de Saint-Denis, Bally Bagayoko, visé par une plainte d’AC !! Anti-corruption",
+      "description": "L’association a porté plainte pour des soupçons de détournement de fonds publics et d’emploi fictif, après la publication d’un article du « Canard enchaîné ».",
+      "link": "https://www.lemonde.fr/politique/article/2026/08/07/le-maire-de-saint-denis-bally-bagayoko-vise-par-une-plainte-d-ac-anti-corruption_6740517_823448.html",
+      "published": "2026-08-07T14:57:13"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Maroc : après l’archevêque de Rabat, un prêtre de Casablanca accusé de violences sexuelles",
+      "description": "Alors qu’une femme assure avoir été violée par le prêtre, l’Eglise a classé l’affaire au printemps. L’enquête sur Cristobal Lopez Romero se poursuit, quant à elle, avec la venue à Rabat de deux enquêteurs du Vatican, mardi.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/07/maroc-apres-l-archeveque-de-rabat-un-pretre-de-casablanca-accuse-de-violences-sexuelles_6740534_3212.html",
+      "published": "2026-08-07T18:00:07"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Les lunettes d’observation de l’éclipse solaire déjà en rupture de stock chez certains revendeurs",
+      "description": "Les achats de lunettes de protection individuelle, indispensable pour observer le phénomène, ont fortement augmenté à l’approche du 12 août. La répression des fraudes a multiplié les contrôles.",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/07/les-lunettes-d-observation-de-l-eclipse-solaire-deja-en-rupture-de-stock-chez-certains-revendeurs_6740504_3234.html",
+      "published": "2026-08-07T14:00:08"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Dans l’enfer des groupes WhatsApp de parents d’élèves : « Je reçois des messages à minuit, en pleines vacances d’été ! »",
+      "description": "Au cœur du mois d’août, on aurait pu espérer ne plus entendre parler de l’école. Hélas, c’était sans compter sur l’utilisation de l’application de messagerie au fonctionnement plus ou moins canalisé, qui peut se révéler invasive.",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/07/dans-l-enfer-des-groupes-whatsapp-de-parents-d-eleves-je-recois-des-messages-a-minuit-en-pleines-vacances-d-ete_6740511_3224.html",
+      "published": "2026-08-07T14:30:08"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Trenitalia commande 19 trains à Hitachi et confirme l’ouverture de la liaison Paris-Londres en 2029",
+      "description": "Les nouveaux trains de la filiale du groupe ferroviaire italien seront conçus pour circuler sur les principaux réseaux européens à grande vitesse. Ils doivent encore être homologués pour le tunnel sous la Manche et pour le marché britannique.",
+      "link": "https://www.lemonde.fr/economie/article/2026/08/07/trenitalia-commande-19-trains-a-hitachi-et-confirme-l-ouverture-de-la-liaison-paris-londres-en-2029_6740535_3234.html",
+      "published": "2026-08-07T18:09:05"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le rappeur Moha La Squale jugé pour violences sur deux femmes",
+      "description": "Le rappeur avait déjà été condamné en 2024 pour « des faits de violences par conjoint ou concubin, séquestration et menace de mort sur conjoint ou concubin », à quatre ans d’emprisonnement, dont un an avec sursis.",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/07/le-rappeur-moha-la-squale-juge-pour-violences-sur-deux-femmes_6740503_3224.html",
+      "published": "2026-08-07T13:36:39"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Un nouveau médicament pour le TDAH approuvé aux Etats-Unis, les spécialistes français alertent sur le peu de molécules disponibles en France",
+      "description": "Elle s’appelle la centanafadine et promet un mode d’action innovant. Pourtant, elle n’est pas disponible en France et rentre dans la liste des traitements auxquels ne peuvent pas avoir accès les personnes atteintes de ce trouble.",
+      "link": "https://www.lemonde.fr/sciences/article/2026/08/07/un-nouveau-medicament-pour-le-tdah-approuve-aux-etats-unis-les-specialistes-francais-alertent-sur-le-peu-de-molecules-disponibles-en-france_6740527_1650684.html",
+      "published": "2026-08-07T17:00:09"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Italie, l’ambassadeur américain embarque la diplomatie dans son yacht privé immatriculé aux îles Caïmans",
+      "description": "Au début de juillet, Tilman Joseph Fertitta s’est lancé dans un tour de la Botte dans son navire privé de 117 mètres, le « Boardwalk », mêlant distractions privées et rencontres officielles. L’opposition proteste contre la mobilisation de moyens de l’Etat pour assurer la sécurité de cette opération.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/07/en-italie-l-ambassadeur-americain-embarque-la-diplomatie-dans-son-yacht-prive-immatricule-aux-iles-caiman_6740520_3210.html",
+      "published": "2026-08-07T15:48:52"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Prouesse technologique ou catastrophe annoncée ? Pour la première fois, l’IA a créé des virus bactériens n’existant pas dans la nature",
+      "description": "DÉCRYPTAGE - Des scientifiques ont utilisé l’intelligence artificielle pour créer de tous nouveaux génomes, jusqu’ici inconnus. Une partie du monde scientifique se dit inquiète.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/prouesse-technologique-ou-catastrophe-annoncee-pour-la-premiere-fois-l-ia-a-cree-des-virus-bacteriens-n-existant-pas-dans-la-nature-20260807",
+      "published": "2026-08-07T20:18:47"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Soldats de la Wehrmacht, moto, mines... Touché par une sécheresse historique, le Danube révèle des vestiges de la Seconde Guerre Mondiale",
+      "description": "À Budapest, ces découvertes sont restées dans un état particulièrement correct grâce à la matière qui tapisse le fleuve à cet endroit.",
+      "link": "https://www.lefigaro.fr/international/soldats-de-la-wehrmacht-moto-mines-touche-par-une-secheresse-historique-le-danube-revele-des-vestiges-de-la-seconde-guerre-mondiale-20260807",
+      "published": "2026-08-07T20:08:26"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Crise migratoire à Ceuta : l'Espagne impose à son tour des contrôles aux frontières aux voyageurs venant d'Italie",
+      "description": "Ces contrôles, mis en place «face à la persistance de la pression migratoire irrégulière» à laquelle l’Italie est confrontée, débuteront samedi à 0h (vendredi 22h GMT) et dureront jusqu’au 7 septembre, a précisé le ministère espagnol de l’Intérieur.",
+      "link": "https://www.lefigaro.fr/flash-actu/crise-migratoire-a-ceuta-l-espagne-impose-a-son-tour-des-controles-aux-frontieres-aux-voyageurs-venant-d-italie-20260807",
+      "published": "2026-08-07T20:33:39"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "53 millions d’euros pour démolir un bâtiment de 1888 : comment la «reconstruction» du nouveau pavillon d’accueil de l’Assemblée nationale a viré à la bataille politique",
+      "description": "RÉCIT - Porté depuis 2023 par Yaël Braun-Pivet au nom de l’ouverture au public, le chantier estimé à 53 millions d’euros braque les oppositions.",
+      "link": "https://www.lefigaro.fr/politique/une-demolition-pure-et-simple-a-l-assemblee-nationale-le-futur-pavillon-d-accueil-declenche-une-bataille-politique-20260807",
+      "published": "2026-08-07T15:25:51"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Yaël Braun-Pivet se dit « dépassée » devant les critiques contre le projet de nouveau pavillon de l’Assemblée nationale",
+      "description": "Plus de 89 000 personnes ont signé une pétition qui s’oppose au chantier. Plusieurs personnalités publiques s’en sont aussi émues telles Stéphane Bern, Rachida Dati ou encore Ségolène Royal.",
+      "link": "https://www.lefigaro.fr/culture/patrimoine/yael-braun-pivet-se-dit-depassee-face-aux-critiques-contre-le-projet-de-nouveau-pavillon-de-l-assemblee-nationale-20260807",
+      "published": "2026-08-07T16:13:19"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Millions d’euros, publications hostiles, faux enregistrement... Dans les méandres de l’affaire de la tête de cochon à Nice",
+      "description": "RÉCIT - À l’aune des révélations du quotidien Nice-Matin, le nouveau maire Éric Ciotti redoute «l’un des plus graves scandales politiques de la Ve République» face au «dispositif parallèle» qui aurait été mis en place par son ancien rival pendant la campagne électorale des municipales.",
+      "link": "https://www.lefigaro.fr/nice/millions-d-euros-publications-hostiles-faux-enregistrement-dans-les-meandres-de-l-affaire-de-la-tete-de-cochon-a-nice-20260807",
+      "published": "2026-08-07T17:28:19"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "L’intersyndicale des pompiers appelle à la démission d’un responsable qui a déclaré qu’il ne manquait pas d’effectifs",
+      "description": "Le président de la Conférence nationale des Services d’Incendie et de Secours, Olivier Richefou, est accusé par plusieurs organisations syndicales de déconnexion avec le terrain.",
+      "link": "https://www.lefigaro.fr/actualite-france/l-intersyndicale-des-pompiers-appelle-a-la-demission-d-un-responsable-qui-a-declare-qu-il-ne-manquait-pas-d-effectifs-20260807",
+      "published": "2026-08-07T11:09:33"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Comment les gendarmes remontent la trace du feu pour identifier pyromanes et incendiaires",
+      "description": "ENQUÊTE - Depuis 2022, pompiers, gendarmes et forestiers collaborent en formation spéciale pour procéder aux recherches des causes et des circonstances des incendies (RCCI).",
+      "link": "https://www.lefigaro.fr/bordeaux/comment-les-gendarmes-remontent-la-trace-du-feu-pour-identifier-pyromanes-et-incendiaires-20260806",
+      "published": "2026-08-07T08:22:57"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Incendies en France : le feu qui a touché les Corbières «désormais fixé», Sébastien Lecornu en Gironde le 17 août",
+      "description": "LE POINT SUR LA SITUATION - Sébastien Lecornu a fait savoir qu’il se rendrait en Gironde le 17 août, où le mégafeu est considéré comme «maîtrisé», pour lancer la reconstruction des zones sinistrées.",
+      "link": "https://www.lefigaro.fr/actualite-france/incendies-en-france-le-feu-qui-a-touche-les-corbieres-desormais-fixe-sebastien-lecornu-en-gironde-le-17-aout-20260807",
+      "published": "2026-08-07T08:22:58"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Var, Aude, Drôme, Gironde... Visualisez en carte les feux de forêt qui ravagent la France",
+      "description": "CARTE – Environ 119.000 hectares ont été parcourus par les incendies dans l’Hexagone en 2026. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
+      "link": "https://www.lefigaro.fr/actualite-france/visualisez-en-cartes-les-feux-de-foret-en-cours-en-france-20260731",
+      "published": "2026-08-07T08:40:27"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Ligue 3 : Caen démarre en trombe, Versailles chute à La Roche-sur-Yon, Bastia se rate",
+      "description": "La troisième division du football français, devenue professionnelle, a débuté ce vendredi avec neuf matchs en simultané.",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-3-caen-demarre-en-trombe-versailles-tombe-a-la-roche-sur-yon-bastia-se-rate-20260807",
+      "published": "2026-08-07T21:03:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« Si j’avais su… je n’aurais pas divorcé » : ces quadras qui n’avaient pas prévu de regretter leur rupture",
+      "description": "SI J’AVAIS SU - Ils pensaient tourner la page pour enfin vivre pleinement. Fabien, Marion ou Carole ont divorcé à 40 ans, convaincus de faire le choix le plus lucide - avant de découvrir, trop tard, que certaines histoires ne se remplacent pas.",
+      "link": "https://www.lefigaro.fr/actualite-france/si-j-avais-su-je-n-aurais-pas-divorce-ces-quadras-qui-n-avaient-pas-prevu-de-regretter-leur-rupture-20260221",
+      "published": "2026-08-07T14:50:17"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Ferroviaire : Trenitalia France commande 19 trains à grande vitesse au japonais Hitachi pour «environ deux milliards d’euros»",
+      "description": "Les trains seront exploités sur le marché français au départ de Paris ainsi que sur la liaison Paris-Londres, a précisé l’opérateur.",
+      "link": "https://www.lefigaro.fr/societes/ferroviaire-trenitalia-france-commande-19-trains-a-grande-vitesse-au-japonais-hitachi-pour-environ-deux-milliards-d-euros-20260807",
+      "published": "2026-08-07T15:09:49"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "La liaison ferroviaire directe Paris-Berlin est suspendue à cause de problèmes techniques",
+      "description": "Deutsche Bahn met en cause des défaillances du système Alstom, tandis que les voyageurs devront désormais effectuer une correspondance à Francfort ou Mannheim.",
+      "link": "https://www.lefigaro.fr/societes/la-liaison-ferroviaire-directe-paris-berlin-est-suspendue-a-cause-de-problemes-techniques-20260807",
+      "published": "2026-08-07T19:38:09"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Jerry Colonna, le coach qui fait pleurer les patrons de la Silicon Valley",
+      "description": "CEUX QUI MURMURENT À L’OREILLE DES LEADERS DE LA TECH - Fondateurs de licornes, investisseurs, dirigeants du Fortune 500 : ils sont des centaines à l’avoir consulté. Ancien capital-risqueur devenu coach, Jerry Colonna recueille depuis vingt-cinq ans les doutes et les failles des puissants de la tech. Rencontre.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/jerry-colonna-le-coach-qui-fait-pleurer-les-patrons-de-la-silicon-valley-20260807",
+      "published": "2026-08-07T20:30:58"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Le chantier de la salle de bal bloqué par la cour d’appel fédérale, Donald Trump demande à la Cour suprême d’intervenir",
+      "description": "La cour d’appel du district de Columbia a indiqué que ce blocage n’avait «rien à voir» avec la pertinence du projet lui-même, mais s’expliquait par le fait que le président américain avait lancé les travaux sans obtenir un feu vert du Congrès.",
+      "link": "https://www.lefigaro.fr/international/le-chantier-de-la-salle-de-bal-de-donald-trump-bloque-par-la-cour-d-appel-federale-20260807",
+      "published": "2026-08-07T17:40:48"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Aux Etats-Unis, le chantier de la salle de bal de Trump bloqué par la justice",
+      "description": "Une cour d’appel fédérale a confirmé vendredi 7 août la suspension du chantier pharaonique voulu par le président américain, estimant qu’il ne pouvait remodeler la résidence présidentielle sans l’aval du Congrès.",
+      "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-chantier-de-la-salle-de-bal-de-trump-bloque-par-la-justice-20260807_4UA4S7N6EVFJLN4BOMRIICHFAI/",
+      "published": "2026-08-07T19:13:43"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Arabie saoudite, Pakistan et Turquie scellent un pacte de défense en pleine guerre au Moyen-Orient",
+      "description": "Cet accord prévoit qu’une attaque contre l’un des trois pays sera considérée comme une attaque contre tous. Un rapprochement accéléré par les tensions régionales et la défiance croissante envers Washington.",
+      "link": "https://www.liberation.fr/international/moyen-orient/arabie-saoudite-pakistan-et-turquie-scellent-un-pacte-de-defense-en-pleine-guerre-au-moyen-orient-20260807_VTPNOEBCZVHWLLOJXNDLBMSQKI/",
+      "published": "2026-08-07T19:07:16"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Incendies : dans le Var, le feu du Gros Bessillon fixé après 18 jours de mobilisation",
+      "description": "Déclaré fin juillet dans le centre du département, l’incendie avait depuis parcouru 6 300 hectares, menacé plusieurs villages et détruit des dizaines d’habitations. La préfecture l’a qualifié d’«inédit de par sa durée».",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-le-feu-dans-laude-desormais-fixe-legere-reprise-dans-la-drome-20260807_DLBDW73KIBG2HBOCVJ7UFV2SBU/",
+      "published": "2026-08-07T18:57:22"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "La Fédération norvégienne réclame la démission d’Infantino à la tête de la Fifa",
+      "description": "En difficulté depuis l’échec de son projet d’ouverture de la Fifa aux investisseurs privés, l’Italo-Suisse voit la contestation s’intensifier de jour en jour.",
+      "link": "https://www.liberation.fr/sports/football/la-federation-norvegienne-reclame-la-demission-dinfantino-a-la-tete-de-la-fifa-20260807_J4IYXKQTKZBQZAYBBNH4N6N7U4/",
+      "published": "2026-08-07T18:55:04"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Avec «le Camp des saints», l’extrême droite relit son classique sur l’immigration",
+      "description": "La crise migratoire à Ceuta a fait ressortir les références à l’ouvrage de Jean Raspail. Présenté comme une dystopie, le livre qui raconte l’arrivée d’un million de réfugiés pacifiques en France est régulièrement cité par Marine Le Pen.",
+      "link": "https://www.liberation.fr/politique/elections/avec-le-camp-des-saints-lextreme-droite-relit-son-classique-20260807_645AEHUFZ5BFDOGMIHDMQMO7YY/",
+      "published": "2026-08-07T18:42:02"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Ils disent que c’est l’un des meilleurs spots» : à 20 mètres au-dessus de la Seine, les plongeurs de haut vol impressionnent",
+      "description": "Les épreuves de plongeon à 20 mètres des Championnats d’Europe de natation, face à la Tour Eiffel, ont réuni des milliers de badauds autour d’une discipline aussi risquée que spectaculaire, vendredi 7 août. La deuxième manche aura lieu ce samedi après-midi.",
+      "link": "https://www.liberation.fr/sports/ils-disent-que-cest-lun-des-meilleurs-spots-a-20-metres-au-dessus-de-la-seine-les-plongeurs-de-haut-vol-impressionnent-20260807_HYD7VCDWNBEPDMW7DCPYSNDXUI/",
+      "published": "2026-08-07T18:38:32"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Robots humanoïdes : comment l’intelligence artificielle leur a donné un nouveau souffle",
+      "description": "Sur la piste de danse, à l’usine ou dans le salon… Après des années de ringardise, l’androïde fait son grand retour, propulsé par les progrès de l’IA et au cœur d’une compétition internationale dominée par la Chine.",
+      "link": "https://www.liberation.fr/economie/economie-numerique/robots-humanoides-comment-lintelligence-artificielle-leur-a-donne-un-nouveau-souffle-20260807_YZCPYTTZMVA5LG2T7VTJCGBVB4/",
+      "published": "2026-08-07T18:20:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Tour de France : Kasia Niewiadoma première dame du Ventoux",
+      "description": "La coureuse polonaise, vainqueure du Tour 2024, s’est imposée en solitaire ce vendredi 7 août lors de la 7e étape du Tour, qui empruntait pour la première fois la célèbre ascension. Elle s’empare du maillot jaune à deux jours de l’arrivée à Nice.",
+      "link": "https://www.liberation.fr/sports/cyclisme/tour-de-france-kasia-niewiadoma-en-demonstration-sur-les-pentes-du-mont-ventoux-20260807_ZLFBDKOH55AZTC7KSRWA33RKUQ/",
+      "published": "2026-08-07T18:05:41"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Robots humanoïdes, le nouveau vertige",
+      "description": "Interrogations philosophiques, impacts sociaux et économiques colossaux: la fusion de l’IA et des androïdes promet des lendemains qui chantent… ou qui déchantent.",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/robots-humanoides-le-nouveau-vertige-20260807_LTX44P53WZAFJBX5EFHNWUIOWI/",
+      "published": "2026-08-07T18:05:14"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Opération hybride, «incursion terrestre limitée» : le renseignement américain n’exclut plus une offensive de la Russie contre un pays de l’Otan",
+      "description": "Un rapport américain relayé par le «Wall Street Journal» vendredi revoit à la hausse le risque d’une provocation russe contre un pays allié dans les prochaines années.",
+      "link": "https://www.liberation.fr/international/amerique/operation-hybride-incursion-terrestre-limitee-le-renseignement-americain-nexclut-plus-une-offensive-de-la-russie-contre-un-pays-de-lotan-20260807_ZTYL3642OJGJLOYHJC4NF426LQ/",
+      "published": "2026-08-07T18:03:41"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Après la tentative de sabotage à l’aéroport de Leipzig en Allemagne, les services russes dans le viseur",
+      "description": "Un drone chargé d’un puissant explosif militaire a été neutralisé près des avions de transport de fret ukrainiens, basés sur ce hub stratégique de l’Otan. L’état-major français dément que des munitions françaises se trouvaient dans un des Antonov.",
+      "link": "https://www.liberation.fr/international/europe/apres-la-tentative-de-sabotage-a-laeroport-de-leipzig-en-allemagne-les-services-russes-dans-le-viseur-20260807_Z4QJ4VTTFFAGDIAZMGBQZA3F6I/",
+      "published": "2026-08-07T17:37:36"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "OpenAI, Anthropic, Meta… Derrière l’épidémie d’IA hackeuses, l’efficace marketing de la peur des géants de la tech",
+      "description": "Depuis fin juillet, les mastodontes de l’intelligence artificielle signalent les uns après les autres des cas alarmants de modèles d’IA qui auraient échappé à leur contrôle pour pirater d’autres sociétés. Un effet domino à la bonne odeur de coup de com.",
+      "link": "https://www.liberation.fr/economie/economie-numerique/openai-anthropic-meta-derriere-lepidemie-dia-hackeuses-lefficace-marketing-de-la-peur-des-geants-de-la-tech-20260807_CUHPUOQRHJDEZAFJUBEVNZNZVU/",
+      "published": "2026-08-07T17:29:59"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mort du musicien William Orbit, producteur de Madonna, Blur, Britney Spears…",
+      "description": "C’est son travail sur «Ray of Light» en 1998 avec la reine de la pop qui le propulse sur le devant de la scène électronique. Il est mort à 69 ans.",
+      "link": "https://www.liberation.fr/culture/musique/mort-du-musicien-william-orbit-producteur-de-madonna-blur-britney-spears-20260807_WIGTAQBMXZGMJAJXJPRELEO7AY/",
+      "published": "2026-08-07T17:22:36"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Une démarche antimusulmane inquiétante» : la justice suspend, comme chaque année, l’interdiction du burkini à Mandelieu-la-Napoule",
+      "description": "Proche de David Lisnard, le maire de Mandelieu-la-Napoule, Sébastien Leroy, avait déjà publié des arrêtés municipaux pour interdire le burkini sur les plages lors des étés 2023, 2024 et 2025. Des décisions illégales, à chaque fois suspendues par le tribunal administratif de Nice.",
+      "link": "https://www.liberation.fr/societe/police-justice/une-demarche-antimusulmane-inquietante-la-justice-suspend-comme-chaque-annee-linterdiction-du-burkini-a-mandelieu-la-napoule-20260807_7B6DWTOJIBC4HEEM4FALIRVGDM/",
+      "published": "2026-08-07T17:04:15"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "L’administration Trump va verser plus d’un milliard de dollars à la firme allemande RWE pour qu’elle abandonne ses projets d’éoliennes en mer",
+      "description": "Depuis le retour au pouvoir de Donald Trump, connu pour son scepticisme à l’égard du changement climatique et son soutien à l’industrie des hydrocarbures, plusieurs projets éoliens offshore ont été abandonnés aux Etats-Unis.",
+      "link": "https://www.liberation.fr/international/ladministration-trump-va-verser-plus-dun-milliards-de-dollars-a-la-firme-allemande-rwe-pour-quelle-abandonne-ses-projets-deoliennes-en-mer-20260807_FFIKPYVY75HDHHYPMS3RJL5PYI/",
+      "published": "2026-08-07T16:54:41"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Sous l’effet de la guerre en Iran, le conflit au Yémen se dégèle brutalement",
+      "description": "Plus de 60 soldats yéménites ont été tués jeudi 6 et vendredi 7 août par les rebelles houthis. L’Arabie Saoudite, principal soutien des forces gouvernementales, semble pourtant réticente à se laisser entraîner dans une nouvelle guerre.",
+      "link": "https://www.liberation.fr/international/moyen-orient/sous-leffet-de-la-guerre-en-iran-le-conflit-au-yemen-se-degele-brutalement-20260807_6AB32VW4NRDYBKAQ7CHGFHPXYI/",
+      "published": "2026-08-07T16:53:55"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Un nouveau virus détecté dans une dizaine d’élevages bovins de l’est de la France",
+      "description": "Relevé dans cinq départements français, ainsi qu’en Allemagne et en Suisse, ce nouveau virus qui se transmet par des piqûres de moucherons, bénéficie d’une propagation rapide, mais reste «pour l’instant» bénin, selon les chercheurs.",
+      "link": "https://www.liberation.fr/environnement/agriculture/un-nouveau-virus-detecte-dans-une-dizaine-delevages-bovins-de-lest-de-la-france-20260807_SBKXOKDWBZHQBKVEUETI45RXQQ/",
+      "published": "2026-08-07T16:33:16"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le journaliste d’extrême droite Erik Tegnér pris à partie en Bretagne, une enquête ouverte",
+      "description": "Le fondateur du média identitaire «Frontières» a porté plainte pour agression, dénonçant des agresseurs «antifascistes», dans la nuit du mercredi 5 au jeudi 6 août, à la suite d’échauffourées sur l’île de Groix. Le parquet de Lorient s’est saisi des faits.",
+      "link": "https://www.liberation.fr/societe/police-justice/le-journaliste-dextreme-droite-erik-tegner-pris-a-partie-en-bretagne-une-enquete-ouverte-20260807_JS4EN4G3BNFBFNCKIXNYRFISPA/",
+      "published": "2026-08-07T16:24:58"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Au Paname Art Café, des humoristes dénoncent les méthodes du comedy club : «Il y a du sexisme et les artistes sont très mal payés, voire pas du tout»",
+      "description": "Après la publication, mercredi, d’une vidéo mettant en cause l’institution parisienne, de nombreux témoignages recueillis par «Libé» font état de conditions de travail précaires et d’une atmosphère «très masculine» au sein du plateau de stand-uppeurs. La direction balaye toute responsabilité.",
+      "link": "https://www.liberation.fr/culture/au-paname-art-cafe-plusieurs-humoristes-denoncent-les-methodes-du-comedy-club-il-y-a-du-sexisme-et-les-artistes-sont-tres-mal-payes-voire-pas-du-tout-20260807_332BGM6BEVGHLMDGNFLE35CYPA/",
+      "published": "2026-08-07T16:17:58"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Visite de Léon XIV en France, nouvelle vague de chaleur, grève chez EasyJet… L’actu de ce vendredi 7 août",
+      "description": "La rédaction de «Libération» récapitule les principales actualités de la journée du vendredi 7 août.",
+      "link": "https://www.liberation.fr/international/europe/visite-de-leon-xiv-en-france-nouvelle-vague-de-chaleur-greve-chez-easyjet-lactu-de-ce-vendredi-7-aout-20260807_CD7CDWMBQFCDBFPYTGAQZ7RSGQ/",
+      "published": "2026-08-07T16:07:32"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Médias : Bernard Arnault à la rescousse publicitaire du «JDD» de Vincent Bolloré",
+      "description": "Selon un décompte du collectif Sleeping Giants, LVMH devient peu à peu l’unique annonceur payant du «JDD» et du «JDNews», deux titres d’extrême droite du groupe Lagardère.",
+      "link": "https://www.liberation.fr/economie/medias/medias-bernard-arnault-a-la-rescousse-publicitaire-du-jdd-de-vincent-bollore-20260807_CAKP2OGPR5BA3OJFQK2OABG2ZY/",
+      "published": "2026-08-07T16:05:31"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Stan Lee, le père des super-héros, aux prises avec les vautours",
+      "description": "La guerre de succession du créateur de Spider-Man, Hulk et des X-Men s’est jouée à couteaux tirés avant sa mort. L’entourage de ce scénariste de génie, qui a enrichi Marvel puis Disney, a multiplié les coups bas pour s’accaparer sa fortune et s’arroger le contrôle de sa très profitable propriété intellectuelle.",
+      "link": "https://www.liberation.fr/culture/cinema/stan-lee-le-pere-des-super-heros-aux-prises-avec-les-vautours-20260807_XCXAUYJDNNC5HLFPKSW7ZNPOKI/",
+      "published": "2026-08-07T16:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Canicule et sécheresse : la production française de maïs au plus bas depuis 1980",
+      "description": "Le gouvernement a annoncé mercredi 5 août un plan «global» avec des mesures d’urgence pour compenser les difficultés économiques, face au risque de faillite d’exploitations, et faciliter l’accès des agriculteurs à l’eau.",
+      "link": "https://www.liberation.fr/environnement/agriculture/canicule-et-secheresse-la-production-francaise-de-mais-au-plus-bas-depuis-1980-20260807_PJ4XF2BWOBH3JAA4C6GPXFVBKI/",
+      "published": "2026-08-07T15:48:38"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Un éducateur de gym dans les Yvelines mis en examen pour agressions et harcèlement sexuels sur mineures",
+      "description": "C’est à la suite d’un témoignage en mars d’une des anciennes élèves de l’éducateur sportif à la gendarmerie de Septeuil, village dans l’ouest des Yvelines, qu’une enquête a été ouverte. Âgée de 13 ans, elle a relaté des caresses sur les parties intimes à plusieurs reprises lors des cours dispensés par ce professeur de gym.",
+      "link": "https://www.liberation.fr/societe/police-justice/un-educateur-de-gym-dans-les-yvelines-mis-en-examen-pour-agressions-et-harcelement-sexuels-sur-mineures-20260807_IDKE3VN55BAHVKLB5EK7O5I4FY/",
+      "published": "2026-08-07T15:13:05"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Incendies : «Nous devons produire un effort de guerre afin de modifier les infrastructures du pays»",
+      "description": "Dans une lettre envoyée à tous les parlementaires, Stéphane Delpeyrat-Vincent, maire socialiste de Saint-Médard-en-Jalles (Gironde) leur demande d’agir face aux bouleversements climatiques et propose une «loi de programmation pour la protection de la France».",
+      "link": "https://www.liberation.fr/politique/incendies-nous-devons-produire-un-effort-de-guerre-afin-de-modifier-les-infrastructures-du-pays-20260807_YYYOTLOS4ZBG7KRWFH2ZBKBCUA/",
+      "published": "2026-08-07T15:12:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Nice-Matin» déplore l’agression d’une de ses journalistes par un élu municipal RN de Cagnes-sur-Mer",
+      "description": "Le quotidien régional a dénoncé ce vendredi 7 août la violence d’un adjoint au maire d’extrême droite sur une reporter venue exercer son métier.",
+      "link": "https://www.liberation.fr/politique/nice-matin-deplore-lagression-dune-de-ses-journalistes-par-un-elu-municipal-rn-de-cagnes-sur-mer-20260807_3LVKCCEEWBAHRECS4KQSYRTDLE/",
+      "published": "2026-08-07T14:47:01"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Iran, deux incendiaires, un seul otage : le peuple",
+      "description": "Les conservateurs torpillent toute velléité de réforme dans le pays et instruisent des procès idéologiques contre les négociateurs avec Washington, dont le désir est de réduire le pays en cendres, analyse l’écrivaine franco-iranienne Fariba Hachtroudi.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/en-iran-deux-incendiaires-un-seul-otage-le-peuple-20260807_JKALCODC6JCDBB4ZX2L2BUGRYA/",
+      "published": "2026-08-07T14:15:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Il fallait l’inventer (6/8) : Judith Sasportes, sans échecs et maths",
+      "description": "L’ingénieure en cybersécurité a créé un jeu de cartes pour rendre plus ludiques les mathématiques, en les calquant sur la cuisine.",
+      "link": "https://www.liberation.fr/portraits/il-fallait-linventer-68-judith-sasportes-sans-echecs-et-maths-20260807_KTVO5NMU5JDJBIP6DI74DF7HDA/",
+      "published": "2026-08-07T14:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "EN IMAGES - En Iran, les femmes indociles",
+      "description": "La photojournaliste Forough Alaei, qui vit et travaille dans son pays natal, s’intéresse aux actes de bravoure de ses concitoyennes au quotidien, lorsqu’elles réussissent à pratiquer des sports ou des métiers essentiellement masculins.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-images-en-iran-les-femmes-indociles-20260807_2YUXH6CCKJGWVP26BF7NAHLFN4/",
+      "published": "2026-08-07T13:51:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Revendications, perturbations des vols, remboursements des passagers : ce qu’il faut savoir sur la grève à EasyJet",
+      "description": "Les stewards et hôtesses de l’air de la compagnie low-cost ont déposé un préavis de trois semaines débutant ce vendredi 7 août pour dénoncer des conditions de travail dégradées. L’opération pourrait être levée en cas d’aboutissement des négociations.",
+      "link": "https://www.liberation.fr/economie/transports/revendications-perturbations-des-vols-remboursements-des-passagers-ce-quil-faut-savoir-sur-la-greve-a-easyjet-20260807_7QB7S5VYMZA23E2JJSK63E7TLE/",
+      "published": "2026-08-07T13:13:28"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "France : le déficit commercial s’est réduit en juin, en raison du plongeon des prix du pétrole",
+      "description": "Les exportations ont augmenté de 1,3 milliard d’euros tandis que les importations ont baissé de 0,5 milliard d’euros, selon le bilan dressé par les autorités douanières vendredi 7 août.",
+      "link": "https://www.liberation.fr/economie/france-le-deficit-commercial-sest-reduit-en-juin-en-raison-du-plongeon-des-prix-du-petrole-20260807_3RYC2BGL6VFPVEOAQAJR2YFIMY/",
+      "published": "2026-08-07T12:57:59"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Soupçons de cumul d’emplois à la ville et à la RATP : une association anticorruption porte plainte contre Bally Bagayoko",
+      "description": "Réagissant à un article du «Canard enchaîné» qui évoque dans le passé du nouveau maire insoumis de Saint-Denis un «double agenda» à la ville et à la RATP, AC !! Anti-Corruption a déposé une plainte auprès du Parquet national financier.",
+      "link": "https://www.liberation.fr/politique/soupcons-de-cumul-demplois-a-la-ville-et-a-la-ratp-une-association-anticorruption-porte-plainte-contre-bally-bagayoko-20260807_KWB5RW3HPBCB3LPGOXK7GQQCVA/",
+      "published": "2026-08-07T12:57:17"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Restauration : un dîner à poil en Floride ou la surenchère marketing",
+      "description": "Les établissements proposent de plus en plus d’«expériences» au-delà du simple repas, comme le dîner naturiste aux Etats-Unis. A l’heure où il est difficile de faire salle comble, les restaurateurs rivalisent d’idées improbables pour faire marcher leur business.",
+      "link": "https://www.liberation.fr/lifestyle/gastronomie/restauration-un-diner-a-poil-en-floride-ou-la-surenchere-instagrammable-20260807_D3LI3WOOAVA4PK4KNLVEWT46PM/",
+      "published": "2026-08-07T12:52:19"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Nathanaël et Elisha Karmitz, patrons de MK2 : «Le cinéma est un art populaire qui doit rester accessible»",
+      "description": "Alors que le groupe ouvre son capital aux spectateurs plutôt qu’aux milliardaires et inaugure en 2027 un «musée d’arts visuels et sonores», Nathanaël et Elisha Karmitz reviennent sur la survie du modèle multiplexe. Et prônent aussi bien l’indépendance contre la concentration que le renouvellement des publics par l’événementiel.",
+      "link": "https://www.liberation.fr/culture/cinema/nathanael-et-elisha-karmitz-patrons-de-mk2-le-cinema-est-un-art-populaire-qui-doit-rester-accessible-20260807_FCHJOVFHB5DVTJ6U62KLPCFD34/",
+      "published": "2026-08-07T12:30:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Plus de 30°C dans le Nord, 39 dans le Sud-Ouest… Météo France annonce un «retour en force» des fortes températures dans les prochains jours",
+      "description": "La troisième vague de chaleur de l’été va se prolonger dans les jours à venir, des suites d’une remontée d’air chaud par le Rhône.",
+      "link": "https://www.liberation.fr/environnement/climat/plus-de-30c-dans-le-nord-39-dans-le-sud-ouest-meteo-france-annonce-un-retour-en-force-des-fortes-temperatures-dans-les-prochains-jours-20260807_PVLI2HKBQFD5DJ5E56KHAAIKH4/",
+      "published": "2026-08-07T12:20:11"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Léon XIV en France : est-il bien raisonnable de célébrer une messe sur la place de la Concorde et les Champs-Elysées ?",
+      "description": "Lors de son voyage dans le pays fin septembre, le pape devrait officier devant plusieurs centaines de milliers de personnes au cœur de la capitale. Une démonstration de puissance qui interroge sur la symbolique du lieu choisi.",
+      "link": "https://www.liberation.fr/societe/religions/leon-xiv-en-france-est-il-bien-raisonnable-de-celebrer-une-messe-sur-la-place-de-la-concorde-et-les-champs-elysees-20260807_5Q23F7JGIZGAZL4OAJJCNC4TIQ/",
+      "published": "2026-08-07T11:10:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Une ancienne élue de 85 ans, hospitalisée six jours sur un brancard aux urgences d’Orléans, dénonce un «enfer»",
+      "description": "La retraitée, ex-adjointe au maire d’Orléans, a fini par signer une décharge pour repartir chez elle, traumatisée par sa prise en charge jugée «scandaleuse», qu’elle a détaillée dans un communiqué poignant reproduit le 6 août par ICI Centre-Val de Loire.",
+      "link": "https://www.liberation.fr/societe/sante/une-ancienne-elue-de-85-ans-hospitalisee-six-jours-sur-un-brancard-aux-urgences-dorleans-denonce-un-enfer-20260807_Q4AV6MSPEZEFNPRMOYOR7WCJRA/",
+      "published": "2026-08-07T11:07:48"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Interdiction de X : Elon Musk «exige de faire taire» Marine Tondelier pour «trahison envers la France»",
+      "description": "Le milliardaire a répondu vertement, jeudi, à la candidate écologiste à la présidentielle, qui a proposé de faire fermer le réseau social en raison des ingérences que son algorithme fait courir, surtout en période de campagne électorale.",
+      "link": "https://www.liberation.fr/politique/elections/interdiction-de-x-elon-musk-exige-de-faire-taire-au-silence-marine-tondelier-pour-trahison-envers-la-france-20260806_UXBDOIZ5FBC5LOZ7UESGZNFYOY/",
+      "published": "2026-08-07T10:48:29"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Thaïlande : un adolescent armé tue sept personnes, dont cinq dans un lycée près de Bangkok",
+      "description": "Le tireur, âgé de 14 ans, a d’abord tué ses grands-parents avant de se rendre dans son établissement scolaire où il a abattu deux enseignants et trois membres de l’encadrement scolaire. Il est mort dans des circonstances encore à préciser.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/un-adolescent-arme-dun-pistolet-tue-8-personnes-dont-6-dans-un-lycee-pres-de-bangkok-en-thailande-20260807_DJVISF53KJGI3GQX7S6SGRM24I/",
+      "published": "2026-08-07T10:40:15"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet",
+      "description": "Des analyses ont confirmé jeudi 6 août que l’individu, qui est passé par l’Ile-de-France, la Normandie et la Nouvelle-Aquitaine, a été infecté par la souche Andes, la même que celle du navire «MV Hondius». Les autorités sanitaires hexagonales sont en train d’établir les mesures à mettre en place.",
+      "link": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/",
+      "published": "2026-08-07T10:21:33"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le sénateur républicain Mitch McConnell, 84 ans, annonce sa sortie de l’hôpital, après de nombreuses rumeurs sur sa santé",
+      "description": "Loin du Congrès depuis deux mois, l’élu du Kentucky et ancien chef de la majorité au Sénat a indiqué qu’il poursuivrait sa convalescence à son domicile. Son absence a pesé lourdement sur la faible majorité républicaine à la chambre haute.",
+      "link": "https://www.liberation.fr/international/amerique/le-senateur-republicain-mitch-mcconnell-84-ans-annonce-sa-sortie-de-lhopital-apres-de-nombreuses-rumeurs-sur-sa-sante-20260807_WMV3AO4FKNGCFMHU5ERV5562L4/",
+      "published": "2026-08-07T10:11:20"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Quelles sont les grandes étapes du voyage à la fois diplomatique et religieux du pape en France, fin septembre ?",
+      "description": "Le Vatican a officialisé, ce vendredi 7 août, le programme du déplacement de Léon XIV dans notre pays du 25 au 28 septembre. Deux jours sont prévus à Paris, avant une étape à Lourdes, et une autre à Metz.",
+      "link": "https://www.liberation.fr/societe/religions/quelles-sont-les-grandes-etapes-du-voyage-a-la-fois-diplomatique-et-religieux-du-pape-en-france-fin-septembre-20260807_WVIQ6NUUMFGHPPOEAXHQDIVHMI/",
+      "published": "2026-08-07T10:07:43"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Crise de Ceuta : le Maroc doit offrir à sa jeunesse la liberté de rester, par Mahi Binebine",
+      "description": "Dès 1999, avec son livre «Cannibales», l’écrivain marocain écrivait sur la tragédie des jeunes du Maroc qui tentent de s’enfuir en Europe. Avec la crise de Ceuta, l’histoire se répète. Mais tant que des enfants grandiront en croyant que leur avenir commence de l’autre côté de la mer, nous continuerons de compter les morts.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/crise-de-ceuta-le-maroc-doit-offrir-a-sa-jeunesse-la-liberte-de-rester-par-mahi-binebine-20260807_LISNDZO6UNDNBKI4JH7EQJQVSM/",
+      "published": "2026-08-07T10:02:50"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Les esprits voduns de Léonce R. Agbodjélou",
+      "description": "Au festival de photographie contemporaine Monde en Commun, qui se tient jusqu’au 20 septembre au musée Albert-Kahn à Boulogne-Billancourt (Hauts-de-Seine), Léonce R. Agbodjélou présente ses photographies des Egungun, esprits des défunts.",
+      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/les-esprits-voduns-de-leonce-r-agbodjelou-20260807_VOQUZVQHBZA3NN2FFVKVXIL7DM/",
+      "published": "2026-08-07T10:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Le féminisme tue» : une fresque de Louise Michel dégradée en Dordogne par des tags antiféministes et antisémites",
+      "description": "Une étoile de David et deux phrases critiquant le positionnement de la révolutionnaire en faveur de la liberté des femmes ont été inscrites sur une œuvre qui honorait sa mémoire à Trélissac, jeudi 6 août. La mairie a annoncé déposer plainte.",
+      "link": "https://www.liberation.fr/societe/police-justice/le-feminisme-tue-une-fresque-de-louise-michel-degradee-en-dordogne-par-des-tags-antifeministes-et-antisemites-20260807_MYRECH3G2VBLPOD2QYMEW3CPIY/",
+      "published": "2026-08-07T09:23:47"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Conflit Cambodge-Thaïlande : à la frontière, la trêve en tension",
+      "description": "Huit mois après le cessez-le-feu, l’armée thaïlandaise fortifie ses positions sur le territoire khmer. Pour le ministre cambodgien de l’Information, Bangkok est en train de «normaliser son occupation illégale».",
+      "link": "https://www.liberation.fr/international/asie-pacifique/conflit-cambodge-thailande-a-la-frontiere-la-treve-en-tension-20260807_IXWVDOKNSFBGBF66FQIFMU64ZI/",
+      "published": "2026-08-07T09:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Nouveau-Mexique : Meta condamné à verser 567 millions de dollars pour financer des dommages causés aux mineurs, une première pour un réseau social",
+      "description": "Ce montant, notamment fléché vers des campagnes de prévention, s’ajoute aux 375 millions de dollars de pénalités civiles infligées en mars au géant de la tech, qui a annoncé faire appel de cette décision.",
+      "link": "https://www.liberation.fr/international/amerique/nouveau-mexique-meta-condamne-a-verser-567-millions-de-dollars-pour-financer-des-dommages-causes-aux-mineurs-une-premiere-pour-un-reseau-social-20260807_VDWB5TRQFBH45B23Y5SB2H364E/",
+      "published": "2026-08-07T08:06:57"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Crise à la Fifa : l’UEFA «maintient» son boycott des Coupes du monde",
+      "description": "Dans un communiqué publié jeudi 6 août, l’instance européenne a persisté dans ses critiques de Gianni Infantino, le président controversé de la Fifa, qui paye là sa tentative de commercialisation d’une partie de la Coupe du monde.",
+      "link": "https://www.liberation.fr/sports/football/crise-a-la-fifa-luefa-maintient-son-boycott-des-coupes-du-monde-20260806_X4AROCYRGNC5FHDK45VCYSYNJU/",
+      "published": "2026-08-07T08:03:11"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Laissons les morts hanter nos maisons pour mieux les habiter, par Grégory Delaplace",
+      "description": "Pour l’anthropologue, hanter et habiter sont deux faces d’une même pièce : habiter un lieu, c’est savoir de quoi ou par qui il est hanté. Venir de quelque part, c’est trimballer des fantômes.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/laissons-les-morts-hanter-nos-maisons-pour-mieux-les-habiter-par-gregory-delaplace-20260807_46KFREPMTZDPLBCXXN6KLKFJMQ/",
+      "published": "2026-08-07T08:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Un rapport interroge les causes de la forte mortalité infantile en France et balaie la problématique des petites maternités",
+      "description": "Le document a dormi dans les tiroirs de l’exécutif pendant huit mois, puis a été publié discrètement le 4 août après un article du «Canard Enchaîné» révélant son existence. Il dresse quelques pistes, et ne juge pas pertinent de poursuivre la politique de fermeture des petites structures, suivie depuis plusieurs décennies.",
+      "link": "https://www.liberation.fr/societe/sante/un-rapport-interroge-les-causes-de-la-forte-mortalite-infantile-en-france-et-balaie-la-problematique-des-petites-maternites-20260807_ER55RE5WOJEUXLPKPTSVSD5H4U/",
+      "published": "2026-08-07T07:35:49"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Nous sommes à un point de bascule\" : aux Etats-Unis, le débat sur l'avortement se radicalise",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/amerique/nous-sommes-a-un-point-de-bascule-aux-etats-unis-le-debat-sur-lavortement-se-radicalise-TQPLS2KI45E4ZA2IWPLK5NW6GI/",
+      "published": "2026-08-07T16:27:57"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "La CIA de retour à Cuba : la cellule secrète qui veut fragiliser le régime",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/amerique/la-cia-de-retour-a-cuba-la-cellule-secrete-qui-veut-fragiliser-le-regime-SGHY6YTEA5AB3OWU3XDUYHHY6M/",
+      "published": "2026-08-07T16:13:38"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Crise des migrants à Ceuta : l'ultimatum de l'Espagne à l'Italie",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/crise-des-migrants-a-ceuta-lultimatum-de-lespagne-a-litalie-7TNCZ53HJ5DCFL2FB5YEUKQZEA/",
+      "published": "2026-08-07T15:16:42"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Des virus créés par l'IA : une avancée porteuse d'espoir qui suscite aussi des inquiétudes",
+      "description": "",
+      "link": "https://www.lexpress.fr/sciences-sante/sante/des-virus-crees-par-lia-une-avancee-porteuse-despoir-qui-suscite-aussi-des-inquietudes-3COEHAHFSBHO5BKSW7KZWDLIKI/",
+      "published": "2026-08-07T14:25:14"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Incendies : \"Il y a eu un décalage entre les craintes et la réalité des conséquences sur la santé\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/sciences-sante/incendies-il-y-a-eu-un-decalage-entre-les-craintes-et-la-realite-des-consequences-sur-la-sante-V3TRXNFYGJFNJKOLMCPASQUWGI/",
+      "published": "2026-08-07T14:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "En Italie, la gauche s'écharpe sur le soutien à l'Ukraine",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/en-italie-la-gauche-secharpe-sur-le-soutien-a-lukraine-YV5S2PBRZBE53ARKWMQCZVFCDQ/",
+      "published": "2026-08-07T13:17:58"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Ukraine : quand la guerre sert de terrain d'apprentissage aux cartels colombiens",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/ukraine-quand-la-guerre-sert-de-terrain-dapprentissage-aux-cartels-colombiens-DPOQ676TYNEJVCQXCUXCGDJG7U/",
+      "published": "2026-08-07T10:52:13"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Une attaque russe contre l'Otan : ce scénario que le renseignement américain n'écarte plus",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/une-attaque-russe-contre-lotan-ce-scenario-que-le-renseignement-americain-necarte-plus-XFHZHOE5DZAS7KXD2TL4ZYKCRM/",
+      "published": "2026-08-07T09:55:06"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Puces électroniques : l'irrésistible ascension chinoise qui fait trembler l'industrie",
+      "description": "",
+      "link": "https://www.lexpress.fr/economie/puces-electroniques-lirresistible-ascension-chinoise-qui-fait-trembler-lindustrie-K6CNTZ2USJDMPMFOU7EFAWYBZA/",
+      "published": "2026-08-07T06:15:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Faux documents et général fantôme : l'incroyable manipulation d’un ex-député roumain",
+      "description": "",
+      "link": "https://www.lexpress.fr/secret-defense/faux-documents-et-general-fantome-lincroyable-manipulation-dun-ex-depute-roumain-Q4V4WV37ARBH7C7SK2GGNT4RNY/",
+      "published": "2026-08-07T05:45:00"
+    }
+  ]
 }
