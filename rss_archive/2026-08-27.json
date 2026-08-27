@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-27",
+  "count": 4,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Sal Veder, lauréat du prix Pulitzer 1974 pour sa photographie d’un soldat américain revenant du Vietnam, est mort",
+      "description": "La photo primée montre la joie d’une famille d’un lieutenant-colonel de l’US Air Force lors de son retour aux Etats-Unis, après cinq ans dans un camp de prisonniers. Ce cliché est devenu le symbole de la fin de l’engagement américain dans la guerre du Vietnam.",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/08/27/sal-veder-laureat-du-prix-pulitzer-1974-pour-sa-photographie-d-un-soldat-americain-revenant-du-vietnam-est-mort_6757730_3382.html",
+      "published": "2026-08-27T02:00:10"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Donald Trump décrète l’état d’urgence sur le réseau électrique, une mesure qui vise la Chine sans la nommer",
+      "description": "Cette décision, annoncée mercredi 26 août, interdit l’achat et l’installation d’équipements de réseau provenant de pays sous embargo ou sanctions américaines sur le commerce des armes. Parmi les Etats figurant sur cette liste, seule la Chine exporte ce genre de matériel vers les Etats-Unis.",
+      "link": "https://www.lemonde.fr/international/article/2026/08/27/donald-trump-decrete-l-etat-d-urgence-sur-le-reseau-electrique-une-mesure-qui-vise-la-chine-sans-la-nommer_6757697_3210.html",
+      "published": "2026-08-27T00:59:59"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Cyberattaque contre Hugging Face : près de 700 agents IA se sont coordonnés lors de cette intrusion",
+      "description": "Un rapport, publié mercredi 26 août par des enquêteurs indépendants, revient sur ce récent piratage mené de leur propre initiative par des agents d’intelligence artificielle développés par l’entreprise OpenAI.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/08/27/cyberattaque-contre-hugging-face-pres-de-700-agents-ia-se-sont-coordonnes-lors-de-cette-intrusion_6757763_4408996.html",
+      "published": "2026-08-27T02:28:18"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Les enlèvements au Nigeria ont entraîné le paiement de près de 5 millions d’euros de rançon en un an",
+      "description": "Au moins 7 825 personnes ont été kidnappées entre juillet 2025 et juin 2026, selon le cabinet SBM Intelligence, basé à Lagos, pour qui « l’enlèvement de masse est désormais la pratique dominante », pour les groupes djihadistes et les bandes criminelles.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/27/les-enlevements-au-nigeria-ont-entraine-le-paiement-de-pres-de-5-millions-d-euros-de-rancon-en-un-an_6757664_3212.html",
+      "published": "2026-08-27T00:38:47"
+    }
+  ]
+}
