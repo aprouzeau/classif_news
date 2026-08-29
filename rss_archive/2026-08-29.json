@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-29",
+  "count": 5,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Donald Trump annonce la mainmise américaine sur le pétrole vénézuélien",
+      "description": "Un accord entre Washington et Caracas donne aux Etats-Unis le contrôle sur 65 milliards de barils de réserves, pour développer « dix-sept champs stratégiques » moyennant un investissement de « plus de 100 milliards de dollars ».",
+      "link": "https://www.lemonde.fr/international/article/2026/08/29/donald-trump-annonce-la-mainmise-americaine-sur-le-petrole-venezuelien_6759434_3210.html",
+      "published": "2026-08-29T03:00:08"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Guadeloupe, deux gendarmes mis en examen pour homicide involontaire dans l’affaire Claude Jean-Pierre",
+      "description": "Fin 2020, l’homme de 67 ans était tombé inanimé à Deshaies après avoir été extrait de son véhicule lors d’un contrôle routier. Sa mort avait été prononcée plusieurs jours plus tard au centre hospitalier universitaire de Pointe-à-Pitre.",
+      "link": "https://www.lemonde.fr/societe/article/2026/08/29/en-guadeloupe-deux-gendarmes-mis-en-examen-pour-homicide-involontaire-dans-l-affaire-claude-jean-pierre_6759368_3224.html",
+      "published": "2026-08-29T01:20:56"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le PSG arrache un nul inespéré à Lille grâce à une fin de match folle, en Ligue 1",
+      "description": "Menés de deux buts, les champions de France ont marqué deux fois dans le temps additionnel, grâce à Vitinha et Marquinhos, pour éviter une défaite. Mais après deux journées de championnat, le PSG n’a toujours pas réussi à s’imposer.",
+      "link": "https://www.lemonde.fr/sport/article/2026/08/29/le-psg-arrache-un-nul-inespere-a-lille-grace-a-une-fin-de-match-folle-en-ligue-1_6759335_3242.html",
+      "published": "2026-08-29T01:13:51"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Into the Sky» de LA Priest, délicatesse chevrotante",
+      "description": "Plus musclé que ses précédents, le nouvel album de Sam Eastgate reste fidèle à l’élégante fragilité de sa musique, sa signature.",
+      "link": "https://www.liberation.fr/culture/musique/into-the-sky-de-la-priest-delicatesse-chevrotante-20260829_LD47D43ZNRC3RAG4CY57SJQVPM/",
+      "published": "2026-08-29T03:27:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "corto.alto : «Le collage, c’est très proche de l’échantillonnage»",
+      "description": "Tromboniste, bassiste, producteur, l’Ecossais Liam Shortall, alias corto.alto, publie un second album entre jazz, hip-hop et électronique, libre et époustouflant de créativité.",
+      "link": "https://www.liberation.fr/culture/musique/cortoalto-le-collage-cest-tres-proche-de-lechantillonnage-20260829_FXKDVJPGT5F7VCWEYUILSE365M/",
+      "published": "2026-08-29T01:25:00"
+    }
+  ]
+}
