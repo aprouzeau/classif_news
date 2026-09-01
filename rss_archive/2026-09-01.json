@@ -1,5 +1,902 @@
 {
   "date": "2026-09-01",
-  "count": 0,
-  "articles": []
+  "count": 128,
+  "articles": [
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Après de nouvelles frappes américaines contre l'Iran, Téhéran dit lancer une riposte \"décisive\"",
+      "description": "Peu après cette annonce, l'armée jordanienne a déclaré mardi soir avoir détruit dix missiles balistiques tirés depuis l'Iran.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-de-nouvelles-frappes-americaines-contre-l-iran-teheran-dit-lancer-une-riposte-decisive_8172800.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T22:18:20"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le chanteur Patrick Bruel, mis en examen pour violences sexuelles, annonce l'annulation de sa tournée prévue à l'automne",
+      "description": "\"Cette décision ne signifie en aucun cas que je renonce à me défendre\", a justifié le chanteur sur Instagram mardi soir.",
+      "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/le-chanteur-patrick-bruel-mis-en-examen-pour-violences-sexuelles-annonce-l-annulationde-sa-tournee-prevue-a-l-automne_8172527.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T20:27:39"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Berlin annonce des mesures de rétorsion contre la Russie, accusée d'être derrière le drone explosif de l'aéroport de Leipzig",
+      "description": "Ces mesures des autorités allemandes contre la Russie, soutenues par la France, sont \"une nouvelle erreur\", a pour sa part affirmé le président russe Vladimir Poutine.",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/berlin-annonce-des-mesures-de-retorsion-contre-la-russie-accusee-d-etre-derriere-le-drone-explosif-de-l-aeroport-de-leipzig_8172794.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T21:42:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La \"loi intégrale\" contre les violences sexuelles consécutive à l'affaire Lyhanna sera examinée début octobre à l'Assemblée, confirme Sébastien Lecornu",
+      "description": "La proposition de loi déposée le 11 août comprend 69 articles, dont l'examen par une commission spéciale débutera le 7 septembre.",
+      "link": "https://www.franceinfo.fr/politique/la-loi-integrale-contre-les-violences-sexuelles-consecutive-a-l-affaire-lyhanna-sera-examinee-debut-octobre-a-l-assemblee-confirme-sebastien-lecornu_8172752.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T20:44:36"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La présence de la Russie au G20 Finance a créé un \"malaise\", selon le Canada",
+      "description": "Cette présence du ministre des Finances russe n'a \"pas eu d'impact\" sur l'issue des discussions, a pour sa part affirmé mardi son homologue américain et hôte de l'événement, Scott Bessent.",
+      "link": "https://www.franceinfo.fr/monde/g20/la-presence-de-la-russie-au-g20-finance-a-cree-un-malaise-selon-le-canada_8172803.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T22:38:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Les jours sûrs dans le ciel russe sont révolus\", déclare Volodymyr Zelensky aux compagnies aériennes",
+      "description": "Le président ukrainien a précisé que si elle n'était pas visée \"en soi\", l'aviation civile n'avait \"pas sa place dans un ciel infesté de drones\". Des avertissements qualifiés par Vladimir Poutine de \"terroriste\".",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-jours-surs-dans-le-ciel-russe-sont-revolus-declare-volodymyr-zelensky-aux-compagnies-aeriennes_8172764.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T21:11:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Présidentielle 2027 : \"Il faut une réforme constitutionnelle profonde, pour mieux partager le pouvoir\", défend Gabriel Attal au \"20 Heures\" de France 2",
+      "description": "\"On est dans un temps ou chacun doit présenter sa vision\", a fait valoir le candidat Renaissance à la présidentielle invité, mardi, du nouveau rendez-vous politique du \"20 Heures\".",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-il-faut-une-reforme-constitutionnelle-profonde-pour-mieux-partager-le-pouvoir-defend-gabriel-attal-au-20-heures-de-france-2_8172656.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T19:22:17"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Sébastien Raoult, ancien hacker condamné aux États-Unis, raconte son passé de pirate informatique",
+      "description": "À 25 ans, Sébastien Raoult revient en France après avoir passé deux ans dans une prison américaine. Condamné pour des faits de piratage informatique, l'ancien hacker témoigne aujourd'hui de son passé et assure avoir définitivement tourné la page. Toujours sous contrôle judiciaire, il souhaite désormais devenir hacker éthique pour aider les entreprises à se protéger.",
+      "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/sebastien-raoult-ancien-hacker-condamne-aux-etats-unis-raconte-son-passe-de-pirate-informatique_8172758.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T21:09:26"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"On va avoir 17 ans, on est assez grands pour gérer notre temps d’écran\" : la rentrée sans téléphone portable au lycée ne fait pas que des heureux à Paris",
+      "description": "Après les collèges, c'est au tour des lycées d'appliquer la loi qui interdit désormais le téléphone portable au sein des établissements. A la cité scolaire Maurice-Ravel, dans le 20e arrondissement de Paris, la mesure ne fait pas l'unanimité.",
+      "link": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/on-va-avoir-17-ans-on-est-assez-grand-pour-gerer-notre-temps-d-ecran-la-rentree-sans-telephone-portable-au-lycee-ne-fait-pas-que-des-heureux-3409886.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T16:10:06"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Cybercriminalité : une équipe de France Télévisions au cœur de l'Unité nationale cyber de la gendarmerie",
+      "description": "Face aux cybercriminels, des enquêteurs spécialisés tentent de remonter leur trace. Nous avons exceptionnellement pu pénétrer dans les coulisses de l’unité cyber de la gendarmerie, où 120 militaires travaillent et traitent plus de 10 000 demandes chaque année. Derrière leurs écrans, ils analysent les attaques, identifient les réseaux et remontent les pistes numériques, une véritable police scientifique d’Internet.",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/cybercriminalite-une-equipe-de-france-televisions-au-c-ur-de-l-unite-nationale-cyber-de-la-gendarmerie_8172755.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T20:50:09"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Quatre questions sur l'obtention par l'entreprise privée Velvet d'une licence d'exploitation pour des lignes de TGV",
+      "description": "Cet opérateur veut concurrencer la SNCF sur quatre destinations à grande vitesse de l'Ouest (Paris-Bordeaux, Paris-Nantes, Paris-Angers et Paris-Rennes) à partir de 2028.",
+      "link": "https://www.franceinfo.fr/economie/transports/quatre-questions-sur-l-obtention-par-l-entreprise-privee-velvet-d-une-licence-d-exploitation-pour-des-lignes-de-tgv_8172098.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T16:01:40"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Zinédine Zidane annoncera sa première liste de joueurs le 18 septembre",
+      "description": "Plusieurs membres du nouvel encadrement sont déjà connus, comme le portier des champions du monde 1998 Fabien Barthez, nommé entraîneur des gardiens.",
+      "link": "https://www.franceinfo.fr/sports/foot/zinedine-zidane-annoncera-sa-premiere-liste-de-joueurs-le-18-septembre_8172677.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T20:12:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Deux morts et un blessé grave dans un accident de bouée tractée au large de Saint-Cyprien, dans les Pyrénées-Orientales",
+      "description": "Une victime se trouve en urgence absolue, les autres personnes sont légèrement blessées. Pour le moment, on ignore les circonstances précises de l'accident.",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-et-un-blesse-grave-dans-un-accident-de-bouee-tractee-au-large-de-saint-cyprien-dans-les-pyrenees-orientales_8172149.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T12:56:59"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Ce n'est pas le moment de normaliser la présence de la Russie\", estime l'Union européenne, irritée par la venue d'un ministre russe au G20 Finances",
+      "description": "Habituellement persona non grata, Anton Silouanov est apparu au milieu des délégués du G20.",
+      "link": "https://www.franceinfo.fr/monde/g20/ce-n-est-pas-le-moment-de-normaliser-la-presence-de-la-russie-estime-l-union-europeenne-irritee-par-la-venue-d-un-ministre-russe-au-g20-finances_8172125.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T12:34:52"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Les ventes record de la Ligue 1, les transferts fous de la Premier League... Ce qu'il faut retenir du mercato estival",
+      "description": "Cet été, le Paris Saint-Germain a très bien vendu ses joueurs et l'OM n'a attiré aucun nouveau visage.",
+      "link": "https://www.franceinfo.fr/sports/foot/mercato/les-ventes-record-de-la-ligue-1-les-transferts-fous-de-la-premier-league-ce-qu-il-faut-retenir-du-mercato-estival_8159318.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T20:08:05"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le parquet de Paris requiert le renvoi en procès pour viol de l'avocat Juan Branco",
+      "description": "Le parquet demande que Juan Branco soit jugé pour un viol commis sur une jeune femme en 2021.",
+      "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat-juan-branco_8172581.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T16:54:46"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Dans la lignée de cet été interminable\" : la chaleur va faire son retour cette semaine en France, jusqu'à 38°C attendus dans le Sud-Ouest",
+      "description": "Les températures vont fortement grimper à partir de jeudi, particulièrement dans le sud du pays. L'épisode devrait rester sous les seuils d'une vague de chaleur, mais des records pour un mois de septembre pourraient être dépassés.",
+      "link": "https://www.franceinfo.fr/environnement/meteo/dans-la-lignee-de-cet-ete-interminable-la-chaleur-va-faire-son-retour-cette-semaine-en-france-jusqu-a-38-c-attendus-dans-le-sud-ouest_8172092.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T13:03:06"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Sortie dans l'espace de Sophie Adenot : l'astronaute française a remplacé le rétroréflecteur défectueux, Jessica Meir a installé une nouvelle caméra",
+      "description": "La Française a dirigé mardi une sortie extravéhiculaire 100% féminine. Elle est accompagnée de l'astronaute américaine Jessica Meir.",
+      "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace/direct-troisieme-sortie-dans-l-espace-de-sophie-adenot-suivez-la-nouvelle-mission-menee-par-l-astronaute-hors-de-l-iss-a-partir-de-14h30_8171849.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T20:47:57"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Un feu se déclare à Venaco en Haute-Corse, 30 hectares de végétation parcourus",
+      "description": "Ce mardi 1er septembre, un feu s'est déclaré sur la commune de Venaco. Environ 30 hectares de végétation ont été détruits. Des moyens aériens sont en transit.",
+      "link": "https://france3-regions.franceinfo.fr/corse/haute-corse/un-feu-se-declare-a-venaco-5-hectares-de-vegetation-parcourus-3409667.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T17:36:40"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Une athlète ne devrait pas accepter d'être humiliée ou réduite à son apparence pour avoir gagné une compétition\" : après sa victoire à Lausanne, la judoka Léa Fontaine victime d'attaques sur son physique",
+      "description": "La judoka de 25 ans a été victime de propos visant son physique après son titre, dimanche, au Grand Slam de Lausanne dans la catégorie des + 78 kg.",
+      "link": "https://www.franceinfo.fr/sports/judo/une-athlete-ne-devrait-pas-accepter-d-etre-humiliee-ou-reduite-a-son-apparence-pour-avoir-gagne-une-competition-apres-sa-victoire-a-lausanne-la-judoka-lea-fontaine-victime-d-attaques-sur-son-physique_8172578.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T17:06:12"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Deux manifestants blessés par un bus lors d'une grève, le patron de l'entreprise placé en garde à vue",
+      "description": "Les blessés, une femme de 24 ans et un homme de 45 ans, ont été transportés au CHU de Reims en urgence relative.",
+      "link": "https://www.franceinfo.fr/faits-divers/accident/deux-manifestants-blesses-par-un-bus-lors-d-une-greve-le-patron-de-l-entreprise-place-en-garde-a-vue_8172374.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T15:13:29"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Espagne écarte une action directe marocaine dans la crise migratoire à Ceuta, mais dénonce une désinformation liée à Israël et la Russie",
+      "description": "Quelque 70 000 exilés sont arrivés sur le territoire espagnol fin juillet, lors de traversées qui ont fait près de 100 morts.",
+      "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-ecarte-une-action-directe-marocaine-dans-la-crise-migratoire-a-ceuta-mais-denonce-une-desinformation-liee-a-israel-et-la-russie_8171981.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T15:18:48"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Orages, inondations, vent, neige... Comment lire les nouvelles cartes de vigilance de Météo-France ?",
+      "description": "L'organisme introduit une échelle géographique \"plus fine que le département\". L'information est disponible dans l'onglet dédié au phénomène en question.",
+      "link": "https://www.franceinfo.fr/environnement/crise-climatique/orages-inondations-vent-neige-comment-lire-les-nouvelles-cartes-de-vigilance-de-meteo-france_8172131.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T14:44:05"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Après l'incendie dans les Landes, des sinistrés parfois \"pris en otage\" par les assurances, dénonce la maire de Biscarosse",
+      "description": "\"Tant que ces expertises ne sont pas faites, tout est en suspens. C'est une deuxième lame de fond qui complique tout\", explique Hélène Larrezet, lundi sur France Inter.",
+      "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/apres-l-incendie-dans-les-landes-des-sinistres-parfois-pris-en-otage-par-les-assurances-denonce-la-maire-de-biscarosse_8172215.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T14:00:30"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'armée américaine annonce avoir déclenché de nouvelles frappes contre l'Iran",
+      "description": "\"Les forces américaines ont commencé à frapper des cibles [liées aux] Gardiens de la révolution en Iran\", a déclaré le Centcom.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-armee-americaine-annonce-avoir-declenche-des-frappes-contre-l-iran-pour-la-deuxieme-journee-consecutive_8172569.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T22:22:12"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le prix du gaz européen atteint un niveau inédit depuis 2023 après les nouvelles frappes américaines en Iran",
+      "description": "Mardi soir, le contrat à terme du TTF néerlandais, considéré comme la référence européenne pour le marché du gaz naturel, prenait 6,20%.",
+      "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-prix-du-gaz-europeen-atteint-un-niveau-inedit-depuis-2023-apres-les-nouvelles-frappes-americaines-en-iran_8172704.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T19:57:24"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Tournée de Patrick Bruel annulée : \"Un réel soulagement, ça nous permet de voir qu'on a été écoutées\", réagit une plaignante belge",
+      "description": "Ce mardi 1er septembre, Patrick Bruel a annoncé sur les réseaux sociaux qu'il ne célébrera finalement pas sur scène les 35 ans de son album \"Alors regarde\". Plusieurs maires s'étaient opposés à sa venue ces derniers jours, sur fond de nombreuses procédures judiciaires pour violences sexuelles.",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tournee-de-patrick-bruel-annulee-un-reel-soulagement-ca-nous-permet-de-voir-qu-on-a-ete-ecoutees-reagit-une-plaignante-belge_8172650.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T18:26:18"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Patrick Bruel prend sa responsabilité, c'est une excellente chose\", réagit le maire de Chartres après l'annulation de la tournée du chanteur",
+      "description": "\"On a permis de mettre ce sujet au cœur du débat\", se réjouit Ladislas Vergne, mardi sur France Inter. Patrick Bruel a annoncé l'annulation de sa tournée dans un message publié sur Instagram.",
+      "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/patrick-bruel-prend-sa-responsabilite-c-est-une-excellente-chose-reagit-le-maire-de-chartres-apres-l-annulation-de-la-tournee-du-chanteur_8172611.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T17:30:22"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Allemagne juge la Russie \"responsable\" de \"l'attaque hybride\" menée avec un drone chargé d'explosifs, début août, à l'aéroport de Leipzig",
+      "description": "Le trafic avait été temporairement suspendu dans cet aéroport, plateforme clé pour l'armée allemande, l'Otan et le soutien logistique à l'Ukraine, début août.",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-juge-la-russie-responsable-de-l-attaque-hybride-menee-avec-un-drone-charge-d-explosifs-debut-aout-a-l-aeroport-de-leipzig_8172476.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-01T16:08:48"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Israël, la droite, menacée de défaite aux législatives, se déchire et se radicalise",
+      "description": "En amont des élections législatives du 27 octobre, des tensions apparaissent au sein de la coalition gouvernementale, notamment entre le premier ministre, Benyamin Nétanyahou, et son ministre de la sécurité nationale, Itamar Ben Gvir. De la droite à l’extrême droite, chacun durcit son discours pour remobiliser ses sympathisants.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/01/en-israel-la-droite-menacee-de-defaite-aux-legislatives-se-dechire-et-se-radicalise_6763524_3210.html",
+      "published": "2026-09-01T18:45:08"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine dit qu’on « ne négocie pas avec les terroristes » après l’avertissement de Volodymyr Zelensky sur la sécurité de l’espace aérien russe",
+      "description": "Le président ukrainien a mis en garde, mardi, contre le danger d’emprunter l’espace aérien russe, prévenant les compagnies aériennes qu’« il y aura des drones [ukrainiens] dans le ciel russe (…) tant que la guerre continuera ».",
+      "link": "https://www.lemonde.fr/international/live/2026/09/01/en-direct-guerre-en-ukraine-vladimir-poutine-dit-qu-on-ne-negocie-pas-avec-les-terroristes-apres-l-avertissement-de-volodymyr-zelensky-sur-la-securite-de-l-espace-aerien-russe_6760568_3210.html",
+      "published": "2026-09-01T21:46:59"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Cyberattaque contre l’éducation nationale : dans les académies de Nantes et Toulouse, une « rentrée papier » dans des conditions « dégradées »",
+      "description": "Si l’accès aux outils numériques a pu être rétabli partout ailleurs depuis le piratage massif, fin juillet, les deux académies restent privées de l’ensemble de leurs services informatiques et applications. Un blocage inédit qui oblige au système D.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/01/cyberattaque-contre-l-education-nationale-dans-les-academies-de-nantes-et-toulouse-une-rentree-papier-dans-des-conditions-degradees_6763520_3224.html",
+      "published": "2026-09-01T17:53:04"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Iran : les Etats-Unis ont bombardé des positions des gardiens de la révolution ; les forces iraniennes lancent « une opération décisive » en représailles",
+      "description": "« Si la nation en faillite qu’est l’Iran riposte à cette attaque parfaitement justifiée, elle sera de nouveau frappée, bien plus durement », a averti Donald Trump. Quelques heures avant, son homologue iranien avait plaidé pour une reprise des négociations.",
+      "link": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/01/iran-les-etats-unis-bombardent-des-positions-des-gardiens-de-la-revolution-les-forces-iraniennes-annoncent-une-operation-decisive-en-represailles_6763515_6325530.html",
+      "published": "2026-09-01T19:22:17"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "La Suède, ce « paradis » pour les ultrariches devenu un enjeu du débat politique",
+      "description": "Dans le royaume scandinave considéré comme un des plus égalitaires du monde, le nombre de milliardaires ne cesse d’augmenter, tandis que la pauvreté progresse. Avant les élections du 13 septembre, la taxation des plus fortunés s’est imposée comme thème de campagne.",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/01/la-suede-ce-paradis-pour-les-ultrariches-devenu-un-enjeu-du-debat-politique_6763494_3234.html",
+      "published": "2026-09-01T15:00:05"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "La Mostra de Venise 2026 s’ouvre sur fond de polémiques",
+      "description": "Faible représentation américaine, réalisatrices quasi absentes de la compétition, sélection du controversé « DAU », du Russe Ilya Khrzhanovsky… La 83ᵉ édition du Festival international du film, qui se tient du 2 au 12 septembre, est précédée de vives critiques.",
+      "link": "https://www.lemonde.fr/culture/article/2026/09/01/la-mostra-de-venise-2026-s-ouvre-sur-fond-de-polemiques_6763514_3246.html",
+      "published": "2026-09-01T17:00:22"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "La France et l’Allemagne veulent dynamiser la coordination de la politique extérieure de l’Union européenne",
+      "description": "Réunis à Dublin, le 2 septembre, la cheffe de la diplomatie européenne, Kaja Kallas, et les ministres des affaires étrangères de l’UE entendent engager une réflexion pour réformer la gouvernance, en partie dysfonctionnelle, de la politique extérieure européenne.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/01/la-france-et-l-allemagne-veulent-dynamiser-la-coordination-de-la-politique-exterieure-de-l-union-europeenne_6763528_3210.html",
+      "published": "2026-09-01T19:30:00"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Patrick Bruel annonce l’annulation de sa tournée après avoir été mis en examen dans des affaires de violences sexuelles",
+      "description": "En août, plusieurs maires, dont ceux de Chartres, Dijon, Strasbourg ou encore Amiens, ont exprimé leur opposition à la venue du chanteur de 67 ans dans leurs villes respectives.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/01/patrick-bruel-annonce-l-annulation-de-sa-tournee-apres-avoir-ete-mis-en-examen-dans-des-affaires-de-violences-sexuelles_6763508_3224.html",
+      "published": "2026-09-01T16:38:33"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Royaume-Uni : Andy Burnham, dans son premier discours au Parlement comme chef du gouvernement, promet un contrôle accru de l’Etat sur les services essentiels",
+      "description": "Avant même son arrivée au pouvoir, en juillet, le dirigeant travailliste avait fait savoir qu’il était favorable à un plus grand contrôle de l’Etat, en particulier dans la distribution d’eau, secteur où la principale compagnie, Thames Water, est en grande difficulté financière.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/01/royaume-uni-andy-burnham-dans-son-premier-discours-au-parlement-comme-chef-du-gouvernement-promet-un-controle-accru-de-l-etat-sur-les-services-essentiels_6763523_3210.html",
+      "published": "2026-09-01T18:37:06"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Présidentielle 2027 : souverainisme et air conditionné, les deux piliers de Marine Le Pen et du RN pour lutter contre le dérèglement climatique",
+      "description": "« Les candidats face au climat » (1/5). Le Rassemblement national et Marine Le Pen défendent une version « positive » de l’écologie centrée sur la réindustrialisation de la France et le déploiement de la climatisation, des propositions au chiffrage pour le moment obscur.",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/09/01/presidentielle-2027-souverainisme-et-air-conditionne-les-deux-piliers-de-marine-le-pen-et-du-rn-pour-lutter-contre-le-dereglement-climatique_6763489_4355770.html",
+      "published": "2026-09-01T14:00:19"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Syrie : les infrastructures découvertes à Deir ez-Zor sont « conformes à celles d’un réacteur nucléaire », selon l’AIEA",
+      "description": "A la mi-août, l’autorité de sûreté nucléaire et le gouvernement syrien avaient annoncé la découverte de « quelques tonnes de matières nucléaires » sur un site « non déclaré », « héritage de l’ancien régime ».",
+      "link": "https://www.lemonde.fr/international/article/2026/09/01/deir-ez-zor-les-infrastructures-decouvertes-sont-conformes-a-celles-d-un-reacteur-nucleaire-selon-l-aiea_6763519_3210.html",
+      "published": "2026-09-01T17:51:43"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Au Venezuela, l’Assemblée nationale approuve l’accord pétrolier avec les Etats-Unis",
+      "description": "L’accord permet aux Etats-Unis d’exploiter 17 gisements pétroliers vénézuéliens dont le potentiel est évalué à 65 milliards de barils. Le Venezuela évalue à 209 milliards de dollars la création de richesse sur vingt-cinq ans.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/01/au-venezuela-l-assemblee-nationale-approuve-l-accord-petrolier-avec-les-etats-unis_6763530_3210.html",
+      "published": "2026-09-01T20:35:54"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Juan Branco : le parquet de Paris requiert le renvoi en procès de l’avocat pour viol",
+      "description": "Dans un document de 32 pages daté du 6 août, le parquet de Paris demande également un non-lieu pour d’autres faits d’agression sexuelle et de viol sur deux autres femmes, pour lesquels l’avocat est également poursuivi.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/01/juan-branco-le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat_6763504_3224.html",
+      "published": "2026-09-01T16:01:43"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Inondations dans l’Himalaya : le bilan dépasse désormais le millier de morts au Népal",
+      "description": "Les autorités népalaises et chinoises sont toujours sans nouvelles de près de 4 500 personnes, six jours après la catastrophe.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/01/inondations-dans-l-himalaya-le-bilan-depasse-desormais-le-millier-de-morts-au-nepal_6763178_3211.html",
+      "published": "2026-09-01T14:42:17"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le mercato 2026, l’été où le PSG est entré dans la cour des grands vendeurs",
+      "description": "Le club de la capitale a cédé plusieurs joueurs pour plus de 350 millions d’euros lors du marché des transferts qui s’est clos mardi 1ᵉʳ septembre. Un record pour le double champion d’Europe, davantage connu jusqu’ici pour son côté dépensier.",
+      "link": "https://www.lemonde.fr/sport/article/2026/09/01/le-mercato-2026-l-ete-ou-le-psg-est-entre-dans-la-cour-des-grands-vendeurs_6763521_3242.html",
+      "published": "2026-09-01T18:00:02"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "La « loi intégrale » contre les violences sexistes et sexuelles sera bien examinée début octobre à l’Assemblée, confirme Sébastien Lecornu",
+      "description": "La discussion était attendue le 28 septembre, lors d’une session extraordinaire. Selon plusieurs sources parlementaires, le gouvernement envisage finalement de ne pas la convoquer et de s’en tenir à une reprise de l’examen le 1er octobre.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/01/la-loi-integrale-contre-les-violences-sexistes-et-sexuelles-sera-bien-examinee-debut-octobre-a-l-assemblee-confirme-sebastien-lecornu_6763527_3224.html",
+      "published": "2026-09-01T19:25:23"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Présidentielle 2027 : le plan de rentrée contrarié de Marine Le Pen",
+      "description": "DÉCRYPTAGE - La rupture avec le conseiller de Jordan Bardella et la cacophonie sur l’interdiction du port du voile sont venues tendre le retour en campagne de la candidate.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-plan-de-rentree-contrarie-de-marine-le-pen-20260901",
+      "published": "2026-09-01T18:23:51"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« Populisme », « police du vêtement », « désaccord radical » : la classe politique s’insurge contre la sanction du RN sur le port du voile",
+      "description": "DÉCRYPTAGE - Dimanche, le député Jean-Philippe Tanguy a remis sur la table une vieille marotte nationaliste : l’interdiction du port du voile dans l’espace public, assortie d’une amende. Une initiative critiquée par la plupart des candidats à la présidentielle.",
+      "link": "https://www.lefigaro.fr/politique/populisme-police-du-vetement-desaccord-radical-la-classe-politique-s-insurge-contre-la-sanction-du-rn-sur-le-port-du-voile-20260901",
+      "published": "2026-09-01T17:40:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Florence Bergeaud-Blackler : « Le référendum du RN sur l’interdiction du port du voile risquerait-il de faire le jeu des islamistes ? »",
+      "description": "ENTRETIEN - Sanctionner le port du voile dans l’espace public d’une amende, comme le propose le Rassemblement national, serait difficile à mettre en place et politiquement risqué, analyse l’anthropologue qui préconise plutôt d’interdire ce vêtement islamique aux mineures.",
+      "link": "https://www.lefigaro.fr/vox/politique/florence-bergeaud-blackler-le-referendum-du-rn-sur-l-interdiction-du-port-du-voile-risquerait-il-de-faire-le-jeu-des-islamistes-20260901",
+      "published": "2026-09-01T16:51:29"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Voile, fermeture de mosquées, expulsions : ces mesures contre l’islamisme que le RN veut proposer par référendum",
+      "description": "Si elle est élue, Marine Le Pen promet d’interdire le voile dans l’espace public. Cette mesure sera proposée dans le cadre d’un référendum.",
+      "link": "https://www.lefigaro.fr/politique/voile-fermeture-de-mosquees-expulsions-ces-mesures-contre-l-islamisme-que-le-rn-veut-proposer-par-referendum-20260901",
+      "published": "2026-09-01T14:39:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Êtes-vous favorables à un référendum sur l'interdiction du voile dans l'espace public ?",
+      "description": "",
+      "link": "https://www.lefigaro.fr/politique/etes-vous-favorables-a-un-referendum-sur-l-interdiction-du-voile-dans-l-espace-public-20260901",
+      "published": "2026-09-01T08:19:43"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Les États-Unis déclenchent des frappes contre l’Iran, Téhéran riposte contre des cibles américaines",
+      "description": "Plusieurs explosions ont été entendues mardi dans le sud de l’Iran, près du stratégique détroit d’Ormuz, selon la télévision d’État iranienne. Le Croissant-Rouge dénombre 4 morts et une cinquantaine de blessés.",
+      "link": "https://www.lefigaro.fr/international/l-armee-americaine-annonce-avoir-declenche-des-frappes-contre-l-iran-20260901",
+      "published": "2026-09-01T21:41:27"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Aux États-Unis, la démission du secrétaire à l’Armée Dan Driscoll, symptôme des tensions à la tête du Pentagone",
+      "description": "DÉCRYPTAGE - Le départ du plus jeune titulaire du poste intervient sur fond de rivalités avec Pete Hegseth, alors que la guerre d’Iran se prolonge et que les crises se multiplient.",
+      "link": "https://www.lefigaro.fr/international/aux-etats-unis-la-demission-du-secretaire-a-l-armee-dan-driscoll-symptome-des-tensions-a-la-tete-du-pentagone-20260901",
+      "published": "2026-09-01T18:15:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Comment l’Iran utilise ses armes cyber dans sa guerre de harcèlement des États-Unis",
+      "description": "DÉCRYPTAGE - Le régime iranien est suspecté d’être derrière l’attaque d’un réseau d’approvisionnement en eau sur le sol américain.",
+      "link": "https://www.lefigaro.fr/international/comment-l-iran-utilise-ses-armes-cyber-dans-sa-guerre-de-harcelement-des-etats-unis-20260901",
+      "published": "2026-09-01T17:15:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Israël menace le Royaume-Uni de représailles en cas d’éventuelles sanctions britanniques",
+      "description": "«Si le Royaume-Uni agit contre l’État d’Israël, alors l’État d’Israël agira contre le Royaume-Uni», a déclaré le ministre israélien des Affaires étrangères, Gideon Saar.",
+      "link": "https://www.lefigaro.fr/international/israel-menace-le-royaume-uni-de-represailles-en-cas-d-eventuelles-sanctions-britanniques-20260901",
+      "published": "2026-09-01T15:56:19"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Ces droits de douane imposés par Donald Trump que les entreprises françaises se font rembourser dans la discrétion",
+      "description": "DÉCRYPTAGE - Environ 10 milliards d’euros liés à des importations de produits « made in France » auraient été restitués après la décision de la Cour suprême en février. Un chèque qui retourne souvent à l’importateur américain plutôt qu’à la société tricolore.",
+      "link": "https://www.lefigaro.fr/conjoncture/ces-droits-de-douane-imposes-par-donald-trump-que-les-entreprises-francaises-se-font-rembourser-dans-la-discretion-20260901",
+      "published": "2026-09-01T18:21:58"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Droits de douane : la fuite en avant de Donald Trump, pris à son propre piège",
+      "description": "La politique commerciale américaine a changé plus de 50 fois depuis janvier 2025, au gré des menaces, des revirements et des négociations. Un an et demi plus tard, les tariffs n’ont pas eu les effets promis par la Maison-Blanche sur les déficits extérieurs, les prix ou les relocalisations.",
+      "link": "https://www.lefigaro.fr/conjoncture/droits-de-douane-la-fuite-en-avant-de-donald-trump-pris-a-son-propre-piege-20260901",
+      "published": "2026-09-01T21:48:38"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Pour riposter contre la guerre commerciale de Donald Trump, le Canada cible les droits de douane là où ça fait le plus mal aux Américains",
+      "description": "DÉCRYPTAGE - À l’approche des élections de mi-mandat aux États-Unis, le premier ministre canadien vise des produits sensibles dans plusieurs États républicains, comme le Wisconsin, le Vermont ou l’Iowa.",
+      "link": "https://www.lefigaro.fr/conjoncture/pour-riposter-contre-la-guerre-commerciale-de-donald-trump-le-canada-cible-les-droits-de-douane-la-ou-ca-fait-le-plus-mal-aux-americains-20260901",
+      "published": "2026-09-01T17:08:38"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«J’ai tout le village contre moi» : en Seine-et-Marne, un conseiller d’opposition retrouvé mort dans son château et l’ombre de municipales sous tension",
+      "description": "REPORTAGE - Depuis le 27 juillet dernier, la psychose s’est emparée du petit village de Grisy-Suisnes, laissé sous le choc par le suicide à 56 ans de Tanguy de Vienne, candidat malheureux aux dernières élections.",
+      "link": "https://www.lefigaro.fr/actualite-france/j-ai-tout-le-village-contre-moi-en-seine-et-marne-un-conseiller-d-opposition-retrouve-mort-dans-son-chateau-et-l-ombre-de-municipales-sous-tension-20260901",
+      "published": "2026-09-01T14:31:49"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Vous avez fait un excellent travail aujourd’hui» : Sophie Adenot complète sa troisième sortie dans l'espace avec succès",
+      "description": "Première Française à «marcher» dans l’espace, Sophie Adenot cumule désormais 19 heures et 42 minutes d’excursion dans le vide spatial à son compteur. Avant elle, seuls quatre hommes français avaient mené de telles sorties.",
+      "link": "https://www.lefigaro.fr/flash-actu/vous-avez-fait-un-excellent-travail-aujourd-hui-sophie-adenot-complete-sa-troisieme-sortie-dans-l-espace-avec-succes-20260901",
+      "published": "2026-09-01T21:17:51"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Accident de bouée tractée dans les Pyrénées-Orientales : quelles sont les règles de sécurité en France ?",
+      "description": "DÉCRYPTAGE - Deux personnes sont mortes et un homme a été grièvement blessé mardi au large de Saint-Cyprien, lors d’une sortie en bouée tractée. Ce drame relance les questions sur les règles qui encadrent cette activité de loisirs.",
+      "link": "https://www.lefigaro.fr/faits-divers/accident-de-bouee-tractee-dans-les-pyrenees-orientales-quelles-sont-les-regles-de-securite-en-france-20260901",
+      "published": "2026-09-01T20:14:14"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Poutine demande à l’Arménie de faire un choix entre l’UE et l’Union eurasiatique",
+      "description": "Le président russe a de nouveau appelé le premier ministre arménien Nikol Pachinian à soumettre sa volonté d’adhérer à l’UE à un référendum «le plus rapidement possible».",
+      "link": "https://www.lefigaro.fr/international/poutine-demande-a-l-armenie-de-faire-un-choix-entre-l-ue-et-l-union-eurasiatique-20260901",
+      "published": "2026-09-01T20:01:33"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« On avait peur de l’incident majeur et il est arrivé » : à Nantes, une enseignante victime d’une agression sexuelle par un élève",
+      "description": "Depuis plusieurs années, les membres du personnel réclament un classement du collège de la Durantière en REP +. L’agression, survenue en juin et pour laquelle une enquête est en cours, est venue légitimer leur combat et raviver plus que jamais leur mobilisation.",
+      "link": "https://www.lefigaro.fr/nantes/on-avait-peur-de-l-incident-majeur-et-il-est-arrive-a-nantes-une-enseignante-victime-d-une-agression-sexuelle-par-un-eleve-20260901",
+      "published": "2026-09-01T21:27:14"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Patrick Bruel, mis en examen dans des affaires de violences sexuelles, annonce l’annulation de sa tournée",
+      "description": "Le chanteur de 67 ans a annoncé sur son compte Instagram ce mardi qu’il aurait « profondément souhaité » que cette tournée « puisse avoir lieu ».",
+      "link": "https://www.lefigaro.fr/culture/patrick-bruel-mis-en-examen-dans-des-affaires-de-violences-sexuelles-annonce-l-annulation-des-concerts-de-sa-tournee-20260901",
+      "published": "2026-09-01T18:19:19"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«L’excitation est vite retombée» : dans l’affaire de la tuerie de Chevaline, la piste du Luger découvert dans le lac d’Annecy pourrait tourner court",
+      "description": "INFO LE FIGARO - La découverte fortuite, le 21 août dernier, d’un vieux pistolet a fait renaître l’espoir de résoudre l’une des plus mystérieuses affaires criminelles françaises. L’arme pourrait correspondre au modèle utilisé lors de la tuerie.",
+      "link": "https://www.lefigaro.fr/faits-divers/l-excitation-est-vite-retombee-dans-l-affaire-de-la-tuerie-de-chevaline-la-piste-du-luger-decouvert-dans-le-lac-d-annecy-pourrait-tourner-court-20260901",
+      "published": "2026-09-01T19:09:46"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Quatorze ans après la tuerie de Chevaline, l’arme retrouvée dans le lac d’Annecy ravive l’une des plus grandes énigmes criminelles",
+      "description": "RÉCIT - Dans l’affaire de ce quadruple meurtre survenu le 5 septembre 2012, les enquêteurs ont exploré de nombreuses hypothèses, de l’implication des services de renseignement jusqu’à l’affaire Athanor. Sans jamais parvenir à l’élucider.",
+      "link": "https://www.lefigaro.fr/faits-divers/quatorze-ans-apres-la-tuerie-de-chevaline-l-arme-retrouvee-dans-le-lac-d-annecy-ravive-l-une-des-plus-grandes-enigmes-criminelles-20260901",
+      "published": "2026-09-01T17:14:24"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Arrebato» d’Iván Zulueta éclaire l’obscur",
+      "description": "Expérimental et visionnaire, le deuxième long métrage de l’Espagnol sur un réalisateur de film d’horreur vampirisé ressort plus de quarante ans après.",
+      "link": "https://www.liberation.fr/culture/arrebato-divan-zulueta-eclaire-lobscur-20260901_WY3BV2HBEBC7DHK3RGDU5QZQQ4/",
+      "published": "2026-09-01T20:51:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "L’armée américaine annonce avoir mené de nouvelles frappes en Iran",
+      "description": "Le Centcom indique ce lundi soir répondre aux «attaques des Gardiens de la révolution contre la navigation commerciale dans le détroit d’Ormuz».",
+      "link": "https://www.liberation.fr/international/moyen-orient/larmee-americaine-annonce-avoir-mene-de-nouvelles-frappes-en-iran-20260901_IQW3DO2JX5AB3IWLUYLL72U33M/",
+      "published": "2026-09-01T19:57:58"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Avec «The Holy Boy», plongée dans un village émacié",
+      "description": "Paolo Strippoli jette le téléspectateur dans une commune italienne appelée «la vallée des sourires», dont les habitants sont influencés par un adolescent qui s’empare de leurs souffrances.",
+      "link": "https://www.liberation.fr/culture/avec-the-holy-boy-plongee-dans-un-village-emacie-20260901_TUHTXLWNF5ATJCEFL3MSUZXXKY/",
+      "published": "2026-09-01T19:23:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Gaël Lépingle, réalisateur du «Retour avant 15 heures» : «J’ai voulu restituer la puissance poétique du milieu pavillonnaire»",
+      "description": "Découverte des notes de son père, théâtre du quotidien, vertige de la mort… Le cinéaste, qui travaille dans les marges du cinéma français, raconte à «Libé» la genèse de son beau film proustien.",
+      "link": "https://www.liberation.fr/culture/cinema/gael-lepingle-realisateur-du-retour-avant-15-heures-jai-voulu-restituer-la-puissance-poetique-du-milieu-pavillonnaire-20260901_OEYYW3WNC5B3BNQXBSMUVMTH5I/",
+      "published": "2026-09-01T19:15:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Equipe de France : Zinédine Zidane annoncera sa première liste de joueurs le 18 septembre",
+      "description": "Les Bleus entament la Ligue des nations en Turquie le 25 septembre, avant de se déplacer en Belgique le 28, puis de recevoir l’Italie le 2 octobre.",
+      "link": "https://www.liberation.fr/sports/football/equipe-de-france-zinedine-zidane-annoncera-sa-premiere-liste-de-joueurs-le-18-septembre-20260901_2ZW3J23OKZAYLK36DVPH2IZ6WQ/",
+      "published": "2026-09-01T19:09:36"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Face aux «effroyables» attaques de colons en Cisjordanie, Londres menace Israël de sanctions",
+      "description": "Dénonçant des «actes de terrorisme», le chef de la diplomatie britannique a promis de dévoiler sous peu «un ensemble complet de mesures». L’Etat hébreu a prévenu de son côté qu’il riposterait.",
+      "link": "https://www.liberation.fr/international/moyen-orient/face-aux-effroyables-attaques-de-colons-en-cisjordanie-londres-menace-israel-de-sanctions-20260901_6QYPOSLIRBG3ZDC5CEBAMZTXDU/",
+      "published": "2026-09-01T19:00:15"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "François Ruffin-Dominique de Villepin : un débat d’inclassables",
+      "description": "«Libération» organise ce mercredi une rencontre inédite entre le député de gauche, candidat à la présidentielle, et l’ex-Premier ministre de droite qu’une entrée en lice démange. Itinéraires de deux électrons libres.",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/francois-ruffin-dominique-de-villepin-un-debat-dinclassables-20260901_4LMB37GHWFCXXOD4QP2D6WRL4I/",
+      "published": "2026-09-01T18:41:08"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Xavier Niel favori pour racheter le magazine «60 Millions de consommateurs»",
+      "description": "Créée en 1970, la publication, à l’origine de nombreuses enquêtes, a été mise en vente par l’Etat ce printemps.",
+      "link": "https://www.liberation.fr/economie/medias/xavier-niel-favori-pour-racheter-le-magazine-60-millions-de-consommateurs-20260901_25M76S4P6RGX3HU5XGR7KXYY7M/",
+      "published": "2026-09-01T18:22:19"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "François Ruffin, le pari sans les partis pour la présidentielle",
+      "description": "Malgré une certaine popularité et des idées qui alimentent régulièrement le débat public, l’ex-insoumis peine à exister dans une campagne dominée par deux gauches irréconciliables, où les appareils partisans ont repris la main.",
+      "link": "https://www.liberation.fr/politique/francois-ruffin-le-pari-sans-les-partis-pour-la-presidentielle-20260901_5IXMS2EBNRG7XBA55TEQZLFXCI/",
+      "published": "2026-09-01T18:10:20"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Rentrée scolaire : pour Attal et Philippe, des hausses de salaire pour les enseignants à double tranchant",
+      "description": "A l’instar des autres prétendants à l’Elysée en 2027, les deux candidats héritiers du macronisme rivalisent de promesses de revalorisations, à rebours de leur action quand ils étaient Premiers ministres.",
+      "link": "https://www.liberation.fr/politique/rentree-scolaire-pour-attal-et-philippe-des-hausses-de-salaire-pour-les-enseignants-a-double-tranchant-20260901_BXQNKFR7KNF2RN2RBBZXBP4RHM/",
+      "published": "2026-09-01T18:04:05"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Dominique de Villepin à la présidentielle : ira ou n’ira pas ?",
+      "description": "Lancé dans une campagne qui ne dit pas son nom, l’ancien Premier ministre chiraquien ne compte pas officialiser sa candidature avant la Toussaint et parie sur l’effondrement des autres prétendants à l’Elysée pour rallier des soutiens de tous horizons. A l’invitation de «Libération» et de BFMTV, il débat ce mercredi 2 septembre avec François Ruffin.",
+      "link": "https://www.liberation.fr/politique/dominique-de-villepin-a-la-presidentielle-ira-ou-nira-pas-20260901_4VTTXGWTLFDBHHV4SJ4UBN7XMY/",
+      "published": "2026-09-01T18:03:33"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Patrick Bruel, mis en examen dans plusieurs affaires de violences sexuelles, annule finalement sa tournée",
+      "description": "Le chanteur était censé repartir pour 35 dates à partir du 2 octobre, jusqu’au 21 novembre. Cette tournée «est devenue l’incarnation d’un débat qui la dépasse», a-t-il déclaré pour expliquer sa décision.",
+      "link": "https://www.liberation.fr/culture/patrick-bruel-mis-en-examen-dans-des-affaires-de-violences-sexuelles-annonce-lannulation-de-sa-tournee-20260901_W7PD4WCWMVHQHKQCKXPTFU3IIM/",
+      "published": "2026-09-01T17:51:50"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Alejandro Betancourt, sulfureux négociateur du «deal» pétrolier entre les Etats-Unis et le Venezuela",
+      "description": "Homme de confiance de Washington pour relancer l’industrie d’hydrocarbures de Caracas, le businessman proche de la présidente par intérim, Delcy Rodríguez, apparaît, sans être inculpé, dans plusieurs affaires de délinquance financière.",
+      "link": "https://www.liberation.fr/international/amerique/alejandro-betancourt-sulfureux-negociateur-du-deal-petrolier-entre-les-etats-unis-et-le-venezuela-20260901_YKNGLMK7O5CJPFF4HSJYHJYHVQ/",
+      "published": "2026-09-01T17:47:28"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Comment le site de campagne de Jean-Luc Mélenchon a-t-il été qualifié de «dangereux» sur X ?",
+      "description": "Sur le réseau social, pendant quelques heures entre lundi 31 août et mardi 1er septembre, cliquer sur l’URL du site «Mélenchon 2027» renvoyait vers un message qualifiant le lien de «dangereux». Une alerte qui proviendrait de listes de blocage éditées par des entreprises spécialisées.",
+      "link": "https://www.liberation.fr/checknews/comment-le-site-de-campagne-de-jean-luc-melenchon-a-t-il-ete-qualifie-de-dangereux-sur-x-20260901_Q2JGWCVNIBDNXKDICUMOBZGBCU/",
+      "published": "2026-09-01T17:46:58"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Pénalisation du voile par le RN : une proposition contraire à la Constitution",
+      "description": "Selon des spécialistes du droit, la mesure, remise sur la table lundi 31 août par Marine Le Pen, est contraire à la loi fondamentale française. Et contourner son inconstitutionnalité serait complexe et tortueux.",
+      "link": "https://www.liberation.fr/societe/police-justice/penalisation-du-voile-par-le-rn-une-proposition-contraire-a-la-constitution-20260901_METNYUQCYBHVBA3LOBQYAP73TQ/",
+      "published": "2026-09-01T17:43:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Au sommet de l’Organisation de coopération de Shanghai, la Chine joue collectif avant la rencontre Xi-Trump",
+      "description": "Devant les dirigeants russe, indien ou iranien, le président chinois a défendu dans la capitale kirghize sa vision «multipolaire» du monde, tournée vers le «Sud global» et opposée à l’hégémonie américaine, à quelques semaines de sa rencontre prévue avec Donald Trump.",
+      "link": "https://www.liberation.fr/international/asie-pacifique/au-sommet-de-lorganisation-de-cooperation-de-shanghai-la-chine-joue-collectif-avant-la-rencontre-xi-trump-20260901_I7ASUTFR2VAN5BAIU7PIU5Y7I4/",
+      "published": "2026-09-01T17:32:19"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "D’AliExpress à Shein, «l’ultra fast-fashion, ce n’est pas gagnant pour le pouvoir d’achat»",
+      "description": "Sylvain Waserman, patron de l’Agence de l’environnement et de la maîtrise de l’énergie, salue le décret entré en vigueur ce mardi 1er septembre visant à pénaliser les enseignes de mode éphémère.",
+      "link": "https://www.liberation.fr/economie/daliexpress-a-shein-lultra-fast-fashion-ce-nest-pas-gagnant-pour-le-pouvoir-dachat-20260901_7S2TYE6X6ZBPVOO4SR7DAOH54M/",
+      "published": "2026-09-01T17:21:53"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Il faut en finir avec le monopole des marchés financiers sur la dette, par Eric Coquerel",
+      "description": "Face à la dette écologique qui nous étrangle, prévoir le nécessaire vital pour l’été 2027 est essentiel : des investissements massifs et immédiats. Cette levée d’emprunts ne peut passer par le marché, clame le député LFI.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/il-faut-en-finir-avec-le-monopole-des-marches-financiers-sur-la-dette-par-eric-coquerel-20260901_JOIBDBF3N5CPDNUXXDQDCNSTSE/",
+      "published": "2026-09-01T17:06:39"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Les enfants ont passé presque une heure dans l’abri» : à Kyiv, une rentrée au rythme des explosions",
+      "description": "Depuis une semaine, la Russie harcèle la capitale ukrainienne avec des drones à réaction, désormais actifs en plein jour. Pour les élèves et leurs parents, le retour à l’école se fait sous la menace de ces nouveaux engins beaucoup plus rapides.",
+      "link": "https://www.liberation.fr/international/europe/les-enfants-ont-passe-presque-une-heure-a-labri-a-kyiv-une-rentree-au-rythme-des-explosions-20260901_UZNIVI77JFAUVI6W3C234PXXPU/",
+      "published": "2026-09-01T16:56:38"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Gabriel Attal recrute l’ancienne judokate et présentatrice Céline Géraud dans son équipe de campagne",
+      "description": "Selon une information publiée par «Paris Match» ce mardi, le candidat de Renaissance à l’élection présidentielle s’entourera de six porte-parole pour sa campagne, parmi lesquels se trouve l’ex-animatrice de télévision.",
+      "link": "https://www.liberation.fr/politique/gabriel-attal-recrute-lancienne-judokate-et-presentatrice-celine-geraud-dans-son-equipe-de-campagne-20260901_PVIMSXUQ2FDZPO75DBJ4XB5CSU/",
+      "published": "2026-09-01T16:56:13"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Champion de France en titre de basket, l’AS Monaco acte son effondrement et postule pour jouer en troisième division",
+      "description": "Le vice-champion d’Europe 2025, englué dans une terrible crise économique depuis des mois, se résigne à couler, en annonçant ce mardi 1er septembre déposer sa candidature pour la Nationale 1, semi-amatrice.",
+      "link": "https://www.liberation.fr/sports/champion-de-france-en-titre-de-basket-las-monaco-acte-sa-chute-et-postule-pour-jouer-en-troisieme-division-20260901_KX3ETREXP5GNBAOGNFSYCCNXMU/",
+      "published": "2026-09-01T16:53:13"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "L’Allemagne accuse la Russie d’être derrière l’attaque au drone explosif de l’aéroport de Leipzig",
+      "description": "L’enquête autour de la tentative présumée d’attentat dans l’aéroport début août a permis de recueillir assez d’éléments pour que Berlin pointe la responsabilité d’un service de renseignement russe.",
+      "link": "https://www.liberation.fr/international/europe/lallemagne-va-accuser-la-russie-detre-derriere-lattaque-au-drone-explosif-de-laeroport-de-leipzig-20260901_M5TQYFYGLFHAHILKR6HVG2HERE/",
+      "published": "2026-09-01T16:43:45"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Patrick Bruel annule sa tournée, saisine du Conseil d’Etat contre l’Arcom, rentrée scolaire au Porge… L’actu de ce mardi 1er septembre",
+      "description": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "link": "https://www.liberation.fr/international/europe/patrick-bruel-annule-sa-tournee-saisine-du-conseil-detat-contre-larcom-rentree-scolaire-au-porge-lactu-de-ce-mardi-1er-septembre-20260901_BDKIZV7LVBES3PIGHRZMZGV3HM/",
+      "published": "2026-09-01T16:34:12"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Caméra dans la bouche, jet ciblé et IA : Dyson se lance sur le marché saturé de la brosse à dents électrique",
+      "description": "Après dix ans de développement, la société d’électroménager fait son entrée dans l’hygiène dentaire avec la CameraJet, un appareil truffé de technologies. Le tout pour la modique somme de 479 euros.",
+      "link": "https://www.liberation.fr/lifestyle/hightech/camera-dans-la-bouche-jet-cible-et-ia-dyson-se-lance-sur-le-marche-sature-de-la-brosse-a-dents-electrique-20260901_X2LWVOCL7NEPLKNSDMVJ6DVYJY/",
+      "published": "2026-09-01T16:28:35"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Pédocriminalité et inceste : après Lyhanna, la prévention grande oubliée de la réponse politique",
+      "description": "«La Frappe», un film qui s’intéresse au devenir de deux jeunes adultes victimes de leur père, sort ce mercredi au cinéma. A cette occasion, experts, psychiatres, avocats, élus, artistes et victimes dénoncent auprès de «Libé» un aveuglement coupable face au sujet «tabou» des violences intrafamiliales, majoritaires dans les atteintes sexuelles sur mineurs.",
+      "link": "https://www.liberation.fr/societe/police-justice/pedocriminalite-et-inceste-apres-lyhanna-la-prevention-grande-oubliee-de-la-reponse-politique-20260901_K5XEP6D4E5EH5LUGMHMLEKW44M/",
+      "published": "2026-09-01T16:12:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«The Opera !», ni Orphée ni à faire",
+      "description": "Les cinéastes italiens Davide Livermore et Paolo Gep Cucco invitent une brochette de stars dans un exercice de style musical clinquant, aux airs de pub de luxe.",
+      "link": "https://www.liberation.fr/culture/cinema/the-opera-ni-orphee-ni-a-faire-20260901_EIBMP46L2VCBJBRJCFI6DRCUTE/",
+      "published": "2026-09-01T16:10:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Interdiction du voile islamique : le RN retourne à la ligne dure au risque de la rediabolisation",
+      "description": "Alors qu’elle avait tergiversé sur cette mesure lors de la dernière présidentielle, Marine Le Pen l’a remise à l’ordre du jour lundi 31 août, souhaitant en faire un sujet de référendum. En interne, certains craignent qu’elle ne re-diabolise le parti d’extrême droite.",
+      "link": "https://www.liberation.fr/politique/interdiction-du-voile-islamique-le-rn-retourne-a-la-ligne-dure-au-risque-de-la-rediabolisation-20260901_I4KTB26RARCPXCWKQE5KUCF5PU/",
+      "published": "2026-09-01T15:56:52"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Salvation», sur les hauteurs du mal dans le Kurdistan turc",
+      "description": "Emin Alper signe une fable politique dans un village du Sud-Est kurde de Turquie, gangrené par la peur et la paranoïa, dont les échos contemporains sont vertigineux.",
+      "link": "https://www.liberation.fr/culture/cinema/salvation-sur-les-hauteurs-du-mal-20260901_AKSLFIXQCVHKZEY55CSHWODGDA/",
+      "published": "2026-09-01T15:45:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "A Montreuil, la Réserve des arts ferme ses portes ce mardi : un «immense gâchis»",
+      "description": "La recyclerie associative, qui revendait décors ressuscités et rebuts de défilé de mode, a été placée en liquidation judiciaire. Les représentant syndicaux pointent du doigt la mauvaise gestion de la direction, quand celle-ci déplore la précarité qui traverse l’économie sociale et solidaire.",
+      "link": "https://www.liberation.fr/culture/a-montreuil-la-reserve-des-arts-ferme-ses-portes-ce-mardi-un-immense-gachis-20260901_SMBPLJ2BYZFQTM6HFTDV2FVFTM/",
+      "published": "2026-09-01T15:33:47"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "L’ancien ministre de François Mitterrand et Lionel Jospin, Charles Josselin, est mort",
+      "description": "L’élu socialiste a occupé pendant plusieurs décennies des responsabilités au niveau national et local. Il avait notamment présidé pendant plus de vingt ans le conseil général des Côtes-d’Armor.",
+      "link": "https://www.liberation.fr/politique/lancien-ministre-de-francois-mitterrand-et-lionel-jospin-charles-josselin-est-mort-20260901_OSR74SLRN5CL3NOAJJY5X5UBOM/",
+      "published": "2026-09-01T15:27:43"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le retour de la chaleur en France se précise pour jeudi, avec des températures possiblement «inédites» dans le Sud",
+      "description": "Météo France évoque un épisode «notable» pour la saison, mais loin de l’intensité des vagues de cet été, avec une vigilance jaune canicule attendue plutôt qu’une alerte rouge comme à la fin du mois de juin.",
+      "link": "https://www.liberation.fr/environnement/le-retour-de-la-chaleur-en-france-se-precise-pour-jeudi-avec-des-temperatures-possiblement-inedites-dans-le-sud-20260901_RDYE2SVPAZD7NHBVMFLTKULWF4/",
+      "published": "2026-09-01T15:27:12"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Au Royaume-Uni, le «retour» de la tapisserie de Bayeux suscite un «intérêt ahurissant»",
+      "description": "Après plus de 900 ans loin de ses terres d’origine, le chef-d’œuvre médiéval est exposé au British Museum. L’événement, inauguré ce mercredi en présence d’Emmanuel Macron, enthousiasme les Anglais.",
+      "link": "https://www.liberation.fr/culture/arts/au-royaume-uni-le-retour-de-la-tapisserie-de-bayeux-suscite-un-interet-ahurissant-20260901_24P3JWO3JJCC7LT4KM4RREW56I/",
+      "published": "2026-09-01T15:18:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Pyrénées-Orientales : deux morts dans un accident de bouée tractée",
+      "description": "L’une des victimes du drame qui s’est déroulé au large de Saint-Cyprien est le pilote de l’embarcation qui tractait la bouée. Sans pilote, le bateau aurait ensuite percuté les passagers, tuant une femme et blessant grièvement un homme.",
+      "link": "https://www.liberation.fr/societe/pyrenees-orientales-deux-morts-dans-un-accident-de-bouee-tractee-20260901_S52NA6VIZ5HARNGRVDSX3PTWI4/",
+      "published": "2026-09-01T14:28:53"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Derrière l’énigme de la destruction de millions de livres rares, l’ombre de l’intelligence artificielle",
+      "description": "Au cours de l’été, plusieurs libraires, des Pays-Bas à la Nouvelle-Zélande, ont reçu de mystérieuses commandes d’ouvrages rares ou anciens. Elles pourraient avoir été passées par des entreprises d’IA prêtes à les broyer pour entraîner leurs modèles.",
+      "link": "https://www.liberation.fr/economie/economie-numerique/derriere-lenigme-de-la-destruction-de-millions-de-livres-rares-lombre-de-lintelligence-artificielle-20260901_YKV5DB4LMBHDHCBBM23AI3S2XY/",
+      "published": "2026-09-01T14:25:15"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Il était juste content d’aller à l’école» : au Porge, la rentrée comme premier jour de l’après-incendie",
+      "description": "Dans la commune sinistrée par le mégafeu de Gironde, 248 enfants ont retrouvé leur école mardi 1er septembre avec leurs parents, conviés lors d’un temps d’accueil, sous la protection des policiers.",
+      "link": "https://www.liberation.fr/societe/education/il-etait-juste-content-daller-a-lecole-au-porge-la-rentree-comme-premier-jour-de-lapres-incendie-20260901_JNHNTUTNCRCY3ONUFSXZKU2SZA/",
+      "published": "2026-09-01T14:24:05"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Dans «Retour avant 15 heures», Gaël Lépingle déchiffre un père",
+      "description": "Grâce à la découverte de documents où son père consignait les détails de sa vie quotidienne dans un lotissement de banlieue, le cinéaste signe un docu-fiction burlesque et bouleversant sur le temps qui passe, où dialoguent l’ordinaire, le minuscule et l’infini.",
+      "link": "https://www.liberation.fr/culture/cinema/dans-retour-avant-15-heures-gael-lepingle-dechiffre-un-pere-20260901_ZPCUZUATPNAUDGLJAPOV4AZX3U/",
+      "published": "2026-09-01T14:20:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Cisjordanie, des colons israéliens tentent d’incendier une mosquée",
+      "description": "Selon le ministère palestinien des Affaires religieuses, c’est le treizième lieu de culte visé depuis le début de l’année, alors que la police a annoncé l’arrestation de huit jeunes soupçonnés d’agressions à Hébron.",
+      "link": "https://www.liberation.fr/international/moyen-orient/en-cisjordanie-des-colons-israeliens-tentent-dincendier-une-mosquee-20260901_TBNGFZ52TZAX3MLP7C45OADFZU/",
+      "published": "2026-09-01T14:10:09"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Sauvons l’école publique, par Raphaël Glucksmann",
+      "description": "Le fondateur de Place publique, candidat à l’élection présidentielle de 2027 dans le cadre de la primaire organisée avec le PS, veut mettre au cœur de ses propositions éducatives la lutte contre les fractures sociales.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/sauvons-lecole-publique-par-raphael-glucksmann-20260901_PRYPIERBW5CAPJEQJ2AREILB7Q/",
+      "published": "2026-09-01T14:01:47"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le parquet de Paris requiert le renvoi pour viol devant la cour criminelle de l’avocat Juan Branco",
+      "description": "Après cinq ans d’une enquête sous haute tension, durant laquelle le conseil de 37 ans a été suspendu, le ministère public a retenu contre lui le viol dénoncé par une étudiante en 2021. Les accusations de deux autres femmes, pour un viol, ainsi qu’une agression sexuelle, ont en revanche été écartées à ce stade.",
+      "link": "https://www.liberation.fr/societe/police-justice/le-parquet-de-paris-requiert-le-renvoi-pour-viol-devant-la-cour-criminelle-de-lavocat-juan-branco-20260901_7YQRJKTKKZE67G3NTU6RUGLVSU/",
+      "published": "2026-09-01T14:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Vincent Bolloré attaque en justice les magistrats qui l’ont renvoyé au tribunal dans une affaire de corruption",
+      "description": "Pour éloigner son procès prévu en décembre au tribunal de Paris, le milliardaire d’extrême droite s’en prend aux juges qui ont décidé de son renvoi pour son soutien supposé au président du Togo en échange de la gestion du port de Lomé.",
+      "link": "https://www.liberation.fr/societe/police-justice/vincent-bollore-attaque-en-justice-les-magistrats-qui-lont-renvoye-au-tribunal-dans-une-affaire-de-corruption-20260901_B2V2DL2FCFAGFJ423SWQM7PNC4/",
+      "published": "2026-09-01T13:58:39"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«La Frappe» avec Bastien Bouillon : une famille vacille sous le poids de l’inceste",
+      "description": "Julien Gaspar-Oliveri filme le déni et traumatisme de deux jeunes adultes sous l’emprise du père. Un premier film en forme de drame oppressant.",
+      "link": "https://www.liberation.fr/culture/cinema/la-frappe-avec-bastien-bouillon-la-famille-vacille-20260901_RNL3EOVFBREQ3OA3BE5T5GUO7U/",
+      "published": "2026-09-01T13:57:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Juliette Poggioli et Thomas Papavoine, parents d’Elio : substantifique moelle",
+      "description": "Le couple s’est démené pour trouver un donneur de moelle osseuse pour sauver son fils de 5 ans atteint d’une leucémie.",
+      "link": "https://www.liberation.fr/societe/juliette-poggioli-et-thomas-papavoine-parents-delio-substantifique-moelle-20260901_YLDANBF4CVEF7DABJBV25A45DE/",
+      "published": "2026-09-01T13:35:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Il faut sauver le kakapo» : comment des scientifiques néo-zélandais ont préservé le plus gros perroquet du monde, menacé d’extinction",
+      "description": "On compte désormais 325 individus de cette espèce qui en comptait à peine 50 il y a trente ans. Le résultat d’une opération scientifique qui n’a pas lésiné sur les moyens.",
+      "link": "https://www.liberation.fr/environnement/biodiversite/il-faut-sauver-le-kakapo-comment-des-scientifiques-neo-zelandais-ont-preserve-le-plus-gros-perroquet-du-monde-menace-dextinction-20260901_T3C4MFFK55FXPMWRTSPMXG66LQ/",
+      "published": "2026-09-01T12:49:53"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Education : fournitures gratuites, salaires revalorisés, adaptation à la chaleur… LFI détaille son «plan d’urgence»",
+      "description": "Le député insoumis Paul Vannier a présenté ce mardi les priorités de son groupe à l’Assemblée nationale en faveur de l’école, qu’il juge «au bord de l’effondrement». Un plan financé par des réformes fiscales notamment sur l’héritage.",
+      "link": "https://www.liberation.fr/politique/elections/education-fournitures-gratuites-salaires-revalorises-adaptation-a-la-chaleur-lfi-detaille-son-plan-durgence-20260901_P6K6YXCWTFFEHC3RG7GV5YNYBY/",
+      "published": "2026-09-01T12:36:14"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Ce n’est pas le moment de normaliser la Russie» : l’Union européenne critique la présence d’un ministre russe au G20 Finances",
+      "description": "A Asheville, en Caroline du Nord, où se tient le sommet des ministres des Finances organisé par les Etats-Unis, le commissaire européen à l’Economie, Valdis Dombrovskis s’est insurgé de la présence d’Anton Silouanov.",
+      "link": "https://www.liberation.fr/international/amerique/ce-nest-pas-le-moment-de-normaliser-la-russie-lunion-europeenne-critique-la-presence-dun-ministre-russe-au-g20-finances-20260901_2LRGNHWZUJD7RNQJAE2GTM3X5A/",
+      "published": "2026-09-01T12:35:25"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Etats-Unis : après des mois de tension, le secrétaire américain à l’Armée de terre démissionne",
+      "description": "La Maison Blanche a confirmé ce lundi 31 août le dépar de Dan Driscoll, après plusieurs mois de relations dégradées avec le chef du Pentagone Pete Hegseth. Son départ ajoute à l’instabilité qui frappe la direction de l’armée de terre américaine.",
+      "link": "https://www.liberation.fr/international/amerique/etats-unis-apres-des-mois-de-tension-le-secretaire-americain-a-larmee-de-terre-demissionne-20260901_AXOCYJKZEZDWZK7HY23KJZ2NJM/",
+      "published": "2026-09-01T12:20:03"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Manque de pluralisme sur CNews et Europe 1 : des universitaires déposent un nouveau recours devant le Conseil d’Etat contre l’Arcom",
+      "description": "Après une première requête rejetée en mars, 71 spécialistes du droit réclament de nouveau au Conseil d'Etat d’agir contre les deux antennes de Vincent Bolloré dans la perspective de la présidentielle.",
+      "link": "https://www.liberation.fr/economie/medias/manque-de-pluralisme-sur-cnews-et-europe-1-nouveau-recours-duniversitaires-devant-le-conseil-detat-contre-larcom-20260901_3CLWPUBAARCVRI3H4OOFTSJOFI/",
+      "published": "2026-09-01T11:15:48"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Scandale de la Fifa : l’investisseur Joshua Kushner, frère du gendre de Trump, regrette d’avoir suivi Infantino",
+      "description": "L’homme d’affaires américain, personnage de premier plan dans le scandale estival du football mondial, a reconnu qu’il «ne serait pas engagé» dans le plan mort-né d’ouvrir la Coupe du monde à des investisseurs privés s’il avait su qu’il occasionnerait une telle révolte.",
+      "link": "https://www.liberation.fr/sports/football/scandale-de-la-fifa-linvestisseur-joshua-kushner-frere-du-gendre-de-trump-regrette-davoir-suivi-infantino-20260901_Q7LPGBGOYRDNHCANCRTZZH6VN4/",
+      "published": "2026-09-01T10:56:51"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Olivier Dard, historien : «Ce qui perdure dans l’extrême droite, c’est le primat de la nation, de l’enracinement et la remise en cause des élites»",
+      "description": "Légitimisme, «droite révolutionnaire», fascisme, populisme lepénien… Le spécialiste du nationalisme français publie une somme sur l’évolution de ce courant politique historiquement marqué par la division, la pluralité des chefs et de «boutiques».",
+      "link": "https://www.liberation.fr/politique/olivier-dard-historien-ce-qui-perdure-dans-lextreme-droite-cest-le-primat-de-la-nation-de-lenracinement-et-la-remise-en-cause-des-elites-20260901_QOX3ONCVRRCJZFIRADVPI4QZLE/",
+      "published": "2026-09-01T10:51:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Avec 38 % de parts de marché, les voitures 100 % électrique sont la motorisation la plus vendue en France en août",
+      "description": "Battant record sur record depuis le début d’année, les véhicules à zéro émission ont poursuivi leur progression le mois dernier, dans un marché de l’automobile en très bonne santé. Une dynamique qui profite notamment à Renault et Tesla.",
+      "link": "https://www.liberation.fr/economie/transports/avec-38-de-parts-de-marche-les-voitures-100-electrique-sont-la-motorisation-la-plus-vendue-en-france-en-aout-20260901_ECAMKBXHM5D2HICUN5JTZBVFQU/",
+      "published": "2026-09-01T10:43:29"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Plafonnement des arrêts maladie : ces autres pays européens qui serrent la vis",
+      "description": "",
+      "link": "https://www.lexpress.fr/sciences-sante/sante/plafonnement-des-arrets-maladie-ces-autres-pays-europeens-qui-serrent-la-vis-2W2OAT5A2JHB3OPDBQY5UIRLUE/",
+      "published": "2026-09-01T18:17:03"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "L'Allemagne accuse la Russie d'être responsable de l'attaque au drone de l'aéroport de Leipzig",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/lallemagne-accuse-la-russie-detre-responsable-de-lattaque-au-drone-de-laeroport-de-leipzig-YDZOQKHA6VAGRKTCCSEWE3POGA/",
+      "published": "2026-09-01T17:13:11"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Baptiste Touverey : \"Les Français sont uniques, et nous devrions être fiers d'être comme nous sommes\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/societe/baptiste-touverey-les-francais-sont-uniques-et-nous-devrions-etre-fiers-detre-comme-nous-sommes-HMM3FJJOANDOPJVOTI4XHKU5CM/",
+      "published": "2026-09-01T16:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Les CRS frappent sur tout ce qui bouge\" : de Gaulle, la Constitution de 1958 et l'émeute oubliée",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/les-crs-frappent-sur-tout-ce-qui-bouge-de-gaulle-la-constitution-de-1958-et-lemeute-oubliee-EKCP7XNPQBHL7GWRLYS42VMM4A/",
+      "published": "2026-09-01T15:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Face à l'enlisement de la guerre en Ukraine, Poutine tenté par la fuite en avant",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/face-a-lenlisement-de-la-guerre-en-ukraine-poutine-tente-par-la-fuite-en-avant-YZWZ72O2ABCJDFZSZ3K5M5KX7U/",
+      "published": "2026-09-01T15:17:34"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon, le \"vote inutile\" et le but contre son camp du PS",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/presidentielle-2027-jean-luc-melenchon-le-vote-inutile-et-le-but-contre-son-camp-du-ps-TRV6LFG33ZAJRJR7AOCN56NLZY/",
+      "published": "2026-09-01T15:06:26"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Interdiction des portables au lycée : une mesure à l'efficacité limitée",
+      "description": "",
+      "link": "https://www.lexpress.fr/societe/education/interdiction-des-portables-au-lycee-une-mesure-a-lefficacite-limitee-MWBZJ6LVOBC2XIXM3RF5SGJOP4/",
+      "published": "2026-09-01T11:54:02"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Guerre en Iran : pourquoi Donald Trump n'arrivera pas à faire plier la Chine",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/guerre-en-iran-pourquoi-donald-trump-narrivera-pas-a-faire-plier-la-chine-JDZQVYO6BVBINMKMBCMTWEHLBQ/",
+      "published": "2026-09-01T09:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Guerre en Ukraine : l'invitation du ministre des Finances russe aux Etats-Unis fait des remous",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/guerre-en-ukraine-linvitation-du-ministre-des-finances-russe-aux-etats-unis-fait-des-remous-JCX3QYEQGNHDPHFKW3TWKHJJWQ/",
+      "published": "2026-09-01T09:18:10"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "États-Unis : un haut responsable de l'armée claque la porte sur fond de tensions avec Pete Hegseth",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/amerique/etats-unis-un-haut-responsable-de-larmee-claque-la-porte-sur-fond-de-tensions-avec-pete-hegseth-GQYU5NO4DZDDVOQY5ATEUKFI2U/",
+      "published": "2026-09-01T08:42:31"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"On change de monde\" : les CGO, ces experts en géopolitique qui parlent à l’oreille des grands patrons",
+      "description": "",
+      "link": "https://www.lexpress.fr/economie/emploi/management/on-change-de-monde-les-cgo-ces-experts-en-geopolitique-qui-parlent-a-loreille-des-grands-patrons-6LFWNJXRYJHRBGNFMW26WC4S5M/",
+      "published": "2026-09-01T05:45:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Présidentielle 2027 : Jordan Bardella, un poison lent pour Marine Le Pen",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/presidentielle-2027-jordan-bardella-un-poison-lent-pour-marine-le-pen-XHKIZAYMJ5ABNFIK7O7RPSGSCU/",
+      "published": "2026-09-01T04:15:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Mort d'Edouard Balladur : cette rencontre secrète qui dit tout de l'ancien Premier ministre",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/mort-dedouard-balladur-cette-rencontre-secrete-qui-dit-tout-de-lancien-premier-ministre-EXUJUWV3EBFNBLGMLSOM3N6YTQ/",
+      "published": "2026-09-01T04:01:21"
+    }
+  ]
 }
