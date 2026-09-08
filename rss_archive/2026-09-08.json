@@ -1,5 +1,923 @@
 {
   "date": "2026-09-08",
-  "count": 0,
-  "articles": []
+  "count": 131,
+  "articles": [
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Je ne veux plus que mon fils vive ça\" : au côté des habitants de Kiev, réfugiés dans le métro en pleine attaque russe",
+      "description": "Kiev a vécu une nouvelle nuit de peur, du lundi au mardi 8 septembre, sous les missiles et les drones russes. Au moins trois morts sont à déplorer, alors que les négociateurs américains venaient de repartir. Une nouvelle fois, les Ukrainiens se sont réfugiés dans le métro, exaspérés après plus de quatre ans de conflit. Nos envoyés spéciaux ont partagé leur attente et leur angoisse.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/je-ne-veux-plus-que-mon-fils-vive-ca-au-cote-des-habitants-de-kiev-refugies-dans-le-metro-en-pleine-attaque-russe_8183753.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T20:32:06"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Une centaine de responsables socialistes appellent à ouvrir la primaire PS Place publique, entre autres à François Ruffin",
+      "description": "Dans une lettre ouverte consultée ce mardi par franceinfo, des membres du Parti socialiste plaident pour élargir la primaire de la gauche PS-Place publique à, notamment, Marine Tondelier et François Ruffin. Ils appellent à ne pas avoir \"peur de la démocratie\".",
+      "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/info-franceinfo-une-centaine-de-responsables-socialistes-appellent-a-ouvrir-la-primaire-ps-place-publique-entre-autres-a-francois-ruffin_8183657.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T18:17:24"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"J'avais une masculinité toxique\" : au procès Aramburu, la personnalité des deux principaux accusés débattue sous le prisme de la violence",
+      "description": "Au deuxième jour du procès de Loïk Le Priol et Romain Bouvier devant la cour d'assises de Paris, les débats se sont concentrés sur le passé des deux hommes, marqué par la violence, y compris dans leur amitié.",
+      "link": "https://www.franceinfo.fr/faits-divers/justice-proces/j-avais-une-masculinite-toxique-au-proces-aramburu-la-personnalite-des-deux-principaux-accuses-debattue-sous-le-prisme-de-la-violence_8183108.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T20:15:50"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le Losc débute mal sa campagne de Ligue des champions après avoir été renversé par le Betis à domicile (2-3)",
+      "description": "Alors qu’ils ont mené deux fois au score, les Dogues se sont inclinés contre les Sévillans pour la première journée de la phase de ligue, mardi (2-3).",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/le-losc-debute-mal-sa-campagne-de-ligue-des-champions-apres-avoir-ete-renverse-par-le-betis-a-domicile_8183663.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T20:57:50"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump",
+      "description": "Cette initiative de la série satirique tourne en dérision les velléités du président américain de rebaptiser des lieux à travers le monde par des décisions unilatérales.",
+      "link": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T21:53:00"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Nous étions en droit d'attendre une réforme ambitieuse\" : en grève, les pompiers expriment leur colère après un été marqué par les incendies",
+      "description": "Après un été marqué par de nombreux incendies, les pompiers restent mobilisés sur le terrain. Entre fatigue, manque d'effectifs et conditions difficiles, ils réclament davantage de moyens. Alors qu'une réforme vient d'être présentée par le ministère de l'Intérieur, les syndicats jugent les mesures proposées insuffisantes.",
+      "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pompiers-en-pleine-greve-la-colere-monte-apres-un-ete-marque-par-les-incendies_8183729.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T20:21:34"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le géant de l'intelligence artificielle OpenAI dit avoir résolu l'équation de Navier-Stokes, un problème de maths crucial, en seulement quelques jours",
+      "description": "\"C'est une étape significative de la recherche IA\", a déclaré le responsable de la recherche chez OpenAI, lors d'un point de presse.",
+      "link": "https://www.franceinfo.fr/internet/le-geant-de-l-intelligence-artificielle-openai-dit-avoir-resolu-l-equation-de-navier-stokes-un-probleme-de-maths-crucial-en-seulement-quelques-jours_8183789.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T22:09:42"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Après une attaque d'ampleur des rebelles yéménites en Arabie saoudite, l'UE dénonce \"une escalade dangereuse\"",
+      "description": "Ryad a dénoncé une série de frappes des Houthis du Yémen voisin, et promis de riposter à ce qui constitue la plus importante attaque de ces rebelles pro-iraniens contre le territoire saoudien depuis plusieurs années.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/apres-une-attaque-d-ampleur-des-rebelles-yemenites-en-arabie-saoudite-l-ue-denonce-une-escalade-dangereuse_8183744.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T21:07:53"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Football : la Fédération espagnole s'engage à faciliter la congélation d'ovocytes de ses internationales",
+      "description": "La RFEF a annoncé un \"accord novateur\", mardi, pour accompagner les joueuses de la sélection décidant de donner la vie.",
+      "link": "https://www.franceinfo.fr/sports/foot/football-la-federation-espagnole-s-engage-a-faciliter-la-congelation-d-ovocytes-de-ses-internationales_8183681.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T18:39:44"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Des ONG et des experts demandent à l'UE des \"restrictions proportionnées\" des réseaux sociaux pour les plus jeunes, plutôt qu'une interdiction",
+      "description": "Alors que la présidente de la Commission européenne doit s'exprimer sur le sujet le 16 septembre, les partisans et les opposants de l'interdiction de l'accès aux enfants et adolescents argumentent auprès d'Ursula van der Leyen.",
+      "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/des-ong-et-des-experts-demandent-a-l-ue-des-restrictions-proportionnees-des-reseaux-sociaux-pour-les-plus-jeunes-plutot-qu-une-interdiction_8183690.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T19:35:08"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Les colonies israéliennes en Cisjordanie sont une \"menace directe et urgente\" pour la solution à deux Etats, alertent les dirigeants français, britannique et canadien",
+      "description": "Dans une déclaration conjointe, Emmanuel Macron, Andy Burnham et Mark Carney annoncent qu'ils \"coprésideront une réunion à l'Assemblée générale des Nations unies ce mois-ci\" sur le sujet.",
+      "link": "https://www.franceinfo.fr/monde/moyen-orient/les-colonies-israeliennes-en-cisjordanie-sont-une-menace-directe-et-urgente-pour-la-solution-a-deux-etats-alertent-les-dirigeants-francais-britannique-et-canadien_8183555.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T19:47:15"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Fausses informations : des ateliers proposés aux seniors pour apprendre à détecter les pièges sur Internet",
+      "description": "Les réseaux sociaux changent notre façon de nous informer, et cela concerne toutes les générations. Vous êtes nombreux à y retrouver vos proches, à partager des articles, mais comment savoir à quoi se fier ? Une étude a montré que les plus de 65 ans partageaient près de sept fois plus de fausses informations que les jeunes adultes. Des formations les aident à repérer les pièges et à comprendre ce qui apparaît sur leur écran.",
+      "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/fausses-informations-des-ateliers-proposes-aux-seniors-pour-apprendre-a-detecter-les-pieges-sur-internet_8183720.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T21:31:26"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"C'est vraiment un désastre\", se désole l'arrière-arrière-petite-fille du peintre Auguste Renoir après des vols de tableaux au musée de Cagnes-sur-Mer",
+      "description": "Parmi les œuvres dérobées mardi matin, se trouve le portrait de \"Madame Colonna Romano\", un tableau \"d'une grande valeur et bien connue de l'œuvre de Renoir\", explique Pauline Renoir.",
+      "link": "https://www.franceinfo.fr/faits-divers/c-est-vraiment-un-desastre-se-desole-l-arriere-arriere-petite-fille-du-peintre-auguste-renoir-apres-des-vols-de-tableaux-au-musee-de-cagnes-sur-mer_8183696.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T18:51:03"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le mouvement hindou Baps n'a pas demandé \"un traitement différencié entre les femmes et les hommes\", lors de la visite de sa délégation à la tour Eiffel",
+      "description": "Les salariés du monument le plus connu de Paris ont fermé l'accès à la tour lundi afin de dénoncer des \"consignes\" ayant conduit à l'exclusion du personnel féminin lors d'une visite de la délégation de ce groupe religieux samedi.",
+      "link": "https://www.franceinfo.fr/societe/religion/le-mouvement-hindou-baps-n-a-pas-demande-un-traitement-differencie-entre-les-femmes-et-les-hommes-lors-de-la-visite-de-sa-delegation-a-la-tour-eiffel_8183684.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T18:09:29"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Quatre tableaux volés, dont deux retrouvés dans le jardin, neuf millions d'euros de préjudice… Ce que l'on sait du cambriolage au musée Renoir de Cagnes-sur-Mer",
+      "description": "Les voleurs ont pénétré par effraction dans la dernière demeure du peintre impressionniste peu avant 6 heures, et ont réussi à prendre la fuite. Une enquête est ouverte.",
+      "link": "https://www.franceinfo.fr/faits-divers/quatre-tableaux-voles-dont-deux-retrouves-dans-le-jardin-neuf-millions-d-euros-de-prejudice-ce-que-l-on-sait-du-cambriolage-au-musee-renoir-de-cagnes-sur-mer_8182817.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T16:05:44"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Donald Trump s'approprie les Antilles françaises dans une nouvelle carte polémique qui fait réagir les Outre-mer",
+      "description": "Une nouvelle carte publiée par Donald Trump sur son réseau Truth Social fait beaucoup réagir : on y voit notamment la Martinique, la Guadeloupe et Saint-Pierre-et-Miquelon représentées sous le drapeau américain. Après avoir rebaptisé le golfe du Mexique et le lac Ontario, le président américain s'approprie donc désormais en images des territoires français.",
+      "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-approprie-les-antilles-francaises-dans-une-nouvelle-carte-polemique-qui-fait-reagir-les-outre-mer_8183699.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T19:17:30"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La Ville de New York a dissimulé des informations sur la toxicité de l'air après le 11-Septembre, déclare le maire Zohran Mamdani",
+      "description": "Le programme fédéral mis en place pour assurer le suivi médical des New-Yorkais estime que plus de 9 400 personnes ont succombé à des maladies liées à cette exposition, en plus des 2 977 personnes tuées aux Etats-Unis le jour des attentats.",
+      "link": "https://www.franceinfo.fr/monde/usa/la-ville-de-new-york-a-dissimule-des-informations-sur-la-toxicite-de-l-air-apres-le-11-septembre-declare-le-maire-zohran-mamdani_8183660.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T19:23:44"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Au Royaume-Uni, plus de 1 000 vols annulés dans plusieurs grandes villes après un \"problème technique\" du contrôle aérien",
+      "description": "Les aéroports londoniens d'Heathrow et Gatwick, mais aussi ceux de Liverpool, Birmingham ou Edimbourg font partie des sites britanniques concernés.",
+      "link": "https://www.franceinfo.fr/economie/transports/au-royaume-uni-de-nombreux-vols-annules-apres-un-probleme-technique-du-controle-aerien_8183633.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T20:33:15"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Cargos échoués, marins tués : la Turquie, victime collatérale de la guerre entre l'Ukraine et la Russie",
+      "description": "Depuis le mois de mai, en mer Noire, les attaques de navires par des drones, russes comme ukrainiens, se comptent par dizaines. Rien qu'au cours du mois de juillet, au moins 23 marins turcs auraient été tués au cours de ces attaques.",
+      "link": "https://www.franceinfo.fr/monde/turquie/cargos-echoues-marins-tues-la-turquie-victime-collaterale-de-la-guerre-entre-l-ukraine-et-la-russie_8183165.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T15:26:16"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Iran affirme avoir saisi un drone sous-marin américain dans le détroit d'Ormuz",
+      "description": "Selon les Gardiens de la Révolution, il s'agit de \"l'un des drones sous-marins les plus modernes de l'armée américaine\". Le commandement américain évoque pour sa part un \"modèle ancien\".",
+      "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-iran-affirme-avoir-saisi-un-drone-sous-marin-americain-dans-le-detroit-d-ormuz_8183429.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T19:05:45"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Qui est BAPS, ce groupe hindou dont la visite de la tour Eiffel a provoqué une grève lundi ?",
+      "description": "Une partie du personnel du monument s'est mise en grève pour protester contre l'éviction des femmes lors de la visite d'une délégation hindoue samedi à la tour Eiffel. De son côté, l'organisation BAPS se défend d'avoir voulu une telle exclusion.",
+      "link": "https://www.franceinfo.fr/societe/religion/qui-est-baps-ce-groupe-hindou-dont-la-visite-de-la-tour-eiffel-a-provoque-une-greve-lundi_8183228.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T15:03:18"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Ballon d'or 2026 : cinq Français, trois Françaises, neuf joueurs du PSG... Découvrez la liste des nommés hommes et femmes",
+      "description": "Pour la première fois de son histoire, la cérémonie aura lieu en dehors de la capitale parisienne, à Londres, le 26 octobre prochain.",
+      "link": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-renard-malard-bacha-mbappe-olise-dembele-yamal-kvaratskhelia-decouvrez-la-liste-des-nommes-hommes-et-femmes_8183132.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T15:00:35"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Pourquoi le niveau des élèves britanniques est-il meilleur que celui des Français ?",
+      "description": "Selon l’enquête PISA, les élèves britanniques obtiennent de meilleurs résultats que les Français dans les trois matières évaluées. Autonomie des enseignants, formation continue, soutien aux établissements difficiles : leur système scolaire mise sur une recette qui semble porter ses fruits.",
+      "link": "https://www.franceinfo.fr/societe/education/pourquoi-le-niveau-des-eleves-britanniques-est-il-meilleur-que-celui-des-francais_8183156.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T14:14:35"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Primaire de la gauche : le PS se mobilise pour attirer les électeurs",
+      "description": "Le PS a détaillé les modalités d'organisation de la primaire PS Place publique.",
+      "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/primaire-du-ps-le-parti-tente-de-booster-la-participation_8183483.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T17:16:15"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection",
+      "description": "Le candidat dans la course à l'Elysée convie ses principaux concurrents à droite non seulement en vue de l'élection présidentielle mais aussi des élections législatives dans l'optique de \"présenter 577 candidats uniques\", issus d'un même camp, selon l'entourage du maire du Havre. Une proposition rejetée par Bruno Retailleau.",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-invite-gabriel-attal-bruno-retailleau-et-francois-bayrou-a-une-rencontre-en-novembre-pour-evoquer-la-presidentielle-2027-et-l-apres-election_8183582.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T17:57:05"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Dix coups de feu portés en moins de 48 secondes : la nuit où l'ex-rugbyman Federico Martin Aramburu a été abattu à Paris par des membres de l'ultradroite",
+      "description": "Quatre personnes sont jugées du 7 au 25 septembre à Paris après la mort de l'ancien international argentin. Il y a quatre ans et demi, il a été tué après une soirée marquée par une bagarre, des tirs et une traque dans le quartier de Saint-Germain-des-Prés.",
+      "link": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/recit-dix-coups-de-feu-portes-en-moins-de-48-secondes-la-nuit-ou-l-ex-rugbyman-federico-martin-aramburu-a-ete-abattu-a-paris_8161016.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-08T08:48:11"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "PISA 2025 : le récit du « déclinisme français » de retour dans la présidentielle",
+      "description": "Les mauvais résultats de la France à l’enquête PISA – qui mesure le niveau scolaire des élèves de 15 ans – relancent les interrogations sur l’état du pays. Le thème du « déclin » de la France, bien qu’il ne soit pas nouveau, risque de s’installer au cœur de l’élection présidentielle de 2027.",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/08/pisa-2025-le-recit-du-declinisme-francais-de-retour-dans-la-presidentielle_6768438_823448.html",
+      "published": "2026-09-08T17:00:14"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Face à SpaceX, l’entrepreneuse française Hélène Huby incarne l’ambition du spatial européen",
+      "description": "L’entrepreneuse française de 48 ans, au pedigree prestigieux, a fondé The Exploration Company, une start-up franco-allemande privée spécialiste du transport spatial, qui se positionne en challenger de la société d’Elon Musk.",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/08/a-la-tete-de-la-start-up-franco-allemande-the-exploration-company-helene-huby-incarne-l-ambition-du-spatial-europeen-face-a-spacex_6768417_3234.html",
+      "published": "2026-09-08T16:00:01"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "« Le Tsar en personne » : « Le Monde » publie les extraits de l’enquête choc sur le quart de siècle de Vladimir Poutine au pouvoir",
+      "description": "Mikhaïl Roubine et Roman Badanine décryptent les mensonges du régime de Vladimir Poutine et la réalité du pouvoir d’un président sans idéologie, au cynisme sans limite, dans leur livre-enquête (en librairie le 17 septembre). Critique et larges extraits.",
+      "link": "https://www.lemonde.fr/livres/article/2026/09/08/le-tsar-en-personne-le-monde-publie-les-extraits-de-l-enquete-choc-sur-le-quart-de-siecle-de-vladimir-poutine-au-pouvoir_6768394_3260.html",
+      "published": "2026-09-08T14:15:49"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "François Bayrou jugé en appel dans l’affaire des assistants parlementaires européens du MoDem",
+      "description": "Relaxé en 2024, l’ancien premier ministre comparaît pour près d’un mois à la cour d’appel de Paris au côté de dix autres prévenus pour détournement de fonds publics.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/08/francois-bayrou-juge-en-appel-dans-l-affaire-des-assistants-parlementaires-europeens-du-modem_6768404_3224.html",
+      "published": "2026-09-08T15:00:15"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "L’avocat François Zimeray réaffirme l’importance des droits de l’homme, érodés par « le souffle inquiétant de l’air du temps »",
+      "description": "Le spécialiste des droits humains, ancien diplomate, signe, dans la collection « Tracts » de Gallimard, un texte percutant sur le recul des grands principes de la défense dans une époque gagnée par les certitudes morales et l’émotion.",
+      "link": "https://www.lemonde.fr/idees/article/2026/09/08/l-avocat-francois-zimeray-reaffirme-l-importance-des-droits-de-l-homme-erodes-par-le-souffle-inquietant-de-l-air-du-temps_6768435_3232.html",
+      "published": "2026-09-08T17:00:02"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Zohran Mamdani dénonce des dissimulations sur la toxicité de l’air à New York après le 11-Septembre : « Des gens sont tombés malades parce que les dirigeants leur ont menti »",
+      "description": "Le maire de la ville endeuillée par les attentats a annoncé la diffusion, dans le cadre d’un accord judiciaire avec une organisation de défense des victimes, de milliers de documents liés aux conséquences de l’effondrement des deux tours sur la qualité de l’air.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/08/zohran-mamdani-denonce-des-dissimulations-sur-la-toxicite-de-l-air-a-new-york-apres-le-11-septembre-des-gens-sont-tombes-malades-parce-que-les-dirigeants-auxquels-ils-faisaient-confiance-leur-ont-menti_6768479_3210.html",
+      "published": "2026-09-08T18:16:54"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "« South Park » rebaptisé « South America » : la série satirique raille les changements de noms voulus par Donald Trump",
+      "description": "Les créateurs de la série se moquent aussi des géants Apple et Google, qui ont adopté, sur leurs cartes américaines, les nouvelles appellations attribuées par le président à plusieurs lieux, comme le lac Ontario.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/09/south-park-rebaptise-south-america-la-serie-satirique-se-moque-des-changements-de-noms-voulus-par-donald-trump_6768653_3210.html",
+      "published": "2026-09-08T22:48:04"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Ligue des champions : le résumé de la défaite frustrante du LOSC contre le Betis Séville",
+      "description": "Dominateurs en première période, les Lillois ont perdu le contrôle du match après la pause. Leurs adversaires ont renversé la rencontre et se sont imposés 3-2, mardi, au stade Pierre-Mauroy.",
+      "link": "https://www.lemonde.fr/sport/article/2026/09/08/ligue-des-champions-le-resume-de-la-defaite-frustrante-du-losc-contre-le-betis-seville_6768587_3242.html",
+      "published": "2026-09-08T21:45:04"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Bruno Retailleau souhaite supprimer le droit du sol par référendum",
+      "description": "En cas de victoire lors des élections présidentielles, le candidat républicain a annoncé son intention de réviser la Constitution pour élargir les sujets qui peuvent être soumis à référendum, notamment aux politiques migratoires.",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/08/bruno-retailleau-souhaite-supprimer-le-droit-du-sol-par-referendum_6768586_823448.html",
+      "published": "2026-09-08T21:44:28"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le Real Madrid s’impose face à l’Inter Milan, Kylian Mbappé inscrit son 71ᵉ but en Ligue des champions",
+      "description": "L’équipe de José Mourinho a livré le strict minimum, mardi soir, devant son public du Stade Santiago Bernabéu. Reste que les Merengue démarrent leur campagne européenne par une victoire.",
+      "link": "https://www.lemonde.fr/sport/article/2026/09/08/le-real-madrid-s-impose-face-a-l-inter-milan-kylian-mbappe-inscrit-son-71-but-en-ligue-des-champions_6768552_3242.html",
+      "published": "2026-09-08T21:06:02"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre en Ukraine : cinq personnes sont mortes à Kiev et 25 ont été blessées depuis la fin de la trêve de trois jours",
+      "description": "Après trois jours de trêve en raison de la visite à Kiev des émissaires américains Steve Witkoff et Jared Kushner, et des pourparlers visant à mettre fin à la guerre, de fortes explosions ont été entendues tôt mardi à Kiev, ont constaté des journalistes de l’Agence France-Presse.",
+      "link": "https://www.lemonde.fr/international/live/2026/09/08/en-direct-guerre-en-ukraine-cinq-personnes-sont-mortes-a-kiev-et-25-ont-ete-blessees-depuis-la-fin-de-la-treve-de-trois-jours_6766818_3210.html",
+      "published": "2026-09-08T18:53:00"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Etats-Unis : le secrétaire de la Smithsonian Institution, Lonnie Bunch, quitte son poste sur fond de pressions politiques",
+      "description": "Le premier chef afro-américain de la prestigieuse institution a annoncé son « départ à la retraite » alors qu’il faisait face à de nombreuses pressions de la part de l’administration Trump, accusant la Smithsonian de véhiculer une vision du monde trop progressiste.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/09/etats-unis-le-secretaire-de-la-smithsonian-institution-lonnie-bunch-quitte-son-poste-sur-fond-de-pressions-politiques_6768620_3210.html",
+      "published": "2026-09-08T22:25:28"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Les sapeurs-pompiers de nouveau déçus après la présentation du projet de loi sur la modernisation de la sécurité civile",
+      "description": "Au sortir d’une réunion Place Beauvau, mardi, une intersyndicale a estimé que les mesures envisagées par le gouvernement ne répondaient à aucun des enjeux chers à la profession.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/08/nouvelle-deception-pour-les-sapeurs-pompiers-apres-la-presentation-du-projet-de-loi-sur-la-modernisation-de-la-securite-civile_6768446_3224.html",
+      "published": "2026-09-08T17:49:04"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Aux Etats-Unis, la justice interdit le partage massif de données sensibles du fisc aux services de l’immigration",
+      "description": "Le fisc américain permet à des millions d’immigrés clandestins de payer leurs impôts, ce qui est perçu par les intéressés comme un moyen d’appuyer leurs demandes de régularisation et alimente le budget fédéral.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/08/aux-etats-unis-la-justice-interdit-le-partage-massif-de-donnees-sensibles-du-fisc-aux-services-de-l-immigration_6768519_3210.html",
+      "published": "2026-09-08T20:52:24"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Arabie saoudite : des frappes houthistes blessent 73 civils, Riyad promet de riposter",
+      "description": "Cette attaque d’ampleur, l’une des plus importantes depuis 2022, marque une escalade sur fond de guerre régionale, alors que Washington y voit la « main de l’Iran ».",
+      "link": "https://www.lemonde.fr/international/article/2026/09/08/arabie-saoudite-des-frappes-houthis-blessent-73-civils-ryad-promet-de-riposter_6768483_3210.html",
+      "published": "2026-09-08T19:04:07"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "« Je voulais que ma douleur soit connue » : en Afrique du Sud, les victimes des crimes de l’apartheid se battent pour rouvrir les dossiers",
+      "description": "Trois décennies après la chute du régime ségrégationniste et la mise en place d’une commission vérité et réconciliation, des familles attendent toujours des réponses ou des réparations. Et elles n’hésitent plus à saisir la justice pour forcer la main au gouvernement.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/08/je-voulais-que-ma-douleur-soit-connue-en-afrique-du-sud-les-victimes-des-crimes-de-l-apartheid-se-battent-pour-rouvrir-les-dossiers_6768440_3210.html",
+      "published": "2026-09-08T17:15:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Pour 56% des citoyens, l’Union européenne est «en danger», selon une étude de l’ECFR",
+      "description": "EXCLUSIF - L’enquête menée dans six pays met en lumière une crise de confiance envers l’UE et un sentiment de déclin chez une majorité de citoyens.",
+      "link": "https://www.lefigaro.fr/international/pour-56-des-citoyens-l-union-europeenne-est-en-danger-selon-une-etude-de-l-ecfr-20260909",
+      "published": "2026-09-08T22:15:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Guerre en Iran : Washington dit avoir détruit cinq pétroliers iraniens, Téhéran attaque une base militaire américaine en Jordanie",
+      "description": "L’armée américaine a annoncé mardi avoir détruit cinq navires pétroliers dans la région du Golfe en représailles des attaques des Gardiens de la Révolution iraniens contre un navire de l’armée américaine ces deux derniers jours.",
+      "link": "https://www.lefigaro.fr/international/guerre-en-iran-washington-annonce-avoir-detruit-cinq-petroliers-iraniens-apres-des-attaques-sur-un-batiment-americain-20260909",
+      "published": "2026-09-08T23:34:16"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« Certains comportements nous inquiètent » : dans l’espace, la nouvelle guerre des étoiles entre puissances",
+      "description": "DÉCRYPTAGE - Alors que s’ouvre à Paris un sommet international sur le spatial, les militaires constatent la multiplication des menaces qui visent les satellites, du brouillage à la possibilité de destruction.",
+      "link": "https://www.lefigaro.fr/international/certains-comportements-nous-inquietent-dans-l-espace-la-nouvelle-guerre-des-etoiles-entre-puissances-20260908",
+      "published": "2026-09-08T18:59:37"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Pourquoi ce qui est bon à Mayotte ne le serait pas pour l’Hexagone ?» : Bruno Retailleau plaide pour la fin du droit du sol",
+      "description": "En cas de victoire à la présidentielle, le candidat LR a «pris l’engagement» mardi sur CNews que «les Français définiront enfin la politique migratoire».",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/pourquoi-ce-qui-est-bon-a-mayotte-ne-le-serait-pas-pour-l-hexagone-bruno-retailleau-plaide-pour-la-fin-du-droit-du-sol-20260908",
+      "published": "2026-09-08T22:52:09"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Présidentielle 2027 : Bruno Retailleau dit qu’il n’ira pas à la réunion proposée par Édouard Philippe à la droite et au centre",
+      "description": "Édouard Philippe avait annoncé plus tôt vouloir réunir dans un «comité» tous les partis «de la droite et du centre» à la Toussaint pour explorer les «convergences programmatiques».",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-marine-le-pen-accuse-jean-luc-melenchon-d-etre-un-sous-traitant-de-l-ideologie-islamiste-20260908",
+      "published": "2026-09-08T21:56:42"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Présidentielle 2027 : Édouard Philippe va se mettre en retrait d’Horizons pour tenter de rassembler du MoDem jusqu’à LR",
+      "description": "Le candidat a réuni mardi son premier comité de campagne. Il minimise les divergences avec ses rivaux Gabriel Attal et Bruno Retailleau, avec lesquels il souhaite faire campagne pour l’élection présidentielle et pour les législatives.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-va-se-mettre-en-retrait-d-horizons-pour-tenter-de-rassembler-du-modem-jusqu-a-lr-20260908",
+      "published": "2026-09-08T17:15:16"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Un an après sa nomination, un funambule à Matignon nommé Sébastien Lecornu",
+      "description": "RÉCIT - Le chef du gouvernement parvient à s’accrocher à son fauteuil malgré un contexte budgétaire et politique dégradé.",
+      "link": "https://www.lefigaro.fr/politique/un-an-apres-sa-nomination-un-funambule-a-matignon-nomme-sebastien-lecornu-20260908",
+      "published": "2026-09-08T18:14:56"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Sébastien Lecornu : une popularité qui s’est érodée de dix points, surtout dans l’électorat de droite",
+      "description": "ANALYSE - En douze mois, le premier ministre a perdu dix points de bonnes opinions. Sous la présidence Macron, seul Bayrou fut plus impopulaire que lui.",
+      "link": "https://www.lefigaro.fr/politique/sebastien-lecornu-une-popularite-qui-s-est-erodee-de-dix-points-surtout-dans-l-electorat-de-droite-20260908",
+      "published": "2026-09-08T16:16:06"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Guillaume Tabard : «Sébastien Lecornu, un an d’habileté à Matignon»",
+      "description": "CONTRE-POINT - Le premier ministre n’a cherché ni à passer en force, ni à promettre « du sang et des larmes », ni à présenter des réformes d’envergure ou de long terme. Il s’est présenté comme celui qui ne peut pas faire grande chose et qui fait avec le contexte qui s’impose à lui.",
+      "link": "https://www.lefigaro.fr/politique/guillaume-tabard-sebastien-lecornu-un-an-d-habilete-a-matignon-20260908",
+      "published": "2026-09-08T17:50:13"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Construisez le mur» : la Maison-Blanche retire de son site un jeu vidéo polémique inspiré de Tetris",
+      "description": "Proposé depuis jeudi sur le site de la Maison-Blanche, «Build the Wall» invitait les joueurs à bâtir un mur à la frontière pour se protéger des «zombies».",
+      "link": "https://www.lefigaro.fr/international/construisez-le-mur-la-maison-blanche-retire-de-son-site-un-jeu-video-polemique-inspire-de-tetris-20260909",
+      "published": "2026-09-08T22:19:59"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Donald Trump interdit l’importation de «certains produits du Canada», en particulier des alcools",
+      "description": "Une série de produits, allant des matelas aux bateaux à moteur en passant par les voiturettes de golf, seront également frappée par une surtaxe de 50% à compter du 15 septembre.",
+      "link": "https://www.lefigaro.fr/conjoncture/donald-trump-menace-de-restreindre-l-acces-des-canadiens-aux-commandes-publiques-americaines-20260909",
+      "published": "2026-09-08T23:43:20"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Remigration» des Ukrainiens, apprentissage du russe, levée des sanctions... Le programme pro-Kremlin de l’AfD en Saxe-Anhalt",
+      "description": "DÉCRYPTAGE - Largement en tête de l’élection régionale dans le Land, Alternative für Deutschland prône la normalisation des échanges commerciaux avec Moscou et réserve un traitement particulièrement dur aux Ukrainiens réfugiés en Allemagne.",
+      "link": "https://www.lefigaro.fr/international/remigration-des-ukrainiens-apprentissage-du-russe-levee-des-sanctions-le-programme-pro-kremlin-de-l-afd-en-saxe-anhalt-20260908",
+      "published": "2026-09-08T14:50:22"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Saxe-Anhalt : le BSW, cet inclassable parti issu de la gauche radicale désormais «faiseur de rois»",
+      "description": "DÉCRYPTAGE - Une coopération avec le mouvement créé début 2024 par l’ancienne vice-présidente de Die Linke Sahra Wagenknecht pourrait permettre à l’AfD de diriger ce Land d’ex-RDA.",
+      "link": "https://www.lefigaro.fr/international/saxe-anhalt-le-bsw-cet-inclassable-parti-issu-de-la-gauche-radicale-desormais-faiseur-de-rois-20260908",
+      "published": "2026-09-08T17:06:11"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Violences urbaines à Chambéry : le conducteur retrouvé blessé par balle est décédé",
+      "description": "Les violences «se sont déclenchées quelques heures après la prise en compte, par les effectifs de la police nationale, d’un chauffeur ayant adopté une conduite dangereuse et ayant pu commettre un refus d’obtempérer», a indiqué la préfecture.",
+      "link": "https://www.lefigaro.fr/faits-divers/feux-de-vehicules-degradations-de-commerce-des-violences-urbaines-eclatent-a-chambery-apres-un-controle-routier-20260908",
+      "published": "2026-09-08T16:07:56"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Stade de France, écrans géants, sécurité… Comment l’Église finance le voyage hors normes de Léon XIV en France",
+      "description": "DÉCRYPTAGE - À deux semaines de l’arrivée du pape, qui visitera trois villes du 25 au 28 septembre, les préparatifs entrent dans leur dernière ligne droite.",
+      "link": "https://www.lefigaro.fr/conjoncture/stade-de-france-ecrans-geants-securite-le-veritable-cout-de-la-visite-du-pape-leon-xiv-en-france-20260908",
+      "published": "2026-09-08T19:49:16"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« C’est un défi logistique fou » : un million de personnes sont inscrites pour la visite du pape en France",
+      "description": "DÉCRYPTAGE - Les Français manifestent un élan hors norme pour le voyage de Léon XIV à Paris, Lourdes et Metz qui se tiendra du 25 au 28 septembre.",
+      "link": "https://www.lefigaro.fr/actualite-france/c-est-un-defi-logistique-fou-un-million-de-personnes-sont-inscrites-pour-la-visite-du-pape-en-france-20260908",
+      "published": "2026-09-08T16:45:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Lille-Betis : des Espagnols sans pitié, les dix minutes en enfer du Losc, Mbappé pathétique... Les tops et flops",
+      "description": "DÉCRYPTAGE - Après le revers du Losc face au Betis ce mardi (2-3), à l’occasion de la première journée de Ligue des champions, découvrez ce qui a retenu l’attention de la rédaction du Figaro.",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/lille-betis-des-espagnols-sans-pitie-les-dix-minutes-en-enfer-du-losc-mbappe-pathetique-les-tops-et-flops-20260908",
+      "published": "2026-09-08T21:34:55"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Ligue des champions : la (très) mauvaise opération pour Lille, renversé par le Betis Séville",
+      "description": "Handicapés par l’expulsion d’Ethan Mbappé au retour des vestiaires, les Dogues ont perdu gros face aux Sévillans.",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-la-tres-mauvaise-operation-pour-lille-renverse-par-le-betis-seville-20260908",
+      "published": "2026-09-08T20:59:55"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "L’hypothèse «de mâles apprenant aux jeunes à chasser» : des loups tuent plus de 60 brebis d’un troupeau dans le Vercors",
+      "description": "L’attaque s’est produite la nuit dans un alpage où se trouvait le troupeau de près de 600 bêtes. Les ovins tués n’ont pas été mangés.",
+      "link": "https://www.liberation.fr/environnement/animaux/lhypothese-de-males-apprenant-aux-jeunes-a-chasser-des-loups-tuent-plus-de-60-brebis-dun-troupeau-dans-le-vercors-20260908_CHJYAZMQVZF6ZMPB2G26IBWLSU/",
+      "published": "2026-09-08T20:03:23"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Présidentielle 2027 : Edouard Philippe invite Gabriel Attal et Bruno Retailleau à la Toussaint pour enterrer leurs ambitions",
+      "description": "Le candidat Horizons aimerait ainsi forcer ses rivaux, qu’il distance dans les sondages, à se ranger derrière lui. «Si nous continuons à nous diviser, nous ne gagnerons pas», a prévenu le Havrais. Mais le président LR a répondu dans la foulée qu’il n’entend pas «arrêter la course» avant le scrutin.",
+      "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-edouard-philippe-invite-gabriel-attal-et-bruno-retailleau-a-la-toussaint-pour-enterrer-leurs-ambitions-20260908_CRBNORD7VRCTXELJECCWSFCREA/",
+      "published": "2026-09-08T19:45:32"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Égalité femmes-hommes : le PSG écope d’une amende de 2,7 millions d’euros",
+      "description": "Cette décision du tribunal administratif de Paris confirme celle de l’Inspection du travail d’Ile de France datant de mars 2024. Le club a obtenu des résultats insuffisants à l’index d’égalité durant trois années consécutives avant 2024.",
+      "link": "https://www.liberation.fr/sports/football/egalite-femmes-hommes-le-psg-ecope-dune-amende-de-27-millions-deuros-20260908_4HNMPSNVHZBC5E5NDLD23KBXRM/",
+      "published": "2026-09-08T19:38:32"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le 11 Septembre, une occasion comme une autre pour Trump de parler de lui… et de s’inventer une vie",
+      "description": "Le président américain a assuré ce mardi qu’il se trouvait à proximité des tours jumelles et avoir été sauvé par deux pompiers. Il avait pourtant dit lui même qu’il était ce jour-là à sa «Trump Tower», à plusieurs kilomètres de distance.",
+      "link": "https://www.liberation.fr/international/amerique/le-11-septembre-une-occasion-comme-une-autre-pour-trump-de-parler-de-lui-et-de-sinventer-une-vie-20260908_IPP5Y6HQ5JB5VOUGXKGMEKWUHA/",
+      "published": "2026-09-08T19:31:30"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Rapport Pisa : niveau de lecture en chute libre pour les enfants, un défi pour les grands",
+      "description": "Les résultats de l’enquête de l’OCDE confirment les mauvais résultats des adolescents français, notamment en lecture. Si l’usage des écrans est montré du doigt, jeunes et moins jeunes partagent la responsabilité de cette addiction.",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/rapport-pisa-niveau-de-lecture-en-chute-libre-pour-les-enfants-un-defi-pour-les-grands-20260908_F5MWPXIIZ5AZNCQ2FMYEB5CJCA/",
+      "published": "2026-09-08T19:14:55"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Pressure» d’Anthony Maras, un D-Day dans l’air du temps",
+      "description": "Déroulé pendant les jours précédant le Débarquement, le film nous plonge dans la course contre la montre d’un météorologue chargé de prédire au plus près le temps qu’il fera le 6 juin 1944, à grand renfort d’allégories qui font écho à notre époque.",
+      "link": "https://www.liberation.fr/culture/cinema/pressure-danthony-maras-un-d-day-dans-lair-du-temps-20260908_OKTQJZ7L2BAELGD7RRMQ2DOUG4/",
+      "published": "2026-09-08T19:08:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Les opérations d’Israël en Syrie pourraient constituer des «crimes de guerre», selon une commission d’enquête de l’ONU",
+      "description": "Un rapport complet sur ces investigations sera présenté au Conseil des droits de l’Homme au printemps. Depuis plus d’un an, l’Etat hébreu a lancé des centaines de frappes et des opérations terrestres.",
+      "link": "https://www.liberation.fr/international/moyen-orient/les-operations-disrael-en-syrie-pourraient-constituer-des-crimes-de-guerre-selon-une-commission-denquete-de-lonu-20260908_WCG253MPUVB6TEF25AWCUEOKFA/",
+      "published": "2026-09-08T18:50:51"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Colonies en Cisjordanie : Israël sanctionné par 12 pays, une claque avant tout symbolique",
+      "description": "Mardi, plusieurs Etats dont la France et le Royaume-Uni ont annoncé interdire les importations de produits venant des colonies israéliennes dans les territoires palestiniens occupés. Une action aux conséquences économiques limitées.",
+      "link": "https://www.liberation.fr/international/europe/colonies-en-cisjordanie-israel-sanctionne-par-12-pays-une-claque-avant-tout-symbolique-20260908_ISBXFISKNZDO5I7SVMPNN62SJI/",
+      "published": "2026-09-08T18:33:14"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "JO 2030 : rentrée sous tension pour l’organisation, le président Edgar Grospiron sur la sellette",
+      "description": "Le Comité d’organisation des Alpes 2030 (Cojop) a reporté la présentation d’un nouveau partenariat, en amont d’une réunion du bureau exécutif jeudi qui s’annonce «compliquée», selon plusieurs sources.",
+      "link": "https://www.liberation.fr/sports/jeux-olympiques/jo-2030-rentree-sous-tension-pour-lorganisation-le-president-edgar-grospiron-sur-la-sellette-20260908_236NFCDNBZE5LGLURP7SYF5HYI/",
+      "published": "2026-09-08T18:10:32"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Assassinat de Federico Martín Aramburú : Bouvier et Le Priol, militants d’extrême droite à l’insu de leur plein gré",
+      "description": "Ils se disent lisses, éloignés du GUD et de ses violences. A la barre pour le deuxième jour du procès, les deux principaux accusés s’emploient surtout à réécrire leur propre parcours, quitte à repeindre en banalité des années de bastons, de fascisme et de violences.",
+      "link": "https://www.liberation.fr/societe/police-justice/assassinat-de-federico-martin-aramburu-bouvier-et-le-priol-militants-dextreme-droite-a-linsu-de-leur-plein-gre-20260908_ZE6DCW25L5CDBCHW3N7PY42V5M/",
+      "published": "2026-09-08T18:02:24"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Je suis un «Français de souche»… Sarah Knafo et Sonia Mabrouk, ne me remerciez pas",
+      "description": "Réponse à l’eurodéputée Reconquête qui a évoqué, lundi 7 septembre sur BFM TV, «un peuple historique, qui a eu l’hospitalité de nous accueillir» et dont il faudrait «être reconnaissant». Français depuis deux jours ou depuis des siècles, c’est exactement la même qualité de citoyens.",
+      "link": "https://www.liberation.fr/politique/je-suis-un-francais-de-souche-sarah-knafo-et-sonia-mabrouk-ne-me-remerciez-pas-20260908_Q4SC3SUAPZHMDA34WYBJZHYW5U/",
+      "published": "2026-09-08T17:49:23"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Des militants de flottilles pour Gaza portent plainte pour nourrir l’enquête française, «première fissure dans l’impunité d’Israël»",
+      "description": "Les 26 Français, interceptés par les autorités israéliennes en octobre, avril et mai à bord de flottilles humanitaires pour rejoindre le territoire palestinien, souhaitent «mettre en exergue le niveau de violence aiguë» perpétrée par l’Etat hébreu.",
+      "link": "https://www.liberation.fr/international/moyen-orient/des-militants-de-flottilles-pour-gaza-portent-plainte-pour-nourrir-lenquete-francaise-premiere-fissure-dans-limpunite-disrael-20260908_ZEZQOYGI4VHNRGMSA72SODVNDE/",
+      "published": "2026-09-08T17:47:53"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Yémen : les dessous d’une escalade déclenchée par la guerre en Iran",
+      "description": "Les combats entre rebelles houthis et forces gouvernementales soutenues par l’Arabie Saoudite se poursuivent depuis six jours, laissant craindre une situation hors de contrôle. Près de 20 000 personnes ont déjà été déplacées en raison des affrontements.",
+      "link": "https://www.liberation.fr/international/moyen-orient/yemen-les-dessous-dune-escalade-declenchee-par-la-guerre-en-iran-20260908_M5KEW5D34JCB7B3N2SG77RCRCM/",
+      "published": "2026-09-08T17:12:56"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Rapport Pisa, pompiers en grève, sanctions contre Israël… L’actu de ce mardi 8 septembre",
+      "description": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 8 septembre",
+      "link": "https://www.liberation.fr/international/europe/rapport-pisa-pompiers-en-greve-sanctions-contre-israel-lactu-de-ce-mardi-8-septembre-20260908_VTOLDFBW65ENTBVETFFNPLENCU/",
+      "published": "2026-09-08T17:00:57"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le musée Renoir à Cagnes-sur-Mer, dernière victime de la série de vols dans les musées français et européens",
+      "description": "Quatre tableaux, dont deux ont été retrouvés dans la foulée, ont été dérobés mardi 8 septembre dans l’atelier-musée de l’impressionniste. Depuis près d’un an et le rocambolesque braquage du Louvre, plusieurs casses se sont déroulés dans des lieux culturels du continent.",
+      "link": "https://www.liberation.fr/culture/le-musee-renoir-a-cagnes-sur-mer-derniere-victime-de-la-serie-de-vols-dans-les-musees-francais-et-europeens-20260908_WAZFAYS2KRCG7MXWS3PSIQB3IU/",
+      "published": "2026-09-08T16:49:16"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mosimann, le DJ aux multiples casquettes et nouveau directeur de la Star Academy sur TF1",
+      "description": "L’auteur-compositeur et DJ franco-suisse de 38 ans, également chroniqueur sur France Inter, a annoncé lundi 7 septembre qu’il allait prendre les rênes de la nouvelle saison du télécrochet phare de TF1.",
+      "link": "https://www.liberation.fr/economie/medias/mosimann-le-dj-aux-multiples-casquettes-et-nouveau-directeur-de-la-star-academy-sur-tf1-20260908_GJZKJNBAQJF6RIZTM5CCL2BG4M/",
+      "published": "2026-09-08T16:45:42"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le CSM examinera la proposition de réintégration de Rachida Dati dans la magistrature après son procès pour corruption",
+      "description": "La maire du VIIe arrondissement, dont le procès se déroulera du 16 au 28 septembre, ambitionne de retrouver une fonction hors de la vie politique.",
+      "link": "https://www.liberation.fr/societe/police-justice/le-csm-examinera-la-proposition-de-reintegration-de-rachida-dati-dans-la-magistrature-apres-son-proces-pour-corruption-20260908_Q5HQRFIYCFEPFEDDARTRDN5UNA/",
+      "published": "2026-09-08T16:27:43"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Chaleur : des cours suspendus dans des écoles du sud de la France, un phénomène «inédit pour un mois de septembre»",
+      "description": "Les syndicats de personnels de l’Education pointent des températures qui dépassent encore les 30°C dans certaines classes, dangereuses pour les enfants et les profs, dans une période de rentrée cruciale et chargée.",
+      "link": "https://www.liberation.fr/societe/education/chaleur-des-cours-suspendus-dans-des-ecoles-du-sud-de-la-france-un-phenomene-inedit-pour-un-mois-de-septembre-20260908_DMHXKFDPQFEVRDZGLZGAEPPLRY/",
+      "published": "2026-09-08T16:22:40"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Don de gamètes : «C’est aussi pour savoir que j’ai fait quelque chose de beau dans ma vie»",
+      "description": "L’Agence de biomédecine a dévoilé ce mardi 8 septembre son baromètre 2026 sur la perception du don par les Français. S’ils se disent favorables à cet acte altruiste, la plupart n’envisagent pas personnellement de le faire. L’occasion pour «Libé» de faire témoigner les plus motivés.",
+      "link": "https://www.liberation.fr/societe/familles/don-de-gametes-cest-aussi-pour-savoir-que-jai-fait-quelque-chose-de-beau-dans-ma-vie-20260908_BOTARA4JJ5GU7DAP7YLO3UE2AU/",
+      "published": "2026-09-08T16:07:32"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Les employés du PMU face à un plan social : «C’est un suicide commercial, on envoie des salariés à l’abattoir»",
+      "description": "L’opérateur historique de paris hippiques, qui voit fuir ses clients, est visé par un plan de sauvegarde de l’emploi. Au total, jusqu’à 139 postes, sur un total de 1 000, pourraient être supprimés.",
+      "link": "https://www.liberation.fr/economie/social/les-employes-du-pmu-face-a-un-plan-social-massif-cest-un-suicide-commercial-on-envoie-des-salaries-a-labattoir-20260908_XNCHIYIBQVFYTNW2LOH5P6F6SM/",
+      "published": "2026-09-08T16:07:28"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Visite du pape Léon XIV en France : les évêques font la quête pour trouver une vingtaine de millions d’euros",
+      "description": "La Conférence des évêques de France fait état d’une addition salée, à 27 millions d’euros, pour couvrir les frais de la visite papale à la fin du mois. Or seuls 5 millions ont pour l’instant été récoltés auprès des fidèles.",
+      "link": "https://www.liberation.fr/societe/religions/visite-du-pape-leon-xiv-en-france-les-eveques-font-la-quete-pour-trouver-une-vingtaine-de-millions-deuros-20260908_ZTDPAKZ63NEG5H3YQ74FUKWE5E/",
+      "published": "2026-09-08T16:06:42"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Canicules et sécheresses : 61 % des nappes phréatiques sous les normales de saison au 1er septembre",
+      "description": "Les maigres pluies associées à une demande en hausse sur fond de canicules estivales n’ont pas amélioré la situation des réserves d’eau souterraines durant le mois d’août, avec de fortes disparités régionales, analyse le service géologique national ce mardi 8 septembre.",
+      "link": "https://www.liberation.fr/environnement/canicules-et-secheresses-61-des-nappes-phreatiques-sous-les-normales-de-saison-au-1er-septembre-20260908_3HN7EK7IUZF67I3KBQ26HUR4LU/",
+      "published": "2026-09-08T16:04:44"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Méga-incinérateur à Vitry-sur-Seine : dans les coulisses du projet qui empoisonne Emmanuel Grégoire et ses alliés à la mairie de Paris",
+      "description": "Complexité du dossier et mirage de la décarbonation : «Libération» raconte comment l’ancienne majorité socialiste et écolo a voté la construction controversée d’un énorme four dans le Val-de-Marne pour brûler plastiques et bois afin de… chauffer Paris. Le tout sans que le département ou la commune n’aient donné leur feu vert, suscitant l’embarras des élus et la colère des riverains.",
+      "link": "https://www.liberation.fr/environnement/pollution/mega-incinerateur-a-vitry-sur-seine-dans-les-coulisses-du-projet-qui-empoisonne-emmanuel-gregoire-et-ses-allies-a-la-mairie-de-paris-20260908_QSVHGZBBBBGMLC5PYZTACDLNFY/",
+      "published": "2026-09-08T16:02:48"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Trente ans après, «les Ensorceleuses 2» font illusion",
+      "description": "L’improbable sequel de Susanne Bier verse dans le conte de sororité retapée. On retiendra tout de même la pudeur de Sandra Bullock, touchante dans son retour à l’écran après trois ans d’absence due au décès de son compagnon.",
+      "link": "https://www.liberation.fr/culture/cinema/trente-ans-apres-les-ensorceleuses-2-font-illusion-20260908_PUTGRBJXTVCRNKPEFL2C6NIEBM/",
+      "published": "2026-09-08T16:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Cambriolage au musée Renoir de Cagnes-sur-Mer : deux des quatre tableaux volés ont été retrouvés",
+      "description": "Les œuvres ont été abandonnées par les suspects dans leur fuite, selon le maire de la ville. Les deux suspects s’étaient introduits dans l’institution ce mardi matin à l’aube. Une enquête confiée à la police judiciaire a été ouverte.",
+      "link": "https://www.liberation.fr/societe/police-justice/le-musee-renoir-de-cagnes-sur-mer-cambriole-quatre-tableaux-derobes-20260908_QOMD6K5TSVF4DI3HJMA7HXG2M4/",
+      "published": "2026-09-08T15:57:45"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mostra de Venise 2026 : Penélope Cruz et Javier Bardem s’étiolent, Lee Chang-dong s’envole",
+      "description": "A mi-parcours, le magnifique «Possible Love» du cinéaste coréen survole de loin une compétition faible. On fait une overdose de sirop chez Kore-eda, et on cherche encore la sortie du «Bunker» avec le couple de stars.",
+      "link": "https://www.liberation.fr/culture/cinema/mostra-de-venise-2026-penelope-cruz-et-javier-bardem-setiolent-lee-chang-dong-senvole-20260908_DH365E6BPJCWTDQB4FGMOHHJC4/",
+      "published": "2026-09-08T15:53:24"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "BHV Marais : les salariés appelés à se mobiliser vendredi",
+      "description": "L’intersyndicale du grand magasin parisien, en proie à des difficultés financières et commerciales, lance un appel à la grève aux quelque 700 employés de l’enseigne, afin qu’ils défendent leurs acquis sociaux.",
+      "link": "https://www.liberation.fr/economie/bhv-marais-les-salaries-appeles-a-se-mobiliser-vendredi-20260908_HVHCJHBZ6ZCV5CUEV5HZHUQS6I/",
+      "published": "2026-09-08T15:50:47"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Violences à Chambéry : le conducteur retrouvé blessé par balle est mort",
+      "description": "Le jeune homme est mort ce mardi 8 septembre et une autopsie sera menée pour déterminer les causes de ce décès qui a déclenché des violences urbaines dans la ville savoyarde. Les premiers éléments de l’enquête excluent un tir policier.",
+      "link": "https://www.liberation.fr/societe/police-justice/violences-a-chambery-le-conducteur-retrouve-blesse-par-balle-est-mort-20260908_ZPHTAK5JYFHBDHP6JVU63MRFBY/",
+      "published": "2026-09-08T15:38:32"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ballon d’or : cinq Français et trois Françaises parmi les finalistes, dont Mbappé et Dembélé",
+      "description": "Organisateur du trophée élisant le meilleur joueur et la meilleure joueuse de l’année, France Football a révélé ce mardi 8 septembre la liste des 30 finalistes chez les hommes et chez les femmes.",
+      "link": "https://www.liberation.fr/sports/football/ballon-dor-cinq-francais-et-trois-francaises-parmi-les-finalistes-dont-mbappe-et-dembele-20260908_CX2NU3TG4FHBXG7XYYL6QZNDPA/",
+      "published": "2026-09-08T15:37:56"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le grand tétras et le lagopède alpin enfin classés espèces protégées : «C’est la paix qui s’installe définitivement entre l’homme et l’oiseau»",
+      "description": "Le président de la LPO, Allain Bougrain Dubourg, se réjouit de la décision concernant ces deux volatiles emblématiques des montagnes, officialisée par le ministère de la Transition écologique ce mardi 8 septembre. L’aboutissement d’une longue bataille menée par les associations de protection de la nature.",
+      "link": "https://www.liberation.fr/environnement/biodiversite/le-grand-tetras-et-le-lagopede-alpin-enfin-classes-especes-protegees-cest-la-paix-qui-sinstalle-definitivement-entre-lhomme-et-loiseau-20260908_S3H7LUDMAJCPVHRFB4UOOUMGP4/",
+      "published": "2026-09-08T15:30:43"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le maire de New York publie des documents confidentiels sur la toxicité de l’air après les attentats du 11 Septembre : «Que savait la ville des dangers liés au nuage toxique à Ground Zero ?»",
+      "description": "Ces dossiers révèlent que des responsables new-yorkais avaient des informations sur les risques pour la santé de l’air empoisonné et les ont dissimulés. En plus des 2 977 victimes le jour des attaques, plus de 9 400 sont morts après, des suites de maladies.",
+      "link": "https://www.liberation.fr/international/amerique/que-savait-la-ville-des-dangers-lies-au-nuage-toxique-a-ground-zero-le-maire-de-new-york-publie-des-documents-confidentiels-sur-la-toxicite-de-lair-apres-les-attentats-du-11-septembre-20260908_6W4LVESK65DIRPDTUDMZX5V3ZI/",
+      "published": "2026-09-08T14:57:46"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Dans «Rose», Sandra Hüller parfait la différence",
+      "description": "L’actrice allemande interprète avec brio un soldat balafré, revenu de la guerre de Trente Ans, qui s’intègre dans un village outre-Rhin.",
+      "link": "https://www.liberation.fr/culture/cinema/dans-rose-sandra-huller-parfait-la-difference-20260908_YYBIZZC3SFCEBMUIHWCVCTRHC4/",
+      "published": "2026-09-08T14:52:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Cisjordanie : alors que le Royaume-Uni parle de «nettoyage ethnique», Israël fait fermer le consulat britannique à Jérusalem",
+      "description": "Le ministre des Affaires étrangères Gidéon Saar a annoncé ce mardi des représailles visant Londres. Plus tôt dans la journée, le ministre des Affaires étrangères britannique avait évoqué un «nettoyage ethnique» et des «colons terroristes».",
+      "link": "https://www.liberation.fr/international/moyen-orient/cisjordanie-alors-que-le-royaume-uni-parle-de-nettoyage-ethnique-israel-fait-fermer-le-consulat-britannique-a-jerusalem-20260908_XV664GPRYVABTAJ3TODCHFFSJU/",
+      "published": "2026-09-08T14:51:06"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Michel Desmurget sur le rapport Pisa 2025 : «La lecture tient une place à part, si elle s’effondre, tout le système scolaire s’affaisse»",
+      "description": "Le docteur en neurosciences réagit aux derniers résultats du Programme international pour le suivi des acquis des élèves en insistant sur le rôle néfaste des écrans sur la pratique de la lecture, un fondement essentiel pour développer les capacités de réflexion des élèves et futurs citoyens.",
+      "link": "https://www.liberation.fr/societe/michel-desmurget-sur-le-rapport-pisa-2025-la-lecture-tient-une-place-a-part-si-elle-seffondre-tout-le-systeme-scolaire-saffaisse-20260908_ENZA53MG2ZHL5E43YZI6KHBYHU/",
+      "published": "2026-09-08T14:42:35"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Le magasin est devenu une passoire» : au BHV Marais, un sac Hermès volé représentait l’équivalent du chiffre d’affaires de la journée",
+      "description": "L’enseigne parisienne est la cible de nombreux vols à l’étalage, dont dernièrement celui d’un sac du célèbre sellier, affiché à plus de 10 000 euros, d’après les informations de «Libé». Ces incidents récurrents suscitent un sentiment de malaise et d’insécurité parmi les salariés.",
+      "link": "https://www.liberation.fr/economie/conso/le-magasin-est-devenu-une-passoire-au-bhv-marais-un-sac-hermes-vole-representait-lequivalent-du-chiffre-daffaires-de-la-journee-20260904_BYJ4S5S6PNBEXL2IRYR6J66W3Y/",
+      "published": "2026-09-08T14:39:15"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Ethiopie, la production et l’usage des drones s’intensifient",
+      "description": "L’armée fédérale, sous l’autorité du Premier ministre Abiy Ahmed, a de plus en plus recours à ces armes peu coûteuses, dont certains sont désormais assemblés sur le territoire national.",
+      "link": "https://www.liberation.fr/international/afrique/en-ethiopie-la-production-et-lusage-des-drones-sintensifient-20260908_6CT3ZJ7YORBOPA6DRSXYZDTHAU/",
+      "published": "2026-09-08T14:15:45"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En quête de record du monde, la skyrunneuse Kalie McCrystal introuvable dans les Alpes depuis une semaine",
+      "description": "La Canadienne, adepte des courses en très haute altitude, n’a plus donné signe de vie depuis le 1er septembre, alors qu’elle était en repérage sur le Mont Cervin, à la frontière italo-suisse, où elle espérait battre un record du monde.",
+      "link": "https://www.liberation.fr/sports/en-quete-de-record-du-monde-la-skyrunneuse-kalie-mccrystal-introuvable-dans-les-alpes-depuis-une-semaine-20260908_FCVXIQOAG5FEXPSGXQHTPCQMDQ/",
+      "published": "2026-09-08T14:14:05"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Fujikina Paris 2026 : Objectif quiz",
+      "description": "Où a été prise la première photo de l’histoire ? Qui est l’auteur du «Baiser de l’hôtel de ville». Et qui a photographié ce sourire enchanteur…",
+      "link": "https://www.liberation.fr/forums/fujikina-paris-2026-objectif-quiz-20260908_6YWUVVNBFFHOTG7AASXT2N3XO4/",
+      "published": "2026-09-08T14:08:38"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Non, madame la ministre de l’Agriculture, le stockage artificiel de l’eau n’a pas fait ses preuves",
+      "description": "Si le stockage artificiel est utile dans certains bassins versants, sa généralisation relève du dogmatisme plus que d’une réelle politique anticipatoire, pointent l’hydrologue Charlène Descollonges et le professeur Marc-André Selosse.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/non-madame-la-ministre-annie-genevard-le-stockage-artificiel-de-leau-na-pas-fait-ses-preuves-20260908_JAD3AJSFTRHOJDATY7YGUXQLKM/",
+      "published": "2026-09-08T14:08:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Félix de Givry, réalisateur d’«Adieu monde cruel» : «Mon souvenir d’adolescence, c’est la terreur des autres, le rêve de devenir quelqu’un d’autre»",
+      "description": "Auteur d’un beau premier film à l’imaginaire très référencé sur le mal de vivre et le romantisme adolescent, le cinéaste révèle quelques-unes de ses références de cinéma sur la jeunesse.",
+      "link": "https://www.liberation.fr/culture/cinema/felix-de-givry-realisateur-dadieu-monde-cruel-mon-souvenir-dadolescence-cest-la-terreur-des-autres-le-reve-de-devenir-quelquun-dautre-20260908_NLQE6SQTPFD6NHJFNAFDEIALQM/",
+      "published": "2026-09-08T13:48:30"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Epargne salariale : finalement, Sébastien Lecornu ne veut pas la taxer mais pouvoir la débloquer plus facilement",
+      "description": "Le Premier ministre a annoncé ce mardi que le gouvernement va soutenir une proposition de loi «permettant de débloquer exceptionnellement jusqu’à 5 000 euros d’épargne salariale, sans impôt ni cotisation». Le texte doit être examiné au Parlement «avant la fin de l’année».",
+      "link": "https://www.liberation.fr/economie/epargne-salariale-finalement-sebastien-lecornu-ne-veut-pas-la-taxer-mais-pouvoir-la-debloquer-plus-facilement-20260908_ZVBWVIJH5VEQ7N2FICCYLZZJ7Y/",
+      "published": "2026-09-08T13:44:05"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Anna-Claria Ostasenko-Bogdanoff, voyage dans le temps",
+      "description": "Scénariste et cinéaste, la fille d’Igor Bogdanoff dissèque ses origines familiales et travaille le deuil dans son premier livre.",
+      "link": "https://www.liberation.fr/portraits/anna-claria-ostasenko-bogdanoff-voyage-dans-le-temps-20260908_7LMA3UJZ7BB47EVO5F2SKCAR24/",
+      "published": "2026-09-08T13:44:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Personnel féminin invisibilisé à la tour Eiffel : derrière la condamnation unanime, le double standard du RN",
+      "description": "En entendant la «bollosphère» dénoncer dans cet épisode une «soumission» croissante aux pressions religieuses en invoquant la «protection» des femmes, on se dit que, décidément, l’extrême droite a l’indignation à géométrie variable.",
+      "link": "https://www.liberation.fr/politique/personnel-feminin-invisibilise-a-la-tour-eiffel-derriere-la-condamnation-unanime-le-double-standard-du-rn-20260908_3NYXVZ3GZJEDFEW2H43RQZRLME/",
+      "published": "2026-09-08T13:40:19"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Adieu monde cruel» de Félix de Givry, rien ne sert de mourir",
+      "description": "Evocation lyrique de l’adolescence, ce délicat premier film suit la fugue d’un garçon qui a raté son suicide, réfugié dans l’hôtel d’une camarade de classe.",
+      "link": "https://www.liberation.fr/culture/cinema/adieu-monde-cruel-de-felix-de-givry-rien-ne-sert-de-mourir-20260908_7IXPCC377ZAEXG7UOB3Q7C42CE/",
+      "published": "2026-09-08T13:37:29"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "A défaut de ralliements, Bruno Retailleau dévoile son carré de porte-paroles",
+      "description": "Toujours distancé par ses rivaux Edouard Philippe et Gabriel Attal, le candidat Les Républicains annonce, ce mardi 8 septembre, qu’il s’entoure de huit fidèles pour sa campagne présidentielle.",
+      "link": "https://www.liberation.fr/politique/a-defaut-de-ralliements-bruno-retailleau-devoile-son-carre-de-porte-paroles-20260908_XYSVYDTYNJC4TFQ3RISH26F6QM/",
+      "published": "2026-09-08T13:08:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Préoccupant», «mobilisation générale», «rétablissement de la discipline»… La classe politique «alarmée» après la publication du rapport Pisa",
+      "description": "L’organisation a dévoilé ce mardi 8 septembre les résultats de son étude, démontrant que la France a des «scores de plus en plus bas». Ce qui a fait largement réagir les élus, surtout à droite.",
+      "link": "https://www.liberation.fr/societe/education/preoccupant-mobilisation-generale-retablissement-de-la-discipline-la-classe-politique-alarmee-apres-la-publication-du-rapport-pisa-20260908_VCOPVNSZXFFDXA33TXWBZ3TX6Q/",
+      "published": "2026-09-08T12:59:59"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Cisjordanie : la France et onze autres pays veulent sanctionner le commerce avec les colonies illégales israéliennes",
+      "description": "Dans un communiqué commun publié ce mardi 8 septembre, les douze pays, parmi lesquels le Royaume-Uni ou le Canada, annoncent «leur intention d’imposer des restrictions nationales aux commerces et aux biens».",
+      "link": "https://www.liberation.fr/international/moyen-orient/cisjordanie-la-france-et-onze-autres-pays-veulent-sanctionner-le-commerce-avec-les-colonies-illegales-israeliennes-20260908_IWQJ5ZRPXRDTVFZC5F6E5SXYME/",
+      "published": "2026-09-08T12:59:44"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Essai sur l’IA : Mark Zuckerberg est-il en train de perdre la boule ?",
+      "description": "Début août, le patron de Meta a publié un texte sur l’intelligence artificielle, dans lequel il s’en prend à Anthropic… dont la maison mère de Facebook, Instagram et WhatsApp est pourtant l’un des plus gros clients. Un manifeste mou, qui sent la fin de règne ou le début d’Alzheimer.",
+      "link": "https://www.liberation.fr/economie/economie-numerique/essai-sur-lia-mark-zuckerberg-est-il-en-train-de-perdre-la-boule-20260908_AP4M37R3OZDZ7GKRSA7LGQVX7Q/",
+      "published": "2026-09-08T12:58:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Il reste huit mois pour arrêter l’ascension de Marine Le Pen (et c’est possible), par Bernard Guetta",
+      "description": "Les gauches et les centres doivent former ce qui devrait être une fédération ou un grand parti démocrate dont l’affirmation mettrait en minorité l’extrême droite lors de la présidentielle, prévient le député européen.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/la-resistible-ascension-de-marine-le-pen-par-bernard-guetta-20260908_DNPSVK2H7FABZDSHBSQDT3E5SQ/",
+      "published": "2026-09-08T12:52:52"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "LFI dresse le cordon sanitaire autour de l’Allemande Sahra Wagenknecht et BSW : «Ce ne sont pas des amis du tout»",
+      "description": "Si l’ancienne de Die Linke avait pu intéresser, un temps, Jean-Luc Mélenchon en fondant notamment un mouvement inspiré de LFI en 2018, elle est désormais considérée par les insoumis comme infréquentable.",
+      "link": "https://www.liberation.fr/politique/lfi-dresse-le-cordon-sanitaire-autour-de-lallemande-sahra-wagenknecht-et-bsw-ce-ne-sont-pas-des-amis-du-tout-20260908_DTMZ3EYNJ5A5JFD2E4JMK7ZTYY/",
+      "published": "2026-09-08T12:50:20"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Cisjordanie occupée : le Royaume-Uni durcit le ton et s'attire les représailles d'Israël",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/proche-moyen-orient/cisjordanie-occupee-le-royaume-uni-durcit-le-ton-et-sattire-les-represailles-disrael-56OJZWTXDVGHFPOFD3B2HC3MA4/",
+      "published": "2026-09-08T18:45:35"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Russie : ces livraisons secrètes chinoises qui alimenteraient la production de drones de Moscou",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/asie/russie-ces-livraisons-secretes-chinoises-qui-alimenteraient-la-production-de-drones-de-moscou-FRP4APGVHRBGLIOTTHQYNR6JMY/",
+      "published": "2026-09-08T17:44:42"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Candidats, think tanks : avant la présidentielle, le bloc modéré face à une crise des idées",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/candidats-think-tanks-avant-la-presidentielle-le-bloc-modere-face-a-une-crise-des-idees-GUZU5XDLT5BIJJWT2BVOXCU2NY/",
+      "published": "2026-09-08T16:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Hugo Duminil-Copin, Médaille Fields 2022 : \"Le stéréotype de l’inné est un tueur sanguinaire pour les maths\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/sciences-sante/hugo-duminil-copin-medaille-fields-2022-le-stereotype-de-linne-est-un-tueur-sanguinaire-pour-les-DI3CTZYDWVGOTHOPCXQQPDUDTQ/",
+      "published": "2026-09-08T15:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Crise des migrants : l'appel de Ceuta à l'UE pour garder sa frontière avec le Maroc",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/crise-des-migrants-lappel-de-ceuta-a-lue-pour-garder-sa-frontiere-avec-le-maroc-RL5M35K3CFFHXPW7YXBCNYZJ2A/",
+      "published": "2026-09-08T15:12:17"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Hongrie : l’expulsion de dix diplomates russes, nouveau symbole de la rupture avec l’ère Orban",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/hongrie-lexpulsion-de-dix-diplomates-russes-nouveau-symbole-de-la-rupture-avec-lere-orban-IITUMAFOVBANDPF7LV2PVK43IY/",
+      "published": "2026-09-08T14:16:04"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"La capitalisation n'est pas la recette miracle pour les retraites\" : la mise au point des économistes Thesmar et Landier",
+      "description": "",
+      "link": "https://www.lexpress.fr/economie/politique-economique/la-capitalisation-nest-pas-la-recette-miracle-pour-les-retraites-la-mise-au-point-des-economistes-QMMCBUE27JBLVMSBPBC6WBSH4A/",
+      "published": "2026-09-08T14:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Pisa 2025 : qui a saboté l’école ? Par Anne Rosencher",
+      "description": "",
+      "link": "https://www.lexpress.fr/societe/pisa-2025-lecole-est-notre-vrai-desastre-national-par-anne-rosencher-T2UVKXN535GMFEWABF2EMNYZ6U/",
+      "published": "2026-09-08T13:31:09"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Comment l’AfD surfe sur la crise du modèle allemand, par Eric Chol",
+      "description": "Edito Eric",
+      "link": "https://www.lexpress.fr/monde/europe/comment-lafd-surfe-sur-la-crise-du-modele-allemand-par-eric-chol-GOQYLQHMQVH3VCAICCVJFU7PCY/",
+      "published": "2026-09-08T13:06:58"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Russie - Corée du Nord : un nouveau pont pour sceller le rapprochement économique et militaire",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/asie/russie-coree-du-nord-un-nouveau-pont-pour-sceller-le-rapprochement-economique-et-militaire-UUZVFCXKA5FTZB2Q2CWCP5JRSM/",
+      "published": "2026-09-08T11:36:10"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Parcours des mondes 2026 : totems, plumes et pixels",
+      "description": "",
+      "link": "https://www.lexpress.fr/culture/art/parcours-des-mondes-2026-totems-plumes-et-pixels-FAHS46TRZRGBZPFPEKOUQC4WMQ/",
+      "published": "2026-09-08T10:53:59"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Serbie : les funérailles de Ratko Mladic mettent à l'épreuve les ambitions européennes du pays",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/serbie-les-funerailles-de-ratko-mladic-mettent-a-lepreuve-les-ambitions-europeennes-du-pays-ZZ52TUQ2XJA6PAKESFOZ7I7DFA/",
+      "published": "2026-09-08T10:06:03"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "L'Allemagne sous le choc après le triomphe de l'AfD en Saxe-Anhalt : \"Nous sommes loin de 1933, mais c'est un signal à prendre très au sérieux\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/lallemagne-sous-le-choc-apres-le-triomphe-de-lafd-en-saxe-anhalt-nous-sommes-loin-de-1933-mais-cest-UDWUJG6XR5CSBOYWQKF5ZPTFQY/",
+      "published": "2026-09-08T09:45:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Guerre en Ukraine : la Russie reprend ses frappes après trois jours de pause",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/guerre-en-ukraine-la-russie-reprend-ses-frappes-apres-trois-jours-de-pause-CGZG7KPUHVDILJDI2375RHMWWY/",
+      "published": "2026-09-08T08:17:03"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Niveau scolaire : la France n’a jamais obtenu des scores aussi faibles à l’enquête Pisa",
+      "description": "Bien qu’elle se situe dans la moyenne de l’OCDE, la France n’a jamais obtenu de scores aussi faibles à l’enquête Pisa.",
+      "link": "https://www.lexpress.fr/campus/niveau-scolaire-la-france-na-jamais-obtenu-des-scores-aussi-faibles-a-lenquete-pisa-MYKC47HEM5CVTFTNHTIGPMBBLU/",
+      "published": "2026-09-08T08:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Le décrochage de la France est extrêmement préoccupant\" : face au classement Pisa, l'alerte d'un spécialiste de l'éducation",
+      "description": "Baptiste Larseneur, expert associé de l’Institut Montaigne, revient sur les résultats de la France dans l’enquête Pisa 2025.",
+      "link": "https://www.lexpress.fr/campus/le-decrochage-de-la-france-est-extremement-preoccupant-face-au-classement-pisa-lalerte-dun-TPYBF7SP25GL3KOCW3BCVP5KB4/",
+      "published": "2026-09-08T07:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Droits de douane : face à Donald Trump, le Canada choisit de riposter",
+      "description": "",
+      "link": "https://www.lexpress.fr/economie/droits-de-douane-face-a-donald-trump-le-canada-choisit-de-riposter-UDBZUOODHFERNNNZ3YF7E3M2NA/",
+      "published": "2026-09-08T06:32:04"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "De France, d'Espagne ou d'Allemagne : en 1976, les enfants européens de Mao",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/asie/de-france-despagne-ou-dallemagne-en-1976-les-enfants-europeens-de-mao-WBHKMB7POBGOXJYN5CEQJITOAU/",
+      "published": "2026-09-08T06:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Ils seront l’alpha et l’oméga de nos vies\" : comment les agents IA vont bouleverser l’humanité",
+      "description": "",
+      "link": "https://www.lexpress.fr/idees-et-debats/ils-seront-lalpha-et-lomega-de-nos-vies-comment-les-agents-ia-vont-bouleverser-lhumanite-SOI45MGDABB4RLBU2GQMWYPX6I/",
+      "published": "2026-09-08T05:45:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Sans elle, l’IA ne peut pas continuer à croître\" : le boom de la photonique, une aubaine pour l’Europe",
+      "description": "",
+      "link": "https://www.lexpress.fr/economie/high-tech/sans-elle-lia-ne-peut-pas-continuer-a-croitre-le-boom-de-la-photonique-une-aubaine-pour-leurope-5RTDV4PCMZFBTOR3SHJLI5NCCQ/",
+      "published": "2026-09-08T04:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Fermer le robinet au moins quinze ans\" : en Suède, pourquoi la gauche dit désormais \"nej\" à l’immigration",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/fermer-le-robinet-au-moins-quinze-ans-en-suede-pourquoi-la-gauche-dit-desormais-nej-a-limmigration-XAVCRMAGBJGALLZ7E4OU3QKAFQ/",
+      "published": "2026-09-08T03:45:00"
+    }
+  ]
 }
