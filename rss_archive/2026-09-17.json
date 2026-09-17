@@ -1,5 +1,881 @@
 {
   "date": "2026-09-17",
-  "count": 0,
-  "articles": []
+  "count": 125,
+  "articles": [
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Retraites, gel du point d'indice des fonctionnaires, \"carence\" pour les étrangers… Les pistes du gouvernement pour réaliser 54 milliards d'euros d'économies sur le budget 2027",
+      "description": "Dans les colonnes du \"Figaro\" jeudi, le Premier ministre présente ses principaux arbitrages concernant le budget de l'Etat pour 2027, dans un contexte d'objectif de réduction des déficits et de recherche de compromis politique.",
+      "link": "https://www.franceinfo.fr/economie/budget/retraites-gel-du-point-d-indice-des-fonctionnaires-carence-pour-les-etrangers-les-principales-pistes-du-gouvernement-pour-realiser-54-milliards-d-euros-d-economies-sur-le-budget-2027_8197454.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T17:35:45"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption",
+      "description": "Jeudi en fin d'après-midi, la maire du 7e arrondissement de Paris a commencé à répondre aux questions du tribunal, axées sur le contrat qu'elle a signé avec la filiale de Renault, en tant qu'avocate, au cœur des accusations de corruption.",
+      "link": "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T20:12:32"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Réseaux sociaux interdits avant 13 ans, fonctionnalités \"addictives\" bloquées pour les mineurs… Ce que contient le \"Kids Act\" présenté par la Commission européenne",
+      "description": "Le projet contient de nombreuses contraintes pour les réseaux sociaux, les plateformes de partage de vidéos, les jeux vidéo en ligne et les créateurs de \"chatbots\" alimentés par intelligence artificielle.",
+      "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T16:04:11"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Eric Zemmour, président du parti d’extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+      "description": "Le leader du parti d'extrême droite avait, ces dernières semaines, dissipé les doutes sur une nouvelle candidature à l'Elysée et fait savoir que ce serait bien lui qui porterait les couleurs de Reconquête, et non pas l'eurodéputée Sarah Knafo.",
+      "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-droite-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T21:50:45"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Les plans russes incluent \"des attaques hybrides de drones et de missiles\" contre des pays pro-Ukraine, avertit Donald Tusk, Premier ministre polonais",
+      "description": "Le Premier ministre polonais doit se rendre vendredi en Ukraine, où il doit notamment retrouver son homologue slovaque Robert Fico.",
+      "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-plans-russes-incluent-des-attaques-hybrides-de-drones-et-de-missiles-contre-des-pays-pro-ukraine-avertit-donald-tusk-premier-ministre-polonais_8198099.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T20:57:10"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Un policier mis en examen dans les Yvelines, soupçonné de préparer \"un acte de terrorisme\"",
+      "description": "Un fonctionnaire de police âgé de 35 ans a été mis en examen, soupçonné de préparer \"un acte de terrorisme\", ont appris l'Agence Radio France et franceinfo jeudi, confirmant une information de TF1/LCI.",
+      "link": "https://www.franceinfo.fr/societe/justice/un-policier-mis-en-examen-dans-les-yvelines-soupconne-de-preparer-un-acte-de-terrorisme_8198147.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T21:15:31"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'OM s'écroule à Besiktas pour son entrée en lice en Ligue Europa",
+      "description": "Les joueurs de Bruno Genesio ont enregistré leur quatrième revers d'affilée toutes compétitions confondues, jeudi à Istanbul.",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-europa/l-om-s-ecroule-a-besiktas-pour-son-entree-en-lice-en-ligue-europa_8198030.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T21:01:23"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Édouard Philippe souhaite doter la France d'une \"véritable politique de sécurité climatique\"",
+      "description": "Le candidat Horizons à la présidentielle a présenté les mesures de la \"politique de sécurité climatique\" qu'il entend mettre en place depuis l'Élysée, s'il est élu.",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-souhaite-doter-la-france-d-une-veritable-politique-de-securite-climatique_8197976.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T19:27:16"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Tennis : la Russe Anna Blinkova naturalisée française et nouvelle n°2 tricolore à la WTA",
+      "description": "La tenniswoman de 28 ans, 94e joueuse mondiale, représentera désormais la France.",
+      "link": "https://www.franceinfo.fr/sports/tennis/wta/tennis-la-russe-anna-blinkova-naturalisee-francaise-et-nouvelle-n-2-tricolore-a-la-wta_8198054.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T19:49:32"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"C'est un vrai budget violent d'austérité qu'il faut combattre\", dit Denis Gravouil, membre du bureau de la CGT, concernant le budget 2027",
+      "description": "Denis Gravouil, membre du bureau confédéral de la CGT, dénonce \"un budget violent d'austérité qu'il faut combattre\", concernant les mesures annoncées jeudi par Sébastien Lecornu pour réaliser 54 milliards d'euros d'économies sur le budget 2027.",
+      "link": "https://www.franceinfo.fr/economie/budget/c-est-un-vrai-budget-violent-d-austerite-qu-il-faut-combattre-dit-denis-gravouil-membre-du-bureau-de-la-cgt-concernant-le-budget-2027_8198084.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T20:25:27"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Au procès de l'assassinat de Federico Martin Aramburu, des psychiatres s'affrontent au sujet de l'état de stress post-traumatique de l'accusé principal",
+      "description": "Cette bataille entre médecins est cruciale pour l'ancien militaire de 32 ans, qui encourt la perpétuité pour assassinat.",
+      "link": "https://www.franceinfo.fr/faits-divers/assassinat-du-rugbyman-federico-martin-aramburu/au-proces-de-l-assassinat-de-federico-martin-aramburu-un-psychiatre-affirme-que-l-accuse-principal-souffre-d-un-stress-post-traumatique-incontestable_8197325.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T20:01:04"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Aujourd'hui, le problème de la CDU s’appelle Friedrich Merz\" : à quatre jours d'un nouveau scrutin régional, l’AFD cible le chancelier allemand",
+      "description": "Après le triomphe de l’AFD en Saxe-Anhalt, le chancelier allemand Friedrich Merz apparaît de plus en plus fragilisé. Il est la cible du parti d’extrême droite, qui agrège les colères lors de ses rassemblements dans le Mecklembourg-Poméranie-Occidentale.",
+      "link": "https://www.franceinfo.fr/monde/europe/allemagne/aujourd-hui-le-probleme-de-la-cdu-s-appelle-friedrich-merz-a-quatre-jours-d-un-nouveau-scrutin-regional-l-afd-cible-le-chancelier-allemand_8196818.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T19:30:42"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Les pêcheurs s'engagent à débloquer les barrages, les aides \"suivront la variation des cours du carburant\", assure la ministre de la Mer",
+      "description": "Le Premier ministre Sébastien Lecornu avait annoncé mercredi le relèvement de 25 à 35 centimes par litre du montant de l'aide accordée aux pêcheurs français.",
+      "link": "https://www.franceinfo.fr/economie/greve/les-pecheurs-s-engagent-a-debloquer-les-barrages-les-aides-suivront-la-variation-des-cours-du-carburant-assure-la-ministre-de-la-mer_8197952.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T18:42:26"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Une trentaine de personnes pénètrent au tribunal de Montbéliard, dégradent les lieux et provoquent l'interruption d'une audience",
+      "description": "Une trentaine de personnes ont interrompu une audience après avoir dégradé le tribunal de Montbéliard (Doubs) jeudi. Les magistrats ont été insultés et menacés.",
+      "link": "https://www.franceinfo.fr/societe/justice/une-trentaine-de-personnes-penetrent-au-tribunal-de-montbeliard-degradent-les-lieux-et-provoquent-l-interruption-d-une-audience_8198060.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T19:53:50"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Gabriel Attal juge que l'Europe des 27 a \"atteint ses limites\" et plaide pour des \"Etats-Unis d'Europe\"",
+      "description": "S'il n'a pas précisé le nombre de pays visés, le candidat à la présidentielle a dit vouloir instaurer ces \"Etats-Unis d'Europe\" en faisant \"le premier référendum européen\".",
+      "link": "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T17:50:24"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le jeu vidéo \"GTA VI\" met le grappin sur le rappeur américain Travis Scott et le guitariste britannique Keith Richards pour sa bande originale",
+      "description": "Le sixième opus de la saga \"Grand Theft Auto\" est attendu depuis plus de treize ans par les joueurs du monde entier. Le jeu sortira le 19 novembre.",
+      "link": "https://www.franceinfo.fr/culture/jeux-video/travis-scott-et-keith-richards-figurent-sur-la-bande-originale-du-jeu-video-gta-vi_8197934.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T18:38:21"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Un chauffeur routier, qui regardait Netflix en conduisant, condamné à un an de prison ferme pour avoir tué un gendarme sur l'autoroute dans l'Eure",
+      "description": "Après avoir tué un gendarme sur l'autoroute A13 dans l'Eure en 2022, un chauffeur routier a été condamné jeudi à un an de prison ferme par le tribunal correctionnel d'Evreux. L'homme, poursuivi pour homicide involontaire et blessures involontaires, regardait une série Netflix en conduisant.",
+      "link": "https://www.franceinfo.fr/societe/justice/un-chauffeur-routier-qui-regardait-netflix-en-conduisant-condamne-a-un-an-de-prison-ferme-pour-avoir-tue-un-gendarme-sur-l-autoroute-dans-l-eure_8198045.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T19:39:57"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Menaces de mort dans un collège d'Eysines : le père d'élève condamné à six mois de prison ferme",
+      "description": "Le père d'élève qui avait menacé et violenté un surveillant et la principale du collège Albert Camus, à Eysines, en Gironde, a été condamné ce jeudi 17 septembre à douze mois de prison dont six avec sursis. Sa compagne, présente et violente lors des faits, a été condamnée à six mois de prison avec sursis pour outrage.",
+      "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/menaces-de-mort-dans-un-college-d-eysines-le-pere-d-eleve-condamne-a-six-mois-de-prison-ferme-3419003.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T18:08:36"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "En Ille-et-Vilaine, une maire porte plainte après avoir reçu des menaces de mort sur les réseaux sociaux, sur fond de polémique autour du marché de Noël",
+      "description": "Après avoir reçu des menaces de mort, la maire de la commune de Pleurtuit (Ille-et-Vilaine) porte plainte, rapporte jeudi ICI Armorique. L'élue est accusée de vouloir créer un \"village enchanté\" à la fin de l'année pour remplacer le marché de Noël.",
+      "link": "https://www.franceinfo.fr/societe/justice/en-ille-et-vilaine-une-maire-porte-plainte-apres-avoir-recu-des-menaces-de-mort-sur-les-reseaux-sociaux-sur-fond-de-polemique-autour-du-marche-de-noel_8198018.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T19:19:11"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"C'est une bombe à retardement\" : comment le RN a laissé en place un député soupçonné de détournements d'argent public",
+      "description": "Le Rassemblement national a investi l'un de ses députés pour les législatives 2024 malgré une série d'alertes internes dont certaines sont remontées jusqu’à Marine Le Pen. José Beaurain, élu de l'Aisne, est soupçonné de fraude et de détournements de ses avances de frais de mandat.",
+      "link": "https://www.franceinfo.fr/enquetes-franceinfo/info-radio-france-c-est-une-bombe-a-retardement-comment-le-rn-a-laisse-en-place-un-depute-soupconne-de-detournements-d-argent-public_8195957.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T04:00:02"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Visé par une plainte pour viol, le maire de Concarneau placé en garde à vue",
+      "description": "Quentin Le Gaillard, maire de Concarneau (Finistère), a été placé en garde à vue. Il est visé par une plainte pour viol.",
+      "link": "https://www.franceinfo.fr/societe/justice/vise-par-une-plainte-pour-viol-le-maire-de-concarneau-place-en-garde-a-vue_8197814.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T16:50:45"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'Union européenne exprime sa \"totale solidarité\" avec l'Arabie saoudite et appelle les houthis à cesser leurs frappes",
+      "description": "Des affrontements meurtriers ont fait cinq morts jeudi entre les rebelles yéménites et l'Arabie saoudite, quelques jours après l'offensive éclair des combattants pro-iraniens sur la mer Rouge.",
+      "link": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-union-europeenne-exprime-sa-totale-solidarite-avec-l-arabie-saoudite-et-appelle-les-houthis-a-cesser-leurs-frappes_8197769.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T17:00:11"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"C'est important pour les enfants de voir qu'il y a une justice\": l'ex-directeur d'école du Morbihan condamné à 15 ans de réclusion pour viol et agressions sexuelles",
+      "description": "Quinze années de réclusion criminelle avec une période de sûreté de dix ans, pour viol et agressions sexuelles sur mineurs. C'est le peine à laquelle vient d'être condamné Jean-Patern Ars, l'ancien directeur de l'école catholique du Sacré-Coeur de Noyal-Muzillac. \"Une peine sévère\" à la hauteur de la gravité, de la durée et de la préméditation des faits, selon la présidente de la Cour criminelle du Morbihan.",
+      "link": "https://france3-regions.franceinfo.fr/bretagne/morbihan/c-est-important-pour-les-enfants-de-voir-qu-il-y-a-une-justice-l-ex-directeur-d-ecole-du-morbihan-condamne-a-15-ans-de-reclusion-pour-viol-et-agressions-sexuelles-3418907.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T17:13:59"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Quels sont les moyens consacrés par l'État à la lutte contre les violences faites aux femmes ?",
+      "description": "Le gouvernement prévoit 1,5 milliard d'euros par an pour lutter contre les violences sexistes et sexuelles. Un montant contesté par les associations, qui jugent les moyens réels bien inférieurs.",
+      "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/quels-sont-les-moyens-consacres-par-l-etat-a-la-lutte-contre-les-violences-faites-aux-femmes_8197472.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T14:25:14"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Budget 2027 : Sébastien Lecornu prépare une \"potion d'austérité\", \"insoutenable\" et \"irresponsable\", estime le socialiste Arthur Delaporte",
+      "description": "Le député et porte-parole du PS a critiqué une \"potion d'austérité amère qui est faite sur le dos des Français\", avant d'ajouter que c'était \"l'inverse de ce qu'il faudrait faire\".",
+      "link": "https://www.franceinfo.fr/economie/budget/direct-budget-2027-le-gel-du-point-d-indice-des-fonctionnaires-est-un-scandale-pour-la-secretaire-generale-de-la-cgt_8197844.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T21:53:43"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Pour le budget 2027, Sébastien Lecornu propose \"un effort\" d'environ 54 milliards d'euros",
+      "description": "Dans un entretien au \"Figaro\", le Premier ministre affirme jeudi que \"la charge de la dette pèse de plus en plus lourd sur l'équation budgétaire\".",
+      "link": "https://www.franceinfo.fr/economie/budget/pour-le-budget-2027-sebastien-lecornu-propose-un-effort-d-environ-54-milliards-d-euros_8197535.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-09-17T15:14:46"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Budget 2027 : le déficit dérape, Sébastien Lecornu repousse d’un an le redressement des comptes",
+      "description": "Le déficit devrait monter à 5,4 % du PIB en 2026, loin des 5 % visés, a reconnu le gouvernement, jeudi. Après ce dérapage, le premier ministre espère reprendre le contrôle des comptes publics en 2027. Les économistes, eux, restent dubitatifs.",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/17/budget-2027-le-deficit-derape-sebastien-lecornu-repousse-d-un-an-le-redressement-des-comptes_6776482_823448.html",
+      "published": "2026-09-17T21:15:03"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Pour calmer la colère des pêcheurs, le gouvernement prend des engagements sur les prix des carburants",
+      "description": "Après avoir bloqué deux ports depuis mardi, les pêcheurs de Méditerranée se sont engagés, jeudi soir, à lever leurs barrages à la suite des promesses du gouvernement d’accorder des aides qui « suivront la variation des cours des carburants ».",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/17/pour-calmer-la-colere-des-pecheurs-le-gouvernement-prend-des-engagements-sur-les-prix-des-carburants_6776476_3234.html",
+      "published": "2026-09-17T18:56:07"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Après un été de canicules et de sécheresse, le gouvernement envisage de réduire de plus de 30 % le budget de l’Ademe",
+      "description": "Selon les informations du « Monde », l’Agence de la transition écologique verrait son budget d’intervention amputé de plus de 300 millions d’euros.",
+      "link": "https://www.lemonde.fr/planete/article/2026/09/17/apres-un-ete-de-canicules-et-de-secheresse-le-gouvernement-envisage-de-reduire-de-plus-de-30-le-budget-de-l-ademe_6776478_3244.html",
+      "published": "2026-09-17T19:47:38"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Ukraine, David Arakhamia, l’homme qui a su se rendre indispensable aux côtés de Volodymyr Zelensky",
+      "description": "A la tête du groupe parlementaire Serviteur du peuple, ce proche du président ukrainien s’est imposé à la fois en garant d’une majorité fragilisée et comme négociateur-clé face aux Américains et aux Russes.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/17/en-ukraine-david-arakhamia-l-homme-qui-a-su-se-rendre-indispensable-aux-cotes-de-volodymyr-zelensky_6776468_3210.html",
+      "published": "2026-09-17T17:30:11"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "A Strasbourg, Mark Carney livre sa vision d’une alliance avec l’Union européenne",
+      "description": "Ignorant les menaces du président américain, Donald Trump, le premier ministre canadien a vanté, le 17 septembre, devant les eurodéputés, les bienfaits d’un rapprochement entre son pays et les Européens. Il a notamment énuméré des exemples de domaines de coopération.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/17/a-strasbourg-mark-carney-livre-sa-vision-d-une-alliance-avec-l-union-europeenne_6776450_3210.html",
+      "published": "2026-09-17T15:41:11"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "La dégradation des réseaux de fibre reste un fléau pour de nombreuses communes",
+      "description": "Les malfaçons sur les réseaux de fibre optique suscitent toujours l’ire des collectivités et des abonnés, qui pâtissent de coupures d’Internet ou d’échecs de raccordement.",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/17/la-degradation-des-reseaux-de-fibre-reste-un-fleau-pour-de-nombreuses-communes_6776453_3234.html",
+      "published": "2026-09-17T16:00:10"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Un policier, « adhérent à une idéologie d’ultradroite », mis en examen pour préparation d’acte terroriste",
+      "description": "Le fonctionnaire, qui a été placé en détention provisoire à Paris après avoir été interpellé, le 23 août, est « soupçonné d’avoir voulu mener des attaques violentes contre des intérêts de l’Etat » et d’avoir « fabriqué des armes imprimées en 3D ».",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/18/un-policier-adherent-a-une-ideologie-d-ultradroite-mis-en-examen-pour-preparation-d-acte-terroriste_6776483_3224.html",
+      "published": "2026-09-17T22:18:39"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Dans le sud du Liban, à quelques mois du départ de la Finul, la crainte que les Israéliens puissent « faire ce qu’ils veulent sans témoin »",
+      "description": "Les opérations de la Force intérimaire des Nations unies au Liban prendront fin le 31 décembre, après quarante-huit ans de présence. Les autorités du pays et des membres du Conseil de sécurité estiment qu’il faut maintenir une présence internationale.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/17/dans-le-sud-du-liban-a-quelques-mois-du-depart-de-la-finul-la-crainte-que-les-israeliens-puissent-faire-ce-qu-ils-veulent-sans-temoin_6776472_3210.html",
+      "published": "2026-09-17T18:00:08"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Au Royaume-Uni, Charles III, relais des inquiétudes mondiales sur l’emballement de l’IA",
+      "description": "Devant des acteurs du secteur réunis en Ecosse, le roi a mis en garde contre les « dangers existentiels » posés par cette nouvelle technologie. Des appels à davantage de régulation, au niveau national et international, se font entendre au Royaume Uni.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+      "published": "2026-09-17T20:00:03"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "France Inter : la grève maintenue contre la chronique de Charles Sapin, directeur adjoint de la rédaction de « Valeurs actuelles », malgré les propositions de la direction",
+      "description": "La contestation à France Inter s’inscrit dans un climat tendu autour du pluralisme dans l’audiovisuel public, alors que d’autres rédactions publiques expriment aussi leur inquiétude.",
+      "link": "https://www.lemonde.fr/actualite-medias/article/2026/09/17/france-inter-la-greve-maintenue-contre-l-edito-de-valeurs-actuelles-malgre-les-propositions-de-la-direction_6776439_3236.html",
+      "published": "2026-09-17T14:50:35"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Au brevet et au bac, les élèves auront « au minimum deux points » en moins si leur copie est mal rédigée",
+      "description": "Orthographe, syntaxe, lexique, organisation des idées… Une note de service publiée jeudi précise la grille d’évaluation de la maîtrise de la langue française pour l’ensemble des épreuves. Les syndicats s’inquiètent de consignes « inopérantes ».",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/17/au-brevet-et-au-bac-les-eleves-auront-au-minimum-deux-points-en-moins-si-leur-copie-est-mal-redigee_6776456_3224.html",
+      "published": "2026-09-17T16:00:16"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Michel Fournier, ministre délégué chargé de la ruralité, quitte le gouvernement",
+      "description": "Il devrait reprendre la présidence de l’Association des maires ruraux de France, qu’il occupe depuis 2020 et dont il s’était mis en retrait en devenant ministre dans le gouvernement Lecornu II, en octobre 2025.",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/18/michel-fournier-ministre-delegue-charge-de-la-ruralite-quitte-le-gouvernement_6776516_823448.html",
+      "published": "2026-09-17T23:43:10"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "De Sidiki Diabaté à Sona Jobarteh, un nouveau souffle pour la kora",
+      "description": "L’instrument à cordes ouest-africain voit son public rajeunir et son répertoire évoluer, comme l’illustre le concert parisien du musicien malien, qui se produit ce vendredi 18 septembre à l’Accor Arena.",
+      "link": "https://www.lemonde.fr/culture/article/2026/09/17/de-sidiki-diabate-a-sona-jobarteh-un-nouveau-souffle-pour-la-kora_6776466_3246.html",
+      "published": "2026-09-17T17:00:24"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Dans la banlieue lyonnaise, le risque d’annulation des élections municipales provoque une bataille à gauche",
+      "description": "A Vaulx-en-Velin et à Vénissieux, les maires « insoumis » Abdelkader Lahmar et Idir Boumertit s’étonnent d’erreurs administratives dont les maires perdantes – Hélène Geoffroy (PS) et Michèle Piccard (PCF) – étaient au courant au moment du scrutin.",
+      "link": "https://www.lemonde.fr/politique/article/2026/09/17/dans-la-banlieue-lyonnaise-le-risque-d-annulation-des-elections-municipales-provoque-une-bataille-a-gauche_6776454_823448.html",
+      "published": "2026-09-17T16:00:05"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Crue soudaine dans le Grand Canyon : un troisième corps retrouvé, deux semaines plus tard",
+      "description": "Deux autres victimes, John Guisti et Brent Rosenkranz, avaient été retrouvés très rapidement après cette crue éclair, qui a surpris des dizaines de touristes et fait déferler un torrent d’eau boueuse dans le parc national du Grand Canyon, aux Etats-Unis.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/17/crue-soudaine-dans-le-grand-canyon-un-troisieme-corps-retrouve-deux-semaines-plus-tard_6776480_3210.html",
+      "published": "2026-09-17T20:05:14"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le constructeur automobile chinois Geely pousse Renault à renforcer leur alliance",
+      "description": "Au Brésil, le groupe français a annoncé la fabrication d’un nouveau véhicule hybride grâce à la technologie de son partenaire chinois. Geely veut étendre leur collaboration à l’ensemble de l’Amérique du Sud.",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/17/le-constructeur-automobile-chinois-geely-pousse-renault-a-renforcer-leur-alliance_6776475_3234.html",
+      "published": "2026-09-17T18:52:45"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Sébastien Lecornu dévoile son budget au Figaro : «Je propose un effort budgétaire d’environ 54 milliards d’euros»",
+      "description": "ENTRETIEN EXCLUSIF - Le premier ministre détaille les coupes budgétaires qu’il va soumettre aux parlementaires dans le cadre du projet de loi de finances, et promet la stabilité fiscale.",
+      "link": "https://www.lefigaro.fr/politique/sebastien-lecornu-devoile-son-budget-au-figaro-je-propose-un-effort-budgetaire-d-environ-54-milliards-d-euros-20260917",
+      "published": "2026-09-17T16:15:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Potion d’austérité», «difficultés financières» à venir… La copie budgétaire de Sébastien Lecornu ne convainc pas les oppositions",
+      "description": "Le premier ministre a présenté jeudi dans Le Figaro les grandes lignes d’un budget pour 2027 qu’il veut «offensif» avec un «effort» d’économies massif de 54 milliards d’euros.",
+      "link": "https://www.lefigaro.fr/politique/potion-d-austerite-difficultes-financieres-a-venir-la-copie-budgetaire-de-sebastien-lecornu-ne-convainc-pas-les-oppositions-20260917",
+      "published": "2026-09-17T21:52:08"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Jeunes, retraités, fonctionnaires : Lecornu va mettre tout le monde à contribution dans le budget 2027",
+      "description": "EXCLUSIF - Matignon propose des économies sur les APL, les arrêts maladie, les salaires des fonctionnaires ou encore sur les pensions de retraite.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/jeunes-retraites-fonctionnaires-malades-lecornu-va-mettre-tout-le-monde-a-contribution-dans-le-budget-2027-20260917",
+      "published": "2026-09-17T17:07:25"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Surtaxe d’impôt sur les sociétés : les grandes entreprises savent désormais à quoi s’attendre",
+      "description": "EXCLUSIF - Dans son budget 2027, le gouvernement ne supprime pas cet impôt qui devrait être temporaire, mais le réduit.",
+      "link": "https://www.lefigaro.fr/economie/surtaxe-d-impot-sur-les-societes-les-grandes-entreprises-savent-desormais-a-quoi-s-attendre-20260917",
+      "published": "2026-09-17T16:26:25"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "EN DIRECT - Présidentielle 2027: Éric Zemmour confirme qu’il sera candidat",
+      "description": "Interrogé jeudi soir sur BFMTV, le président de Reconquête! a affirmé qu’il sera «candidat à l’élection présidentielle». Il ne s’agit cependant pas d’une déclaration formelle de candidature qui, selon son entourage, devrait intervenir au cours de cet automne.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-le-climat-l-europe-et-les-enfants-au-menu-des-candidats-ce-jeudi-20260917",
+      "published": "2026-09-17T21:43:01"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "En Bretagne, Bruno Retailleau parfait sa stature présidentielle auprès des agriculteurs",
+      "description": "RÉCIT - En attendant la copie budgétaire de Sébastien Lecornu, le candidat des Républicains en campagne à Rennes, se pose en défenseur des agriculteurs, dénonçant normes, «écologie dogmatique» et recul de la souveraineté alimentaire française.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/en-bretagne-bruno-retailleau-parfait-sa-stature-presidentielle-aupres-des-agriculteurs-20260917",
+      "published": "2026-09-17T14:09:03"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Jusqu’où ira votre tortue ?» : LFI lance un nouveau jeu pour récolter des soutiens à la campagne de Jean-Luc Mélenchon",
+      "description": "Avec ce concours inauguré ce jeudi 17 septembre, les Insoumis expliquent vouloir «gamifier» les actions militantes pour recruter de nouveaux sympathisants.",
+      "link": "https://www.lefigaro.fr/politique/jusqu-ou-ira-votre-tortue-lfi-lance-un-nouveau-jeu-pour-recolter-des-soutiens-a-la-campagne-de-jean-luc-melenchon-20260917",
+      "published": "2026-09-17T16:13:42"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Primaire de la gauche : le Parti socialiste secoué par l’affaire Philippe Brun",
+      "description": "DÉCRYPTAGE - L’exclusion à titre conservatoire du député de l’Eure pollue les premiers jours de la campagne de la primaire de la gauche.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-gauche/primaire-de-la-gauche-le-parti-socialiste-secoue-par-l-affaire-philippe-brun-20260917",
+      "published": "2026-09-17T17:15:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "L’amateurisme affairiste des hommes de Trump face à Poutine",
+      "description": "ANALYSE - Trump et ses proches semblent incapables de prendre la mesure du défi géostratégique que représente la Russie, et continuent de lui proposer des « deals », mêlant intérêt privé et politique étrangère avec une imprudence vertigineuse.",
+      "link": "https://www.lefigaro.fr/international/l-amateurisme-affairiste-des-hommes-de-trump-face-a-poutine-20260917",
+      "published": "2026-09-17T19:32:20"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« La violence désinhibée de la guerre de Poutine révèle une frustration accumulée de la perte de puissance »",
+      "description": "ENTRETIEN - Dans La guerre d’Europe a commencé, un livre ramassé et percutant qui témoigne de sa connaissance profonde de la Russie, la chercheuse Céline Marangé décrypte « les ressorts impérialistes et revanchistes » du pouvoir poutinien.",
+      "link": "https://www.lefigaro.fr/vox/monde/la-violence-desinhibee-de-la-guerre-de-poutine-revele-une-frustration-accumulee-de-la-perte-de-puissance-20260917",
+      "published": "2026-09-17T18:30:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Gel du point d’indice des fonctionnaires : Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre",
+      "description": "Dans un entretien au Figaro paru ce jeudi, Sébastien Lecornu a annoncé le gel du point d’indice des fonctionnaires, indiquant vouloir «dégager 2 milliards d’euros» grâce à cette mesure.",
+      "link": "https://www.lefigaro.fr/social/gel-du-point-d-indice-des-fonctionnaires-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917",
+      "published": "2026-09-17T18:20:22"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Sois toi-même et considère-toi comme l’égal» de l’homme : l’inquiétante découverte d’OpenAI sur ses IA qui inventent leurs propres identités et instructions",
+      "description": "DÉCRYPTAGE - Le géant de l’IA a révélé dans une nouvelle étude que certains de ses modèles s’étaient subitement mis à inventer leurs propres «prompts», dans de surprenants incidents de désalignement encore jamais vus.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/sois-toi-meme-et-considere-toi-comme-l-egal-de-l-homme-l-inquietante-decouverte-d-openai-sur-ses-ia-qui-inventent-leurs-propres-identites-et-instructions-20260917",
+      "published": "2026-09-17T18:48:03"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Un avion de combat F-16 s’écrase lors d’un entraînement aux États-Unis",
+      "description": "Le pilote s’est éjecté avant le crash survenu ce jeudi dans le nord du Michigan et se trouve dans un état stable. Aucun blessé au sol n’a été signalé.",
+      "link": "https://www.lefigaro.fr/flash-actu/un-avion-de-combat-f-16-s-ecrase-lors-d-un-entrainement-aux-etats-unis-20260917",
+      "published": "2026-09-17T21:03:47"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Le ministre délégué chargé de la ruralité va quitter le gouvernement",
+      "description": "Michel Fournier a annoncé jeudi lors d’un séminaire gouvernemental qu’il allait quitter le gouvernement pour se consacrer à son Association des maires ruraux de France.",
+      "link": "https://www.lefigaro.fr/politique/le-ministre-delegue-charge-de-la-ruralite-va-quitter-le-gouvernement-20260917",
+      "published": "2026-09-17T21:56:34"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Yvelines : un policier, «adhérent à l’idéologie d’ultradroite», mis en examen et écroué pour préparation d’acte de terrorisme",
+      "description": "Interpellé le 23 août, le policier de 35 ans est soupçonné d’avoir projeté des actions violentes contre les institutions et les forces de l’ordre. Il aurait notamment publié des messages menaçants sur des forums en ligne.",
+      "link": "https://www.lefigaro.fr/faits-divers/yvelines-un-policier-adherent-a-l-ideologie-d-ultradroite-mis-en-examen-et-ecroue-pour-preparation-d-acte-de-terrorisme-20260917",
+      "published": "2026-09-17T23:25:16"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Carburants : l’exécutif au défi de contenir la colère tout en défendant un effort budgétaire",
+      "description": "DÉCRYPTAGE - Sébastien Lecornu a annoncé une prolongation des aides ciblées tout en prônant un budget rigoureux.",
+      "link": "https://www.lefigaro.fr/politique/carburants-l-executif-au-defi-de-contenir-la-colere-tout-en-defendant-un-effort-budgetaire-20260917",
+      "published": "2026-09-17T17:03:46"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Blocage des prix, baisse des taxes... Quelles sont les propositions des candidats à la présidentielle sur les carburants ?",
+      "description": "Chaque candidat à l’Élysée y va de sa solution pour protéger financièrement les Français de la flambée des prix à la pompe, sur fond de crainte d’un retour des «Gilets jaunes».",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/blocage-des-prix-baisse-des-taxes-quelles-sont-les-propositions-des-candidats-a-la-presidentielle-sur-les-carburants-20260917",
+      "published": "2026-09-17T17:17:12"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Carburants : évolution des prix, stations les moins chères, pénuries… Suivez la situation en direct grâce à notre tableau de bord",
+      "description": "Le gazole à 2,36€, l’essence à plus de 2,23€ : face à la flambée des prix, notre outil vous permet de faire l’état des lieux, et de repérer en un code postal les dix stations les moins chères autour de vous.",
+      "link": "https://www.lefigaro.fr/conjoncture/carburants-trouvez-la-station-la-moins-chere-pres-de-chez-vous-20260915",
+      "published": "2026-09-17T12:22:59"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Bartolomé Lenoir : « Quand le carburant devient un luxe, on ne va plus chez le médecin »",
+      "description": "FIGAROVOX/TRIBUNE - Pour le député de la Creuse (UDR), le déclin conjoint de l’industrie, de l’agriculture et du bâtiment menace la survie économique et sociale des campagnes françaises, au point de faire peser un risque sur la cohésion du pays.",
+      "link": "https://www.lefigaro.fr/vox/politique/bartolome-lenoir-quand-le-carburant-devient-un-luxe-on-ne-va-plus-chez-le-medecin-20260917",
+      "published": "2026-09-17T15:54:10"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Le Canada et l’Europe doivent développer leur propre autonomie stratégique»",
+      "description": "Selon l’économiste québécois Mathieu Arès, le rapprochement d’Ottawa avec Bruxelles peut réduire certaines des vulnérabilités canadiennes dans la défense ou l’énergie.",
+      "link": "https://www.liberation.fr/international/amerique/le-canada-et-leurope-doivent-developper-leur-propre-autonomie-strategique-20260918_627H7GHNYRGNPBRN7VTILSDOAA/",
+      "published": "2026-09-17T22:31:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Présidentielle 2027 : les ministres participant «activement» à la campagne devront quitter le gouvernement",
+      "description": "S’ils s’impliquent «dans l’opérationnalité d’une campagne», les ministres devront partir, a prévenu le Premier ministre Sébastien Lecornu, dans un entretien au «Figaro», publié ce jeudi 17 septembre.",
+      "link": "https://www.liberation.fr/politique/presidentielle-2027-les-ministres-participant-activement-a-la-campagne-devront-quitter-le-gouvernement-20260917_VKFOKYXJJRGHVIASQO34OWHVVU/",
+      "published": "2026-09-17T20:17:49"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Le Plancher» : au théâtre du Montparnasse, le récit d’une vie emmurée dans l’aliénation",
+      "description": "A partir d’un texte gravé par un fermier sur le sol de sa chambre, singulière œuvre où la naïveté côtoie la colère, Frédéric Cherboeuf  retrace un destin cabossé.",
+      "link": "https://www.liberation.fr/culture/scenes/le-plancher-au-theatre-du-montparnasse-le-recit-dune-vie-emmuree-dans-lalienation-20260917_4D2YXVWEJZGE7MKBGQA2UU3DDQ/",
+      "published": "2026-09-17T20:15:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Des photos AFP semblent montrer que Trump songe bien à détruire le Kennedy Center",
+      "description": "Furieux que la justice l’empêche d’accoler son nom à ce haut lieu culturel de Washington, le président américain serait prêt à le sacrifier si l’on en croit des clichés pris le mercredi 16 septembre sur la base militaire du Maryland.",
+      "link": "https://www.liberation.fr/international/amerique/des-photos-afp-semblent-montrer-que-trump-songe-bien-a-detruire-le-kennedy-center-20260917_DPYRTTUGAFAUTJEMGKJMQHGOQI/",
+      "published": "2026-09-17T20:08:16"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Fausses infos sur la présence de drogue dans le sac de Rima Hassan : Laurent Nuñez dément avoir «organisé» les fuites dans la presse",
+      "description": "Dans l’émission «Complément d’enquête» de ce jeudi 17 septembre, des journalistes ont affirmé que le ministre de l’Intérieur avait évoqué la présence de drogue de synthèse dans le sac de l’eurodéputée. Son entourage affirme qu’il s’agissait d’une discussion «en off».",
+      "link": "https://www.liberation.fr/politique/drogue-dans-le-sac-de-rima-hassan-laurent-nunez-accuse-davoir-participe-a-la-diffusion-dune-information-inexacte-20260917_Q6AQBS524NGNPL6XTSYOTYCL2M/",
+      "published": "2026-09-17T19:35:56"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Allemagne : la ville de Francfort victime d’une rare série de «paludisme d’aéroport», un troisième mort annoncé ce jeudi",
+      "description": "Huit employés de l’aéroport ou des habitants des environs ont été infectés depuis la fin du mois d’août par cette maladie parasitaire, qui circule normalement en Afrique subsaharienne. En cause, des moustiques qui voyagent à bord d’avions en provenance de zones contaminées.",
+      "link": "https://www.liberation.fr/societe/sante/allemagne-la-ville-de-francfort-victime-dune-rare-serie-de-paludisme-daeroport-un-troisieme-mort-annonce-ce-jeudi-20260917_DEJELMKQ2BHLRELJLX272VSTII/",
+      "published": "2026-09-17T19:34:59"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Russie : les actifs de Nestlé, Auchan et de l’ex-Leroy Merlin transférés à une même société russe",
+      "description": "Selon un décret présidentiel publié ce jeudi, les actifs russes des entreprises suisse et française vont être gérés, de façon temporaire, par la société russe «L.E.V. Management».",
+      "link": "https://www.liberation.fr/international/europe/russie-les-actifs-de-nestle-auchan-et-de-lex-leroy-merlin-transferes-a-une-meme-societe-russe-20260917_ADF2V2VPAZD7HCQUT6CVHZAUKA/",
+      "published": "2026-09-17T19:17:10"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Menaces de mort au collège : un père condamné à six mois de prison ferme à Bordeaux",
+      "description": "Après une altercation entre sa fille et d’autres élèves lundi 14 septembre, l’homme avait menacé «d’égorger» et de «planter» un surveillant et la principale d’un collège d’Eysines. Il a été incarcéré à l’issue de l’audience.",
+      "link": "https://www.liberation.fr/societe/police-justice/menaces-de-mort-au-college-un-pere-condamne-a-six-mois-de-prison-ferme-a-bordeaux-20260917_DPRKXKNK5NDSRA6V24ONBSXA2Q/",
+      "published": "2026-09-17T19:05:03"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Quel message envoie-t-on, qu’il vaut mieux se taire ?» : à Stains, deux profs lanceuses d’alerte sur des propos sexistes et racistes menacées de mutation",
+      "description": "Les enseignantes, qui ont adressé un signalement au procureur de la République de Bobigny face aux agissements d’un collègue d’EPS, ont reçu le soutien de l’intersyndicale le jeudi 17 septembre devant le rectorat de Créteil.",
+      "link": "https://www.liberation.fr/societe/education/quel-message-envoie-t-on-quil-vaut-mieux-se-taire-a-stains-deux-profs-lanceuses-dalerte-sur-des-propos-sexistes-et-racistes-menacees-de-mutation-20260917_6LJLMMP7RVAHJK35SYDV2ODXEY/",
+      "published": "2026-09-17T18:59:17"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "La création d’une base militaire américaine en Pologne avance, Trump s’en félicite",
+      "description": "Si le projet se concrétise, l’emplacement pourrait être annoncé «très prochainement», a affirmé le président américain ce jeudi 17 septembre. La Pologne milite pour un renforcement de la présence de l’Otan depuis 2022 et l’invasion de l’Ukraine.",
+      "link": "https://www.liberation.fr/international/europe/la-creation-dune-base-militaire-americaine-en-pologne-avance-trump-sen-felicite-20260917_3ZAE53QG2JGQDFPIKQGRS5ZS7I/",
+      "published": "2026-09-17T18:49:52"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Budget 2027 : Lecornu cherche ses milliards",
+      "description": "Dans un entretien au «Figaro», le Premier ministre a levé le voile sur ses pistes pour réaliser un «effort budgétaire de 54 milliards d’euros» avec l’objectif très ambitieux d’atteindre un déficit à 5% en 2027.",
+      "link": "https://www.liberation.fr/economie/budget-2027-lecornu-cherche-ses-milliards-20260917_FTEIY3FT5ZB23E2G2L7BDAVHRI/",
+      "published": "2026-09-17T18:49:02"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "UE-Canada : Mark Carney en rang d’union avec le Vieux Continent",
+      "description": "Au lendemain de l’annonce d’Ursula von der Leyen de faire du Canada le premier «membre associé» de l’Union européenne, le Premier ministre canadien a défendu un rapprochement inédit avec Bruxelles, largement salué dans l’hémicycle.",
+      "link": "https://www.liberation.fr/international/europe/ue-canada-mark-carney-en-rang-dunion-avec-le-vieux-continent-20260917_DJPS3EVJYVBAXM6MMSS56F6KUM/",
+      "published": "2026-09-17T18:45:06"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mark Carney vs Donald Trump, une bouffée d’espoir dans ce monde de brutes",
+      "description": "Le Premier ministre canadien a accepté la main tendue par Bruxelles pour esquisser une «alliance pour le futur» avec l’Union européenne. Un formidable projet qui fait déjà enrager le président américain.",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/mark-carney-vs-donald-trump-une-bouffee-despoir-dans-ce-monde-de-brutes-20260917_XSRPEP2KKFEEXLXZM6THU4MTBY/",
+      "published": "2026-09-17T18:21:49"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Sur le plan criminologique, il est dangereux» : au procès de l’assassinat d’Aramburú, des expertises psychiatriques sévères pour Loïk Le Priol",
+      "description": "Devant la cour d’assises de Paris ce jeudi, les psychiatres mandatés sont revenus sur les «comportements violents» du principal mis en cause et exprimé leur réserves sur l’influence qu’aurait pu avoir son syndrome de stress post-traumatique lors de l’assassinat du rugbyman en 2022.",
+      "link": "https://www.liberation.fr/societe/police-justice/sur-le-plan-criminologique-il-est-dangereux-au-proces-de-lassassinat-daramburu-des-expertises-psychologiques-severes-pour-loik-le-priol-20260917_XZXYUWAANJB6BMS456YMOJG4YQ/",
+      "published": "2026-09-17T17:59:37"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le maire de Concarneau placé en garde à vue dans le cadre d’une enquête pour viol",
+      "description": "L’élu divers droite de 28 ans, Quentin Le Gaillard, est entendu par la justice depuis ce jeudi matin, a annoncé le parquet de Quimper. Une enquête a été ouverte fin juillet après le dépôt d’une main courante en janvier.",
+      "link": "https://www.liberation.fr/societe/police-justice/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-viol-20260917_3QP3AK6CDZCQ7L65RP4PQRA6W4/",
+      "published": "2026-09-17T17:59:23"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Politique de sécurité climatique» : sur les bords de Loire, Edouard Philippe tente d’inventer une écologie de droite",
+      "description": "Dans un discours présenté par son équipe comme «fondateur», le candidat d’Horizons à la présidentielle a détaillé, jeudi 17 septembre aux Ponts-de-Cé, son programme de lutte contre le réchauffement climatique, mettant l’accent sur la diffusion d’une culture de l’adaptation dans la société.",
+      "link": "https://www.liberation.fr/politique/elections/politique-de-securite-climatique-sur-les-bords-de-loire-edouard-philippe-tente-dinventer-une-ecologie-de-droite-20260917_3RGBC2FIUZECLI4WGBAFVCK6YY/",
+      "published": "2026-09-17T17:58:57"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Gel du point d’indice des fonctionnaires dans le budget 2027 : Sophie Binet dénonce un «scandale» et promet une «journée noire» le 29 septembre",
+      "description": "Réagissant à la présentation ce jeudi du budget 2027 par le Premier ministre Sébastien Lecornu, la secrétaire générale de la CGT assure que «depuis 2017, les fonctionnaires ont déjà perdu plus de 16 % de pouvoir d’achat» avec les gels successifs du point d’indice.",
+      "link": "https://www.liberation.fr/economie/social/gel-du-point-dindice-des-fonctionnaires-dans-le-budget-2027-sophie-binet-denonce-un-scandale-et-promet-une-journee-noire-le-29-septembre-20260917_CLM5XBZ6SJHMXJE5P7B4XF3MSE/",
+      "published": "2026-09-17T17:55:48"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Grand Corps malade : oral, ode aux espoirs",
+      "description": "Vingt ans après ses débuts, l’auteur et interprète n’a rien perdu de son acuité et appelle à un sursaut contre l’extrême droite.",
+      "link": "https://www.liberation.fr/portraits/grand-corps-malade-oral-ode-aux-espoirs-20260917_4IQH53O2QZEZ7EB3UIPE3NQJU4/",
+      "published": "2026-09-17T17:53:56"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "A Reims, Attal plaide pour des «Etats-Unis d’Europe», le «projet d’une génération»",
+      "description": "Le candidat Renaissance à la présidentielle a présenté jeudi 17 septembre sa vision de l’Europe en plaidant pour une harmonisation fiscale, sociale et environnementale.",
+      "link": "https://www.liberation.fr/politique/a-reims-attal-plaide-pour-des-etats-unis-deurope-le-projet-dune-generation-20260917_T7NSBZQWTBDFDF7RXIDS236PA4/",
+      "published": "2026-09-17T17:43:39"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Les pêcheurs s’engagent à débloquer les barrages, les aides «suivront la variation des cours du carburant», promet la ministre",
+      "description": "Après plus de six heures de discussion avec Catherine Chabaud, chargée de la Mer et de la Pêche, ce jeudi 17 septembre, la délégation de la profession a obtenu une partie de ses demandes, pour faire face à la flambée des prix du gazole.",
+      "link": "https://www.liberation.fr/environnement/agriculture/les-pecheurs-sengagent-a-debloquer-les-barrages-les-aides-suivront-la-variation-des-cours-du-carburant-promet-la-ministre-20260917_2THXUFF3CVDQZAFM6KY3UBRUYI/",
+      "published": "2026-09-17T17:39:18"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Rapprochement UE-Canada : Donald Trump en arroseur arrosé",
+      "description": "Le président américain juge la proposition de faire du Canada un «membre associé» de l’Union européenne comme un «acte hostile». Il répond par la même agressivité qui a poussé ses alliés d’hier à s’unir sans ou contre lui.",
+      "link": "https://www.liberation.fr/international/amerique/rapprochement-ue-canada-donald-trump-en-arroseur-arrose-20260917_EUIGRDPKWRB7RDV6Y6DJUVHM4A/",
+      "published": "2026-09-17T17:35:36"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Gel du point d’indice des fonctionnaires, contribution des retraités… Ce qu’il faut retenir de l’interview de Sébastien Lecornu sur le budget dans «le Figaro»",
+      "description": "A quelques jours de la présentation du projet de loi de finances 2027, le Premier ministre annonce un «effort budgétaire» de 54 milliards d’euros au lieu des 30 milliards envisagés. Revue de détails des différentes mesures d’économies.",
+      "link": "https://www.liberation.fr/politique/budget-2027-sebastien-lecornu-table-finalement-sur-environ-54-milliards-deuros-deconomies-20260917_JGHHJ6JQBRAYTOO4JS6WCRLBCA/",
+      "published": "2026-09-17T17:20:16"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Entre sa loyauté à Retailleau et la crainte d’une déroute, le dilemme de Valérie Pécresse",
+      "description": "L’ex-candidate à la présidentielle estime avoir une «dette d’honneur» envers le sénateur de Vendée, fidèle soutien en 2022. Elle observe pourtant sa campagne amorphe et s’inquiète des mains tendues à l’extrême droite.",
+      "link": "https://www.liberation.fr/politique/entre-sa-loyaute-a-retailleau-et-la-crainte-dune-deroute-le-dilemme-de-valerie-pecresse-20260917_45IPO7GRRVEB3MKJNQDTDRI5LI/",
+      "published": "2026-09-17T17:18:30"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Le militant Amine Kessaci est candidat pour devenir porte-parole des Ecologistes",
+      "description": "Le Marseillais, devenu figure de la lutte contre le narcotrafic, se positionne pour succéder à Éric Piolle, a confirmé à «Libération» l’entourage de Marine Tondelier. Le vote interne est prévu du 23 au 26 octobre.",
+      "link": "https://www.liberation.fr/politique/le-militant-amine-kessaci-est-candidat-pour-devenir-porte-parole-des-ecologistes-20260917_2OFUIODKJVGHTKKLLMDLUHLN5E/",
+      "published": "2026-09-17T16:53:50"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«J’ai rarement vu un climat pareil» : au procès de Rachida Dati, la charge des associations anticorruption contre l’«intimidation» de la défense",
+      "description": "Au second jour de l’audience jeudi 17 septembre, la défense de l’ancienne ministre de la Culture, jugée notamment pour «corruption», s’en est pris violemment aux parties civiles, Renault et associations anticorruption. Et continue de gagner du temps…",
+      "link": "https://www.liberation.fr/societe/police-justice/jai-rarement-vu-un-climat-pareil-au-proces-de-rachida-dati-la-charge-des-associations-anticorruption-contre-lintimidation-de-la-defense-20260917_TVBOAA6JYNBYNBNAPVSATTID2Q/",
+      "published": "2026-09-17T16:47:24"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Les pêcheurs manifestent, Lecornu évoque 54 milliards d’euros d’économies, la direction de France Inter tente une sortie de crise… L’actu de ce jeudi 17 septembre",
+      "description": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "link": "https://www.liberation.fr/international/europe/les-pecheurs-manifestent-lecornu-evoque-54-milliards-deuros-deconomies-la-direction-de-france-inter-tente-une-sortie-de-crise-lactu-de-ce-jeudi-17-septembre-20260917_4ISJQJR6EFGUPFS2QGCKVINR3M/",
+      "published": "2026-09-17T16:43:25"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Pucer les loups, la drôle de lubie de la ministre de l’Agriculture",
+      "description": "Lancée à la volée face aux députés mercredi 16 septembre, la proposition d’Annie Genevard stupéfie les associations de protection de l’environnement. Outre l’aspect éthique, l’idée semble techniquement irréalisable.",
+      "link": "https://www.liberation.fr/environnement/animaux/pucer-les-loups-la-drole-de-lubie-de-la-ministre-de-lagriculture-20260917_6WFXGBAG55GQ7G5Y4IA44GUHMI/",
+      "published": "2026-09-17T16:40:12"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ligue 1 : les supporters du PSG interdits de déplacement dimanche à Marseille",
+      "description": "Le ministère de l’Intérieur invoque ce jeudi 17 septembre le risque de «troubles graves pour l’ordre public», une décision que les supporters parisiens comptent contester en urgence devant le Conseil d’Etat vendredi.",
+      "link": "https://www.liberation.fr/sports/football/ligue-1-les-supporters-du-psg-interdits-de-deplacement-dimanche-a-marseille-20260917_I3JJ62DSM5HIXBJVMX4TDQY37E/",
+      "published": "2026-09-17T16:40:06"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Eurovision 2027 : l’Irlande va de nouveau boycotter le concours en raison de la situation à Gaza frappée par Israël",
+      "description": "Cette année déjà l’Irlande faisait partie des pays qui ont refusé de participer à l’événement culturel, comme l’Espagne, les Pays-Bas, l’Islande et la Slovénie. Ils s’opposaient à la participation d’Israël sur fond de guerre à Gaza.",
+      "link": "https://www.liberation.fr/international/europe/eurovision-2027-lirlande-va-de-nouveau-boycotter-le-concours-en-raison-de-la-situation-a-gaza-frappee-par-israel-20260917_ZERVD7VUZZGSTGCH3DDMMORYAQ/",
+      "published": "2026-09-17T16:33:22"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Tout le monde se sent trahi» : les victimes du 13 Novembre, sonnées par la possible libération en Belgique de Mohamed Bakkali, le logisticien des attentats",
+      "description": "Cinq ans après le procès des attentats, l’un des principaux membres de la cellule terroriste, Mohamed Bakkali, pourrait obtenir une liberté conditionnelle dans les prochains jours. Une réunion d’information s’est tenue, dans une atmosphère houleuse, mercredi 15 septembre, avec les parties civiles.",
+      "link": "https://www.liberation.fr/societe/police-justice/tout-le-monde-se-sent-trahi-les-victimes-du-13-novembre-sonnees-par-la-possible-liberation-en-belgique-de-mohamed-bakkali-le-logisticien-des-attentats-20260917_TYG5EAT5XVBWLKOAMATCLOTJNA/",
+      "published": "2026-09-17T16:24:04"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "La chaîne France 24 interdite en Guinée après avoir qualifié le chef d’Etat de «président putschiste»",
+      "description": "Le général Mamadi Doumbouya a pris le pouvoir par la force en Guinée en 2021 et applique depuis une politique autoritaire. De son côté, la chaîne d’informations française a estimé avoir commis «une erreur».",
+      "link": "https://www.liberation.fr/international/afrique/la-chaine-france-24-interdite-en-guinee-apres-avoir-qualifie-le-chef-detat-de-president-putschiste-20260917_OBBY2QFIMVFRZISH6XRQWD75ZY/",
+      "published": "2026-09-17T16:20:14"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Yémen : comment les Houthis sont parvenus à humilier l’Arabie Saoudite",
+      "description": "Une semaine après une offensive éclair, les rebelles yéménites, soutenus par l’Iran, contrôlent toujours le détroit de Bab el-Mandeb. De quoi inquiéter Riyad, qui ne parvient à reprendre le contrôle de la zone.",
+      "link": "https://www.liberation.fr/international/moyen-orient/yemen-comment-les-houthis-sont-parvenus-a-humilier-larabie-saoudite-20260917_F5K4LO42SFGLJMPZCK2IM24ADE/",
+      "published": "2026-09-17T16:04:12"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Procès Rima Hassan : pourquoi la Licra était-elle convoquée comme «victime» avec Némésis ?",
+      "description": "L’eurodéputée insoumise, convoquée devant le tribunal correctionnel de Paris mercredi 16 septembre, avait accusé l’association de s’être portée partie civile «en soutien» au collectif identitaire d’extrême droite. La Licra a démenti et n’était pas présente à l’audience.",
+      "link": "https://www.liberation.fr/checknews/proces-rima-hassan-pourquoi-la-licra-etait-elle-convoquee-comme-victime-avec-nemesis-20260917_C4TP5T6QHJD3RD52CFWY6746T4/",
+      "published": "2026-09-17T16:01:15"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Présidentielle 2027 : interdiction pour les candidats de faire campagne dans les salles de classe",
+      "description": "Le ministre de l’Education nationale, Edouard Geffray, estime que les élèves «n’ont pas à voir un candidat débarquer» à l’école. Il a annoncé ce jeudi 17 septembre la publication d’une circulaire en ce sens, qui invoque également «le principe de neutralité de l’enseignement public».",
+      "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-interdiction-pour-les-candidats-de-faire-campagne-dans-les-salles-de-classe-20260917_WNZVN3XMYREQBLXQGLKHKI6QVA/",
+      "published": "2026-09-17T15:51:58"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "L’ancien conseiller politique Pierre Botton : bagne à l’âme",
+      "description": "L’entrepreneur, passé par la prison qu’il voulut ensuite réformer, se réfugie dans la religion pour tenter de dépasser la mort de sa fille.",
+      "link": "https://www.liberation.fr/portraits/lancien-conseiller-politique-pierre-botton-bagne-a-lame-20260916_7OLVDTD3WBBRZCVI3KDQZDRWSQ/",
+      "published": "2026-09-17T15:45:50"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Festival Village de cirque : le seul en scène «Ignis» en ses flammes et conscience",
+      "description": "La 22e édition du festival de rentrée parisien, jusqu’au 20 septembre, est notamment marquée par un bluffant solo d’un Nicolas Fraiseau, grimé en clown qui joue littéralement avec le feu.",
+      "link": "https://www.liberation.fr/culture/scenes/festival-village-de-cirque-le-seul-en-scene-ignis-en-ses-flammes-et-conscience-20260917_42QCMQ2NWNBJXKMTDIJEO2EZPE/",
+      "published": "2026-09-17T15:43:47"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Référendum contre l’immigration : le «plan B» du RN pour contourner le Conseil constitutionnel",
+      "description": "Obsédée par sa marotte xénophobe, Marine Le Pen envisage de consulter les Français avec l’article 11 de la loi suprême pour élargir le champ du référendum inscrit à… l’article 11. Une manœuvre inconstitutionnelle, tranchent les juristes interrogés par «Libération».",
+      "link": "https://www.liberation.fr/politique/referendum-contre-limmigration-le-plan-b-du-rn-pour-contourner-le-conseil-constitutionnel-20260917_PECY3O4NGBA33OTMSPLFAHDAVI/",
+      "published": "2026-09-17T15:43:01"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Montée de l’extrême droite en Allemagne : Jürgen Klopp ne veut pas laisser la «fierté nationale aux mauvaises personnes»",
+      "description": "Le nouveau sélectionneur de l’équipe allemande de football a déploré les récents scores élevés du parti AfD. Il a aussi rappelé le rôle du sport pour «développer un sentiment de communauté» et appelé à un «patriotisme positif».",
+      "link": "https://www.liberation.fr/international/europe/montee-de-lextreme-droite-en-allemagne-jurgen-klopp-ne-veut-pas-laisser-la-fierte-nationale-aux-mauvaises-personnes-20260917_2WH334ZWYNBBRMZSY6MLPXAGCU/",
+      "published": "2026-09-17T15:42:08"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Riner et l’«angoisse» du RN, Mbappé et le tee-shirt hommage à Ceuta : les deux stars critiquées par l’extrême droite et ses alliés médiatiques",
+      "description": "Les prises de position récentes des deux géants du sport tricolore leur ont attiré de virulentes critiques des députés lepénistes et des médias bolloréens.",
+      "link": "https://www.liberation.fr/sports/riner-et-langoisse-du-rn-mbappe-et-le-t-shirt-hommage-a-ceuta-les-deux-stars-critiquees-par-lextreme-droite-et-ses-allies-mediatiques-20260917_XBAAKQSCGFAMRPNTDWWYLZBE5Q/",
+      "published": "2026-09-17T15:39:43"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Canicules, incendies : un été noir aux urgences qui souligne les failles du système",
+      "description": "Le syndicat Samu-Urgences de France publie, ce jeudi 17 septembre, un baromètre soulignant la «vulnérabilité» de ses services hospitaliers pendant la période estivale.",
+      "link": "https://www.liberation.fr/societe/sante/canicules-incendies-un-ete-noir-aux-urgences-qui-souligne-les-failles-du-systeme-20260917_M2GEZK2XFJFBLF5WQKTCV27YII/",
+      "published": "2026-09-17T15:36:50"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Suède, la sociale-démocrate Magdalena Andersson promet «une nouvelle ère»",
+      "description": "Après la victoire du bloc de gauche aux législatives du 13 septembre, au terme d’un scrutin extrêmement serré, l’ancienne économiste et Première ministre entre 2021 et 2022 devra relever un nouveau défi : la formation d’un gouvernement, avec des soutiens divisés.",
+      "link": "https://www.liberation.fr/international/europe/en-suede-la-sociale-democrate-magdalena-andersson-promet-une-nouvelle-ere-20260917_RTS6NE3MQVGEFHOEQ7QOZDQZA4/",
+      "published": "2026-09-17T15:36:08"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "France Inter : l’humoriste Thomas Poitevin quitte la matinale après seulement un mois",
+      "description": "Chargé d’une pastille humoristique à 7 h 58 du lundi au jeudi, le comédien renonce après quatre semaines à l’antenne.",
+      "link": "https://www.liberation.fr/economie/medias/lhumoriste-thomas-poitevin-quitte-la-matinale-de-france-inter-20260917_B3LKSBF2EVGMNGQWA4FNXTS4CM/",
+      "published": "2026-09-17T15:33:23"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Apologie du terrorisme : Dieudonné condamné à six mois sous bracelet électronique",
+      "description": "Jugé pour deux vidéos publiées sur les réseaux sociaux, l’humoriste écope également ce jeudi de 5 000 euros d’amende et de trois ans d’inéligibilité.",
+      "link": "https://www.liberation.fr/societe/police-justice/apologie-du-terrorisme-dieudonne-condamne-a-six-mois-sous-bracelet-electronique-20260917_X2TC57FSYVENVHWNGPBEWEFVL4/",
+      "published": "2026-09-17T15:24:39"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Ride Lonesome» de Beck, l’album solaire d’un solitaire",
+      "description": "Dans «Ride Lonesome», le Californien renoue avec les ballades mélancoliques, devenu amoureux déçu, transi de rêves et de grands espaces.",
+      "link": "https://www.liberation.fr/culture/musique/ride-lonesome-de-beck-lalbum-solaire-dun-solitaire-20260917_RMH7L3KZ5RBVXIDPIAVCISX5OI/",
+      "published": "2026-09-17T15:16:40"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Bombes américaines MK-84 livrées à Israël : «Une offense à toutes les normes du droit international»",
+      "description": "L’administration Trump se prépare à livrer des dizaines de milliers d’ogives et de munitions à l’Etat hébreu, dont certaines parmi les plus puissantes des armes américaines. Chargé de plaidoyer pour Amnesty International, Aymeric Elluin alerte sur un arsenal dévastateur, qui pourrait ravager Gaza.",
+      "link": "https://www.liberation.fr/international/moyen-orient/bombes-americaines-mk-84-livrees-a-israel-une-offense-a-toutes-les-normes-du-droit-international-20260917_KYAZYXYTRZAHJJEXIPKSBLMJGM/",
+      "published": "2026-09-17T14:20:31"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Cédric Prizzon aurait obligé son fils de 12 ans à l’aider à transporter les cadavres de sa mère et de sa belle-mère",
+      "description": "Le Français, soupçonné d’avoir tué sa compagne et son ex-compagne au Portugal en mars, devra répondre devant la justice pour des faits d’homicide aggravé et profanation de cadavre, mais aussi de traitement cruel ou inhumain envers son fils.",
+      "link": "https://www.liberation.fr/societe/police-justice/cedric-prizzon-aurait-oblige-son-fils-de-12-ans-a-laider-a-transporter-les-cadavres-de-sa-mere-et-de-sa-belle-mere-20260917_XXGKEUS3DJGUXOIWEPZ2U4X2NI/",
+      "published": "2026-09-17T14:06:10"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Décharges sauvages dans les Vosges : Nestlé doit être rejugé, décide la cour d’appel de Nancy",
+      "description": "L’entreprise d’eau en bouteille avait obtenu l’invalidation d’études qui l’incriminaient lors du premier procès en mars. La cour a décidé du renvoi de l’affaire au tribunal correctionnel et la réintégration des documents.",
+      "link": "https://www.liberation.fr/environnement/pollution/decharges-sauvages-dans-les-vosges-nestle-doit-etre-rejuge-decide-la-cour-dappel-de-nancy-20260917_7T4AQIYI65HNDBMB4RRB777MPM/",
+      "published": "2026-09-17T13:37:45"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mort à 89 ans du poète Jean Orizet, cofondateur du Cherche-Midi",
+      "description": "Né en 1937, l’auteur était une figure reconnue de la scène poétique française, traduit en une vingtaine de langues.",
+      "link": "https://www.liberation.fr/culture/livres/mort-a-89-ans-du-poete-jean-orizet-cofondateur-du-cherche-midi-20260917_ZF3OTPMBSFFXNO5HUO4MBTUIBQ/",
+      "published": "2026-09-17T13:31:49"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mark Carney devant le Parlement européen : «Une alliance suffisamment forte pour que personne ne puisse dicter nos choix»",
+      "description": "Le Premier ministre canadien a défendu à Strasbourg une alliance transatlantique fondée sur la «résilience collective» et l’autonomie stratégique, tout en ouvrant la porte au statut inédit de «membre associé» de l’UE.",
+      "link": "https://www.liberation.fr/international/mark-carney-devant-le-parlement-europeen-une-alliance-suffisamment-forte-pour-que-personne-ne-puisse-dicter-nos-choix-20260917_UCYPZ4GUGFADFMKIB3HYTSXS34/",
+      "published": "2026-09-17T13:24:56"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Face à Trump, l’impressionnant regain de popularité de Mark Carney",
+      "description": "La confrontation avec le président américain s’accompagne d’un spectaculaire taux d’approbation pour le Premier ministre canadien, désormais soutenu bien au-delà de son électorat libéral.",
+      "link": "https://www.liberation.fr/international/amerique/face-a-trump-limpressionnant-regain-de-popularite-de-mark-carney-20260917_EOFAEZ2GIRGZPMGKTJZPRIUU6M/",
+      "published": "2026-09-17T13:13:58"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Pour la première fois, le nationalisme domine la droite française\" : le regard de l’historien Olivier Dard",
+      "description": "",
+      "link": "https://www.lexpress.fr/idees-et-debats/pour-la-premiere-fois-le-nationalisme-domine-la-droite-francaise-le-regard-de-lhistorien-olivier-IGGY5OYS2NDHXOQKFKKFXMTGLI/",
+      "published": "2026-09-17T17:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"C'est lui qui concentre le plus de détestation\" : Frédéric Dabi, le sondeur qui horripile LFI",
+      "description": "",
+      "link": "https://www.lexpress.fr/societe/cest-lui-qui-concentre-le-plus-de-detestation-frederic-dabi-le-sondeur-qui-horripile-les-insoumis-MHSMTNNF4BFCNECTE2FBFUQ4T4/",
+      "published": "2026-09-17T16:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Budget 2027 : Sébastien Lecornu propose un \"effort\" d'environ 54 milliards d'euros",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/budget-2027-sebastien-lecornu-propose-un-effort-denviron-54-milliards-deuros-D5M6FPJYHJG2XGDATIJ26MUOCA/",
+      "published": "2026-09-17T15:41:25"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Comment sortir la France de la \"smicardisation\" : les solutions de l'économiste Jean-Charles Simon",
+      "description": "",
+      "link": "https://www.lexpress.fr/economie/comment-sortir-la-france-de-la-smicardisation-les-solutions-de-leconomiste-jean-charles-simon-G3OISWQWE5FYXNEZZJ2ORF4XOE/",
+      "published": "2026-09-17T15:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Chez les jeunes Chinois, l'IA suscite un mélange d'enthousiasme et d'appréhension\" : l'éclairage de l’anthropologue Xiang Biao",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/asie/chez-les-jeunes-chinois-lia-suscite-un-melange-denthousiasme-et-dapprehension-leclairage-de-7WXMEHMD2FCDVATVYMS35GO5WM/",
+      "published": "2026-09-17T15:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Le livre de Jordan Bardella et les comptes du RN, un \"punk\" nommé Bruno Le Maire",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/le-livre-de-jordan-bardella-et-les-comptes-du-rn-un-punk-nomme-bruno-le-maire-I7GOWFBMRNDN3I5VUGJYUWW3SM/",
+      "published": "2026-09-17T14:19:29"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Budget 2027 : les trois pistes du gouvernement Lecornu pour mettre les retraités à contribution",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/budget-2027-les-trois-pistes-du-gouvernement-lecornu-pour-mettre-les-retraites-a-contribution-IBFR3HSDGBDHPOGO5RGPJR4RZM/",
+      "published": "2026-09-17T13:42:05"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Le Canada, futur \"membre associé\" ? Comment Ursula von der Leyen a pris de court l'UE",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/le-canada-futur-membre-associe-comment-ursula-von-der-leyen-a-pris-de-court-lue-Q6OWCDUOJFBHJMQZJRTURXUWYE/",
+      "published": "2026-09-17T10:50:47"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Jean-Luc Mélenchon, Sahra Wagenknecht et l'AfD : derrière la rupture, les virages idéologiques de LFI",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/jean-luc-melenchon-sahra-wagenknecht-et-lafd-derriere-la-rupture-les-virages-ideologiques-de-lfi-WFM3EWBJAZHOPDOCLK4KRJTZWU/",
+      "published": "2026-09-17T10:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Etats-Unis : la hausse des taux de la Fed, un camouflet pour Donald Trump",
+      "description": "",
+      "link": "https://www.lexpress.fr/economie/etats-unis-la-hausse-des-taux-de-la-fed-un-camouflet-pour-donald-trump-KRMPVMK4WVDJDD2IR7UGSZLYVU/",
+      "published": "2026-09-17T08:18:05"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"La Manip\" de Michel de Rosen : un roman policier au cœur du pouvoir",
+      "description": "",
+      "link": "https://www.lexpress.fr/culture/livre/la-manip-de-michel-de-rosen-un-roman-policier-au-coeur-du-pouvoir-IJIKTP2UMJFHJASYWPEXG325EQ/",
+      "published": "2026-09-17T08:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Les midterms seront comme un référendum\" : Donald Trump, l’encombrant parrain des républicains",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/amerique/les-midterms-seront-comme-un-referendum-donald-trump-lencombrant-parrain-des-republicains-E3GZT6XGINEF7DPS3XPO3QGULA/",
+      "published": "2026-09-17T04:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Sabrina Roubache, ministre de la Formation professionnelle : \"Nous allons nettoyer le secteur d'ici 18 mois !\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/sabrina-roubache-ministre-de-la-formation-professionnelle-nous-allons-nettoyer-le-secteur-dici-18-JOEBZGRHMRFSXLCNWDNDRQ777I/",
+      "published": "2026-09-17T03:45:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Scott Anderson, grand reporter : \"La révolution de 1979 a montré que l'Amérique ignorait tout de l'Iran\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/proche-moyen-orient/scott-anderson-grand-reporter-la-revolution-de-1979-a-montre-que-lamerique-ignorait-tout-de-liran-U5C673ZENFHRJAT4AJGCEJHH54/",
+      "published": "2026-09-17T03:45:00"
+    }
+  ]
 }
