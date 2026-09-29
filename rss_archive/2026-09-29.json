@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-29",
+  "count": 5,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Belgique-France : les belles promesses des nouveaux visages des Bleus sous la direction de Zinédine Zidane",
+      "description": "Le sélectionneur, pour son deuxième match à la tête des Tricolores, a aligné une équipe expérimentale en procédant à neuf changements dans son onze de départ par rapport à France-Turquie, trois jours plus tôt. Un choix gagnant (0-1).",
+      "link": "https://www.lemonde.fr/sport/article/2026/09/29/belgique-france-les-belles-promesses-des-nouveaux-visages-des-bleus-sous-la-direction-de-zinedine-zidane_6785343_3242.html",
+      "published": "2026-09-29T01:02:32"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Un nouveau cancer sur huit est causé par des infections, selon une étude du CIRC",
+      "description": "Les scientifiques ont estimé la part des quelque 2,3 millions des nouveaux cas de tumeurs en 2024 attribuable à douze agents infectieux, dont des virus, des bactéries et des parasites. Mais des solutions de prévention existent.",
+      "link": "https://www.lemonde.fr/sante/article/2026/09/29/un-nouveau-cancer-sur-huit-cause-par-des-infections-selon-une-etude-du-circ_6785310_1651302.html",
+      "published": "2026-09-29T00:26:25"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "OpenAI renonce à lancer une nouvelle IA de pointe, qui cherchait à tromper ses évaluateurs",
+      "description": "Le géant américain de l’intelligence artificielle a décidé de reporter le lancement de GPT-6.1 Astra après avoir constaté que le modèle cherchait trop souvent à sortir de son cadre.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/openai-renonce-a-lancer-une-nouvelle-ia-de-pointe-qui-cherchait-a-tromper-ses-evaluateurs-20260929",
+      "published": "2026-09-29T00:26:02"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Trump annonce la construction d'une aciérie en Iowa, «la plus grande» de l’histoire des États-Unis",
+      "description": "Le président américain a évoqué la création de 6000 emplois de construction puis à terme de 2000 emplois manufacturiers, et parlé d’un investissement total de 18 milliards de dollars.",
+      "link": "https://www.lefigaro.fr/international/trump-annonce-la-construction-d-une-acierie-en-iowa-la-plus-grande-de-l-histoire-des-etats-unis-20260929",
+      "published": "2026-09-29T00:09:51"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Des «propos délirants» : accusé d’écrits antisémites, Jordan Bardella poursuit Mediapart en diffamation",
+      "description": "Venu contre-attaquer lundi sur CNews après qu’un article du site d’information lui a attribué des remarques antisémites et complotistes remontant à 2013, le président du RN s’attend à un «feuilletonnage».",
+      "link": "https://www.lefigaro.fr/politique/des-propos-delirants-accuse-d-ecrits-antisemites-jordan-bardella-engage-des-poursuites-en-diffamation-contre-mediapart-20260928",
+      "published": "2026-09-29T00:52:32"
+    }
+  ]
+}
