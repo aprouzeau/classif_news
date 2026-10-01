@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-01",
+  "count": 3,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "La Cour suprême autorise l’exécution de Christa Pike, la première femme devant être mise à mort aux Etats-Unis depuis 2023",
+      "description": "Une cour d’appel fédérale avait suspendu, plus tôt mercredi, l’exécution par injection létale de cette femme condamnée dans le Tennessee pour un meurtre commis il y a plus de trente ans.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/01/la-cour-supreme-autorise-l-execution-de-christa-pike-la-premiere-femme-devant-etre-mise-a-mort-aux-etats-unis-depuis-2023_6786327_3210.html",
+      "published": "2026-10-01T00:46:40"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Un an après le DOGE, Elon Musk rejoint le Pentagone pour imaginer les guerres du futur",
+      "description": "Le secrétaire à la Défense a confié mercredi au patron de SpaceX, à l’entrepreneur Palmer Luckey et à l’ancien président de la Chambre Newt Gingrich la codirection du «Projet Meridian», une étude de 120 jours sur les armes et technologies des conflits à venir.",
+      "link": "https://www.lefigaro.fr/international/un-an-apres-le-doge-elon-musk-rejoint-le-pentagone-pour-imaginer-les-guerres-du-futur-20261001",
+      "published": "2026-10-01T00:19:46"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "La Cour suprême autorise l’exécution de Christa Pike, première Américaine devant être mise à mort depuis 2023",
+      "description": "Plus tôt dans la journée, une cour d’appel fédérale avait suspendu l’exécution de cette femme condamnée pour un meurtre commis il y a plus de 30 ans.",
+      "link": "https://www.lefigaro.fr/international/la-cour-supreme-autorise-l-execution-de-christa-pike-premiere-americaine-devant-etre-mise-a-mort-depuis-2023-20261001",
+      "published": "2026-10-01T00:26:04"
+    }
+  ]
+}
