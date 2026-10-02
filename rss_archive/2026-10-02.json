@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "count": 3,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le retour sur Terre s’amorce pour Sophie Adenot, avec l’arrivée de sa relève à bord de l’ISS",
+      "description": "Le nouvel équipage de la Station spatiale internationale, Crew-13, a rejoint le laboratoire orbital après un trajet d’un peu moins de huit heures, le plus rapide jamais réalisé par un vaisseau américain, selon l’Agence spatiale américaine.",
+      "link": "https://www.lemonde.fr/sciences/article/2026/10/02/le-retour-sur-terre-s-amorce-pour-sophie-adenot-avec-l-arrivee-de-sa-releve-a-bord-de-l-iss_6786691_1650684.html",
+      "published": "2026-10-02T00:51:01"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "OpenAI exclut trois chercheurs en sécurité de l’IA accusés de fuites d’informations sensibles",
+      "description": "La start-up fait état de plusieurs manquements, dont l’un concerne des informations communiquées à un groupe extérieur d’évaluation de l’intelligence artificielle.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/10/02/openai-exclut-trois-chercheurs-en-securite-de-l-ia-accuses-de-fuites-d-informations-sensibles_6786658_4408996.html",
+      "published": "2026-10-02T00:02:03"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "OpenAI écarte trois chercheurs accusés d’avoir transmis des informations sensibles",
+      "description": "Le Wall Street Journal a identifié ces chercheurs, qui partageaient tous trois sur les réseaux sociaux leurs vives inquiétudes sur les dangers de l’IA.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/openai-exclut-trois-chercheurs-accuses-d-avoir-transmis-des-informations-sensibles-20261002",
+      "published": "2026-10-02T00:52:17"
+    }
+  ]
+}
