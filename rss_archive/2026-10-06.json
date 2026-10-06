@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-06",
+  "count": 5,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "France-Belgique : Michael Olise, le « talent pur » qui porte l’équipe de France de Zinédine Zidane",
+      "description": "Les Bleus ont renversé les Diables rouges (4-1), lundi en Ligue des nations de football, grâce à l’entrée en jeu tonitruante de l’ailier du Bayern Munich, auteur d’un doublé et d’une passe décisive. Le prodige de 24 ans s’est montré précieux lors des quatre derniers matchs de la sélection.",
+      "link": "https://www.lemonde.fr/sport/article/2026/10/06/france-belgique-michael-olise-le-talent-pur-qui-porte-l-equipe-de-france-de-zinedine-zidane_6788688_3242.html",
+      "published": "2026-10-06T01:17:16"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Loi intégrale contre les violences sexuelles : les députés adoptent la création d’unités spécialisées au sein de la police",
+      "description": "Cette mesure phare de la proposition de loi, que le ministre de l’intérieur Laurent Nuñez a échoué à écarter, jugeant le dispositif pas « opérationnel », a néanmoins été partiellement vidée de sa substance.",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/06/loi-integrale-contre-les-violences-sexuelles-les-deputes-adoptent-la-creation-d-unites-speciales-au-sein-de-la-police_6788655_3224.html",
+      "published": "2026-10-06T00:12:51"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Primaire à gauche : plus de 140 000 inscrits appelés à désigner leur candidat à la présidentielle",
+      "description": "Le premier tour de la primaire sociale-démocrate, qui oppose Olivier Faure, Raphaël Glucksmann, Jérôme Guedj, Emmanuel Maurel et Ségolène Royal, se déroulera vendredi et samedi, après une campagne marquée par de nombreuses passes d’armes.",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/06/primaire-a-gauche-plus-de-140-000-inscrits-appeles-a-designer-leur-candidat-a-la-presidentielle_6788654_823448.html",
+      "published": "2026-10-06T00:01:47"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "L’armée américaine va mettre à mort par peloton d’exécution un condamné à la peine capitale",
+      "description": "Le président américain, Donald Trump, a approuvé l’exécution par l’armée de Nidal Hasan, auteur d’une tuerie sur une base militaire du Texas, en 2009, qui avait fait 13 victimes.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/06/l-armee-americaine-va-mettre-a-mort-par-peloton-d-execution-un-condamne-a-la-peine-capitale_6788689_3210.html",
+      "published": "2026-10-06T01:18:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Parlement européen : François-Xavier Bellamy accuse Rima Hassan d’avoir «renversé» les drapeaux de l’UE et d’Israël, exposés en hommage aux victimes du 7 Octobre",
+      "description": "L’eurodéputé LR a jugé lundi que le geste de l’élue insoumise relevait d’une forme de «complicité avec ceux qui cherchent à importer de nouveau la haine antisémite qui a fait les pires heures de l’histoire de notre continent».",
+      "link": "https://www.lefigaro.fr/politique/une-indignite-francois-xavier-bellamy-accuse-rima-hassan-d-avoir-renverse-un-drapeau-israelien-expose-en-hommage-aux-victimes-du-7-octobre-20261005",
+      "published": "2026-10-06T00:00:21"
+    }
+  ]
+}
