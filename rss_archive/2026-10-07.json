@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-07",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Cisjordanie occupée, un photojournaliste de l’Agence France-Presse roué de coups par des colons israéliens",
+      "description": "Jaafar Ashtiyeh, photographe palestinien de 58 ans, a été blessé à la tête et au torse et a été emmené à l’hôpital en ambulance, selon l’agence de presse internationale. Son directeur de l’information, Phil Chetwynd, dénonce « une attaque grave » et « inacceptable ».",
+      "link": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html",
+      "published": "2026-10-07T00:43:03"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Mort de l’actrice américaine Eva Marie Saint",
+      "description": "La comédienne, décédée à l’âge de 102 ans, avait eu l’Oscar de la meilleure actrice dans un second rôle pour sa prestation dans « Sur les quais », d’Elia Kazan, en 1954.",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/10/07/mort-de-l-actrice-americaine-eva-marie-saint_6789298_3382.html",
+      "published": "2026-10-07T00:13:53"
+    }
+  ]
+}
