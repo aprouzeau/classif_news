@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-08",
+  "count": 5,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Fabien Roussel accuse le gouvernement israélien de « terrorisme d’Etat »",
+      "description": "Le candidat communiste à la présidentielle a également condamné, sur LCI, les attaques du Hamas du 7 octobre 2023. Il renvoie dos à dos le gouvernement de Benyamin Nétanyahou et le mouvement islamiste palestinien en dénonçant « des forces extrémistes qui s’affrontent et qui sèment la haine ».",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/08/fabien-roussel-accuse-le-gouvernement-israelien-de-terrorisme-d-etat_6789756_823448.html",
+      "published": "2026-10-08T00:35:30"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "L’Arabie saoudite déplore trois morts dans des attaques houthistes contre des aéroports",
+      "description": "Les combattants houthistes, opposés au gouvernement yéménite soutenu par l’Arabie saoudite, ont revendiqué, mercredi, des tirs de missiles et de drones visant l’aéroport international de Riyad et celui d’Abha. Des ressortissants égyptien, algérien et soudanais ont péri et 36 autres personnes ont été blessées.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/08/l-arabie-saoudite-deplore-trois-morts-dans-des-attaques-houthistes-contre-des-aeroports_6789723_3210.html",
+      "published": "2026-10-08T00:14:43"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "États-Unis : le Texas procède à la première exécution depuis l’échec inédit de celle de Christa Pike",
+      "description": "Condamné à la peine capitale pour meurtre, Jamaal Howard, 46 ans, est la 30e personne exécutée depuis le début de l’année dans le pays.",
+      "link": "https://www.lefigaro.fr/international/etats-unis-le-texas-procede-a-la-premiere-execution-depuis-l-echec-inedit-de-celle-de-christa-pike-20261008",
+      "published": "2026-10-08T01:29:15"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Raffineries, stations-service… La CGT appelle à la grève chez TotalEnergies ce jeudi pour l’emploi et les salaires",
+      "description": "La CGT appelle notamment à cesser le travail dans les raffineries du groupe et dans les stations-service TotalEnergies de la filiale Argedis, au nombre d’environ 180, principalement sur autoroute.",
+      "link": "https://www.lefigaro.fr/societes/raffineries-stations-service-la-cgt-appelle-a-la-greve-chez-totalenergies-ce-jeudi-pour-l-emploi-et-les-salaires-20261008",
+      "published": "2026-10-08T01:00:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Arabie saoudite : trois morts dans des attaques houthistes contre des aéroports",
+      "description": "Des ressortissants égyptien, algérien et soudanais ont péri et 36 autres personnes ont été blessées, certaines grièvement, selon la Direction générale de l’aviation civile saoudienne, qui a aussi signalé des dégâts matériels.",
+      "link": "https://www.lefigaro.fr/international/arabie-saoudite-trois-morts-dans-des-attaques-houthistes-contre-des-aeroports-20261008",
+      "published": "2026-10-08T00:33:10"
+    }
+  ]
+}
