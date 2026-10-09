@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-09",
+  "count": 3,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "A New York, l’ICE ouvre le feu sur le conducteur d’une voiture, avec un enfant à l’arrière du véhicule",
+      "description": "L’homme a été blessé au cou et évacué vers un hôpital ; l’enfant, lui, serait indemne. Il s’agit de la première fusillade dans cette ville impliquant la police fédérale de l’immigration. Le maire, Zohran Mamdani, a dénoncé « une situation inadmissible et d’une gravité exceptionnelle » et appelé à « abolir l’ICE ».",
+      "link": "https://www.lemonde.fr/international/article/2026/10/09/a-new-york-l-ice-ouvre-le-feu-sur-le-conducteur-d-une-voiture-avec-un-enfant-a-l-arriere-du-vehicule_6790422_3210.html",
+      "published": "2026-10-09T01:10:00"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Aux Etats-Unis, la mise à mort d’un condamné par peloton d’exécution militaire sera diffusée en direct",
+      "description": "Nidal Hasan, qui a tué 13 personnes en 2009 dans une base militaire du Texas, « sera fusillé par des soldats, comme il se doit, et nous veillerons à ce que le public puisse y assister, à ce que ce soit public », a déclaré le chef du Pentagone, Pete Hegseth.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/09/aux-etats-unis-l-execution-militaire-par-peloton-d-un-condamne-a-mort-pour-une-tuerie-dans-une-base-du-texas-sera-realisee-en-public-et-diffusee-en-direct_6790389_3210.html",
+      "published": "2026-10-09T00:35:56"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«De quoi je me rendrais coupable ?» : accusé d’écrits antisémites, Bardella maintient son démenti et refuse de «plaider l’erreur de jeunesse»",
+      "description": "Invité jeudi soir de LCI, le patron du Rassemblement national a de nouveau «contesté» les «propos ignobles» que Mediapart lui prête, estimant n’avoir «aucune leçon à recevoir en matière de lutte contre l’antisémitisme».",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/de-quoi-je-me-rendrais-coupable-accuse-d-ecrits-antisemites-bardella-maintient-son-dementi-et-refuse-de-plaider-l-erreur-de-jeunesse-20261008",
+      "published": "2026-10-09T01:13:22"
+    }
+  ]
+}
