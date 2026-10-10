@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-10",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre en Ukraine : l’accord entre Moscou et Washington sur le pétrole russe est une « décision indigne » et « faible », fustige Volodymyr Zelensky",
+      "description": "Donald Trump a annoncé, vendredi, avoir négocié la livraison de quantités massives de gazole russe aux marchés américain et mondial, levant pour ce faire des sanctions qui pèsent sur Moscou, au grand dam du président ukrainien.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-l-accord-entre-moscou-et-washington-sur-le-petrole-est-une-decision-indigne-et-faible-fustige-volodymyr-zelensky_6787996_3210.html",
+      "published": "2026-10-10T01:04:45"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le parquet brésilien poursuit Shell en justice, invoquant une responsabilité climatique dans les inondations meurtrières de 2024",
+      "description": "Le ministère public réclame l’équivalent de près 100 millions d’euros pour des inondations qui avaient fait près de 200 morts dans le sud du pays. La « responsabilité » de Shell est, selon l’accusation, engagée en proportion de sa contribution au réchauffement du climat.",
+      "link": "https://www.lemonde.fr/planete/article/2026/10/10/le-parquet-bresilien-poursuit-shell-en-justice-invoquant-une-responsabilite-climatique-dans-les-inondations-meurtrieres-de-2024_6790736_3244.html",
+      "published": "2026-10-10T00:49:04"
+    }
+  ]
+}
