@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-11",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Inde, le premier ministre Narendra Modi répond par la force, alors qu’il est défié par la jeunesse",
+      "description": "Pour empêcher une manifestation de la Gen Z qui s’annonçait historique, les autorités ont cadenassé la capitale et procédé, samedi 10 octobre, à des milliers d’arrestations.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/11/en-inde-defie-par-la-jeunesse-le-premier-ministre-narendra-modi-repond-par-la-force_6791130_3210.html",
+      "published": "2026-10-11T00:11:41"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Après le séisme de magnitude 7,7 au Panama, l’heure du déblaiement et la crainte de nouvelles secousses",
+      "description": "Plus d’une centaine de répliques ont été enregistrées depuis le tremblement de terre de vendredi, poussant certains habitants à dormir dehors, par précaution. Les autorités, qui font état d’une trentaine de blessés légers mais d’aucun mort, continuent d’évaluer les dégâts.",
+      "link": "https://www.lemonde.fr/planete/article/2026/10/11/apres-le-seisme-de-magnitude-7-7-au-panama-l-heure-du-deblaiement-et-la-crainte-de-nouvelles-repliques_6791129_3244.html",
+      "published": "2026-10-11T00:10:32"
+    }
+  ]
+}
