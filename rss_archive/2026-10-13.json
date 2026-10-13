@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-13",
+  "count": 3,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le FMI pointe un net décrochage de l’économie française",
+      "description": "Selon les prévisions du Fonds monétaire international publiées mardi 13 octobre, la hausse du PIB ne devrait pas dépasser 0,4 % en 2026 contre 0,9 % en 2025.",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/13/le-fmi-pointe-un-net-decrochage-de-l-economie-francaise_6792976_3234.html",
+      "published": "2026-10-13T02:00:10"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Exécution en direct aux Etats-Unis : le speaker républicain Mike Johnson émet à son tour des réserves",
+      "description": "Le président de la Chambre des représentants craint que la diffusion en direct de l’exécution par l’armée américaine de l’auteur musulman d’une tuerie sur une base militaire du Texas en 2009 serve « d’outil de recrutement pour de futurs terroristes ».",
+      "link": "https://www.lemonde.fr/international/article/2026/10/13/execution-en-direct-aux-etats-unis-le-speaker-republicain-mike-johnson-emet-a-son-tour-des-reserves_6792942_3210.html",
+      "published": "2026-10-13T01:18:12"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Avec son nouveau modèle d’IA, Muse Wonder, le groupe Meta affirme rivaliser avec OpenAI et Anthropic",
+      "description": "Mark Zuckerberg, le patron du groupe qui chapeaute Facebook, Instagram et WhatsApp, opposé à tout ralentissement du développement de l’intelligence artificielle, a affirmé que ce nouveau modèle, dévoilé lundi, plaçait Meta « à la pointe » de la technologie.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/10/13/le-groupe-meta-devoile-son-nouveau-modele-d-ia-muse-wonder-cense-rivaliser-avec-chatgpt-et-claude_6792943_4408996.html",
+      "published": "2026-10-13T01:19:07"
+    }
+  ]
+}
