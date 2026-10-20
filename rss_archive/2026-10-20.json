@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-20",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, manifestations du 17 octobre : Laurent Nuñez, venu lundi soir à Marseille, promet au maire davantage de forces de l’ordre pour encadrer la prochaine manifestation prévue samedi",
+      "description": "Benoît Payan, qui avait réclamé la venue à Marseille du ministre de l’intérieur, a salué, lundi soir, une discussion « franche » et « salutaire ». L’édile avait vivement critiqué, depuis samedi, un sous-effectif des forces de l’ordre mobilisées dans sa ville, demandant « des comptes » à l’Etat sur les violences et les pillages.",
+      "link": "https://www.lemonde.fr/societe/live/2026/10/20/en-direct-manifestations-du-17-octobre-laurent-nunez-venu-lundi-soir-a-marseille-promet-au-maire-davantage-de-forces-de-l-ordre-pour-encadrer-la-prochaine-manifestation-prevue-samedi_6795855_3224.html",
+      "published": "2026-10-20T00:02:45"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Un effondrement dans une mine d’or illégale fait 14 morts en Colombie",
+      "description": "Selon le gouvernement du Nariño, les équipes de secours ont du mal à accéder au lieu de l’accident en raison du terrain difficile et de la présence de groupes criminels.",
+      "link": "https://www.lefigaro.fr/flash-actu/un-effondrement-dans-une-mine-d-or-illegale-fait-neuf-morts-en-colombie-20261019",
+      "published": "2026-10-20T00:41:46"
+    }
+  ]
+}
