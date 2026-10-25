@@ -1,5 +1,895 @@
 {
   "date": "2026-10-25",
-  "count": 0,
-  "articles": []
+  "count": 127,
+  "articles": [
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+      "description": "Pour sa quatrième candidature, la patronne du Rassemblement national a lancé sa campagne dimanche lors d'un meeting à Orléans, accompagnée par Jordan Bardella et Eric Ciotti.",
+      "link": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T18:34:21"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Nice, Montpellier, Rouen... Plusieurs responsables politiques dénoncent des violences de l'ultradroite en marge de manifestations du 24 octobre",
+      "description": "\"Comment est-il possible que ces milices aient pu tranquillement traverser une ville avec un dispositif policier hors norme ?\", s'est interrogée dimanche sur franceinfo Clémentine Autain, députée de gauche de Seine-Saint-Denis.",
+      "link": "https://www.franceinfo.fr/societe/manifestations/nice-montpellier-rouen-plusieurs-responsables-politiques-denoncent-des-violences-de-l-ultradroite-en-marge-de-manifestations-du-24-octobre_8252998.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T13:05:03"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Tu resteras à jamais dans nos cœurs\" : à Aubervilliers, des centaines de personnes à la marche blanche en hommage à Pengo Bossio Wangi, tué à Trappes",
+      "description": "L'homme de 26 ans, tué lors de l'attentat terroriste et raciste à Trappes vendredi, évoluait dans un club de MMA d'Aubervilliers, dont le fondateur est à l'origine de ce rassemblement.",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-tu-resteras-a-jamais-dans-nos-c-urs-a-aubervilliers-des-centaines-de-personnes-a-la-marche-blanche-en-hommage-a-pengo-bossio-wangi-tue-a-trappes_8253328.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T17:02:34"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Qui est Flavio Bolsonaro, le candidat d'extrême droite qui peut remporter l'élection présidentielle au Brésil ?",
+      "description": "Le fils aîné de l'ancien chef de l'Etat Jair Bolsonaro a créé la surprise il y a trois semaines en recueillant 47% des suffrages au premier tour, devant le président de gauche sortant, Lula.",
+      "link": "https://www.franceinfo.fr/monde/bresil/qui-est-flavio-bolsonaro-le-candidat-d-extreme-droite-qui-peut-remporter-l-election-presidentielle-au-bresil_8223358.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T06:03:18"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Rennes prend provisoirement les commandes de la Ligue 1 après sa victoire contre Strasbourg, l'OM se fait peur contre le Havre",
+      "description": "Les Rennais se sont imposés 3-0 contre les Strasbourgeois, dimanche soir, et prennent provisoirement la tête du championnat en attendant le choc entre le PSG et Lyon, lundi.",
+      "link": "https://www.franceinfo.fr/sports/foot/ligue-1/rennes-prend-provisoirement-les-commandes-de-la-ligue-1-apres-sa-victoire-contre-strasbourg-l-om-se-fait-peur-contre-le-havre_8253424.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T18:20:26"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "BFMTV dénonce \"une campagne de dénigrement\" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes",
+      "description": "\"Vous, BFM, commencez à vous calmer sur les remarques racistes de toute sorte, parce que ça commence à bien faire\", a déclaré Jean-Luc Mélenchon alors qu'il était interrogé par une journaliste de la chaîne, samedi.",
+      "link": "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T19:53:25"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "À Trappes, un homme blessé par balles à la jambe, son pronostic vital n'est pas engagé, le tireur en fuite",
+      "description": "Une marche blanche en hommage à Volkan, un homme de 23 ans tué en septembre dernier, se tenait dans la ville, dimanche. Le lien entre cette marche et les faits n'est pas avéré, selon une source policière.",
+      "link": "https://www.franceinfo.fr/faits-divers/a-trappes-un-homme-blesse-par-balles-a-la-jambe-son-pronostic-vital-n-est-pas-engage-le-tireur-en-fuite_8253463.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T18:47:10"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir",
+      "description": "Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis deux ans.",
+      "link": "https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T21:06:42"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Kimi Antonelli remporte le Grand Prix des Etats-Unis mais devra encore attendre pour être sacré champion du monde de F1",
+      "description": "L'Italien s'est imposé devant Charles Leclerc (Ferrari) et Max Verstappen (Red Bull), dimanche au Texas.",
+      "link": "https://www.franceinfo.fr/sports/auto-moto/formule-1/kimi-antonelli-remporte-le-grand-prix-des-etats-unis-mais-devra-encore-attendre-pour-etre-sacre-champion-du-monde-de-f1_8253559.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T21:57:59"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "L'opposante vénézuélienne et prix Nobel de la paix Maria Corina Machado annonce être de retour dans son pays",
+      "description": "Exilée au Panama, la femme politique de 60 ans avait déjà tenté au moins à sept reprises de rentrer dans son pays, sans y parvenir, selon des sources de son parti.",
+      "link": "https://www.franceinfo.fr/monde/venezuela/l-opposante-et-prix-nobel-de-la-paix-maria-corina-machado-annonce-etre-de-retour-au-venezuela_8253460.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T18:42:30"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Juif séfarade, ancien chef d'état-major, ministre démissionnaire... Qui est Gadi Eisenkot, l'homme qui défie Nétanyahou dans les urnes ?",
+      "description": "Mardi prochain se tiennent des élections législatives déterminantes pour l'histoire d'Israël. Face au Premier ministre sortant Benyamin Nétanyahou, un homme entend bien jouer les trouble-fêtes : Gadi Eisenkot, un militaire de carrière récemment entré en politique.",
+      "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/juif-sefarade-ancien-chef-d-etat-major-ministre-demissionnaire-qui-est-gadi-eisenkot-l-homme-qui-defie-netanyahou-dans-les-urnes_8211635.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T16:20:01"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Les présidents d'université mettent en garde contre une suppression de Parcoursup, comme le souhaite le mouvement lycéen",
+      "description": "Si les lycéens et étudiants demandent la suppression de Parcoursup, les présidents d'université s'opposent à cette mesure. Ils estiment néanmoins que la plateforme peut être modifiée \"en profondeur\".",
+      "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/mobilisation-des-lyceens-les-presidents-d-universite-mettent-en-garde-contre-une-suppression-de-parcoursup_8253280.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T16:35:42"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Incendie de la mairie de Limoges : \"Un formidable élan de générosité\", se réjouit la Fondation du patrimoine avec plus de 543 000 euros récoltés",
+      "description": "Les fonds récoltés permettront de financer la reconstruction de la mairie de Limoges, incendiée lors de la mobilisation du 17 octobre.",
+      "link": "https://www.franceinfo.fr/faits-divers/incendie-de-la-mairie-de-limoges-un-formidable-elan-de-generosite-se-rejouit-la-fondation-du-patrimoine-avec-plus-de-543-000-euros-recoltes_8253259.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T15:32:16"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Des hommes armés ont tué au moins 50 personnes dans le nord-est du Nigeria",
+      "description": "Les assaillants sont arrivés sur des motos et ont ouvert le feu sur les habitants, à sortie de la prière du vendredi.",
+      "link": "https://www.franceinfo.fr/monde/afrique/nigeria/des-hommes-armes-ont-tue-au-moins-50-personnes-dans-le-nord-est-du-nigeria_8253370.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T17:23:42"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Ça fait du bien de revenir\" : à dix jours des élections de mi-mandat aux Etats-Unis, Barack Obama entre en campagne contre Donald Trump",
+      "description": "Entre humour et virulence, l'ancien président américain a multiplié les attaques contre son successeur et appelé les électeurs à se mobiliser, à dix jours du scrutin.",
+      "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/ca-fait-du-bien-de-revenir-a-dix-jours-des-elections-de-mi-mandat-aux-etats-unis-barack-obama-entre-en-campagne-contre-donald-trump_8252905.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T10:43:57"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Deux superstars qui s'affrontent\" : à la veille du Ballon d'or, le Clasico entre le FC Barcelone et le Real Madrid prend une autre dimension",
+      "description": "À Barcelone, les supporters débattent déjà pour départager les deux favoris du Ballon d'or, Lamine Yamal et Kylian Mbappé. Les votes étant clos depuis un mois, le résultat du match ne changera rien au palmarès.",
+      "link": "https://www.franceinfo.fr/sports/foot/ballon-d-or/deux-superstars-qui-s-affrontent-a-la-veille-du-ballon-d-or-le-clasico-entre-le-fc-barcelone-et-le-real-madrid-prend-une-autre-dimension_8253112.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T13:53:20"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Christo Popov va devenir le premier Français de l'histoire n°1 mondial après son sacre aux Internationaux de France de badminton",
+      "description": "Vainqueur des Internationaux de France, dimanche contre l'Indonésien Mohammad Zaki Ubaidillah (2-1), Christo Popov rentre dans l'histoire du sport français en devenant le premier tricolore au sommet du classement du badminton mondial.",
+      "link": "https://www.franceinfo.fr/sports/badminton/christo-popov-va-devenir-le-premier-francais-de-l-histoire-n-1-mondial-apres-son-sacre-aux-internationaux-de-france-de-badminton_8253241.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T15:14:06"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "En Espagne, 128 personnes interpellées à Barcelone pour des dégradations et des pillages lors d'un rassemblement non déclaré",
+      "description": "Silvia Cata, patronne de la police catalane, a précisé que 15 agents avaient été \"blessés\" au cours de la nuit, durant laquelle 23 commerces ont été vandalisés.",
+      "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-128-personnes-interpellees-a-barcelone-pour-des-degradations-et-des-pillages-lors-d-un-rassemblement-non-declare_8253175.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T13:58:51"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Ni pardon, ni excuses\" : avant des élections cruciales pour Benyamin Nétanyahou, un documentaire donne la parole aux Israéliens qui le tiennent en partie responsable du 7-Octobre",
+      "description": "Avant les législatives organisées mardi, un documentaire ausculte les fractures au sein de la société israélienne, accentuées par les attaques meurtrières du Hamas le 7 octobre 2023, et les révélations sur l'attitude de Benyamin Nétanyahou vis-à-vis du groupe terroriste avant cette date.",
+      "link": "https://www.franceinfo.fr/monde/israel/videos-ni-pardon-ni-excuses-avant-des-elections-cruciales-pour-benyamin-netanyahou-un-documentaire-donne-la-parole-aux-israeliens-qui-le-tiennent-en-partie-responsable-du-7-octobre_8219710.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T06:02:17"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Adam Siao Him Fa remporte le Grand Prix de France de patinage artistique pour la quatrième fois, avec la manière",
+      "description": "Le patineur français débute la saison des Grands Prix de la meilleure des manières, avec une large victoire à Angers, dimanche.",
+      "link": "https://www.franceinfo.fr/sports/sports-d-hiver/patinage-artistique/video-adam-siao-him-fa-remporte-le-grand-prix-de-france-de-patinage-artistique-pour-la-quatrieme-fois-avec-la-maniere_8253262.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T15:36:24"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Irish Travellers\" : entre mobile-home, galères du quotidien et chasse au lapin, un documentaire plein d'humanité au cœur d'une famille de \"nomades\" irlandais",
+      "description": "Plutôt que de disséquer les difficultés sociales d'une communauté ostracisée, le réalisateur Alexander Murphy a choisi de nous immerger dans la vie de tous les jours des O'Reilly.",
+      "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/irish-travellers-entre-mobile-home-galeres-du-quotidien-et-chasse-au-lapin-un-documentaire-plein-d-humanite-au-c-ur-d-une-famille-de-nomades-irlandais_8249107.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T14:00:38"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "\"Notre fille n'a pas souffert\" : le père de Cléa, 17 ans, se confie après la mort de la jeune joueuse de rugby",
+      "description": "Cléa, 17 ans, était une jeune joueuse de rugby. Elle est morte en pratiquant sa passion lors d’un match survenu le 17 octobre à Marmande, dans le Lot-et-Garonne. Le monde du rugby est en deuil, et les hommages se multiplient. Son père témoigne auprès des équipes de France Télévisions.",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/notre-fille-n-a-pas-souffert-le-pere-de-clea-17-ans-se-confie-apres-la-mort-de-la-jeune-joueuse-de-rugby_8253094.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T14:45:23"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Les Bulgares votent dimanche pour la présidentielle, entre craintes sécuritaires et divisions sur la guerre en Ukraine",
+      "description": "La présidente sortante, Iliana Iotova, partisane du dialogue avec Moscou et opposée à l'aide militaire à l'Ukraine, fait figure de favorite.",
+      "link": "https://www.franceinfo.fr/monde/europe/les-bulgares-votent-dimanche-pour-la-presidentielle-entre-craintes-securitaires-et-divisions-sur-la-guerre-en-ukraine_8253046.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T12:53:50"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "La Russie va accueillir les Mondiaux d'haltérophilie en 2030, le premier sport olympique à revenir dans le pays depuis 2022",
+      "description": "L'haltérophilie va revenir en Russie avec l'organisation des Championnats du monde en 2030, alors que les disciplines olympiques s'étaient éloignées du pays depuis son entrée en guerre en Ukraine, qui avait donné lieu à de nombreuses sanctions sportives.",
+      "link": "https://www.franceinfo.fr/sports/halterophilie/la-russie-va-accueillir-les-mondiaux-d-halterophilie-en-2030-le-premier-sport-olympique-a-revenir-dans-le-pays-depuis-2022_8253172.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T13:30:24"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Congrès du RN à Orléans : le discours de Jordan Bardella a été interrompu par des militants de l'Union des étudiants juifs de France",
+      "description": "Plusieurs opposants ont déployé une banderole au moment où le président du RN prenait la parole, dimanche. Ils ont alors été violemment pris à partie par des militants RN.",
+      "link": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T17:46:38"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville",
+      "description": "\"C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans\", s'est réjoui le maire divers droite de la ville, Serge Grouard.",
+      "link": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T19:57:25"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
+      "description": "\"L'Etat que nous voulons ne sera pas RN mais ce sera une œuvre collective, une œuvre, certes patriote, mais pas partisane\", a assuré la candidate d'extrême droite.",
+      "link": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T17:06:16"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Gilets jaunes, syndicats, lycéens : la mobilisation sociale est-elle partie pour durer ?",
+      "description": "Samedi 24 octobre, une nouvelle journée de mobilisation a rassemblé plusieurs centaines de milliers de Français dans la rue. Ce mouvement est-il parti pour durer ?",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/gilets-jaunes-syndicats-lyceens-la-mobilisation-sociale-est-elle-partie-pour-durer_8253490.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T19:59:57"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "On a suivi Adam, street medic de 19 ans, dans un cortège parisien",
+      "description": "Adam a 19 ans, il est sapeur-pompier volontaire et il a décidé d’utiliser sa formation de secouriste pour opérer en tant que “street medic“ dans les manifestations, avec ses amis qu'il a formé. On l’a suivi dans le cortège parisien du 24 octobre.",
+      "link": "https://www.franceinfo.fr/societe/manifestations/on-a-suivi-adam-street-medic-de-19-ans-dans-un-cortege-parisien_8253406.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T17:13:08"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Après l'attaque terroriste dans les Yvelines, des rassemblements contre le racisme organisés partout en France",
+      "description": "Une marche blanche a rassemblé dimanche plusieurs centaines de personnes, venues défiler à Aubervilliers pour rendre hommage au jeune homme tué vendredi à Trappes. D'autres rassemblements auront lieu dans les jours qui viennent.",
+      "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/apres-l-attaque-terroriste-dans-les-yvelines-des-rassemblements-contre-le-racisme-organises-partout-en-france_8253274.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T18:58:51"
+    },
+    {
+      "source": "www.francetvinfo.fr",
+      "title": "Tirs dans les Yvelines : la garde à vue du suspect levée pour raisons psychiatriques",
+      "description": "Il avait 26 ans, pratiquait le MMA dont il était l’un des espoirs français. Pengo Bossio Wangi a été abattu à Trappes (Yvelines), vendredi 23 octobre. Une marche blanche s’est tenue en hommage au jeune homme ce dimanche, alors que la garde à vue du suspect a été levée le temps d’évaluer son état psychiatrique.",
+      "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tirs-dans-les-yvelines-la-garde-a-vue-du-suspect-levee-pour-raisons-psychiatriques_8253484.html#xtor=RSS-3-[lestitres]",
+      "published": "2026-10-25T20:53:19"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Après l’attentat raciste de Trappes, le maire, Ali Rabeh déclare : « Le président de la République n’a pas été le protecteur qu’il aurait dû être »",
+      "description": "Dans un entretien au « Monde », Ali Rabeh (Génération.s), 41 ans, réélu en mars, déplore notamment que les discours d’extrême droite aient « fini par pénétrer l’inconscient collectif », et estime ressentir un « climat de guerre civile larvée ».",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/25/apres-l-attentat-raciste-de-trappes-le-maire-ali-rabeh-le-president-de-la-republique-n-a-pas-ete-le-protecteur-qu-il-aurait-du-etre_6800093_823448.html",
+      "published": "2026-10-25T15:02:53"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Présidentielle 2027 : à Orléans, Marine Le Pen lance sa campagne entre radicalité et « optimisme », dans une ville en état de siège",
+      "description": "La candidate du Rassemblement national a réuni plus de 8 000 soutiens, dimanche 25 octobre, en périphérie de la préfecture du Loiret, mise sous cloche.",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/25/presidentielle-2027-a-orleans-marine-le-pen-lance-sa-campagne-entre-radicalite-et-optimisme-dans-une-ville-en-etat-de-siege_6800113_823448.html",
+      "published": "2026-10-25T19:01:59"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, élection présidentielle au Brésil : reprise du dépouillement après la prolongation des votes dans la confusion",
+      "description": "Près de 160 millions d’électeurs sont appelés aux urnes pour choisir au second tour entre Lula, de gauche, et le candidat d’extrême droite, Flavio Bolsonaro. Les résultats sont attendus dans la nuit.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-election-presidentielle-au-bresil-lula-accuse-des-maires-d-empecher-des-electeurs-d-aller-voter-apres-des-penuries-de-bus-dans-plusieurs-villes_6800074_3210.html",
+      "published": "2026-10-25T19:24:18"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Algérie, le Parlement autorise l’envoi d’unités militaires au Niger",
+      "description": "Le déploiement de l’armée algérienne sur le théâtre nigérien, validé dimanche par les députés et les sénateurs, enterre plus de six décennies de doctrine de non-intervention du pays hors de ses frontières. Il promet de reconfigurer les équilibres stratégiques au Sahel.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/10/25/en-algerie-le-parlement-autorise-l-envoi-d-unites-militaires-au-niger_6800111_3212.html",
+      "published": "2026-10-25T18:40:31"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "« L’enjeu est existentiel ! » : des milliers d’Israéliens établis à l’étranger affluent dans le pays pour voter aux élections législatives du 27 octobre",
+      "description": "Le vote n’étant pas permis à distance, même dans les ambassades, de nombreux expatriés israéliens ont pris des vols pour participer au scrutin. La mobilisation s’annonce particulièrement forte chez les opposants de Benyamin Nétanyahou, partis de New York, Washington, Paris, Londres, Madrid, et même d’Australie.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/25/l-enjeu-est-existentiel-des-milliers-d-israeliens-etablis-a-l-etranger-affluent-dans-le-pays-pour-voter-aux-elections-legislatives-du-27-octobre_6800108_3210.html",
+      "published": "2026-10-25T18:00:05"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Peut-on laisser nos filles porter des crop tops ?",
+      "description": "« Le dilemme. » On a beau se revendiquer progressiste, voire féministe, des « Tu ne vas pas t’habiller comme ça ? » s’échappent parfois. Non pas à destination d’un ado au jean tombant sous les fesses, mais d’une ado ventre à l’air. Ou l’éternel retour de la question du contrôle du corps féminin…",
+      "link": "https://www.lemonde.fr/intimites/article/2026/10/25/peut-on-laisser-nos-filles-porter-des-crop-tops_6800099_6190330.html",
+      "published": "2026-10-25T16:00:28"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Tempête Austen : 40 000 foyers étaient encore privés d’électricité dimanche à 18 heures",
+      "description": "Quelque 2 000 salariés d’Enedis et 600 salariés de ses entreprises prestataires sont mobilisés. La Bretagne et la Normandie sont les deux régions qui concentrent le plus de clients privés d’électricité.",
+      "link": "https://www.lemonde.fr/planete/article/2026/10/25/tempete-austen-59-000-foyers-etaient-encore-prives-d-electricite-dimanche-a-midi_6800077_3244.html",
+      "published": "2026-10-25T11:55:55"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Manifestations du 24 octobre : enquête ouverte à Nice contre des membres de la mouvance d’ultradroite après des agressions de manifestants",
+      "description": "Parmi les 59 personnes placées en garde à vue samedi à la suite des manifestations, figurent 11 individus susceptibles d’appartenir à la mouvance d’ultradroite, selon le parquet.",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/25/manifestations-du-24-octobre-enquete-ouverte-a-nice-contre-des-membres-de-la-mouvance-d-ultradroite-apres-des-agressions-de-manifestants_6800088_3224.html",
+      "published": "2026-10-25T14:11:34"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le rêve cabossé d’Hollywood face à l’IA : « Tout le monde l’utilise, mais personne ne veut en parler »",
+      "description": "« Sur la Route 66, pouls de l’Amérique » (6/6). Déclin des studios mythiques aux tournages trop coûteux, déploiement du streaming, arrivée de l’intelligence artificielle : le fief américain de l’industrie du divertissement a perdu de sa superbe. C’est la fin de la route, et, à la veille des midterms, peut-être pas la fin du rêve.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/25/le-reve-cabosse-d-hollywood-face-a-l-ia-tout-le-monde-l-utilise-mais-personne-ne-veut-en-parler_6800103_3210.html",
+      "published": "2026-10-25T16:30:01"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "A Hébron, en Cisjordanie, plus de 2 670 Palestiniens « déplacés de force » par l’armée israélienne, selon l’Autorité palestinienne",
+      "description": "Dimanche, des soldats israéliens étaient toujours déployés dans les rues de la plus grande ville du territoire palestinien occupé, selon des images de l’Agence France-Presse.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/25/a-hebron-en-cisjordanie-plus-de-2-670-palestiniens-deplaces-de-force-par-l-armee-israelienne-selon-l-autorite-palestinienne_6800149_3210.html",
+      "published": "2026-10-25T22:46:41"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Serbie : Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées",
+      "description": "Le dirigeant nationaliste a admis, dimanche soir, que le mouvement étudiant avait remporté la victoire, après avoir mené des manifestations pendant deux ans.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/25/serbie-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees_6800116_3210.html",
+      "published": "2026-10-25T20:55:48"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky confirme qu’une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre",
+      "description": "Dans une interview à la télévision nationale dimanche soir, le président ukrainien a assuré que l’Ukraine était « prête à discuter ». M. Zelensky a appelé à ne pas lever les sanctions contre la Russie avant ces discussions trilatérales.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-volodymyr-zelensky-confirme-qu-une-reunion-entre-russes-ukrainiens-et-americains-aura-lieu-en-novembre_6799896_3210.html",
+      "published": "2026-10-25T19:57:03"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Ces serpents qui s’enfuient en faisant la roue",
+      "description": "Des chercheurs japonais ont étudié cette technique de locomotion propre aux couleuvres naines des roseaux. Avec un petit air de ballerine.",
+      "link": "https://www.lemonde.fr/sciences/article/2026/10/25/ces-serpents-qui-s-enfuient-en-faisant-la-roue_6800090_1650684.html",
+      "published": "2026-10-25T14:30:15"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Lille et Monaco se neutralisent, Rennes en profite pour prendre provisoirement la tête de la Ligue 1",
+      "description": "Fort de son succès face à Strasbourg (3-0), dimanche, le Stade Rennais occupe la première place du championnat de France de football, en attendant le match de clôture de la 8ᵉ journée opposant le PSG à l’OL, lundi, au Parc des Princes.",
+      "link": "https://www.lemonde.fr/sport/article/2026/10/25/lille-et-monaco-se-neutralisent-rennes-en-profite-pour-prendre-provisoirement-la-tete-de-la-ligue-1_6800110_3242.html",
+      "published": "2026-10-25T18:29:12"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "True Crime Community : « La glorification des criminels, l’imitation de leurs actes et la quête de notoriété peuvent suffire à donner un sens à la violence »",
+      "description": "Après l’attaque d’un collégien, le 12 octobre, dans les Bouches-du-Rhône, Alejandra Mariscal Lopez, juriste, et Alexandre Rodde, spécialiste des tueries de masse, appellent, dans une tribune au « Monde », à repenser les représentations du terrorisme et à adapter les outils de lutte.",
+      "link": "https://www.lemonde.fr/idees/article/2026/10/25/true-crime-community-la-glorification-des-criminels-l-imitation-de-leurs-actes-et-la-quete-de-notoriete-peuvent-suffire-a-donner-un-sens-a-la-violence_6800067_3232.html",
+      "published": "2026-10-25T10:00:10"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 24 et 25 octobre",
+      "description": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
+      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/25/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-24-et-25-octobre_6800109_4355770.html",
+      "published": "2026-10-25T18:11:57"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Manifestations, dette… Petite éclaircie pour l’exécutif, ballotté de crise en crise",
+      "description": "DÉCRYPTAGE - La bonne tenue des cortèges et l’absence de dégradation de l’agence de notation Moody’s offrent un répit relatif à l’exécutif. Mais l’attentat raciste de Trappes accentue les fractures du pays.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/manifestations-dette-petite-eclaircie-pour-l-executif-ballotte-de-crise-en-crise-20261025",
+      "published": "2026-10-25T18:30:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "L’éditorial de Gaëtan de Capèle : «La France danse sur un volcan»",
+      "description": "On aurait bien tort de spéculer sur l’accalmie du week-end. La marmite du climat social bout toujours et les esprits s’échauffent déjà sur les prochains rendez-vous.",
+      "link": "https://www.lefigaro.fr/vox/l-editorial-de-gaetan-de-capele-la-france-danse-sur-un-volcan-20261025",
+      "published": "2026-10-25T18:15:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Trappes : un homme blessé par balle dans la rue, sans rapport avec l’attentat",
+      "description": "La victime se trouvait devant l’Hôpital privé de l’Ouest Parisien (Yvelines) quand il a été touché par balle au niveau des jambes. Une douille de calibre 9 mm a été retrouvée sur les lieux.",
+      "link": "https://www.lefigaro.fr/faits-divers/trappes-un-homme-blesse-par-balle-dans-la-rue-sans-rapport-avec-l-attentat-20261025",
+      "published": "2026-10-25T21:04:35"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Il est mort parce qu’il est noir, c’est tout» : à la marche en mémoire de Pengo Bossio Wangi, tué par Kévin T. à Trappes",
+      "description": "REPORTAGE - Ce dimanche, une marche blanche était organisée à Aubervilliers en Seine-Saint-Denis par le club de MMA auquel appartenait le jeune homme tué à Trappes vendredi lors d’un attentat.",
+      "link": "https://www.lefigaro.fr/actualite-france/il-est-mort-parce-qu-il-est-noir-c-est-tout-a-la-marche-en-memoire-de-pengo-bossio-wangi-tue-par-kevin-t-a-trappes-20261025",
+      "published": "2026-10-25T22:42:52"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Attaque terroriste dans les Yvelines : Kevin T., tueur d’ultradroite ou schizophrène irresponsable ?",
+      "description": "DÉCRYPTAGE - La garde à vue de l’auteur de la fusillade du vendredi 23 octobre, qui souffrirait de schizophrénie, a été levée samedi soir pour un examen psychiatrique. De son résultat dépendra le destin judiciaire du terroriste.",
+      "link": "https://www.lefigaro.fr/actualite-france/attaque-terroriste-dans-les-yvelines-kevin-t-tueur-d-ultradroite-ou-schizophrene-irresponsable-20261025",
+      "published": "2026-10-25T18:05:07"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Attaque terroriste dans les Yvelines : des rassemblements lundi dans plusieurs villes, dont Paris",
+      "description": "Des rassemblements pour «dénoncer la banalisation de la haine raciste» devraient également avoir lieu à Saint-André-de-Cubzac (Gironde), Bordeaux, Saint-Étienne, Bourgoin-Jailleux (Isère), Nantes, Marseille, Grenoble, Montpellier, Roubaix (Nord).",
+      "link": "https://www.lefigaro.fr/actualite-france/attaque-terroriste-dans-les-yvelines-des-rassemblements-lundi-dans-plusieurs-villes-dont-paris-20261025",
+      "published": "2026-10-25T19:26:53"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Attaque terroriste dans les Yvelines : le suspect, Kevin T., traité pour de la schizophrénie",
+      "description": "La garde à vue du suspect a été levée ce dimanche pour raisons psychiatriques, avait annoncé le parquet national antiterroriste.",
+      "link": "https://www.lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-le-suspect-kevin-t-traite-pour-de-la-schizophrenie-20261025",
+      "published": "2026-10-25T16:59:32"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Brésil: la justice prolonge le vote au second tour entre Lula et Bolsonaro",
+      "description": "Lula a accusé plusieurs autorités locales de limiter l’accès aux urnes en réduisant les transports en commun. Le camp Bolsonaro a lui aussi saisi la justice, invoquant les fortes pluies qui touchaient certaines régions.",
+      "link": "https://www.lefigaro.fr/international/des-electeurs-sont-empeches-de-voter-faute-de-bus-dans-plusieurs-villes-du-bresil-denonce-lula-20261025",
+      "published": "2026-10-25T21:10:20"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Présidentielle 2027 : Marine Le Pen réorganise son parti et lance sa campagne à Orléans",
+      "description": "RÉCIT - Devant près de 8500 personnes, la candidate du Rassemblement national propose une « renaissance » de la France, promettant d’inscrire la « communauté nationale » dans la Constitution et de mettre en place un gouvernement « pluraliste ».",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-le-pen-reorganise-son-parti-et-lance-sa-campagne-a-orleans-20261025",
+      "published": "2026-10-25T18:55:45"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Congrès du RN : Sébastien Chenu dénonce « cette extrême gauche », qui « met de l’huile sur le feu »",
+      "description": "Invité dimanche soir du « Grand Oral BFMTV-Le Figaro », le nouveau président du groupe RN à l’Assemblée, Sébastien Chenu, a dressé un bilan flatteur du week-end orléanais, mais a refusé de remercier l’État pour sa sécurisation.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/congres-du-rn-sebastien-chenu-denonce-cette-extreme-gauche-qui-met-de-l-huile-sur-le-feu-20261025",
+      "published": "2026-10-25T18:55:45"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Congrès du RN à Orléans : des individus tentent de perturber le discours de Jordan Bardella",
+      "description": "Quelques personnes sont parvenues à entrer à l’intérieur de bâtiment, pendant que, dehors, plusieurs centaines de personnes étaient rassemblées à bonne distance et dans le calme.",
+      "link": "https://www.lefigaro.fr/actualite-france/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-rassembles-malgre-les-interdictions-20261025",
+      "published": "2026-10-25T15:44:25"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "La Rochelle-UBB : les Bordelais nouveaux dauphins, Reus décisif, des Rochelais trop indisciplinés… Les tops et les flops",
+      "description": "DÉCRYPTAGE - Découvrez ce qui a retenu l’attention du Figaro après la victoire de l’Union Bordeaux-Bègles sur la pelouse de La Rochelle (19-25), en clotûre de la 7e journée de Top 14.",
+      "link": "https://www.lefigaro.fr/sports/rugby/la-rochelle-ubb-l-ubb-nouveau-dauphin-reus-decisif-des-rochelais-trop-indisciplines-les-tops-et-les-flops-20261025",
+      "published": "2026-10-25T22:58:32"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Barça-Real Madrid : Mbappé d’or et de 100, Lamine Yamal en dedans, Rodri resté sur le banc… Les tops et flops du Clasico",
+      "description": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire du Real Madrid face au FC Barcelone, dimanche soir au Camp Nou.",
+      "link": "https://www.lefigaro.fr/sports/football/espagne/barca-real-madrid-mbappe-d-or-et-de-100-lamine-yamal-en-dedans-rodri-reste-sur-le-banc-les-tops-et-flops-du-clasico-20261025",
+      "published": "2026-10-25T23:03:06"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Liga : avant le Ballon d’Or, un Mbappé de gala permet au Real Madrid de mettre K.O. le Barça dans le Clasico",
+      "description": "Le Real Madrid s’est imposé ce dimanche à Barcelone, grâce à un doublé de Kylian Mbappé (2-1). Les Merengue reviennent à trois points de leurs adversaires du soir, en tête du championnat.",
+      "link": "https://www.lefigaro.fr/sports/football/espagne/liga-mbappe-et-le-real-madrid-mettent-k-o-le-barca-au-terme-d-un-clasico-haletant-20261025",
+      "published": "2026-10-25T22:49:15"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Barça-Real Madrid : en vidéo, le doublé de Kylian Mbappé qui offre la victoire aux Merengue dans le Clasico",
+      "description": "L’attaquant français a permis au Real Madrid de s’imposer sur la pelouse du Barça ce dimanche (2-1).",
+      "link": "https://www.lefigaro.fr/sports/football/espagne/barca-real-madrid-en-video-le-but-opportuniste-de-kylian-mbappe-pour-ouvrir-le-score-20261025",
+      "published": "2026-10-25T22:28:08"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Serbie, Aleksandar Vucic reconnaît sa défaite face au mouvement étudiant",
+      "description": "Le dirigeant serbe a concédé dimanche la victoire face à la Liste étudiante, une coalition soutenue par le mouvement de la jeunesse qui manifeste depuis deux ans contre son régime autoritaire.",
+      "link": "https://www.liberation.fr/international/europe/en-serbie-aleksandar-vucic-reconnait-sa-defaite-face-au-mouvement-etudiant-20261025_PW5PWL47JBB7ZH2SLXRIVPZDEQ/",
+      "published": "2026-10-25T21:53:12"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Santos Sisters» : frangines toniques",
+      "description": "La série de bande dessinée américaine de Greg & Fake, lauréate d’un prix Eisner, sort enfin en France. L’occasion de découvrir les aventures très délurées de ces deux super-héroïnes mexicaines, bourrées d’humour trash et de personnages impossibles.",
+      "link": "https://www.liberation.fr/culture/bd/santos-sisters-frangines-toniques-20261025_BKXGLCCZAZE6VJAHNYPD4GRZCY/",
+      "published": "2026-10-25T20:53:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Derrière la mobilisation du 24 octobre, un soulagement en trompe-l’œil",
+      "description": "Malgré l’ambiance bon enfant et le recul de la violence observée samedi à Paris, de nombreux manifestants étaient venus pour afficher leur attachement à l’état de droit, après la pente dangereuse prise par l’exécutif ces derniers jours.",
+      "link": "https://www.liberation.fr/idees-et-debats/opinions/derriere-la-mobilisation-du-24-octobre-un-soulagement-en-trompe-loeil-20261025_OCVGZAZQUJAIFH5L5CPC2PLS54/",
+      "published": "2026-10-25T20:12:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Prochaines mobilisations, annonces du gouvernement… Quel avenir pour le mouvement après les manifestations du 24 octobre ?",
+      "description": "Après un 17 octobre électrique, la mobilisation de samedi 24 octobre s’est révélée plus calme que la précédente. Alors que de nouvelles actions s’organisent déjà, le gouvernement pourrait livrer une première série de mesures ce lundi pour répondre aux lycéens.",
+      "link": "https://www.liberation.fr/politique/prochaines-mobilisations-annonces-du-gouvernement-quel-avenir-pour-le-mouvement-apres-les-manifestations-du-24-octobre-20261025_D6HA7R4VGZG4DHHZUZQQREN47E/",
+      "published": "2026-10-25T20:00:33"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Midterms : de retour en campagne, Barack Obama étrille Donald Trump et les siens",
+      "description": "L’ancien Président des Etats-Unis a retrouvé ce week-end les meetings pour soutenir plusieurs candidats démocrates à quelques jours des élections de mi-mandat. Il s’en est pris de manière virulente à l’administration de son successeur.",
+      "link": "https://www.liberation.fr/international/amerique/deux-annees-de-chaos-de-cruaute-de-corruption-et-dincompetence-en-campagne-pour-les-democrates-obama-sattaque-a-trump-avec-virulence-20261025_PRFDSTMOI5CM5NTOTHKDSW72VA/",
+      "published": "2026-10-25T19:58:37"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ali Rabeh, le cri d’alarme du maire de Trappes",
+      "description": "Encore sous le choc après l’attaque raciste qui a endeuillé sa ville vendredi, l’édile des Yvelines dit à «Libération» sa colère de voir certains élus et médias «fissurer le pacte républicain».",
+      "link": "https://www.liberation.fr/idees-et-debats/editorial/ali-rabeh-le-cri-dalarme-du-maire-de-trappes-20261025_I2GCYPMPPZD45HELPBRCSGCYL4/",
+      "published": "2026-10-25T19:53:57"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Je me suis reconnu en lui et ça m’effraie» : à Aubervilliers, une marche blanche pour Pengo Bossio Wangi, victime d’un assassinat raciste",
+      "description": "L’homme de 26 ans tué à Trappes (Yvelines) vendredi dans une attaque aux mobiles raciste pratiquait les arts martiaux mixtes (MMA) dans la ville de Seine-Saint-Denis. Une foule de plusieurs centaines de personnes s’est réunie entre hommage et colère.",
+      "link": "https://www.liberation.fr/societe/je-me-suis-reconnu-en-lui-et-ca-meffraie-a-aubervilliers-une-marche-blanche-pour-pengo-bossio-wangi-victime-dun-assassinat-raciste-20261025_NHNVDNSARNHFZM3HAI3F6WHTOE/",
+      "published": "2026-10-25T19:52:12"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Après 37 ans d’antenne, TF1 met fin au feuilleton «Les Feux de l’amour» au profit du jeu «Pyramide»",
+      "description": "Pour des raisons d’audience, la série culte américaine abandonnera sa case en janvier, selon le «Parisien». Mais le soap opera devrait renaître de ses cendres sur une autre chaîne du groupe.",
+      "link": "https://www.liberation.fr/culture/tf1-met-fin-au-feuilleton-les-feux-de-lamour-au-profit-du-jeu-pyramide-20261025_ON6G4LWSHNENJEDYB3HEU5WBIY/",
+      "published": "2026-10-25T19:50:41"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Motivations du suspect, profil de la victime, état de santé des blessés… Ce que l’on sait ce dimanche de l’attaque raciste dans les Yvelines",
+      "description": "Vendredi 23 octobre, un homme soupçonné d’avoir voulu s’en prendre à des personnes issues de l’immigration, a tiré à Trappes et à La Verrière faisant un mort et cinq blessés, avant d’être arrêté. Ce dimanche, sa garde à vue a été levée pour raisons psychiatriques.",
+      "link": "https://www.liberation.fr/societe/police-justice/motivations-du-suspect-profil-de-la-victime-etat-de-sante-des-blesses-ce-que-lon-sait-ce-samedi-de-lattaque-raciste-dans-les-yvelines-20261024_ZEXTBXBQPJBSTCEJ5JPENIN3KI/",
+      "published": "2026-10-25T19:25:59"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Paris, Nantes, Bordeaux, Marseille… Après l’attentat raciste dans les Yvelines, des rassemblements lundi dans plusieurs villes",
+      "description": "Les Parisiens sont notamment appelés à converger vers la place Stalingrad lundi 26 octobre à 19 heures. Un homme de 26 ans est mort et cinq autres blessées lors de l’attaque raciste vendredi à Trappes et à La Verrière. Le suspect a été diagnostiqué schizophrène.",
+      "link": "https://www.liberation.fr/societe/paris-nantes-bordeaux-marseille-apres-lattentat-raciste-dans-les-yvelines-des-rassemblements-lundi-dans-plusieurs-villes-20261025_VVQ2K77C7RBZXCFCQSPHVJPIVQ/",
+      "published": "2026-10-25T19:23:39"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "A Orléans, Marine Le Pen sort la carte «optimisme» pour relancer sa campagne présidentielle",
+      "description": "Au lendemain de la réélection de Jordan Bardella à la tête du Rassemblement national, la candidate a tenté, devant plusieurs milliers de personnes, de casser l’image d’une famille politique pourtant rongée par les peurs identitaires. Au programme, «paix civile», «renaissance» et promotion du «beau».",
+      "link": "https://www.liberation.fr/politique/a-orleans-marine-le-pen-sort-la-carte-optimisme-pour-relancer-sa-campagne-presidentielle-20261025_NS2ZHVO2KZHHJOIRM464LR3VGU/",
+      "published": "2026-10-25T19:20:58"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Au Nigeria, le président Tinubu lance sa campagne au lendemain d’une attaque meurtrière",
+      "description": "Plus de 50 personnes ont été tuées par des «bandits» dans l’est du pays. Un rappel de l’insécurité terrifiante qui règne dans les zones rurales à la veille du premier meeting du chef de l’Etat sortant.",
+      "link": "https://www.liberation.fr/international/afrique/au-nigeria-le-president-tinubu-lance-sa-campagne-au-lendemain-dune-attaque-meurtriere-20261025_UIEKSZVYLVAN7K44G7QE4PNSMU/",
+      "published": "2026-10-25T18:48:11"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "L’opposante María Corina Machado de retour dans son pays après plusieurs mois d’exil",
+      "description": "La figure de l’opposition au président Maduro avait quitté le territoire en décembre 2025 pour rejoindre Oslo après l’attribution du Nobel de la paix. Elle a annoncé son retour, ce dimanche, sur le réseau social X.",
+      "link": "https://www.liberation.fr/international/amerique/lopposante-maria-corina-machado-de-retour-dans-son-pays-apres-plusieurs-mois-dexil-20261025_TYJJNA26BJG65A5D6CED62QQAA/",
+      "published": "2026-10-25T18:44:53"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Congrès du RN : des militants expulsés pour avoir brandi une banderole contre l’antisémitisme pendant le discours de Bardella",
+      "description": "Des militants de l’Union des étudiants juifs de France (UEJF) sont venus perturber le meeting à Orléans ce dimanche afin de «rappeler l’antisémitisme et le racisme» du parti d’extrême droite, qui a dénoncé en retour «la violence» de «l’ultragauche».",
+      "link": "https://www.liberation.fr/politique/congres-du-rn-des-militants-expulses-pour-avoir-brandi-une-banderole-contre-lantisemitisme-pendant-le-discours-de-bardella-20261025_QF2H4GV3LNE6VCQ54HPXYCAFGE/",
+      "published": "2026-10-25T18:41:24"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mobilisation du 24 octobre : un homme blessé à la main à Clermont-Ferrand, la police «pourrait» être responsable",
+      "description": "Le parquet a ouvert une enquête «en recherche des causes de cette blessure». Des vidéos d’un rassemblement interdit par la préfecture samedi, sur la place de Jaude, suggèrent qu’une grenade policière pourrait en être la cause.",
+      "link": "https://www.liberation.fr/societe/police-justice/mobilisation-du-24-octobre-un-homme-blesse-a-la-main-a-clermont-ferrand-la-police-pourrait-etre-responsable-20261025_XNM3H67DXZENLFOHH66WHOIS7Y/",
+      "published": "2026-10-25T18:24:07"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Parcoursup, recrutements, conditions d’étude : ce que les syndicats attendent des annonces de ce lundi pour les lycées",
+      "description": "Sébastien Lecornu et son ministre de l’Education, Edouard Geffray, doivent présenter ce 26 octobre une série de mesures en réponse à la contestation lycéenne. Si Parcoursup cristallise les désaccords, les syndicats espèrent obtenir plus de moyens pour les établissements et les personnels.",
+      "link": "https://www.liberation.fr/societe/education/parcoursup-recrutements-conditions-detude-ce-que-les-syndicats-attendent-des-annonces-de-ce-lundi-pour-les-lycees-20261025_NEJPYCQTDNFHDLUK5BVFR6M3DI/",
+      "published": "2026-10-25T17:59:05"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«On se croirait en temps de guerre» : autour du congrès RN à Orléans, un week-end dystopique dans une ville sous cloche",
+      "description": "Par crainte d’échauffourées entre les partisans du Rassemblement national et les militants antifascistes venus en nombre, la municipalité a mis en place un dispositif sécuritaire XXL, donnant à l’agglomération du Loiret des airs d’état de siège.",
+      "link": "https://www.liberation.fr/politique/on-se-croirait-en-temps-de-guerre-au-congres-du-rn-a-orleans-un-week-end-dystopique-dans-une-ville-sous-cloche-20261025_QKC4SWDKZJBSNA6F2LTQ3BFRTM/",
+      "published": "2026-10-25T17:49:30"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Plateau du Golan occupé : «Le Sud syrien est devenu un territoire qu’Israël veut soumettre à sa domination»",
+      "description": "En 2024, Tsahal a pénétré et pris le contrôle de la zone tampon sur le Golan, un «territoire démilitarisé» de près de 80 kilomètres de long. Depuis, ses incursions israéliennes côté syrien sont quotidiennes et s’intensifient ces dernières semaines.",
+      "link": "https://www.liberation.fr/international/moyen-orient/plateau-du-golan-occupe-le-sud-syrien-est-devenu-un-territoire-quisrael-veut-soumettre-a-sa-domination-20261025_SRNGRS2WFRDPFEC2LXN2626ZCM/",
+      "published": "2026-10-25T17:17:10"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "La république, sans être une religion, a besoin d’une mystique et de rites pour exister",
+      "description": "Pour une partie de la jeunesse, le buste de Marianne ou une devise républicaine sont devenus des symboles énigmatiques. Des cérémonies et des rituels républicains sont à réenchanter pour sortir des discours incantatoires, plaide Marius Bertolucci, maître de conférences à l’université d’Aix-Marseille.",
+      "link": "https://www.liberation.fr/idees-et-debats/tribunes/la-republique-sans-etre-une-religion-a-besoin-dune-mystique-et-de-rites-pour-exister-20261025_5LDTHVSHNVFCJGTGKAQK5ITVIY/",
+      "published": "2026-10-25T16:41:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«C’est incroyable, on ne peut pas rêver mieux» : Christo Popov premier Français à devenir numéro 1 mondial en badminton",
+      "description": "En remportant ce dimanche à Tremblay en Seine-Saint-Denis l’Open de France, le badiste de Fos-sur-Mer de 26 ans inscrit un peu plus l’Hexagone comme l’une des nouvelles nations phares de la discipline.",
+      "link": "https://www.liberation.fr/sports/cest-incroyable-on-ne-peut-pas-rever-mieux-christo-popov-premier-francais-a-devenir-numero-1-mondial-en-badminton-20261025_Q7MDFEUU25F2DIZ3663HAPTXVQ/",
+      "published": "2026-10-25T16:38:41"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Marathon de Lille : un marronnier s’effondre sur le parcours, un coureur légèrement blessé",
+      "description": "L’accident est arrivé aux alentours de 11 h 30 ce dimanche au 5e kilomètre. Selon Ici Nord, un coureur a été hospitalisé, et deux autres, touchés, ont pu continuer l’épreuve.",
+      "link": "https://www.liberation.fr/environnement/climat/marathon-de-lille-un-marronnier-seffondre-sur-le-parcours-un-coureur-blesse-20261025_5RVF7EMB4ND7JNB32XTHUVERVQ/",
+      "published": "2026-10-25T15:44:45"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Attentat raciste à Trappes : le tireur sous traitement pour schizophrénie",
+      "description": "Selon les informations de LCI, Kevin T., 39 ans, a été diagnostiqué schizophrène et suivait un traitement médical. Sa garde à vue a été levée ce dimanche matin. Il fait actuellement l’objet d’une expertise à l’infirmerie psychiatrique de la préfecture de police.",
+      "link": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-la-garde-a-vue-du-tireur-levee-pour-des-raisons-psychiatriques-ce-dimanche-20261025_LHSBEKD66BGMTK376UUUCUOV3E/",
+      "published": "2026-10-25T15:35:14"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Kurt Schwitters au musée Picasso, bric-à-brac du chaos fertile",
+      "description": "Du dadaïsme au constructivisme, le musée parisien retrace les collages, assemblages et poèmes sonores qui composent l’œuvre de l’avant-gardiste allemand de l’entre-deux-guerres, dont le monde en morceaux fait écho au nôtre.",
+      "link": "https://www.liberation.fr/culture/arts/kurt-schwitters-au-musee-picasso-bric-a-brac-du-chaos-fertile-20261025_FEOLQDOWTNDELN722ENHCLPIKY/",
+      "published": "2026-10-25T15:25:35"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Dans une expo, des exilés de Calais racontent en photos la «souffrance», mais aussi la «solidarité» et les «rêves»",
+      "description": "Dotés d’appareils jetables par une ONG, trois jeunes Soudanais décrivent à «Libération» les images qu’ils ont prises au cours des dernières semaines.",
+      "link": "https://www.liberation.fr/societe/immigration/dans-une-expo-des-exiles-de-calais-racontent-en-photos-la-souffrance-mais-aussi-la-solidarite-et-les-reves-20261025_7EGX2CYNH5HWXKHK57KIPRDLBM/",
+      "published": "2026-10-25T15:19:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Tamara Al Saadi, comédienne : terre et faire taire",
+      "description": "La dramaturge a fait l’objet de pressions pour cesser de lire un texte sur Gaza à l’issue de représentations de sa pièce «Taire».",
+      "link": "https://www.liberation.fr/portraits/tamara-al-saadi-comedienne-terre-et-faire-taire-20261025_AIYPXXNQXVAOXKO2DYVWWXMD4I/",
+      "published": "2026-10-25T15:09:50"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Casserolades, manifestation, grève générale : quelles sont les prochaines actions annoncées ?",
+      "description": "Après deux premiers samedis marqués par une forte mobilisation, de nombreux appels à poursuivre le mouvement ont été lancés par les syndicats, les gilets jaunes ou encore les lycéens. «Libé» fait le point.",
+      "link": "https://www.liberation.fr/societe/casserolades-manifestation-greve-generale-quelles-sont-les-prochaines-actions-annoncees-20261025_363EEGJZ4VFCJGX4KNLHUVQIDQ/",
+      "published": "2026-10-25T14:48:21"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Mes mains, pleines de sang»  de Claude Askolovitch : l’augure des lamentations",
+      "description": "Dans un ouvrage intime et politique, le journaliste raconte sa «foi» en un sionisme humaniste et un devoir moral supérieur qui devait accompagner la création d’un Etat juif. Un idéal que la réplique sans fin de Benyamin Nétanyahou à Gaza vient abîmer.",
+      "link": "https://www.liberation.fr/idees-et-debats/mes-mains-pleines-de-sang-de-claude-askolovitch-laugure-des-lamentations-20261025_YDXWABZVIBDSBELRXZGSMBLEJQ/",
+      "published": "2026-10-25T14:24:45"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Belgique, le gouvernement hausse le ton face à la colère sociale",
+      "description": "Alors que les mobilisations s’enchaînent contre les réformes de l’enseignement et les mesures d’austérité, des membres de la majorité appellent à renforcer la répression.",
+      "link": "https://www.liberation.fr/international/europe/en-belgique-le-gouvernement-hausse-le-ton-face-a-la-colere-sociale-20261025_YDG5KHOAK5HC3KGWBRKHUTHA7E/",
+      "published": "2026-10-25T14:10:10"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Grenoble : un bus de militants RN prêts à partir pour Orléans au congrès du parti, vandalisé par des personnes cagoulées",
+      "description": "Les faits ont eu lieu vers 5 heures ce dimanche 25 octobre, tandis que Marine Le Pen doit s’exprimer dans l’après-midi au congrès du parti d’extrême droite, dans le Loiret. Une enquête a été ouverte par le parquet, notamment pour «violences volontaires aggravées».",
+      "link": "https://www.liberation.fr/societe/police-justice/grenoble-un-bus-de-militants-rn-prets-a-partir-pour-orleans-au-congres-du-parti-vandalise-par-des-personnes-cagoulees-20261025_HH4MNJCNSZEWBMBYYDBWKXJXHE/",
+      "published": "2026-10-25T14:07:02"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Le pays est sur le point de tomber entre les griffes du fascisme» : au Brésil, une journée décisive pour un second tour ultra-serré",
+      "description": "Les Brésiliens ont commencé à voter ce dimanche pour départager le président sortant de gauche Lula et son rival conservateur Flávio Bolsonaro, après une campagne qui a profondément divisé le pays. Le résultat est attendu tard dans la soirée.",
+      "link": "https://www.liberation.fr/international/amerique/le-pays-est-sur-le-point-de-tomber-entre-les-griffes-du-fascisme-au-bresil-une-journee-decisive-pour-un-second-tour-au-coude-a-coude-20261025_AW4GFNRAUZGYNHSTTSOXEEWYQE/",
+      "published": "2026-10-25T13:59:44"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Gabon : cinq disparus dans le naufrage d’une plate-forme pétrolière dans l’océan Atlantique",
+      "description": "L’accident s’est produit samedi 24 octobre vers 20 h 30 «dans le cadre des préparatifs d’une campagne de forage planifiée», a indiqué l’exploitant Borr Drilling. Sur les 115 personnes à bord, 110 ont été retrouvées «saines et sauves».",
+      "link": "https://www.liberation.fr/international/afrique/gabon-cinq-disparus-dans-le-naufrage-dune-plate-forme-petroliere-dans-locean-atlantique-20261025_ZZEFY7VH6NDUVNNPO7K5KAUL3Y/",
+      "published": "2026-10-25T13:54:39"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Attaques d’extrême droite contre des cortèges du 24 octobre : à Nancy, Rouen ou Montpellier, l’attitude des forces de l’ordre en question",
+      "description": "«Libération» s’est procuré une vidéo qui confirme l’attitude passive voire complaisante de la police à Nancy où des militants d’extrême droite agressaient le cortège syndical. Selon notre décompte, des descentes violentes ont eu lieu dans plus d’une quinzaine de villes, pendant ou en marge des manifestations.",
+      "link": "https://www.liberation.fr/politique/attaques-dextreme-droite-contre-des-corteges-du-24-octobre-a-nancy-rouen-ou-montpellier-lattitude-des-forces-de-lordre-en-question-20261025_QL3NN5FSNRD6TKTY2C3ORVWOI4/",
+      "published": "2026-10-25T13:39:25"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«D’un point de vue psychologique, ça rassure» : des agents de sécurité aux serruriers, les commerces parisiens ont anticipé la manif de samedi",
+      "description": "Très peu de boutiques ont été dégradées en marge du cortège dans la capitale, samedi 24 octobre. Des mesures préventives de sécurisation avaient été prises, entre pose de panneaux de bois et recours à des professionnels de la sécurité.",
+      "link": "https://www.liberation.fr/economie/dun-point-de-vue-psychologique-ca-rassure-des-agents-de-securite-aux-serruriers-les-commerces-parisiens-ont-anticipe-la-manif-de-samedi-20261025_AGH66K7ZF5CBTKJCM3TZNFEE7I/",
+      "published": "2026-10-25T13:37:29"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Elections en Israël : Gadi Eisenkot, l’ancien général de Tsahal devenu chef de file des anti-Nétanyahou",
+      "description": "L’ancien chef d’état-major, marqué par la mort de son fils et de deux neveux dans la guerre à Gaza, s’est imposé comme le principal visage de l’opposition israélienne. Il tente de séduire les déçus du Premier ministre en se présentant comme son antithèse.",
+      "link": "https://www.liberation.fr/international/moyen-orient/elections-en-israel-gadi-eisenkot-lancien-general-de-tsahal-devenu-chef-de-file-des-anti-netanyahou-20261025_ZYE452XWLBHNJIR477K4CFNXJQ/",
+      "published": "2026-10-25T13:33:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Gims annonce le report de sa tournée d’automne sur «avis médicaux»",
+      "description": "Le chanteur devait se produire en France et en Belgique à partir du 27 octobre. Il a annoncé dans un communiqué publié samedi repousser à fin 2027 la quasi-totalité des 15 dates prévues.",
+      "link": "https://www.liberation.fr/culture/musique/gims-annonce-le-report-de-sa-tournee-dautomne-sur-avis-medicaux-20261025_GOVUFW3FMFACPD4JE3MTOBVFPU/",
+      "published": "2026-10-25T13:11:46"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Quand on aura fini nos études, on sait qu’on restera au chômage» : en Albanie, la jeunesse refuse l’exil et réclame du changement",
+      "description": "Dans les manifestations de Tirana, les étudiants dénoncent un pays sans perspectives et réclament le départ du Premier ministre, Edi Rama. Leur colère déborde le gouvernement pour viser aussi les figures de l’opposition.",
+      "link": "https://www.liberation.fr/international/europe/quand-on-aura-fini-nos-etudes-on-sait-quon-restera-au-chomage-en-albanie-la-jeunesse-refuse-lexil-et-reclame-du-changement-20261025_JVNIXHVDEBCDNKZ5AH7KXCB6XQ/",
+      "published": "2026-10-25T12:57:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Après sept ans de procédure, l’affaire Cédric Chouviat, mort par asphyxie lors d’un contrôle policier, enfin devant la justice",
+      "description": "A partir de ce lundi, trois des quatre policiers présents lors de l’interpellation qui a conduit au décès du livreur de 42 ans sont jugés pour «homicide involontaire». Une qualification pénale contestée par sa famille, qui réclame un procès devant une cour criminelle ou d’Assises.",
+      "link": "https://www.liberation.fr/societe/apres-sept-ans-de-procedure-laffaire-cedric-chouviat-mort-par-asphyxie-lors-dun-controle-policier-enfin-devant-la-justice-20261025_V6O424UQVVHZ3MGLVIUCGEDJR4/",
+      "published": "2026-10-25T12:13:14"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Mouvements de colère en Europe : «La répression tend à provoquer une escalade»",
+      "description": "Donatella della Porta, sociologue et politologue à l’Ecole normale supérieure de Florence, analyse les liens entre les contestations européennes et la façon dont la réponse répressive des autorités peut les renforcer.",
+      "link": "https://www.liberation.fr/international/europe/mouvements-de-colere-en-europe-la-repression-tend-a-provoquer-une-escalade-20261025_DIWOBOZNQJF4TFBILW4JQPZ27M/",
+      "published": "2026-10-25T12:03:08"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Espagne : 128 interpellations dont 73 mineurs à Barcelone pour des dégradations et des pillages",
+      "description": "Une manifestation non déclarée a dégénéré dans la nuit du samedi 24 au dimanche 25 octobre place de Catalogne, au cœur de la ville. Une vingtaine de magasins ont été dévalisés par des jeunes habillés de noir.",
+      "link": "https://www.liberation.fr/international/europe/espagne-128-interpellations-dont-73-mineurs-a-barcelone-pour-des-degradations-et-des-pillages-20261025_2TGQ4P24MNBEBEN7ZHIDEAVFSQ/",
+      "published": "2026-10-25T11:38:55"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "En Ariège, tritons, chauves-souris et fossiles préhistoriques bientôt protégés dans la plus grande réserve souterraine de France",
+      "description": "Une trentaine de grottes devraient constituer cette Réserve naturelle nationale souterraine en 2027. Vieux de plus de vingt ans, ce projet permettra de protéger la faune endémique, mais il peine encore à convaincre certains acteurs locaux.",
+      "link": "https://www.liberation.fr/environnement/biodiversite/en-ariege-tritons-chauves-souris-et-fossiles-prehistoriques-bientot-proteges-dans-la-plus-grande-reserve-souterraine-de-france-20261025_PDVXDHQGAZEJHDPFFJOQO2HWT4/",
+      "published": "2026-10-25T11:13:10"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Ce n’était pas à Paris» : en plein direct sur la mobilisation du 24 octobre, CNews et France Info diffusent des images de tensions… en Albanie",
+      "description": "Les chaînes ont montré des manifestants en train de s’équiper censés se trouver à Paris ainsi que des policiers derrière des canons à eau supposément à Lyon. Or, ces vidéos provenaient de Tirana. Toutes deux ont présenté leurs excuses.",
+      "link": "https://www.liberation.fr/economie/medias/ce-netait-pas-a-paris-en-plein-direct-sur-la-mobilisation-du-24-octobre-cnews-et-france-info-diffusent-des-images-de-tensions-en-albanie-20261025_HURKYDBUWVAKFO76IZRMQTNCIU/",
+      "published": "2026-10-25T11:09:52"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Manifestations du 24 octobre : 1 314 interpellations en France dont 142 à Paris, 24 commerces pillés",
+      "description": "Le ministère de l’Intérieur annonce ce dimanche 25 que «plusieurs enquêtes ont été ouvertes», soulignant que la nuit a été «calme». Il évoque également 53 membres des forces de l’ordre blessés, sans donner de chiffres concernant les manifestants.",
+      "link": "https://www.liberation.fr/economie/social/manifestation-a-paris-142-interpellations-dont-120-gardes-a-vue-un-commerce-pille-20261025_YX5DW32XONAMVCYU46AQSFT2RI/",
+      "published": "2026-10-25T10:44:21"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "EN IMAGES – Les mobilisations du 24 octobre dans le regard des photographes",
+      "description": "Revendications, dénonciations, humour et créativité dans les images des photographes de «Libération» présents dans les cortèges de Paris, Orléans et Marseille samedi 24 octobre.",
+      "link": "https://www.liberation.fr/societe/en-images-les-mobilisations-du-24-octobre-dans-le-regard-des-photographes-20261025_IGBH5T6QSJBJDHZT2OIQSHDWFU/",
+      "published": "2026-10-25T10:18:48"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ali Rabeh, maire de Trappes, après l’attentat raciste : «Qui t’apprend à appeler une famille pour lui présenter tes condoléances ?»",
+      "description": "Au lendemain de l’attentat qui a fait un mort et plusieurs blessés dans sa ville, l’édile des Yvelines s’est entretenu avec «Libé» pour mettre des mots sur le contexte actuel, sans masquer ses failles et ses peurs.",
+      "link": "https://www.liberation.fr/societe/ali-rabeh-maire-de-trappes-apres-lattentat-raciste-qui-tapprend-a-appeler-une-famille-pour-lui-presenter-tes-condoleances-20261025_ZYNZZZMB2NFPRA26KEVJBFLCAE/",
+      "published": "2026-10-25T09:57:44"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Ellie, Bonne Nuit, Mézigue, Jimi Tenor... La playlist du cahier musique de «Libération»",
+      "description": "Chaque week-end, la web radio de «Tsugi» accompagne le cahier musique de «Libération»",
+      "link": "https://www.liberation.fr/culture/musique/ellie-bonne-nuit-mezigue-jimi-tenor-la-playlist-du-cahier-musique-de-liberation-20261025_XPEAT7XPNBHWLLYDA5WSNC2RBE/",
+      "published": "2026-10-25T09:22:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Le Palais» : le Désérable nouveau est arrivé",
+      "description": "L’ascension d’un œnologue dans le cinquième roman de l’auteur Henri-François Désérable.",
+      "link": "https://www.liberation.fr/culture/livres/le-palais-le-deserable-nouveau-est-arrive-20261025_EAYK5E3N3ZA5FHZUOWHOQCI7EI/",
+      "published": "2026-10-25T09:18:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "A Biarritz, de plus en plus de restos, de moins en moins basques",
+      "description": "Entre défense du terroir et enthousiasme face au dynamisme inédit de la ville, la transformation de la scène culinaire biarrotte, autrefois ronronnante, suscite des interrogations chez les locaux.",
+      "link": "https://www.liberation.fr/lifestyle/gastronomie/a-biarritz-les-nouveaux-restos-collent-moins-aux-basques-20261024_Z6Z7NSV2TVBQPK5DE6MTDUJJNM/",
+      "published": "2026-10-25T09:09:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«La ligne de front ukrainienne s’effondrerait immédiatement» : Elon Musk menace de désactiver Starlink si Kyiv continue à violer les conditions d’utilisation",
+      "description": "Le milliardaire américain affirme que son réseau satellitaire est «un système civil et non un moyen de tuer». Depuis 2022, l’Ukraine dépend du système de communication civil Starlink ainsi que de sa version militaire Starshield pour se défendre contre les attaques russes de missiles et de drones.",
+      "link": "https://www.liberation.fr/international/europe/la-ligne-de-front-ukrainienne-seffondrerait-immediatement-elon-musk-menace-de-desactiver-starlink-si-kyiv-continue-a-violer-les-conditions-dutilisation-20261025_FDEVWFTQINGGRCHTKTULNON4RM/",
+      "published": "2026-10-25T08:31:55"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "«Signé Irène» de Vincent Almendros : Minuit à l’heure d’Irène",
+      "description": "Un hommage sensible à l’éditrice morte en décembre 2025.",
+      "link": "https://www.liberation.fr/culture/livres/signe-irene-de-vincent-almendros-minuit-a-lheure-direne-20261025_KWDOXTPZSVDCJCOICTRLJCHK44/",
+      "published": "2026-10-25T07:20:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Pourquoi «tout le monde» portera des Clarks ?",
+      "description": "Chaque dimanche, «Libé» scrute les looks de la rue pour comprendre d’où viennent les tendances du moment. Aujourd’hui, les mocassins Wallabee, ces chaussures à semelle épaisse qui traversent les générations.",
+      "link": "https://www.liberation.fr/lifestyle/mode/pourquoi-tout-le-monde-portera-des-clarks-20261025_JWB3WHUXGRH7TIFSAUO42SV3YA/",
+      "published": "2026-10-25T07:14:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Entre optimisme et dérapages violents, le RN lance sa campagne à Orléans",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/entre-optimisme-et-derapages-violents-le-rn-lance-sa-campagne-a-orleans-XJJH3WMYZBCEXKK362PZLGEFX4/",
+      "published": "2026-10-25T18:43:35"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "En Afrique, Vladimir Poutine mène une guerre d’influence pour affaiblir les puissances occidentales",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/afrique/en-afrique-vladimir-poutine-mene-une-guerre-dinfluence-pour-affaiblir-les-puissances-occidentales-P25LUHT4PFG5XP7N67CZMKZKJQ/",
+      "published": "2026-10-25T16:35:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Garry Kasparov, opposant russe : \"Marine Le Pen à l’Elysée, ce serait une occasion en or pour Poutine\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/garry-kasparov-opposant-russe-marine-le-pen-a-lelysee-ce-serait-une-occasion-en-or-pour-poutine-4KMYDYC27NDD7JPRQAWO5APXMU/",
+      "published": "2026-10-25T16:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann et le piège du \"moment populiste\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/politique/presidentielle-2027-raphael-glucksmann-et-le-piege-du-moment-populiste-P42S77ZEVJGEZNHPWUALXGHDEI/",
+      "published": "2026-10-25T15:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Russie, UE, corruption... : pourquoi l'élection en Serbie est scrutée de près partout en Europe",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/europe/russie-ue-corruption-pourquoi-lelection-en-serbie-est-scrutee-de-pres-partout-en-europe-HODMHEZMAVHMFCCO6ZIXWD52SU/",
+      "published": "2026-10-25T13:04:48"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"J’ai peur, mais je suis venue quand même\" : à Angers, une mobilisation sous contrôle malgré quelques tensions",
+      "description": "",
+      "link": "https://www.lexpress.fr/societe/jai-peur-mais-je-suis-venue-quand-meme-a-angers-une-mobilisation-sous-controle-malgre-quelques-PDOMRL7E2BAE5BSCXFAKW4MXGM/",
+      "published": "2026-10-25T11:45:27"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "L’Homme est-il naturellement violent ? Ce que révèle l’histoire de notre espèce",
+      "description": "",
+      "link": "https://www.lexpress.fr/sciences-sante/lhomme-est-il-naturellement-violent-ce-que-revele-lhistoire-de-notre-espece-GBFWAL33D5BVFIYSGG4IRBNJN4/",
+      "published": "2026-10-25T11:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Attaque raciste dans les Yvelines : garde à vue suspendue, appartement piégé, \"Mein Kampf\"… Ce que l’on sait du suspect",
+      "description": "",
+      "link": "https://www.lexpress.fr/societe/justice/attaque-raciste-dans-les-yvelines-garde-a-vue-suspendue-appartement-piege-mein-kampf-ce-que-lon-sait-2Y6YGNTL5VFQFM633C43OBD444/",
+      "published": "2026-10-25T10:25:19"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "La satire du mois : Gilles Martin-Chauffier, les mollahs à l’ère du disco",
+      "description": "",
+      "link": "https://www.lexpress.fr/culture/livre/la-satire-du-mois-gilles-martin-chauffier-les-mollahs-a-lere-du-disco-5NGP6LMT35DOJNPNVATTYHP6O4/",
+      "published": "2026-10-25T10:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "La collection Renault ou l’usine à rêves de la Régie",
+      "description": "",
+      "link": "https://www.lexpress.fr/culture/art/la-collection-renault-ou-lusine-a-reves-de-la-regie-SLYX2MNIQNCKBEHZMHBOQPZNEA/",
+      "published": "2026-10-25T09:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Nos divertissements sont terminés\", le théâtre intime de Yasmina Reza",
+      "description": "",
+      "link": "https://www.lexpress.fr/culture/livre/nos-divertissements-sont-termines-le-theatre-intime-de-yasmina-reza-LI5ZMJF7LBHTNIVZPMYNB3ABVA/",
+      "published": "2026-10-25T08:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Solitude, écrans, IA érotiques : \"Nous sombrons dans le monde de l’obsolescence relationnelle programmée\"",
+      "description": "",
+      "link": "https://www.lexpress.fr/idees-et-debats/solitude-ecrans-ia-erotiques-nous-sombrons-dans-le-monde-de-lobsolescence-relationnelle-programmee-F5RPHL4IIFCH7OL4WNX5GPFJHE/",
+      "published": "2026-10-25T07:45:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Arabie saoudite : face aux houthistes, les failles du royaume le mieux armé du Golfe",
+      "description": "",
+      "link": "https://www.lexpress.fr/monde/proche-moyen-orient/arabie-saoudite-face-aux-houthistes-les-failles-du-royaume-le-mieux-arme-du-golfe-5SNA7PYCQ5EM7BU4SKQ2XUN3IA/",
+      "published": "2026-10-25T07:30:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "Réussir son achat immobilier : les quatre étapes à suivre pour trouver le bon logement",
+      "description": "",
+      "link": "https://www.lexpress.fr/argent/immobilier/reussir-son-achat-immobilier-les-quatre-etapes-a-suivre-pour-trouver-le-bon-logement-VJNMHEV5GFE5LEDIXG52WZ3XB4/",
+      "published": "2026-10-25T07:00:00"
+    },
+    {
+      "source": "www.lexpress.fr",
+      "title": "\"Ce n’est ni la guerre civile ni la révolution, mais c'est triste à pleurer\" : la crise française vue par le philosophe André Comte-Sponville",
+      "description": "",
+      "link": "https://www.lexpress.fr/idees-et-debats/ce-nest-ni-la-guerre-civile-ni-la-revolution-mais-cest-triste-a-pleurer-la-crise-francaise-vue-par-7IDIKXITHFBZVLXRX65ILBTEI4/",
+      "published": "2026-10-25T06:45:00"
+    }
+  ]
 }
