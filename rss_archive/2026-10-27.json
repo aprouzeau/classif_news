@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-27",
+  "count": 6,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle ; le camp autonomiste annonce son « retrait » du processus",
+      "description": "Le camp autonomiste a accusé la Chambre haute de « détruire un accord politique », alors que le projet parlementaire a été rejeté à 181 voix contre 134, dans la nuit de lundi à mardi.",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/27/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-le-camp-autonomiste-annonce-son-retrait-du-processus_6800949_823448.html",
+      "published": "2026-10-27T00:40:30"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "L’entreprise Les Forges de Tarbes, qui fournit des corps d’obus pour l’Ukraine, placée en redressement judiciaire",
+      "description": "Europlasma, le groupe propriétaire de l’unique usine française produisant des fûts d’obus de 155 mm, avait sollicité l’ouverture d’une telle procédure. L’arrivée d’un repreneur est espérée pour cette société qui emploie actuellement une soixantaine de salariés.",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/27/l-entreprise-les-forges-de-tarbes-qui-fournit-des-corps-d-obus-pour-l-ukraine-placee-en-redressement-judiciaire_6800916_3234.html",
+      "published": "2026-10-27T00:39:28"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Autonomie de la Corse : le Sénat rejette la réforme constitutionnelle, les autonomistes quittent les négociations",
+      "description": "Les sénateurs ont rejeté, dans la nuit de lundi à mardi, le projet de loi constitutionnelle par 181 voix contre 134. Dénonçant la destruction d’un «accord politique», le camp autonomiste a annoncé son retrait du processus de Beauvau, initié en 2022.",
+      "link": "https://www.lefigaro.fr/politique/autonomie-de-la-corse-le-senat-rejette-la-reforme-constitutionnelle-les-autonomistes-quittent-les-negociations-20261027",
+      "published": "2026-10-27T01:00:21"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Après une polémique avec Ed Sheeran, le rappeur Macklemore lance une tournée «Free Palestine»",
+      "description": "Écarté des dates américaines d’Ed Sheeran après avoir crié «Free Palestine» sur scène, l’interprète de Thrift Shop a lancé lundi à Dublin sa propre tournée, dont les recettes seront reversées à des organisations d’aide aux Palestiniens.",
+      "link": "https://www.lefigaro.fr/culture/apres-une-polemique-avec-ed-sheeran-le-rappeur-macklemore-lance-une-tournee-free-palestine-20261027",
+      "published": "2026-10-27T00:16:29"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Une opération militante» : le RN demande des «excuses publiques» au Monde après une fausse information sur ses tracts dans la voiture de Kevin T.",
+      "description": "Ce lundi, le quotidien a écrit que des prospectus du mouvement nationaliste avaient été retrouvés dans le véhicule du suspect de l’attaque des Yvelines. Une information sur laquelle il est revenu, avant qu’elle ne soit démentie par le procureur national antiterroriste.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/une-operation-militante-le-rn-demande-des-excuses-publiques-au-monde-apres-une-fausse-information-sur-ses-tracts-dans-la-voiture-de-kevin-t-20261026",
+      "published": "2026-10-27T00:00:16"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Ballon d’Or : Harry Kane, la consécration du buteur-créateur",
+      "description": "À 33 ans, l’attaquant du Bayern et des Three Lions anglais a été consacré ce lundi, à Londres, 70 ans après Stanley Matthews, premier lauréat du Ballon d’Or.",
+      "link": "https://www.lefigaro.fr/sports/football/ballon-d-or-harry-kane-sacre-pour-la-premiere-fois-20261026",
+      "published": "2026-10-27T00:15:36"
+    }
+  ]
+}
