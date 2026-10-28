@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-28",
+  "count": 7,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Mobilisations sociales : le projet de loi « casseurs-payeurs » approuvé et élargi par le Sénat après les violences du 17 octobre",
+      "description": "Le texte, très critiqué à gauche, a été adopté à 229 voix contre 105 et est désormais transmis à l’Assemblée nationale.",
+      "link": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html",
+      "published": "2026-10-28T00:26:38"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Législatives en Israël : de nouveaux sondages de sortie des urnes donnent désormais Eisenkot et Netanyahou à égalité",
+      "description": "Les chaînes de télévision 11 et 13 donnent les deux camps à égalité, tandis que la chaîne 12 donne toujours une légère avance au bloc d’Eisenkot avec 52 sièges, contre 50 pour «Bibi».",
+      "link": "https://www.lefigaro.fr/international/legislatives-en-israel-le-bloc-de-l-opposition-legerement-en-tete-mais-sans-majorite-selon-les-premieres-estimations-20261027",
+      "published": "2026-10-28T00:17:39"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Israël : Gadi Einsenkot veut former un gouvernement et s’oppose à de nouvelles élections",
+      "description": "Le centriste a également mis en garde le premier ministre contre toute utilisation de la sécurité d’Israël à des fins politiques.",
+      "link": "https://www.lefigaro.fr/international/israel-gadi-einsenkot-veut-former-un-gouvernement-et-s-oppose-a-de-nouvelles-elections-20261028",
+      "published": "2026-10-28T00:34:37"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Présidentielle 2027 : le député UDR Charles Alloncle devient porte-parole de la campagne de Marine Le Pen",
+      "description": "L’ex-rapporteur ciottiste de la commission d’enquête de l’Assemblée nationale sur l’audiovisuel public rejoint ainsi l’équipe de la quadruple candidate nationaliste, au même poste que d’autres élus RN.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-le-depute-udr-charles-alloncle-devient-porte-parole-de-la-campagne-de-marine-le-pen-20261027",
+      "published": "2026-10-28T00:05:14"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«100 euros de plus par an» : Sacha Houlié (Place publique) promet une hausse dérisoire du salaire net des smicards, avant de rectifier",
+      "description": "Sur BFMTV mardi soir, l’ex-macroniste devenu porte-parole de Raphaël Glucksmann s’est emmêlé les pinceaux en défendant l’une des mesures phares du candidat social-démocrate sur le pouvoir d’achat.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/100-euros-de-plus-par-an-sacha-houlie-place-publique-promet-une-hausse-derisoire-du-salaire-net-des-smicards-avant-de-rectifier-20261027",
+      "published": "2026-10-28T00:00:08"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Présidentielle au Brésil : acculé par les affaires, Flávio Bolsonaro s’enfuit aux États-Unis après sa défaite face à Lula",
+      "description": "RÉCIT - Le sénateur de Rio de Janeiro, qui perdra son immunité parlementaire début février, est soupçonné de corruption et de blanchiment d’argent dans plusieurs enquêtes policières.",
+      "link": "https://www.lefigaro.fr/international/bresil-flavio-bolsonaro-aurait-fui-aux-etats-unis-apres-sa-defaite-a-la-presidentielle-20261027",
+      "published": "2026-10-28T00:08:05"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Lula affirme qu’une fuite de Flavio Bolsonaro hors du Brésil serait «honteuse»",
+      "description": "Selon plusieurs médias, le candidat défait à la présidentielle s’est envolé pour les États-Unis. Il est soupçonné de corruption et de blanchiment d’argent dans plusieurs enquêtes policières.",
+      "link": "https://www.lefigaro.fr/international/lula-affirme-qu-une-fuite-de-flavio-bolsonaro-hors-du-bresil-serait-honteuse-20261027",
+      "published": "2026-10-28T00:27:52"
+    }
+  ]
+}
