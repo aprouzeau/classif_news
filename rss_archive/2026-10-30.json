@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-30",
+  "count": 5,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Législatives en Israël : le camp de Benyamin Nétanyahou arrive en tête mais sans majorité selon les résultats définitifs",
+      "description": "La coalition sortante de droite et d’extrême droite recueille 53 sièges à la Knesset. L’opposition menée par le centriste Gadi Eisenkot obtient 48 députés et les deux listes arabes en totalisent 19.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/30/legislatives-en-israel-le-camp-de-benyamin-netanyahou-arrive-en-tete-mais-sans-majorite-selon-les-resultats-definitifs_6802493_3210.html",
+      "published": "2026-10-30T01:00:44"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Élections en Israël : le camp de Netanyahou en tête mais sans majorité, selon les résultats définitifs",
+      "description": "Les résultats publiés par la Commission électorale israélienne confirment également la percée spectaculaire des deux listes arabes Raam et la Liste unifiée.",
+      "link": "https://www.lefigaro.fr/international/elections-en-israel-le-camp-de-netanyahou-en-tete-mais-sans-majorite-selon-les-resultats-definitifs-20261030",
+      "published": "2026-10-30T00:38:23"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "À quelques jours des «midterms», Donald Trump annule ses meetings du week-end",
+      "description": "Interrogé jeudi par un journaliste qui lui demandait s’il était fatigué de sillonner le pays pour faire campagne, le président américain, âgé de 80 ans, a répondu se sentir «parfaitement bien».",
+      "link": "https://www.lefigaro.fr/international/a-quelques-jours-des-midterms-donald-trump-annule-ses-meetings-du-week-end-20261030",
+      "published": "2026-10-30T00:13:26"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "La plateforme de cryptomonnaies Binance fait état d’une cyberattaque massive, plus de 2,5 milliards de dollars gelés",
+      "description": "Plusieurs spécialistes ont affirmé que des pirates s’étaient introduits sur la plateforme. Certains parlent de la plus grave attaque jamais perpétrée dans le monde des cryptomonnaies.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-cryptomonnaies-binance-enquete-sur-un-eventuel-probleme-de-securite-apres-des-signalements-de-mouvements-suspects-20261029",
+      "published": "2026-10-30T01:00:11"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Le bitcoin dévisse après des rumeurs de cyberattaque massive sur la plateforme de cryptomonnaies Binance",
+      "description": "Alors que plusieurs spécialistes ont fait état de détournements colossaux, Binance a assuré que les fonds déposés par les clients sur son site étaient «totalement à l’abri».",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/le-bitcoin-devisse-apres-des-rumeurs-de-cyberattaque-massive-sur-la-plateforme-de-cryptomonnaies-binance-20261029",
+      "published": "2026-10-30T00:09:07"
+    }
+  ]
+}
