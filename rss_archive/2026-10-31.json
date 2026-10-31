@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-31",
+  "count": 3,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, midterms 2026 : en Alaska, la campagne de la candidate démocrate Mary Peltola visée par une enquête",
+      "description": "La démocrate est soupçonnée d’avoir tenté de manipuler le scrutin du 3 novembre en incitant un homonyme du sénateur républicain sortant, Dan Sullivan, à se présenter afin de lui siphonner des voix.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-midterms-2026-en-alaska-la-campagne-de-la-candidate-democrate-mary-peltola-visee-par-une-enquete_6801590_3210.html",
+      "published": "2026-10-31T00:43:15"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Lille s’offre le derby face à Lens et reste dans le sillage du PSG en haut de la Ligue 1 où Nice poursuit sa remontée",
+      "description": "Grâce à un unique but signé Olivier Giroud, les Dogues se sont imposés, vendredi soir, et demeurent à 2 points du PSG qui a déroulé au Havre (5-1). Rennes a craqué à Nice (2-5) qui signe un quatrième succès en cinq journées.",
+      "link": "https://www.lemonde.fr/sport/article/2026/10/31/lille-s-offre-le-derby-face-a-lens-et-reste-dans-le-sillage-du-psg-en-haut-de-la-ligue-1-ou-nice-poursuit-sa-remontee_6803268_3242.html",
+      "published": "2026-10-31T01:17:22"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Crise politique en Pologne : le chef de l’État se rend au Tribunal constitutionnel bloqué par la police",
+      "description": "Des dizaines de policiers anti-émeutes empêchaient l’accès à l’enceinte de la plus haute juridiction polonaise aux nombreux soutiens du parti national-conservateur Droit et Justice (PiS, opposition). La cour dénonce un «coup d’État».",
+      "link": "https://www.lefigaro.fr/international/crise-politique-en-pologne-le-president-du-tribunal-constitutionnel-ecarte-la-police-anti-emeutes-deployee-20261030",
+      "published": "2026-10-31T00:14:28"
+    }
+  ]
+}
