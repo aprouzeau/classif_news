@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-03",
+  "count": 5,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Procès du guet-apens hooligan à Brest : « On se demande comment il n’y a pas eu dix morts »",
+      "description": "Dix supporteurs du Stade brestois étaient jugés pour avoir participé à l’attaque d’ultras lensois en avril 2025. Les prévenus, dont certains sont liés à l’ultradroite, minimisent leur participation à cette agression à coups de barre de fer.",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/03/proces-du-guet-apens-hooligan-a-brest-on-se-demande-comment-il-n-y-a-pas-eu-dix-morts_6805354_3242.html",
+      "published": "2026-11-03T02:19:45"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Cryptomonnaies : la Corée du Nord nie être impliquée dans le piratage de la plateforme Binance, rejetant les accusations du FBI",
+      "description": "La police fédérale américaine a accusé le groupe de pirates informatiques nord-coréens TraderTraitor d’être à l’origine du vol de 6,3 milliards de dollars d’actifs numériques. « Une grave provocation politique », a dénoncé Kim Yo Jong, sœur du dirigeant Kim Jong-un.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/11/03/la-coree-du-nord-nie-etre-impliquee-dans-le-piratage-de-la-plateforme-de-cryptomonnaies-binance-rejetant-les-accusations-du-fbi_6805387_4408996.html",
+      "published": "2026-11-03T02:57:01"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Les États-Unis ont mené des frappes contre l'île iranienne de Qeshm, selon le Wall Street Journal",
+      "description": "L’agence de presse officielle iranienne Irna avait plus tôt fait état de cinq explosions entendues sur cette île située dans le stratégique détroit d’Ormuz.",
+      "link": "https://www.lefigaro.fr/international/les-etats-unis-ont-mene-des-frappes-contre-l-ile-iranienne-de-qeshm-selon-le-wall-street-journal-20261103",
+      "published": "2026-11-03T02:22:26"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "La Corée du Nord tire des missiles de croisière stratégiques",
+      "description": "Selon l’agence officielle KCNA, cet essai mené lundi visait à améliorer la précision des frappes de missiles équipés d’ogives à dispersion.",
+      "link": "https://www.lefigaro.fr/international/la-coree-du-nord-tire-des-missiles-de-croisiere-strategiques-20261103",
+      "published": "2026-11-03T00:46:01"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "En Pologne, la Force multinationale pour l’Ukraine prépare son premier exercice grandeur nature",
+      "description": "Du 9 au 22 novembre, 2800 militaires de dix pays participeront à l’exercice «Koalicja» pour tester leur capacité à se déployer et à opérer ensemble.",
+      "link": "https://www.lefigaro.fr/international/en-pologne-la-force-multinationale-pour-l-ukraine-prepare-son-premier-exercice-grandeur-nature-20261103",
+      "published": "2026-11-03T00:06:09"
+    }
+  ]
+}
