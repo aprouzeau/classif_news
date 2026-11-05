@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-05",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Midterms 2026 : la perte du vote latino, symbole de la déroute du camp républicain",
+      "description": "DÉCRYPTAGE - Les Latino-américains sont les électeurs qui ont le plus déserté le vote républicain, notamment en Texas et en Floride.",
+      "link": "https://www.lefigaro.fr/international/midterms-la-perte-du-vote-latino-symbole-de-la-deroute-du-camp-republicain-20261105",
+      "published": "2026-11-05T01:58:36"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Séoul annonce déployer sa marine près du détroit d’Ormuz pour aider à le maintenir ouvert",
+      "description": "Le ministère de la Défense sud-coréen a également décidé d’étendre la zone d’opérations de l’unité antipiraterie Cheonghae, déployée dans les eaux au sud du sultanat d’Oman, à proximité du détroit.",
+      "link": "https://www.lefigaro.fr/international/seoul-annonce-deployer-sa-marine-pres-du-detroit-d-ormuz-pour-aider-a-le-maintenir-ouvert-20261105",
+      "published": "2026-11-05T01:55:26"
+    }
+  ]
+}
