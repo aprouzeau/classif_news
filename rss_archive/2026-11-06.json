@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-06",
+  "count": 4,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le nouveau TGV de la SNCF, plus confortable, écologique et modulable, entre enfin en service vendredi",
+      "description": "Après des années de tests et de retards, le premier TGV nouvelle génération de la SNCF prend le départ de Paris, vendredi matin, pour Marseille avec de nombreuses innovations. Les nouvelles rames remplaceront progressivement, sur dix ans environ, le parc existant.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/06/le-nouveau-tgv-de-la-sncf-plus-confortable-ecologique-et-modulable-entre-enfin-en-service-vendredi_6807380_3234.html",
+      "published": "2026-11-06T00:26:52"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Etats-Unis : Google accusé d’avoir laissé son assistant IA Gemini aider une collégienne à planifier un suicide",
+      "description": "Avant que ses parents n’interviennent, l’adolescente de 13 ans a échangé, à l’aide de l’ordinateur fourni par son école, des milliers de messages avec le modèle phare d’intelligence artificielle du groupe américain, dans lesquels elle décrit son mal-être.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/11/06/etats-unis-google-accuse-d-avoir-laisse-son-assistant-ia-gemini-aider-une-collegienne-a-planifier-son-suicide_6807413_4408996.html",
+      "published": "2026-11-06T00:36:12"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Les Bourses de Tokyo et Séoul plongent, après la dégringolade des valeurs technologiques américaines",
+      "description": "Les marchés s’inquiètent des résultats des élections américaines qui pourraient ralentir les investissements dans les centres de données dédiés à l’intelligence artificielle.",
+      "link": "https://www.lefigaro.fr/conjoncture/le-nikkei-chute-de-plus-de-5-apres-la-degringolade-des-valeurs-technologiques-americaines-20261106",
+      "published": "2026-11-06T01:06:00"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "À Cuba, la journaliste Yoani Sánchez annonce sa libération après son «arrestation arbitraire»",
+      "description": "Figure du journalisme indépendant à Cuba, Yoani Sánchez a annoncé jeudi avoir regagné son domicile après quelques heures de détention à La Havane.",
+      "link": "https://www.lefigaro.fr/international/cuba-la-journaliste-yoani-sanchez-annonce-sa-liberation-apres-son-arrestation-arbitraire-20261106",
+      "published": "2026-11-06T00:45:25"
+    }
+  ]
+}
