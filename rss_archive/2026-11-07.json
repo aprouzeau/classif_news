@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-07",
+  "count": 3,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Jordan Bardella accuse La France insoumise de « tentation totalitaire » en voulant fermer CNews",
+      "description": "Le chef du Rassemblement national fustige également les déclarations de Bally Bagayoko qui a appelé à interdire de parole son parti pendant la campagne présidentielle « à partir du moment où ils tiennent des propos racistes ».",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/07/jordan-bardella-accuse-la-france-insoumise-de-tentation-totalitaire-en-voulant-fermer-cnews_6807935_823448.html",
+      "published": "2026-11-07T00:09:38"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Etats-Unis : plus de 5 000 cas de rougeole recensés depuis le début de l’année, un niveau jamais-vu en trente-cinq ans",
+      "description": "La quasi-totalité des personnes infectées étaient non-vaccinées.",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/07/etats-unis-plus-de-5-000-cas-de-rougeole-recenses-depuis-le-debut-de-l-annee-un-niveau-jamais-vu-en-trente-cinq-ans_6807968_3244.html",
+      "published": "2026-11-07T00:35:17"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "« Nous attendons les casseurs de pied ferme » : les forces de l’ordre déploient à nouveau un dispositif XXL à l’occasion de ce samedi à hauts risques",
+      "description": "Laurent Nuñez a annoncé vendredi que 70 000 policiers et gendarmes seront déployés à travers le pays. Avec les mêmes consignes de « grande fermeté » en cas de débordements.",
+      "link": "https://www.lefigaro.fr/actualite-france/nous-attendons-les-casseurs-de-pied-ferme-les-forces-de-l-ordre-deploient-a-nouveau-un-dispositif-xxl-a-l-occasion-de-ce-samedi-a-hauts-risques-20261106",
+      "published": "2026-11-07T00:47:34"
+    }
+  ]
+}
