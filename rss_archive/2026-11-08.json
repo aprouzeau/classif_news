@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-08",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lefigaro.fr",
+      "title": "En Uruguay, Léon XIV appelle à lutter contre la misère et à rechercher la sainteté",
+      "description": "Des moments forts ont marqué la dernière journée du pape à Montevideo, avant son départ, dimanche après-midi, en Argentine, seconde étape de sa tournée en Amérique Latine.",
+      "link": "https://www.lefigaro.fr/actualite-france/en-uruguay-leon-xiv-appelle-a-lutter-contre-la-misere-et-a-rechercher-la-saintete-20261108",
+      "published": "2026-11-08T00:59:55"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "PSG-Troyes : Mayulu joker de luxe, le Parc célèbre son Virage Auteuil, Torres en berne… Les tops et flops",
+      "description": "DÉCRYPTAGE – Découvrez ce qui a retenu l’attention de la rédaction lors de la victoire du Paris-SG face à l’Estac Troyes, samedi soir à l’occasion de la 10e journée de L1.",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-1/psg-troyes-mayulu-joker-de-luxe-le-virage-auteuil-celebre-par-le-parc-torres-en-berne-les-tops-et-flops-20261107",
+      "published": "2026-11-08T00:41:46"
+    }
+  ]
+}
