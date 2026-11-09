@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-09",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Ligue 1 : Marseille s’impose à Lens et signe une cinquième victoire consécutive, les Sang et Or s’enfoncent dans la crise",
+      "description": "Dans les autres matchs de dimanche, Lille a conforté sa place de dauphin au classement grâce à son succès contre Rennes (2-1). Lyon, totalement inoffensif, a chuté à Brest (2-0), en très grande forme.",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/09/ligue-1-marseille-s-impose-a-lens-et-signe-une-cinquieme-victoire-consecutive-les-sang-et-or-s-enfoncent-dans-la-crise_6808498_3242.html",
+      "published": "2026-11-09T00:02:55"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Colombie : l'ex-président Petro accusé d'avoir accordé des contrats en échange de relations sexuelles",
+      "description": "L’affaire est arrivée jusqu’à la Cour suprême après qu’une femme a déposé plainte, affirmant qu’elle-même et une trentaine de personnes ont obtenu des contrats publics en échange de relations sexuelles avec Gustavo Petro.",
+      "link": "https://www.lefigaro.fr/international/colombie-l-ex-president-petro-accuse-d-avoir-accorde-des-contrats-en-echange-de-relations-sexuelles-20261109",
+      "published": "2026-11-09T00:08:06"
+    }
+  ]
+}
