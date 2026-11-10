@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-10",
+  "count": 7,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Etats-Unis : les électeurs de Californie rejettent un avatar de la taxe Zucman sur les milliardaires",
+      "description": "La taxation ponctuelle de 5 % des milliardaires, qui était soumise à référendum le 3 novembre, a été repoussée selon les résultats proclamés dans la nuit de lundi à mardi. Après la victoire des démocrates aux midterms, le débat sur l’imposition des grandes fortunes devrait néanmoins revenir sur le devant de la scène.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/10/etats-unis-les-electeurs-de-californie-rejettent-un-avatar-de-la-taxe-zucman-sur-les-milliardaires_6808768_3210.html",
+      "published": "2026-11-10T02:57:41"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Accord sécuritaire Salvador-Haïti : Amnesty International appelle à la transparence et au respect des droits humains",
+      "description": "Sous couvert d’une mission de récupération de quatre soldats portés disparus à Port-au-Prince, Nayib Bukele pourrait, selon des analystes, chercher à exporter son modèle de lutte sans merci contre la criminalité.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/10/accord-securitaire-salvador-haiti-amnesty-international-appelle-a-la-transparence-et-au-respect-des-droits-humains_6808767_3210.html",
+      "published": "2026-11-10T02:43:00"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "La Cour suprême américaine autorise la reprise de travaux de l’administration Trump à la frontière avec le Mexique dans un parc national au Texas",
+      "description": "Le chantier dans le parc national de Big Bend, auquel s’opposent les associations environnementales, peut désormais redémarrer à tout moment.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/10/la-cour-supreme-americaine-autorise-la-reprise-de-travaux-de-l-administration-trump-a-la-frontiere-avec-le-mexique-dans-un-parc-national-au-texas_6808766_3210.html",
+      "published": "2026-11-10T02:34:30"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "En Argentine, le pape Léon XIV célèbre une messe devant 2,5 millions de fidèles et rencontre des victimes de violences sexuelles",
+      "description": "L’affluence, lors de cette messe à Buenos Aires, est la plus massive en dix-huit mois de pontificat du pape américain.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/10/en-argentine-le-pape-leon-xiv-celebre-une-messe-devant-2-5-millions-de-fideles-et-rencontre-des-victimes-de-violences-sexuelles_6808764_3210.html",
+      "published": "2026-11-10T01:14:34"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le Gault et Millau sacre le chef du Gabriel, Jérôme Banctel, cuisinier de l’année",
+      "description": "Ce Breton de 54 ans, décrit comme « très reconnu par ses pairs mais pas très connu du grand public » est, depuis 2015, le chef exécutif du restaurant de l’hôtel La Réserve à Paris, où il prépare ses fameux artichauts cuits à la chaux.",
+      "link": "https://www.lemonde.fr/m-gastronomie/article/2026/11/10/le-gault-et-millau-sacre-le-chef-du-gabriel-jerome-banctel-cuisinier-de-l-annee_6808762_4497540.html",
+      "published": "2026-11-10T00:38:20"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Climat : une baisse historique des émissions de CO2 dans le monde en 2026",
+      "description": "ANALYSE - La crise pétrolière mondiale provoquée par le blocage du détroit d’Ormuz accélère la transition vers des sources d’énergie qui émettent moins de gaz carbonique.",
+      "link": "https://www.lefigaro.fr/sciences/climat-une-baisse-historique-des-emissions-de-co2-dans-le-monde-en-2026-20261110",
+      "published": "2026-11-10T01:00:00"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Climat : «Il semblerait qu’un plateau d’émissions de CO2 ait été atteint»",
+      "description": "Le conflit en Iran a fait plonger la consommation de pétrole dans le monde, ce qui contribue à un léger recul des émissions de dioxyde de carbone d’origine fossile en 2026, selon une étude publiée ce mardi 10 novembre.",
+      "link": "https://www.liberation.fr/environnement/climat-il-semblerait-quun-plateau-demissions-de-co2-ait-ete-atteint-20261110_PUTUFKFXPVGK7FNC37DWAWC57I/",
+      "published": "2026-11-10T01:00:00"
+    }
+  ]
+}
