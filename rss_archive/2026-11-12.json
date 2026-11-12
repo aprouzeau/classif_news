@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-12",
+  "count": 4,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky juge une avancée possible avant la fin de l’année dans les pourparlers de paix",
+      "description": "« Aujourd’hui, cette fenêtre d’opportunité existe réellement, où tous les participants actuellement engagés dans le processus de négociation souhaitent véritablement obtenir un résultat avant 2027 », a estimé mercredi le président ukrainien. En visite en Irlande, il doit s’entretenir jeudi avec les émissaires américains, Jared Kushner et Steve Witkoff, qui auront au préalable rencontré son homologue russe Vladimir Poutine.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/12/en-direct-guerre-en-ukraine-volodymyr-zelensky-juge-une-avancee-possible-avant-la-fin-de-l-annee-dans-les-pourparlers-de-paix_6808609_3210.html",
+      "published": "2026-11-12T00:10:19"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Midterms 2026 : le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis près de 150 ans",
+      "description": "Ce procureur de district de 43 ans a battu de justesse la sénatrice républicaine sortante, Cindy Hyde-Smith, dans un Etat traditionnellement conservateur. Aucun démocrate ne représentait le Mississippi au Sénat depuis 1989.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/12/midterms-2026-le-democrate-scott-colom-devient-le-premier-senateur-noir-du-mississippi-depuis-pres-de-150-ans_6809036_3210.html",
+      "published": "2026-11-12T01:04:56"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
+      "description": "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, interpelle le syndicat.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html",
+      "published": "2026-11-12T01:18:19"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Paraguay : la Banque centrale rembourse en partie tous les clients de Ueno Bank dont l’effondrement a provoqué la chute du président",
+      "description": "L’institution a partiellement remboursé des fonds à plus de 1,8 million d’épargnants de cette banque en ligne placée sous administration judiciaire début novembre en raison de problèmes de solvabilité. Les plus gros déposants devront patienter pour espérer récupérer l’intégralité de leurs fonds.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/12/paraguay-la-banque-centrale-rembourse-en-partie-tous-les-clients-de-ueno-bank-dont-l-effondrement-a-provoque-la-chute-du-president_6809038_3210.html",
+      "published": "2026-11-12T01:40:31"
+    }
+  ]
+}
