@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-15",
+  "count": 2,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "SpaceX parvient pour la première fois à récupérer l’étage supérieur de sa mégafusée Starship après 14 orbites",
+      "description": "Le retour du premier étage du lanceur géant a été avorté pour des raisons inconnues, mais l’étage supérieur a lui été recouvré avec succès samedi 14 novembre, après avoir passé près de vingt-quatre heures en orbite.",
+      "link": "https://www.lemonde.fr/sciences/article/2026/11/15/spacex-parvient-a-recuperer-l-etage-superieur-de-sa-megafusee-starship-apres-14-orbites_6810742_1650684.html",
+      "published": "2026-11-15T00:26:48"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "EN DIRECT - Colère sociale : 106.000 personnes ont manifesté dans toute la France, 219 interpellations et 10 policiers légèrement blessés selon Beauvau",
+      "description": "Des incidents ont éclaté dans plusieurs villes Françaises, notamment à Paris ce samedi 14 novembre. Le ministère de l’Intérieur accuse des «militants radicaux et d’ultragauche» d’avoir «tenté de faire dégénérer les manifestations».",
+      "link": "https://www.lefigaro.fr/actualite-france/manifestations-mouvement-social-gilets-jaunes-policiers-corteges-paris-acte-v-20261114",
+      "published": "2026-11-15T00:54:03"
+    }
+  ]
+}
