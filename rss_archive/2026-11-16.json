@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-16",
+  "count": 6,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
+      "description": "L’objectif présenté par le président ukrainien est de définir la position européenne dans de futurs pourparlers avec Moscou. Par ailleurs, l’Estonie a annoncé la fermeture de ses frontières avec la Russie à compter du 1er décembre, après une nouvelle tentative de sabotage.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
+      "published": "2026-11-16T00:20:00"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Au Cap-Vert, José Maria Neves réélu président dès le premier tour",
+      "description": "Le président sortant, favori pour un deuxième mandat de suite, l’a emporté dès le premier tour, dimanche, avec plus de 63 % des voix dans cet archipel lusophone réputé pour sa stabilité démocratique.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html",
+      "published": "2026-11-16T00:03:59"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Guadeloupe : un mort et quatre blessés dans des tirs en marge d'une soirée",
+      "description": "Les tirs se sont produits vers 03H00 samedi (08H00 à Paris) alors qu’une soirée privée, réunissant 300 personnes dans une villa des Abymes, venait de s’achever sur décision des organisateurs à la suite d’un différend.",
+      "link": "https://www.lefigaro.fr/international/guadeloupe-un-mort-et-quatre-blesses-dans-des-tirs-en-marge-d-une-soiree-20261116",
+      "published": "2026-11-16T01:12:51"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Honduras : une caravane d'une centaine de personnes part vers les États-Unis",
+      "description": "Les États-Unis maintiennent pour l’heure leur politique très ferme en matière d’immigration, malgré la victoire des démocrates dans les deux chambres législatives lors des élections de mi-mandat le 3 novembre.",
+      "link": "https://www.lefigaro.fr/international/honduras-une-caravane-d-une-centaine-de-personnes-part-vers-les-etats-unis-20261116",
+      "published": "2026-11-16T00:08:06"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Je vais l’attraper dans le vestiaire», Zidane a «haussé le ton», la joie touchante de Kroupi… Les réactions après France-Turquie",
+      "description": "L’équipe de France s’est imposée sans briller face à la Turquie (2-1), ce dimanche à Bordeaux. Retrouvez les réactions des Bleus à l’issue de cette victoire, synonyme de qualification pour les quarts de finale de la Ligue des nations.",
+      "link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/france-turquie-le-rappel-a-l-ordre-de-konate-la-joie-touchante-de-kroupi-toutes-les-reactions-des-bleus-20261116",
+      "published": "2026-11-16T01:20:14"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "En Amazonie, Léon XIV dénonce «l’abandon» des populations autochtones et lance une alerte pour la préservation de la nature",
+      "description": "La dernière étape du pape au Pérou l’a conduit dimanche de Cusco, dans les Andes, à Pucallpa, en Amazonie péruvienne, une journée haute en couleurs marquée par de fortes prises de position.",
+      "link": "https://www.lefigaro.fr/actualite-france/en-amazonie-leon-xiv-denonce-l-abandon-des-populations-autochtones-et-lance-une-alerte-pour-la-preservation-de-la-nature-20261116",
+      "published": "2026-11-16T01:00:00"
+    }
+  ]
+}
