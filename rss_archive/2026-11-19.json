@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-19",
+  "count": 6,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic valorisée 1 500 milliards de dollars à la veille de son entrée en Bourse",
+      "description": "Face à l’importance de la demande, le leader de l’intelligence artificielle a réévalué à la hausse le prix de son introduction en Bourse, mercredi soir. La firme doit financer ses engagements à long terme, liés à la puissance de calcul et aux centres de données.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-avec-une-action-mise-en-vente-a-83-dollars-anthropic-valorisee-1-500-milliards-de-dollars-a-la-veille-de-son-entree-en-bourse_6813215_3234.html",
+      "published": "2026-11-19T00:20:25"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Le tableau de Van Gogh « Châtaigniers en fleurs » vendu 190,4 millions de dollars, un record pour le peintre",
+      "description": "La maison de vente aux enchères Sotheby’s avait annoncé, mardi, qu’un accord avait été trouvé avec une famille qui contestait la mise en vente de l’œuvre, mettant en avant les conditions de son acquisition sous le régime nazi.",
+      "link": "https://www.lemonde.fr/culture/article/2026/11/19/le-tableau-de-van-gogh-chataigniers-en-fleurs-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre_6813214_3246.html",
+      "published": "2026-11-19T00:09:23"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "EN DIRECT - À Shenzhen, Donald Trump, Xi Jinping et Vladimir Poutine se retrouvent pour un face-à-face inédit",
+      "description": "La photo s’annonce historique, mais les résultats restent incertains. Xi Jinping, Donald Trump et Vladimir Poutine se réunissent jeudi pour un sommet inédit dans le sud de la Chine, dans un contexte de crises multiples.",
+      "link": "https://www.lefigaro.fr/international/en-direct-a-shenzhen-donald-trump-xi-jinping-et-vladimir-poutine-se-retrouvent-pour-un-face-a-face-inedit-20261119",
+      "published": "2026-11-19T02:55:03"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Midterms : Elon Musk dit se sentir «un peu idiot» d'avoir dépensé autant d'argent",
+      "description": "Le patron de Tesla et SpaceX a regretté mercredi les sommes considérables engagées pour soutenir les républicains lors des élections de mi-mandat.",
+      "link": "https://www.lefigaro.fr/international/midterms-elon-musk-dit-se-sentir-un-peu-idiot-d-avoir-depense-autant-d-argent-20261119",
+      "published": "2026-11-19T01:22:07"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Arabie saoudite : une forte explosion retentit à Ryad, après une alerte",
+      "description": "Le royaume est régulièrement visé par les Houthis pro-iraniens depuis la reprise des hostilités au Yémen voisin.",
+      "link": "https://www.lefigaro.fr/international/arabie-saoudite-une-forte-explosion-retentit-a-ryad-apres-une-alerte-20261119",
+      "published": "2026-11-19T02:16:18"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Crise bancaire au Paraguay : jusqu'à 1 milliard de dollars perdus dans le pire scénario",
+      "description": "Le nouveau président de la Banque centrale du Paraguay (BCP) considère que cette crise est née de normes complaisantes, qui ont permis une proximité entre un groupe économique et le pouvoir politique.",
+      "link": "https://www.lefigaro.fr/conjoncture/crise-bancaire-au-paraguay-jusqu-a-1-milliard-de-dollars-perdus-dans-le-pire-scenario-20261119",
+      "published": "2026-11-19T01:08:16"
+    }
+  ]
+}
