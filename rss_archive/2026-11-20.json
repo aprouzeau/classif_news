@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "count": 7,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Les députés votent une « petite avancée » contre la vie chère en outre-mer",
+      "description": "La proposition de loi portée par le sénateur Victorin Lurel et le député Christian Baptiste a été adoptée à l’unanimité à l’Assemblée nationale jeudi, en attendant le grand texte promis par le gouvernement.",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html",
+      "published": "2026-11-20T00:08:13"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Au Sénat, le vote sur la présomption de légitime défense des forces de l’ordre repoussé à vendredi",
+      "description": "Cette loi controversée, soutenue par le gouvernement et le RN mais contestée par la gauche, permettrait aux policiers et gendarmes de ne plus systématiquement être soupçonnés ou placés en garde à vue, en cas d’usage d’une arme.",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html",
+      "published": "2026-11-20T01:00:55"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«Quand vous avez autant de concitoyens hostiles…» : pour Hollande, Mélenchon ne peut pas être président, tout au plus espérer le second tour",
+      "description": "Sur LCI jeudi soir, l’ancien chef de l’État juge «impossible» que le leader insoumis accède à l’Élysée, tant ses propositions, ses idées et sa «façon de brutaliser la vie politique» sont rejetées par les Français.",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/quand-vous-avez-autant-de-concitoyens-hostiles-pour-hollande-melenchon-ne-peut-pas-etre-president-tout-au-plus-esperer-le-second-tour-20261119",
+      "published": "2026-11-20T00:37:43"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "«J’ai demandé qu’elle soit avancée» : Larcher plaide lui aussi pour changer la date du second tour de la présidentielle, prévu au lendemain du 1er mai",
+      "description": "Invité jeudi soir sur BFMTV, le président du Sénat a dit avoir officiellement réclamé au premier ministre d’avancer le scrutin prévu les 18 avril et 2 mai 2027, précisant ne pas être «le seul à l’avoir demandé».",
+      "link": "https://www.lefigaro.fr/elections/presidentielles/j-ai-demande-qu-elle-soit-avancee-larcher-plaide-lui-aussi-pour-changer-la-date-du-second-tour-de-la-presidentielle-prevu-au-lendemain-du-1er-mai-20261119",
+      "published": "2026-11-20T00:28:01"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Yémen : les houthistes affirment qu'un avion saoudien a touché un bateau civil, tuant 19 personnes à son bord",
+      "description": "Le porte-parole du ministère houthi de la Santé, Anees Alasbahi, a condamné vendredi «le massacre horrible commis par les avions de l’ennemi saoudien».",
+      "link": "https://www.lefigaro.fr/international/yemen-les-houthistes-affirment-qu-un-avion-saoudien-a-touche-un-bateau-civil-tuant-19-personnes-a-son-bord-20261120",
+      "published": "2026-11-20T02:03:54"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Les Bourses de Tokyo et Séoul dévissent, les inquiétudes sur l’IA persistent malgré le succès d’Anthropic",
+      "description": "Les Bourses de Tokyo et de Séoul ont perdu plus de 3% vendredi en début de séance, plombées par les valeurs des semi-conducteurs dans le sillage de Wall Street.",
+      "link": "https://www.lefigaro.fr/conjoncture/les-bourses-de-tokyo-et-seoul-devissent-les-inquietudes-sur-l-ia-persistent-malgre-le-succes-d-anthropic-20261120",
+      "published": "2026-11-20T00:36:59"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Scandale Jensen Huang : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine",
+      "description": "Le procureur général de Californie a ouvert jeudi une enquête sur Nvidia, soupçonné d’avoir dissimulé à ses investisseurs les risques de fuite de ses puces d’intelligence artificielle vers la Chine.",
+      "link": "https://www.lefigaro.fr/secteur/high-tech/scandale-jensen-huang-la-californie-ouvre-une-enquete-sur-nvidia-et-les-ventes-de-puces-a-la-chine-20261120",
+      "published": "2026-11-20T00:10:08"
+    }
+  ]
+}
