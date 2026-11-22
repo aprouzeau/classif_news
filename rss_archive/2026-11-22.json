@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-22",
+  "count": 4,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Championnat des nations : le XV de France écarte l’Argentine et donne rendez-vous aux Springboks pour des retrouvailles musclées en finale",
+      "description": "Les joueurs de Fabien Galthié ont souffert avant de surclasser (45-17) les Pumas, samedi, au Stade de France. Deux semaines après les avoir battus, les Bleus affronteront les Sud-Africains en finale de la compétition, dimanche 29 novembre, à Londres.",
+      "link": "https://www.lemonde.fr/sport/article/2026/11/22/championnat-des-nations-le-xv-de-france-ecarte-l-argentine-et-donne-rendez-vous-aux-springboks-pour-des-retrouvailles-musclees-en-finale_6814075_3242.html",
+      "published": "2026-11-22T01:42:59"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Foot : Boca Juniors remporte la Copa Sudamericana",
+      "description": "C’est la troisième fois que le club de Buenos Aires s’impose dans cette compétition (après 2004 et 2005), dont la finale s’est jouée dans la ville colombienne de Barranquilla.",
+      "link": "https://www.lefigaro.fr/sports/foot-boca-juniors-remporte-la-copa-sudamericana-20261122",
+      "published": "2026-11-22T01:42:39"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Liberia: arrivée d'une nouvelle vague de 25 migrants expulsés des États-Unis",
+      "description": "Ces expulsions se déroulent dans le cadre du programme controversé du président Donald Trump de refoulement de ressortissants étrangers en situation irrégulière aux États-Unis vers des pays tiers.",
+      "link": "https://www.lefigaro.fr/international/liberia-arrivee-d-une-nouvelle-vague-de-25-migrants-expulses-des-etats-unis-20261122",
+      "published": "2026-11-22T00:05:47"
+    },
+    {
+      "source": "www.lefigaro.fr",
+      "title": "Les notes des Bleus après France-Argentine : Gourgues éclatant, Capilla épatant, Dupont dynamitant",
+      "description": "Après la victoire tricolore sur les Pumas argentins (45-17), synonyme de finale dans le Championnat des nations, découvrez les notes des joueurs français attribuées par nos spécialistes rugby.",
+      "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/les-notes-des-bleus-apres-france-argentine-gourgues-eclatant-capilla-epatant-dupont-dynamitant-20261121",
+      "published": "2026-11-22T00:59:03"
+    }
+  ]
+}
