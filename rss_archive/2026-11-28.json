@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-28",
+  "count": 4,
+  "articles": [
+    {
+      "source": "www.lemonde.fr",
+      "title": "Gaza : l’armée israélienne tue deux employés de Médecins sans frontières, qu’elle qualifie de « terroristes »",
+      "description": "L’ONG s’est dite « bouleversée et révoltée par le meurtre » des deux gardiens travaillant dans une de ses cliniques frappée par les forces armées israéliennes, qui les accusent de leur côté d’être des membres du Hamas.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/28/gaza-l-armee-israelienne-tue-deux-employes-de-medecins-sans-frontieres-qu-elle-qualifie-de-terroristes_6816022_3210.html",
+      "published": "2026-11-28T02:30:38"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Canada : 25 ans de prison requis contre Kenneth Law pour la vente de « kits de suicide » dans une quarantaine de pays",
+      "description": "Ce Canadien de 61 ans trouvait ses victimes sur des forums en ligne d’aide au suicide et leur envoyait du nitrite de sodium, une substance mortelle à forte dose. Il est jugé pour la mort de quatorze personnes au Canada mais il a envoyé des centaines de colis dans le monde entier.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/28/canada-25-ans-de-prison-requis-contre-kenneth-law-pour-la-vente-de-kits-de-suicide-dans-une-quarantaine-de-pays_6815956_3210.html",
+      "published": "2026-11-28T00:23:03"
+    },
+    {
+      "source": "www.lemonde.fr",
+      "title": "Trois policiers de la BAC devant le tribunal de Bobigny pour des violences aggravées contre un Algérien",
+      "description": "De la prison ferme a été requise contre les prévenus, accusés d’avoir, en mars 2025, passé à tabac, volé et arbitrairement détenu à l’intérieur de leur véhicule Samir T., un SDF de 34 ans qui s’adonnait selon eux au trafic de cigarettes.",
+      "link": "https://www.lemonde.fr/societe/article/2026/11/28/trois-policiers-de-la-bac-devant-le-tribunal-de-bobigny-pour-des-violences-aggravees-contre-un-algerien_6815989_3224.html",
+      "published": "2026-11-28T01:34:43"
+    },
+    {
+      "source": "www.liberation.fr",
+      "title": "Chez Daniel de Roulet, des anars suisses, il y en a bien «Trois» sur cent",
+      "description": "L’écrivain helvète traverse soixante ans d’histoire mondiale et de luttes d’extrême gauche à travers la vie, les idées et les doutes de «Trois Garçons» anarcho-autonomes.",
+      "link": "https://www.liberation.fr/culture/livres/chez-daniel-de-roulet-des-anars-suisses-il-y-en-a-bien-trois-sur-cent-20261128_4SAG24QWHFGSFBLPIWY4WIOYJQ/",
+      "published": "2026-11-28T02:53:00"
+    }
+  ]
+}
